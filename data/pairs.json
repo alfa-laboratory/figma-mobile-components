@@ -1,8 +1,8 @@
 {
   "IOS|Data View / 2 lines / No Icon": "ANDROID|Data View / 2 lines / No Icon",
-  "IOS|ProgressViewCell|LongTitleSubtitleBottomTextProgressBar": "ANDROID|ConditionalProgressBarView|ConditionalProgressBarView / Standart",
-  "IOS|Status Bar / X Black": "ANDROID|System Bar|System Bar / White",
+  "IOS|LongTitleSubtitleBottomTextProgressBar": "ANDROID|ConditionalProgressBarView / Standart",
+  "IOS|Status Bar / X Black": "ANDROID|System Bar / White",
   "IOS|Data View / 2 lines / Round Subicons": "ANDROID|Data View / 2 lines / Icon XXL",
-  "IOS|CardCell": "ANDROID|Molecules|CustomerCardView",
-  "IOS|PrimaryStyle|Enabled": "ANDROID|primary|button / normal"
+  "IOS|CardCell": "ANDROID|CustomerCardView",
+  "IOS|Enabled": "ANDROID|button / normal"
 }
