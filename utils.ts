@@ -19,7 +19,8 @@ export async function requestComponents(file_id) {
 
 export function parseComponents(components: FigmaComponent[], platform: PLATFORM) {
   return components.reduce((acc, component) => {
-    acc[`${platform}|${component.name}`] = {
+    const key = [platform, component.containing_frame.name, component.name].filter((item) => item).join('|');
+    acc[key] = {
       key: component.key,
       file_key: component.file_key,
     };
