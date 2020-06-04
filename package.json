@@ -1,0 +1,18 @@
+{
+  "name": "figma-mobile-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alfa-laboratory/figma-mobile-components.git",
+  "author": "reme3d2y <AYatsenko@alfabank.ru>",
+  "license": "MIT",
+  "scripts": {
+    "parse": "TS_NODE_PROJECT=tsconfig.json TS_NODE_FILES=true node -r ts-node/register index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.10",
+    "axios": "^0.19.2",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.3",
+    "util": "^0.12.3"
+  }
+}

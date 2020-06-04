@@ -1,0 +1,30 @@
+{
+  "IOS": [
+    {
+      "name": "iOS Library",
+      "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    {
+      "name": "iOS Library 2.0",
+      "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    {
+      "name": "iOS Native Elements",
+      "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    }
+  ],
+  "ANDROID": [
+    {
+      "name": "Android Library",
+      "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    {
+      "name": "Android Library 2.0",
+      "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    {
+      "name": "Android Native Elements",
+      "file_key": "y4cihIhbipeclFDFkoNhgZ"
+    }
+  ]
+}

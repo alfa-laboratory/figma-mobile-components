@@ -1,0 +1,8 @@
+{
+  "IOS|Data View / 2 lines / No Icon": "ANDROID|Data View / 2 lines / No Icon",
+  "IOS|LongTitleSubtitleBottomTextProgressBar": "ANDROID|ConditionalProgressBarView / Standart",
+  "IOS|Status Bar / X Black": "ANDROID|System Bar / White",
+  "IOS|Data View / 2 lines / Round Subicons": "ANDROID|Data View / 2 lines / Icon XXL",
+  "IOS|CardCell": "ANDROID|CustomerCardView",
+  "IOS|Enabled": "ANDROID|button / normal"
+}
