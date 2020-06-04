@@ -3,6 +3,6 @@
   "IOS|ProgressViewCell|LongTitleSubtitleBottomTextProgressBar": "ANDROID|ConditionalProgressBarView|ConditionalProgressBarView / Standartt",
   "IOS|Status Bar / X Black": "ANDROID|System Bar|System Bar / White",
   "IOS|Data View / 2 lines / Round Subicons": "ANDROID|Data View / 2 lines / Icon XXL",
-  "IOS|CardCell": "ANDROID|Molecules|CustomerCardView,
+  "IOS|CardCell": "ANDROID|Molecules|CustomerCardView",
   "IOS|PrimaryStyle|Enabled": "ANDROID|primary|button / normal"
 }
