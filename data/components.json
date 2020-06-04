@@ -1,1 +1,3998 @@
-{}
+{
+    "IOS|WithountFormatterField": {
+        "key": "a33bee339e6448beb84c18ca4399cc3061e7e026",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|UIView": {
+        "key": "f58b9e4402b0543cd963e357c10c0600dbb0d7a4",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Badge": {
+        "key": "716a1c5f1282a3688dc80f434e2ff9f674d490a3",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|DarkTextField": {
+        "key": "17761d52830889884a64719b8b63721cad24f6ac",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|DarkErrorTextField": {
+        "key": "57e259610b7f48233478300285657b843c925ee2",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|LightTextFieldOnlyWithEditingTextInset": {
+        "key": "f71acdadfb80276b7c3c965f19bf308020457af8",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|TitleSubtitleLine": {
+        "key": "b6c5f2138ab2cd44c7827e17e6a90a85cf2363a4",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|SmallTitleSubtitleLine": {
+        "key": "b175268f7479ba153d3cf5ff14377fc11bf9c195",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|SmallTitleSubtitleLinePadding": {
+        "key": "140a9d01f7ebc89ab47db16efd6c772ab141a9a6",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|WithTitleImage": {
+        "key": "4cb2189b665404d7d856802758ed5375484b5d55",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|SmallTitleSubtitleLineImage": {
+        "key": "307d1f553fa8925b3ff7df88b68d3c4ca1c18c3c",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|VeryLongTitleSubtitleBottomTextProgressBar": {
+        "key": "b2a23d888367327229f71a58b292b3a4deb2d5b8",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|LongTitleSubtitleBottomTextProgressBar": {
+        "key": "fcf7b1d809048bb226bfbc88f4e221dca06e89ab",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|ExtremelyLongBoringTitle": {
+        "key": "738490a94dbd38b75a2f6a4b5c8ba9de1866db3c",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|GoodTitleNoSubtitleThough": {
+        "key": "72c37b39760a1f8f0129a88b755a4ca9efb021bd",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|CellWithJustSubtitle": {
+        "key": "de631b8c63b259cf2d14c53a5acb86cf9abfb334",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|CellWithBigSubtitle": {
+        "key": "6b5cd3ba8f89a6626a0ceb5fcf81ae577f59381b",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|CellWithSubtitle": {
+        "key": "aef77af223cc1c4e2f0d2d950addbfabf2851a21",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|FloatingFormatterTextCell / Value": {
+        "key": "ee3cf8e1e5895c0b0018f945ae7d07d3f44def7c",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|FloatingFormatterTextCell / No Value": {
+        "key": "6bf47b2435dccce69903226f7ee477fd454899fe",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|FloatingFormatterTextCell / With Hint": {
+        "key": "acff7de52798f496e85613ca6df34e5eeafc95ba",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|FloatingFormatterTextCell / Error": {
+        "key": "028c7962fda02cb6a0fdccb1117993e08303313a",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|WriteOffAccount": {
+        "key": "642e5234aa966e32d0beb1e1f5607ee69e463c34",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|TypeAutoPayment": {
+        "key": "a9ccc885a6bfe74140e52b56d835d3b52639461f",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|ChoosePaymentType": {
+        "key": "a2c9fdeb6a550ae67db19afa8607d4fe70a1200e",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|FieldNotBeEmpty": {
+        "key": "adfbae8db1564498f2db8b6ec2bcd2764221e80d",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|SomethingWentWrong": {
+        "key": "aebdc96f2d113d0615dda0f17311112cf6381678",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|BalanceLessSlider": {
+        "key": "42fb951b775d71bf1dfc1754ccc69f06abefe24c",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|TransactionalStuff": {
+        "key": "cc125e7c00960af2f06858c707029d22a3a9a864",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|WithoutSubtitleLabels": {
+        "key": "173a44de8bfd865264e82191613e78d3f5ef6e60",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Large amount that overlaps": {
+        "key": "808a630c193b597ff753f8e3fecb32b7e75cce58",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|ContactCellViewWithoutPhone": {
+        "key": "251c089c4fa6908d386b93ec958eafdf2cfeac97",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|ContactCellView": {
+        "key": "91273cc8b46c57840ce84a4ab10ef19deadfec5d",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|TransactionalStuffWithoutImage": {
+        "key": "631750243d0a8f2937e766454cf93a9941e8c117",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|LargerTransactionalStuff": {
+        "key": "94c53478e16ad5d2a47e543703bb39268af07e49",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|TransactionalTitle": {
+        "key": "23df8f745bfc5b76b96ee4f8328345cb4c98c13a",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|LargeAmountThatOverlapsTitle": {
+        "key": "65ae0e71eec3c0d7b6c2e6b4c44abe71a8139170",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Controls Small / Switch / On": {
+        "key": "d062f6f4eee7245db5c3eb23bca945d82ca03c46",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|TitleNoSubtitleThough": {
+        "key": "0aea62fac2ed1aa9a65b2fff3dd2544c9375b0f8",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|WithTitleSubtitleImage": {
+        "key": "49eb5beb318553888bf09d99f199732c2a19df44",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|WithLongTitleLongSubtitleImage": {
+        "key": "4ea28cdfbf43c961077f444e4d9ca09739c89fad",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|ATM&branchs": {
+        "key": "920abc7a1b65bbcd0e8a2c82c76aeeed828241a8",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|SmallATM&branchs": {
+        "key": "8acb81c7ecb6d7ce76e75f1ac91057723cbbb5c1",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|HeaderImageTitleSubtitleView": {
+        "key": "399b6896bb0fe3aade5d4758695f085ccd626c84",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|AverageAccountBalance/Empty": {
+        "key": "99d249297b50a26bfe893f2c493a5a076f0086e6",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|AverageAccountBalance/Medium": {
+        "key": "1f526ab803b60f65c6b4509e475678366137adef",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|AverageAccountBalance/Income": {
+        "key": "ad74819d4332dfff5791e03753556556357e14d5",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|AverageAccountBalance/WithoutSubtitle": {
+        "key": "3d42eda9f6fba8eb266819a0c3fb88f6f18892f0",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|AverageAccountBalance/WithoutTitle": {
+        "key": "590c5bc3f2157f6fbb026d4b3dbdf21d5e35af05",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|AverageAccountBalance/WithoutTitleSubtitle": {
+        "key": "6530a4286d2dcdf62c84807906124f696dfc943f",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|AverageAccountBalance/LongSubtitle": {
+        "key": "a6b9cf1c4c7407ea6d9262ff60833c286d2bb158",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|UINavigationBarTitle": {
+        "key": "42f6135851d150d12bc899b66b652eb061bc8550",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|SubtitleCell/TitleBottom": {
+        "key": "211f39447d21659e9cabeb6e10d811ce64903e7a",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|ToolTipView": {
+        "key": "beec39c451562d594f0c3ac5f03da8319398bcb4",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|ToolTip": {
+        "key": "f1df77e9d1dc06e9ae9114a51b7647a8e8184ea3",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|TitleWithoutInset": {
+        "key": "08076d5aed6c42390648f52472e18ac5a65c579b",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|DummyCell": {
+        "key": "8513889b8ba67c8ea4e47e53fbf379fcdcf00916",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|TitleTopCellWithoutSubtitle": {
+        "key": "85899fa4955e595499581f4dc05b7d7ac91408d7",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|TitleSubtitleWithoutBackground": {
+        "key": "7a99edb057fb235ee3e5d50aae3e4bfa0f314727",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|TitleForTopCellWithoutSubtitle": {
+        "key": "997845877035039562448bc17643c09b559a6cb0",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Max": {
+        "key": "e041f15488d2e925391aedc679d59993e729e9c8",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Achievement Cell": {
+        "key": "c31f78110cd62723132ee69b1fd8a161581fcaed",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Long": {
+        "key": "ffed9863bbd16e421b7b881b398e8866920abd1a",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Short": {
+        "key": "2200089118836de7780de82c7d1d357cf239e6ca",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|IconHintView": {
+        "key": "996527a7a865d59cd354a8376cb374e53180e721",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|SubtitleCell/TitleTop": {
+        "key": "5215f5ad09b5f7c9bc4a76e10551d0fcf5bdcfcc",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|SelectableCell": {
+        "key": "23a060c60f40833161d39ff1676b662f13f0e2c0",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Title": {
+        "key": "aa7a63b62068c4e3eba51e7a3a86b80cf2e4339f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|LightStateView": {
+        "key": "25f1c0dbfc74b6034266e8090aa30523424d26b5",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|BackgroundText": {
+        "key": "bb961dee5dc504febefff03a5365f6ebf8889a6e",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|CardCell": {
+        "key": "af56db33e77bfb4df25205745717858b9854cc93",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|preloader / m / black": {
+        "key": "c1f9fd72611b61a9b3a94fb4927ee1807bd6a278",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|preloader / main": {
+        "key": "44678f14cc425a812bd746aae6d8e899f8f2641e",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|PinPad/Empty": {
+        "key": "17e5ad6f67af97c1c9a5944bdf9cdb4ef4dbf163",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|ExtremelyLongBoringTitle_new": {
+        "key": "655fd4950bed88d5ea1ff7fad7ef4ea0ee9be438",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|PinPad/Error": {
+        "key": "e85818f70ce12707352828b7100385612d448585",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|ScrollableActionSheetOverlay": {
+        "key": "0dade0e0a98f9c0bfb11abbe8b735e77ab548487",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|ScrollableActionSheetTextBackground": {
+        "key": "8d95c2b6442bc06440db9f6fe1d4224ac0319087",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|PopoverMenu": {
+        "key": "7171ad7b50ab033766b9c615e399b3f202e5c8bf",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|OverlayAlertDemo": {
+        "key": "08614b4e13f94fdc34c6f72f7001761112a83080",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|OverlayDemo": {
+        "key": "4f4269a84861b507d9c96e088822e672f990ab23",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|AmountPaymentControl/ChoiceAccounts": {
+        "key": "87be520485aa8dd430a1b439a0e48f22fb28980b",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|SelectableCell_Plain": {
+        "key": "b8a765383a373a686ca29fd93e080aaf9fe82cec",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|checkbox/Off": {
+        "key": "c7c77cac890d3c3b6c4fa147232d19bfe27181ee",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|checkbox/On": {
+        "key": "65ece4461e8070214b7e0b0c011507624868bac3",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|GreenAlert": {
+        "key": "0433adf45ea51653dd6decc63e7ff2edb6c66d7b",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|FloatingFormatterTextCell / Disabled": {
+        "key": "565158ae61cb3a311a7c41d1d0716728ed08a0cf",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|CardCellWithSubstrate / Picker": {
+        "key": "28828cdbc4a38b7ffc8209ad77aff0e9a8aec0e8",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|AmountPaymentControl/ActiveAmount": {
+        "key": "f841600506f440b73d65359c8c666e339609dff0",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|CardCellWithSubstrate / Big": {
+        "key": "1c01e32605108dd54abcb87a848738be4dccb5a6",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|CardCellWithSubstrate / Small": {
+        "key": "ac143808dd1738e55463901f29a21f5d01728d2a",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|BigCardSelected": {
+        "key": "6777d3df52b18f9f6d1e4bcc6a89355924f5d921",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|SmallCardSelected": {
+        "key": "1643ccd9472c42bbb51a283398f9544a95658aa2",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|TitleChips": {
+        "key": "e9f1ccc3f19a366e17a0abbba5d866fa1dcebb5e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|StartBubble / Grey": {
+        "key": "2b0bd7f7d75a3ddebaf98fa5632991a4f0113a52",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|StartBubble / Red": {
+        "key": "ec6a8a633d3cd34658ce39b17cb1daf8f2bda7a6",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|MidBubble / Grey": {
+        "key": "9d80f88c37726215d30c8bf55fdab2e92af56d8f",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|MidBubble / Red": {
+        "key": "262f4a84eb50d5683aa08a7bd9242fe585454d66",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|FinalBubble / Grey": {
+        "key": "e8b71225aff4aeaa708e6cd8cdc0d42920850d1c",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|FinalBubble / Red": {
+        "key": "f95400af9be8bbb3b7e0078b0a06619fac1effe0",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|CardCellWithTwoLines": {
+        "key": "3fe330d377f588b5f3a8dafcac403b00fcea62ec",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|SubtitleTitleAdditionalCell": {
+        "key": "c85b2b3d16c8ed17ec4b64c62ac044c369136eeb",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Rate/Not Rated": {
+        "key": "e25817956a6aa2ffd2a6d9198d4bb0ac6221351b",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Rate/Rated with Number": {
+        "key": "e4ddf4835e69be95109436c5cbeff55603f0d7cf",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Rate/Rated with Number [bottom]": {
+        "key": "76607dff0c202bb2bba33bbdb2f24fba1ac31f92",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Rate/Rated with Thumb": {
+        "key": "36dbdc20c69e20adbfc7d6b45a23a212a4c1484c",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Rate Button/Not Rated": {
+        "key": "ba0d3cd7924bdb3da281ab19b4015a06b3e63c3b",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Rate Button/Rated": {
+        "key": "c2c455246614662f7cad264506ac073799841a9f",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Chip/Date": {
+        "key": "e19d560f8a54d1e78cd1cbf1576232a87b4753a7",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Bubble/First/Client": {
+        "key": "32b322c3756b994de6cdefd0544741c07e3827fd",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Bubble/Common/Client": {
+        "key": "4ac8633ef3d71906c0cfedfe4dd776ff44ff93bf",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Bubble/First/Service [title]": {
+        "key": "0fa02250ed016bd93a35d5cbdf6e7bcd060d3355",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Bubble/First/Service": {
+        "key": "9c3f885875b84b7393fdc16ad805961b699c67c9",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Bubble/Common/Service": {
+        "key": "37b379504a4671bd4c094562125a560e0c56282d",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Icons/icon_logo-alfabank_xl_color": {
+        "key": "846ebc26a6a543d3c17ad8e5088642c2400003dc",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Icons/icon_bot_xl_color": {
+        "key": "e14f5642a88d03e370ed9c9c0b573fef1a318b4c",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Info": {
+        "key": "37a5eeac24793760ac88ee328562e786b909591a",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Input/Chat": {
+        "key": "b51df81c2875374d0937653d46121a471ff6e04c",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|SubtitleCell/LongTitleTop": {
+        "key": "733290731b3b3bbdbda5ba544bd55c62c52a4189",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Account Selected": {
+        "key": "769bd5b7224144a3c8fe5d3dd1a3140463e620ea",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|CellWithSubstrate": {
+        "key": "7a804851a0479ae2bf7e54fb46b7d74c9687726b",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Enabled": {
+        "key": "ec710e8e5c52d546d7548483d46e3497e6413337",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Disabled": {
+        "key": "2f32991a1b356ed66e6e86351562c9b1b82f4bbc",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Highlighted": {
+        "key": "2ea90014e617f62df3e059b3093a61a491b36489",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|AccountView / 2lines": {
+        "key": "2c9e11858acabaa392a1367e00f43bbfef571072",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|AccountView / 3lines": {
+        "key": "7f25b06ad597a310a2a36bdbb736a335d5fae51b",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown": {
+        "key": "5a6fd090cfa5ae1a11414d87d25970dc440b89e4",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Transparent separator / 16": {
+        "key": "b8366e0691a89087e541d66948e052d90bb75a55",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Transparent separator / 32": {
+        "key": "40211d7840687c5a68c80f7f4c07d747da0a2065",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Transparent separator / 8": {
+        "key": "ca4c0ae8a6bb9851132c883c470fe22cb9914602",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Header 1": {
+        "key": "70b46d9dbac331cba96186ccd35cb3314e065f7c",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Header 2": {
+        "key": "24f6c510a6d47d147169578cd7a0e889998833bf",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Header 3": {
+        "key": "5ebf29ea17bffcf8c985d15c41d58b9d8bee4d1b",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Header 4": {
+        "key": "5a9c536562b22260654260f4c51bb71d7a4e110b",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Description": {
+        "key": "33b48dcc966f67c93b388b1adba2f890ae0b3369",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Text": {
+        "key": "74db093a859af0da911de2f6a2c9890f9f082e46",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Quote": {
+        "key": "6192a36054330728f27ab57d5ab917dcf700c740",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|icon_arrow-right_l_black": {
+        "key": "0a1d0db7d6eacd3e1c2e23b99fd0d6b4d99b9441",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|PaymentsNavigationBar": {
+        "key": "c00b2031efb551449165b67044e14742197ccf6a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|PaymentSegmentControl": {
+        "key": "32f0e5bca58ab65d78cefde86aead0b6a8269e9f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|AccountNoSelected": {
+        "key": "ef684fbed2d0857a7b72e7193c390b9fd80397e2",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|card": {
+        "key": "da54e35237467f8fc9311b4249b6f862c36e7c15",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|CardCellWithSubstrateView": {
+        "key": "873b85ff5688244b88336283b59dcd97196141a2",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Text Field": {
+        "key": "336b38f250daa6b71aa2d28034c9ed1adfaebb02",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Transparent separator / 24": {
+        "key": "a8550aae175b486f69b9f9c28f71c22156b62664",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Image / Cut": {
+        "key": "fe0fd731b16f5d532d5e3f9f9923d121e9b9aa21",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|FinalPayment": {
+        "key": "49f86383b38d67ca64d585ab8c7395e1fb044125",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|PaymentControl": {
+        "key": "f748b01ab59aa4eb96ac7d1a916e78b0d83057f6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ДД.ММ.ГГГГ": {
+        "key": "98eb8578418986325a02062447134898745c150f",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|BottomAgreement": {
+        "key": "abb7cb312bfe5a345e29eeed61cb6884bdb849dd",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|AlertView": {
+        "key": "9ed73228ecc4324e98f29fe885ebb7d09607f7dd",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Asset": {
+        "key": "a049cbe68bb2460f931288d76f91b770ac57d491",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Navbar-old": {
+        "key": "eb2fc82075fe2b82c54a65207282117b53574078",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|TransactionalStuffWithRightImage": {
+        "key": "507f6450ff24247bad95f58835bb13d9a8e69874",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Image / Full": {
+        "key": "a9980b26e02a94681b6946129cbab4c3faccb924",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Image / Main": {
+        "key": "2093d5b274de831468caaee6b34e655e4db7fcbb",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Image / Square": {
+        "key": "68e62b4050c4264a1d0c125f1e7c67d6bc753fe7",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Image / Long": {
+        "key": "d114c64e9a3947a9f4660179982792fcfce9d56b",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Image / IPhone8": {
+        "key": "f9910c0afcfd34f53e077f024b0b42fb0f2e0e8b",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Image / 16:9": {
+        "key": "486b0737c5f0cbfbdf80855ba4378207f28819cd",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Image / 4:3": {
+        "key": "96709621a035fa3bceb636e772bb2dad3e48da5e",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Image / Full / Cut": {
+        "key": "5e2a23c10fd851225f33460143f51945057d7c07",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Image / IPhone8 / Cut": {
+        "key": "75f9e4837c203f86d66874daf22db25ad032673c",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Image / Square / Cut": {
+        "key": "542f576d35dca0b5b68a2202753a9da699dc7532",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Image / 16:9 / Cut": {
+        "key": "bb239106aa62c79833da89b9c68cfdc94104c3b8",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Markdown / Image / 4:3 / Cut": {
+        "key": "8772a3dcaa8a72e6d587f3c81da30a5ff5b2ed3a",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|iOS 2.0 / Sheets / Top": {
+        "key": "b6c86e9b6668ca24231515bd42d6e5d21553852c",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Frame 2": {
+        "key": "cc4d52a58f69106f74e6f043082d1b3ed4aa9aeb",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|PaymentsSelectAccount": {
+        "key": "bf8b808abdc705e41890980b0bb49b3d2a927285",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|AccountBankSelected": {
+        "key": "84f6ac782167bd03ba8e06b8058875e395cfbc58",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|swipe button": {
+        "key": "a872246173244feaadb217ddea0a2e24a01bf395",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Error Message": {
+        "key": "8a68f7afb2309abac63d3e75307ff61a207a71a3",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|rating-line": {
+        "key": "5fb698732e8c954f9e99295ee276ff375ae0f645",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Chips": {
+        "key": "cf53e85a22e73937d01c776ea3d106a498fd9742",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|TabBar": {
+        "key": "a3e02ffc334c993312780a72976761962b5833a2",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|universalItemCard / Simple": {
+        "key": "5bb77916ec9200192d2b7632c0b7530d5a9c6a87",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|universalItemCard / Super": {
+        "key": "ffe985c76b71638c9cdaeb33d11c457a15a78255",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|universalItemCard / Suber": {
+        "key": "b76ad566de8272702e84a582389367eda357eb11",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|universalItemCard / Full": {
+        "key": "a4f70a57e43e90bbfbdc3fff8f57fe14ffdd0bae",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|TabBar_X": {
+        "key": "caf6e3729696aa428a0257e299c4dea7e8ac10e7",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+    },
+    "IOS|Data Cell / icon / Superellipse 44": {
+        "key": "cafb245ca6acbf9f30fe905ac8789f4a2f36a4ce",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data View / One Line": {
+        "key": "7d6241a4d147996996dfeb641e030ae377563e04",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data View / 1 line / One Line Big Icon": {
+        "key": "bb4a28f6e05dd20aad152f9d5861bc3e5ebd97e7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data View / 1 line / Empty Bg": {
+        "key": "39c3816ee8868a069575b6ba60907c26100473d2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data View / 1 line / Right Icon": {
+        "key": "68910707d07d2d8a4f212b0fc118f6698ffb198b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data View / 2 lines / No Icon": {
+        "key": "43a6463dfee2ff99865c84d5d89b9401b2c40226",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data View / 2 lines / No Icon Revert": {
+        "key": "f23b74ffd864ed981cb3c0d4eb4fd8caa0f5d855",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data View / 3 lines / BigTitle": {
+        "key": "22a456ad8116ebc7419cd0d6a3575c0b9edd8156",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data View / 2 lines / Account": {
+        "key": "ea6d68c86de5e94893a6a6b8d3bf583e50ca27ac",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|HeadingCaps": {
+        "key": "4fc4c14dd7ac955d19d39912cbb086f886e79707",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Title Opened": {
+        "key": "87ec92aaa283fe21ea86b13de1bfbc2ae38822e3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data View / 2 lines / Default": {
+        "key": "f03256a13420679ff3e67e4bb10dc882cb4fc013",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ExchangeRateCell": {
+        "key": "bb598942b564a8c2d5ae58c95857ac82b6bf0d89",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / TransferM": {
+        "key": "e027c96fc75f91a6cd5a835fefd3dcb3122767f3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / MobileM": {
+        "key": "6ecf2e5dba68ef30f34d4f005acdd57487a51dd3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / CardsMultipleM": {
+        "key": "875bf707d60109cd91491e934f0e439c33441584",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / DocumentM": {
+        "key": "65e47432d65c108bb7b68b55ce612b2063beff00",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / ArrowM": {
+        "key": "b0358ba3fc9e7f943a65ad8cde4f88237dca5240",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|kiribati_m_color": {
+        "key": "e29ec6695475627e5b657f09d576d291e96163ad",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|european-union_m_color": {
+        "key": "d7d3a69a5dfa9e2d297a6d8a46833bef56f22355",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|mongolia_m_color": {
+        "key": "6762b3dbdcb0457a9dd38a2166686faaabb084b7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|georgia_m_color": {
+        "key": "ff77648057f8b930a6674eec05924763b469115a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|brazil_m_color": {
+        "key": "65a28349b942aca5b838ab00d74f1b5173188d27",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|sint-eustatius_m_color": {
+        "key": "3ec8bb9b262d0b30f4b0b7bee107b41f5058bf65",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|democratic-republic-of-congo_m_color": {
+        "key": "db189c5f7a9417f8a71716cf6b9436af70fff8bc",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|russia_m_color": {
+        "key": "9a474e204b3b67907395d7d0fc1d31a6e0c42fcb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|jersey_m_color": {
+        "key": "deb7428092d7cae5774b2ac8bb197c1bdc416059",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|united-kingdom_m_color": {
+        "key": "cf91cb332967a8ca68f7061562adeac3a7708360",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|south-sudan_m_color": {
+        "key": "f3d84eb1bfb6580c674a65d661aad84a41fe5108",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|canada_m_color": {
+        "key": "df41f30af7a9dd9dfd57b08cd8f1ded032afa698",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|st-vincent-and-the-grenadines_m_color": {
+        "key": "262a42596862655d88974b3d32141b341709506f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|azores-islands_m_color": {
+        "key": "86c7bf731527e2b4d4816ddf44d0fd5408ea4ab8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|thailand_m_color": {
+        "key": "dec1c7379ccee58dade9d322f15f0115d275efee",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|sardinia_m_color": {
+        "key": "bb56aa5b8a23cde25f872695992d0f521cfca3a9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|netherlands_m_color": {
+        "key": "daccb877fe0586c74e17c5ebd90df05ccc9efb8a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|republic-of-macedonia_m_color": {
+        "key": "6fe46cc6180ff0b5d11f0b6c4046818aa1cdb29b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|australia_m_color": {
+        "key": "4fde496536afc30f47cbbab4d7be4546408a1bf4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|yemen_m_color": {
+        "key": "919ad975bb9161c6544a9a9384f23c76f80d05d4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|turkmenistan_m_color": {
+        "key": "f62b0a8092864e91f9ef8dc962cd96c912857d18",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|mexico_m_color": {
+        "key": "8b25bb9d3c05d1fc976eecd85e6bb80b04e2db55",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|madagascar_m_color": {
+        "key": "28de13f88e026ccce8f58a9774b7b208a7c5e67b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|senegal_m_color": {
+        "key": "f1869781455b24a48864e7da0cb609f9091b58f4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|maldives_m_color": {
+        "key": "910bd06f09a97a415f7a256a08c1d7527f8b7b9e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|somaliland_m_color": {
+        "key": "de76c2be815db21b573776628f18e9add4e436fb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|turks-and-caicos_m_color": {
+        "key": "b8ccf43cc8ad8f5e6342c74955f1f39c9b8f757e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|niger_m_color": {
+        "key": "815544df871427413cb557d9cc54e400532b6c50",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|nato_m_color": {
+        "key": "aba1d2391cf0f75d3d3a70dc278e3c714a385674",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|tuvalu_m_color": {
+        "key": "2c2677a751fe979a12f1b26cb785b1b86f54b0bb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|turkey_m_color": {
+        "key": "186b1649188c743a184ed7829980f2f3ec83e6dd",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|virgin-islands_m_color": {
+        "key": "753c8d1059772ce6c99e1f5d8cd1696b9f44c98e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|england_m_color": {
+        "key": "c4bea9f6140033323c60a92563d1e58c7ef62fe7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|gibraltar_m_color": {
+        "key": "50b97f3f9a2439d3b8b377f27376def640c426bb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|moldova_m_color": {
+        "key": "16f0029278ec3f076e55c394c684e8f7e000bb19",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|poland_m_color": {
+        "key": "32858baf17a4e5a36ca23fb9ebdc4f75d882fbfc",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|grenada_m_color": {
+        "key": "5de35afca697135dfbff5d3a0c03b0df20917457",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|indonesia_m_color": {
+        "key": "501061bdd1924a3756f5c259829ce0166ffdba47",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|guam_m_color": {
+        "key": "a92cd277e055e0aae037c796fecdc030b60619d0",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|nauru_m_color": {
+        "key": "01ba46bf70c6027c29eb97adbb31f8e712158ddb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|rwanda_m_color": {
+        "key": "48ef01182048fa16c092d70b26732c537d1d864d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|switzerland_m_color": {
+        "key": "623186851d4be49b77a7aa5ba0a19257beddc00c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|sahrawi-arab-democratic-republic_m_color": {
+        "key": "c7019aa996e121c087785557dcc36834447979cb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|martinique_m_color": {
+        "key": "fde91dab4b293899c86f6d8089d621408075d08a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|south-africa_m_color": {
+        "key": "533401ec3b5ddfad0f1b446e25b83163bea1aa3f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|kenya_m_color": {
+        "key": "7410351e514cd3b76853f49a63bcbf88bcfbf67f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|argentina_m_color": {
+        "key": "c1aca5aa1bbde242d7251cd40bdde0583ef0b662",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|falkland-islands_m_color": {
+        "key": "3d08459d8f9fc585cd29ef1b15133904e0e2b3d7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|oman_m_color": {
+        "key": "4e6aefe0d20f34c605d96cafa5462f75241b2d3a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|tonga_m_color": {
+        "key": "2c9158c96b392fe888fac0a827bb6f8cd6cfc072",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|peru_m_color": {
+        "key": "bb992e7201ca2b7a897ebbebd5cdc1fda93c5f91",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|vietnam_m_color": {
+        "key": "12db36eaffd57d46d2791c454a164fcad761defa",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|sweden_m_color": {
+        "key": "8c6c61ce1d4e1599da9b3030f8fb20da9cbd548e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|sudan_m_color": {
+        "key": "67478a0676858ed6c1790a9bcc694fd9a2568169",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|trinidad-and-tobago_m_color": {
+        "key": "fb7397713483cd5bed0e99be47c829c49bbaf985",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ireland_m_color": {
+        "key": "039edd2d7be5b370486ae672387ff74c4d7259bd",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|denmark_m_color": {
+        "key": "ccd7445e4111c807224a14ab058641666d42d0f9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|vanuatu_m_color": {
+        "key": "7a649f1bb51c8d5264e147ad0a7334caa2533545",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|saint-kitts-and-nevis_m_color": {
+        "key": "6fadcc96eb901dac6d46dc2000bf0f52f04ea108",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|liberia_m_color": {
+        "key": "240bf89c628d51124ee629654d1817d6a87c1c25",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|st-lucia_m_color": {
+        "key": "4bcd5f4d7235202ffe553e3cf307a30ca42a7b02",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|papua-new-guinea_m_color": {
+        "key": "e50c6cac0f9c57f145ead39a50eda2ec05bd45c1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|vatican-city_m_color": {
+        "key": "eb840b5845f1292fa3829d30abd7d8d68a188315",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|palau_m_color": {
+        "key": "1fae11f90453fe4be89b52a77aeaea3ab93478d7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ivory-coast_m_color": {
+        "key": "c897da26dfdfd62f9576d0e017ade98385051324",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|cambodia_m_color": {
+        "key": "dbed2ece253944d5132c20ed777ca89d1ebb6d23",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|palestine_m_color": {
+        "key": "ebbc2620376801641251fefad43d8640883c47bd",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|american-samoa_m_color": {
+        "key": "60e6387e8afd1b9499546cf7f6965e45059fc15e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|swaziland_m_color": {
+        "key": "a6a1789fe76f883cb7f89919f122c792b212031b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|madeira_m_color": {
+        "key": "320342ffe96163d8763f1f2919f1e506adb02789",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|bangladesh_m_color": {
+        "key": "acc0a727f3ee1aefbbd6f2a48fd1f46b231a1a48",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|british-virgin-islands_m_color": {
+        "key": "4bd57bb7de99ed6d4e031ea40f3029e39e8a9852",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|azerbaijan_m_color": {
+        "key": "dce5f51517c28d2e2f7bce3634bf20efcd3edcc7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|venezuela_m_color": {
+        "key": "fabefd380c41a6833868fe54eea0bb7d825728c4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|philippines_m_color": {
+        "key": "9305001c1f5a57487c4a3af6f4bfe6c0389cdc05",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|bahrain_m_color": {
+        "key": "269d7edd96644fdf19bcd83afbc6834aa7b33d6f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|singapore_m_color": {
+        "key": "3772617f8bed41c7dedb4327e77488fa96b33fa6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|colombia_m_color": {
+        "key": "7925e1cbf295a808fba2031c088d1c401d822a32",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iran_m_color": {
+        "key": "100dce82d5ccd8a9e7677361065d1075a16eb16c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|anguilla_m_color": {
+        "key": "a6c7ed204004830de70664f816a4fd358475ec53",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|belarus_m_color": {
+        "key": "528d6b11bdcea77ccf366f30e71d534566e5d6db",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|melilla_m_color": {
+        "key": "eb42f0f7d77a335c41f5a20a9f1f1ab00f17c31d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|liechtenstein_m_color": {
+        "key": "a6115f5acf3c4005a0f272acaed5babc9e8b5de2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|uzbekistn_m_color": {
+        "key": "ad4414166da07f7c4ed3600a90c35d837865f93e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|saudi-arabia_m_color": {
+        "key": "b3fc96ba7dd58ca231c0361a2c5e514ef6f04226",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|montenegro_m_color": {
+        "key": "aeda451e562d3ac354739f9c9cf7c5db31ec6292",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|bosnia-and-herzegovina_m_color": {
+        "key": "90f6ed3c08682a6f95aa50feecc462d11850b4ce",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|kyrgyzstan_m_color": {
+        "key": "617eaa49e57bee46b189106a41fa1e4d8ca13b77",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|united-states_m_color": {
+        "key": "6ca310e73bf4771e34cbe302c6468307cd67e3cb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|chile_m_color": {
+        "key": "7eab5d653a2787041771accd98f8ffdc6ace7224",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|germany_m_color": {
+        "key": "c4a349b9c798165fde2b422bc7a4ad712a887ebd",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ossetia_m_color": {
+        "key": "b2499e5b05d31e45512a91ca91aad79896a30ca1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|tajikistan_m_color": {
+        "key": "e5e36f4c2ccedfc322b7812e3eeb614b9a5154ec",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|gambia_m_color": {
+        "key": "b0d7c40441dc040d879a6467be00bb8ae7075d8d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|botswana_m_color": {
+        "key": "f3ecb8ed42910012eabaa5820a047405604216f3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|finland_m_color": {
+        "key": "b0bce3b774295fb2b672cede410676457c1eca41",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|bahamas_m_color": {
+        "key": "894d66a431468b7309b411c5e50656372d59054a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|libya_m_color": {
+        "key": "c5d5ddb43ca86df0e89c021579fd5b2511a7762e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|brunei_m_color": {
+        "key": "ceb5090e85d23a52a4adc0c179417e61d6c10014",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|malasya_m_color": {
+        "key": "e5f938195ab974dee51a661f48ab52f40ac084e3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|el-salvador_m_color": {
+        "key": "ec632f5e8afd47af62ca4050298181365a565468",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|greenland_m_color": {
+        "key": "6d8e8775b3945f0bc4dcf8e4e5c37b1e9b5a7844",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|curacao_m_color": {
+        "key": "5f25bf40602c450ceadf616f0adc0a5a177804ff",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|new-zealand_m_color": {
+        "key": "51ed17908b5de97bbe1000ce9cd9b5ba60e7fd9e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|guinea_m_color": {
+        "key": "c5eb51c1e7ee8770e45d0103da1a861c216b7f8d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|romania_m_color": {
+        "key": "0fab6bca1639e07aa6a477438420e248b247f623",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|armenia_m_color": {
+        "key": "906bb039fdded61b30ea22147c1c9c55a09d398c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|kwait_m_color": {
+        "key": "8132ee7534c682ce95f2a37147f327f4c2af00da",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|south-korea_m_color": {
+        "key": "e65e825eb3cb41e68b7a2168b87221c83e661db6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|cameroon_m_color": {
+        "key": "601afb4d6833126585ffa6c848aeede1823ea91d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ecuador_m_color": {
+        "key": "7da53f5c6a2e32d01dc6fa073e0166ed9afd48b1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|algeria_m_color": {
+        "key": "7cf368eafd3cbcd5432531ce49a8743d4bf323ed",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|comoros_m_color": {
+        "key": "70be672f24ad7c6818dfa2071d91e76fa3bd2bae",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|marshall-island_m_color": {
+        "key": "a3f2b1c208931ea775859dedafaba2ec017d0508",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iceland_m_color": {
+        "key": "3ba1f27a7be38134de935d1ac4cb941dcd7d04ab",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|northern-cyprus_m_color": {
+        "key": "f64ff78663844d85b82b12d12c780a714cf48d83",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|st-barts_m_color": {
+        "key": "6d66c8538a01ba02aeccf43b42adbfe0876a36c8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|laos_m_color": {
+        "key": "1760e0da500a334910ee6cf1a49771680ef93197",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|sierra-leone_m_color": {
+        "key": "622dec90b01c0fc0055cfadeb0c2e133b1ba7a8e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|pitcairn-islands_m_color": {
+        "key": "3115e4941e51d817fae96c2309af043f1f611f01",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|uruguay_m_color": {
+        "key": "3922cc924ee25b49b5946686cc7b771d7449bfb2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|taiwan_m_color": {
+        "key": "2e84b2bbf5d4d0f5e14006a7c64eb66808717082",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|aland-islands_m_color": {
+        "key": "4e455072ec88b4c51b38b7d5b8e676401b1dc533",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|norfolk-island_m_color": {
+        "key": "c66601a470b16fb3bc4568b562e3da602573d88e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|barbados_m_color": {
+        "key": "f73dd9d272be5e3d5e3228dddce7d2b1dfedfe7c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|somalia_m_color": {
+        "key": "ab84dd1411de70029c161f6ec1ea5d345d77abfd",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|united-nations_m_color": {
+        "key": "e81f6bfd4338e182909a5e8a1bf277d6d313303e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|dominica_m_color": {
+        "key": "db4b874d52fdea21e843a4321e484523489f77bc",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|guatemala_m_color": {
+        "key": "4ede4c6ddb846deb699f4b76be3cb2e956a1a2bd",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|galapagos-islands_m_color": {
+        "key": "28134fadb9fa927e3f65ff7a994c32080889618b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|czech-republic_m_color": {
+        "key": "3422c584df6fb4f4205b590bb4958700c4fd4ba1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|nigeria_m_color": {
+        "key": "a72fdb46f67358d69eb69b8a500b87bbc8090085",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|isle-of-man_m_color": {
+        "key": "24c90e76f23256c006487b0e75da36f7d0c183f0",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|slovakia_m_color": {
+        "key": "6f45347df2df990378213c8d8f7c45c34291341d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|austria_m_color": {
+        "key": "4b2e2225c265bcb2d49d090c08994bb66bae2a93",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|samoa_m_color": {
+        "key": "7edbba5fe30ebd33c5a39528796205c62f5f742a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|antigua-and-barbuda_m_color": {
+        "key": "80a1861df4b1a9a339658e60dddba40bf5a20878",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|sint-maarten_m_color": {
+        "key": "aecb264648fc33fd65ea8f0b2a08d876044eeae5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|chad_m_color": {
+        "key": "124ec2c1353d058233fd31149cee2f27efc9c5e5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|kazakhstan_m_color": {
+        "key": "5a5d1a1c5c8c357e6f0a29d87635fbf3cec14a6e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|croatia_m_color": {
+        "key": "796e0821b6bb76a567303f1e014600fb854ee9f2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|republic-of-the-congo_m_color": {
+        "key": "d808aea3c7595be81b7bd25765b3f2a7d6a36f9e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|bonaire_m_color": {
+        "key": "c2d768be5600a16feb74881fc19d0beee30e6e1d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|honduras_m_color": {
+        "key": "90af316ec1f30f454d103e9778046c35a74f330c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ethiopia_m_color": {
+        "key": "26e8b2b8e15f54bcd7fbbb675563e9efc6e62417",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|eritrea_m_color": {
+        "key": "2bcf38720de2b7c4807ab2fa1f3217c9e500ef2b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|sao-tome-and-prince_m_color": {
+        "key": "2e5278412c37a8b0cc5f0df5901dc05aa771bc1a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|serbia_m_color": {
+        "key": "f2c5b5bd1b3e20dd9006dc78eb89c5431d503f22",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|malta_m_color": {
+        "key": "d7fb53b28681aa3779be4fa4cd85404e3eabc2de",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iraq_m_color": {
+        "key": "fbcf5006935e73034e2ce96438771c2084466128",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|tuvalu-1_m_color": {
+        "key": "4d4457bf39ecddce16c490379d89efb0f4e5c4ac",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|costa-rica_m_color": {
+        "key": "c614e84178c98a9b1de16fda26b2f9b8c425bb4c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|united-arab-emirates_m_color": {
+        "key": "453fe89d06cc68807a56278f017d6f8994e503a8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|british-indian-ocean-territory_m_color": {
+        "key": "46bb5a4462cd3a9d80252a1dadeb6c8bac132f3e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|lithuania_m_color": {
+        "key": "8f8efeb4b0a4d562353dd937d7cd075832052e3c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|angola_m_color": {
+        "key": "8dafc13eb6988a52da88d916873b598639d3d347",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|slovenia_m_color": {
+        "key": "da6647c603cf0f867889e8d639fab3520b74a080",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|jamaica_m_color": {
+        "key": "f43450d64b178b973f25c7bbb00a63c78226010d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|canary-islands_m_color": {
+        "key": "e5a1f9d822537d1fbfdb7a23b0c3d12d3439e911",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|kosovo_m_color": {
+        "key": "fb14d06de875023c29607f3dcab58bc0f487e293",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|balearic-islands_m_color": {
+        "key": "93073e5f3582be3e3de1787453db9c008ab8d99e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|guinea-bissau_m_color": {
+        "key": "8e1dc0cb1d3232a92140a7120daefc4d08cbcf5e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|cayman-islands_m_color": {
+        "key": "1db199451aff2d15132f2c4388c728bca60a2e3d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|jordan_m_color": {
+        "key": "409e5598120c3174a2f621a10cea5dacfb1ef2c5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|mali_m_color": {
+        "key": "49054d35305fa39e0088be44f35df66a6d26ac3c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|mauritania_m_color": {
+        "key": "4b3ee8976d7206f279c2e82fe38034812d56f48a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|morocco_m_color": {
+        "key": "a61e144c5ce3659e154d9e7f8ad57fc5a2af2a3e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|gabon_m_color": {
+        "key": "4b768a646bf97bf0409b10d56ebeba9c56de78ff",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|uganda_m_color": {
+        "key": "396ecf6377571ba8872bae28bde9513b320134a7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|basque-country_m_color": {
+        "key": "ca06035260d3aa4354f5db293f43d6fff9f5ed35",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|aruba_m_color": {
+        "key": "420fdeac4a83616296068709b8a3ba3351138beb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|puerto-rico_m_color": {
+        "key": "c4fe2c7e939181798649f40cfb4b16ea7a08dac2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|dominican-republic_m_color": {
+        "key": "a9c82437c2946622995fc9873ced5d63d5add7c4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|seychelles_m_color": {
+        "key": "a1964c5ce0f361fb697d3d37e5111ffd690a19b0",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|saba-island_m_color": {
+        "key": "3fcec5099fd1f7743738e1635520e1ced50c18ab",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|andorra_m_color": {
+        "key": "1ae7d42c8bd31b0533a8131f77eed96e89b3d336",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|lebanon_m_color": {
+        "key": "7193a0283a381e53d28f1b8cb78fea9a7ce1d948",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ukraine_m_color": {
+        "key": "f56bb4c6241c378720297f2a867d9b53df46b753",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|cook-islands_m_color": {
+        "key": "4c8c18c4661b06e5e860fb4ceb3cb3526826d9cb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|san-marino_m_color": {
+        "key": "ead728cc01b0246d5f45d50f395bcd949e8d2c18",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|tibet_m_color": {
+        "key": "738db070995dbb78d05a3577212f9d2fb98d6e7e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|christmas-island_m_color": {
+        "key": "97f2293b995bba65349e7f42f748bfb5e2b96c82",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|montserrat_m_color": {
+        "key": "ab916c55cee565495feb83860ed824f2a3cd94f5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|niue_m_color": {
+        "key": "9349259dcb38f55a0092adf228160c95e8b403b1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|nicaragua_m_color": {
+        "key": "23ae60a1985dac9daffeb8fbfe98f5c6b59e4857",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|nepal_m_color": {
+        "key": "67eba93d69724c42b1166307ce62ec63f31f5774",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|zambia_m_color": {
+        "key": "de0aff86592ee84041b836547dc2d1efcc14eebe",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|micronesia_m_color": {
+        "key": "0e8683bc1bc30d9fafdb353b709d457d49e36003",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|transnistria_m_color": {
+        "key": "ee04762f732ca35d132a400f6b22a39455516f85",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|sicily_m_color": {
+        "key": "c6be417f1a3db4b9b5685359f3cd72086cb29b1f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|spain_m_color": {
+        "key": "55115fb5c9298509484ff9d0c2f35e361de294a4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|pakistan_m_color": {
+        "key": "e618319155c253ef1e7cfb22f7fcfacdf3c08571",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|hawaii_m_color": {
+        "key": "fd8d68b81b6c0ef12c5ecffa5259fbeffd4604c3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|myanmar_m_color": {
+        "key": "f155655e56c06f7f3f305f108a132cd9d12b4121",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|paraguay_m_color": {
+        "key": "00a94f8edfd9d7af2c57fba8597bb1bc87b2ce5c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|lesotho_m_color": {
+        "key": "3e155e7a5d674a873b1b5b0f308e85854993ef26",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|italy_m_color": {
+        "key": "bf42f4534f299e50c739cdde61e7a5de199bc786",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|british-columbia_m_color": {
+        "key": "b00f3728e741738bfab192557d2f93942996d6b5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|monaco_m_color": {
+        "key": "9a6097ef822f7e54f8d0330f436434570ef5d3ab",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|bulgaria_m_color": {
+        "key": "4fd4bee85be4f3e993f35b24e4b830b278b86ada",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|solomon-islands_m_color": {
+        "key": "b7b521046e3d6e23c2be8851826d1c837123f9bf",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|equatorial-guinea_m_color": {
+        "key": "b6f1e185a76f130e5d72b654f8e9b2744d90ff72",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|cape-verde_m_color": {
+        "key": "a193b20c81f437a709732f344ab2497d34e095ba",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|sri-lanka_m_color": {
+        "key": "df6ee7fa49636f99a8ce33f890cad1a14ac29ef3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|mozambique_m_color": {
+        "key": "865c36da1ea9de0269f53d1a5badb42e0c1a4de2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|tunisia_m_color": {
+        "key": "c00cc0a87bed2cf56b291ece86166a547eefae9e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|china_m_color": {
+        "key": "670c91bb9731e7ae2203c4c5f9710050706425e2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|israel_m_color": {
+        "key": "408ae77f328b647b3480072febed1f2153ee5047",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|corsica_m_color": {
+        "key": "95181031953cd9be75f42b2fbc21e7a0c563c030",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|belize_m_color": {
+        "key": "d08835e0c89e6198d4d221da51f2a7fb24558074",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|togo_m_color": {
+        "key": "48195382917406235a3d0909f95c47b51588d48a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|scotland_m_color": {
+        "key": "89452773410ccd77014b454bb6c34a1e821e32ea",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|guernsey_m_color": {
+        "key": "5194a57450be1d3dffe14683b964e5f9b43f54d2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|qatar_m_color": {
+        "key": "59da8af0e591571f245138d6be9b160826ca491b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|northern-marianas-islands_m_color": {
+        "key": "0809684f707e57a90eb9a0868676752cfed95b79",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|suriname_m_color": {
+        "key": "d195844706ed9870abc94d65edb55dd52896a5ae",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|france_m_color": {
+        "key": "45a27af6b6570838fcbaa43e44c352eadb85ef23",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|macao_m_color": {
+        "key": "c00d0835d52ae757a20ff5525566b79ba4baa355",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|french-polynesia_m_color": {
+        "key": "4fdbc5d0dc04add64bd9f390f6f387924b34d676",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|syria_m_color": {
+        "key": "84b418b06a58666a00decfbda513fd5c509a6d5d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|rapa-nui_m_color": {
+        "key": "e38a8270e34124cee5a36f2d04d74c28506d767f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|albania_m_color": {
+        "key": "8e6074b5cfd852befd92c47e3d5ce0d894334f34",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|latvia_m_color": {
+        "key": "f4919c1d92673cdc5945af0bc1a8d24a976ec076",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|malawi_m_color": {
+        "key": "96353dd6f1c65e14021b33011a8777f78799bb2c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|east-timor_m_color": {
+        "key": "4f06494e963f56a5fbe497027c215a55020c8590",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|benin_m_color": {
+        "key": "1ab8d5213315dbd8d7fe48bbe1f42f6a60f764d2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ceuta_m_color": {
+        "key": "0b2bb53ae51631c86422de995cffc4030be936a9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|bhutan_m_color": {
+        "key": "aac88e921f020afe6aad4404a8f496e28ab331ad",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|burundi_m_color": {
+        "key": "69220d521b4459a0ea9be7f321f5d00e136b1210",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|belgium_m_color": {
+        "key": "3801247b15c253525a6ab809234219be41e4084c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|greece_m_color": {
+        "key": "c2068ecf3d2a75211ea25c6f00f3d696c3437c5d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|abkhazia_m_color": {
+        "key": "f8a61df3063548b68b10f82e45b2ef0d4d397481",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ghana_m_color": {
+        "key": "6e170dc3840225ba8bdeca6b256fd284e6ba461c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|bermuda_m_color": {
+        "key": "4ca679abb83674becfdfb4fca612d1cfd8ab47e1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|tanzania_m_color": {
+        "key": "b9f9c6b4d3194548f6c9c8efe2d2618fe9e1b786",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|wales_m_color": {
+        "key": "396ba9dbbd1ed6cd877d459a8fbfda8bcf779d2b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|tokelau_m_color": {
+        "key": "98cd5fd8d6a6389ed573a06cbc2b0de34b39f3ad",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|norway_m_color": {
+        "key": "b5313e206a258dc3d3f3b8f98726e9e020e1105f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|afghanistan_m_color": {
+        "key": "ee79c48199e2fca3c3208523bc0d7d016bf1d2a7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|luxembourg_m_color": {
+        "key": "ae1ce46472bcd09c5059af2fd16a59c535eacdf1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|burkina-faso_m_color": {
+        "key": "ac1d4715f0b3eee8ef7d11e9294f6e5405ce782c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|zimbabwe_m_color": {
+        "key": "c6fa0e1804e27f462567f257c2677bea8f0309d6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|cuba_m_color": {
+        "key": "995ace9940b2485a0987c2da3d8c1e3b2170ef7c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|central-african-republic_m_color": {
+        "key": "6dd5a4baa0780dd0f90b4ccb1931fc678cf0629f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|djibouti_m_color": {
+        "key": "3f99d9337dabdf80e4056cc86901df885d3cebee",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|panama_m_color": {
+        "key": "f59ba124360f94c3a4f56c2fa27bb2251a3e51e9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|japan_m_color": {
+        "key": "44810cf82be4e996e2ac0a17156e75e12c886791",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|hong-kong_m_color": {
+        "key": "9c45a8cb2eee484fc9bb9a14a169dd7f3bc23f03",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|egypt_m_color": {
+        "key": "d626e98a2c1f07ff8cb9dda355feeb0d04b02155",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|fiji_m_color": {
+        "key": "fb5eb749a53b7e0e55c7d694e2bb972e4759d60e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|estonia_m_color": {
+        "key": "30b1c2b7d6e1c65cf2771ebff7c9803b1a47a45d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|mauritius_m_color": {
+        "key": "fe9ecfa5fa9eb63d60bf27f3a1dc48af5d60b0b6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|portugal_m_color": {
+        "key": "fc3564be73f8d74da4d4d06b3c250f1e27b49fc8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|cocos-island_m_color": {
+        "key": "c3a2ba2b71c663ec6e86c4d4e625b8f1cf70b50b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|bolivia_m_color": {
+        "key": "993ac40913380333ca0cb639dff7e4b5e1f8a3b9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|north-korea_m_color": {
+        "key": "c010508c7958aced565b272445eb440c8a03bc3a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|haiti_m_color": {
+        "key": "9b3f1a933b55b9e74df08f8e812fa675cba646f0",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|hungary_m_color": {
+        "key": "03f5898d1b6d0800677dee8752fe0689608566d0",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|india_m_color": {
+        "key": "623e56d10ee506f9b2486a2938cafb3e17aefc75",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|namibia_m_color": {
+        "key": "d63c2708707235fb8b9f4bdb19e5e6db97ebc131",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data View / 2 lines / Revert": {
+        "key": "55695334aa1e183c36ce04cafa8998ad68d48fed",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data View / 2 lines / Big Icon": {
+        "key": "90615cb4f681cbfd76461f8eebc60f7c53fbbefa",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Status/Timestamp": {
+        "key": "95008d238c39bab4ff80ded8df17db93c08bc3d1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Right/First": {
+        "key": "30b7a6bd7578d5a86d5fb43da5e5b0d8808db54c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Right/Middle": {
+        "key": "134101298de81334d5aaea28ecc74ad2124dd1e7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Client/Text": {
+        "key": "f8935a6f2b819cf407f34e967b386ebc96fe5ece",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / HeartM": {
+        "key": "41cead9e6398a5e35f6e178912c7008a6b18a91f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / HeartS": {
+        "key": "86ae3bcb3db54cbf9329b8ba3706ce2e1dd1bc34",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Right/Top/First": {
+        "key": "efae7d4139d5cd9259afa38e5416520bfe5e995c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Right/Top/Middle": {
+        "key": "48a95e45e598c9d531a99909ae37805b90c72efc",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Server/Text": {
+        "key": "f89e6d2bd70a7de13116eef98b92724984aa20c6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Left/First": {
+        "key": "b95dc2b3651b38b4b8db26cd09e80a4dd745f606",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Left/Middle": {
+        "key": "4829ae37486cd7f90ed70d834e557b7f192afb01",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Left/Top/First": {
+        "key": "14d506ace7b6bb807f816eb14f460aafe82d7550",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Left/Top/Middle": {
+        "key": "39b3b21051f24cf276efa0324ba7d1f87db0016d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Left/Last": {
+        "key": "2160bb2586fd18340c33a2e4c0a5a6987f883fbe",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Icon": {
+        "key": "c88d951e8befb79cf0136fa4f878794228b6eaca",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DeepLinkButtonView": {
+        "key": "4ec233ab1e7ce39f02d09f8a4f8961c75a2ade83",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Bottom/Transaction": {
+        "key": "d73916adf3eccd0a5a1bd0a11d0bc9243678f564",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Client/Attachment/With Text": {
+        "key": "009193dd14ea934bacbe169844fa8962676ca893",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Card": {
+        "key": "62ca5da383ed0b9295c2a19756d43c0edbb87c0e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Bottom/Card": {
+        "key": "1639033172d0722ca63b48a9c47eae0de2d8d2ea",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Map": {
+        "key": "dcb7d147b1c065da43d7c8e5e2f377e01e2c5fbf",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Pin": {
+        "key": "b04f78b914848eee1ab99605ccdbea8fe59e770f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Client/Attachment/Single First": {
+        "key": "86a8bc4f52d058d3afd96556f7f9bfb5f15b8ea3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Client/Attachment/Single Middle": {
+        "key": "4dd69620cf47476e24d09d7308f63730ce2794c6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Server/Attachment/With Text No Button": {
+        "key": "058c1be24cb389f72d77a000abc22aacc5e9f48a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Link": {
+        "key": "1332c17cdf8a81eb74bb9e899307ba5835f85088",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Client/Call": {
+        "key": "721f4f1c16fe79d09c3b7b659b2bb3f55b5b73a0",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data Cell / icon / Superellipse 60": {
+        "key": "5b61b572f5c534ea5afb734d571f39c1ab555298",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|icon_XXL / down": {
+        "key": "acad80b9ffd4c507b58e73bea2e7bde188e81d4d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|icon_XXL / up": {
+        "key": "0830cf79f16d3a82639ad58d9c17186a275fc005",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|icon_XXL / no_badge": {
+        "key": "81a759f41dcbfe25c94e88c0e126d58c922a49f3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|icon_XXL / round / down": {
+        "key": "cb3b057191984f162fabb8f3b8d4b9855ee9f419",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Account": {
+        "key": "51641ddaa75de0a8d7d55d1f9f0ad19ecb0bcad8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Card": {
+        "key": "6bb3312097c6477f145878d8b3c6ebe1b6cb80a8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Payment System": {
+        "key": "b73e3b9013dd7374a3f959d1fe344a4065c0b9d1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data Cell / icon / Ellipse 60": {
+        "key": "ab0c5f71c4082ea02f4a0418313d86293cd98025",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Server/Card": {
+        "key": "1145ed6033d589fb1f862106c21c788c7a2e1029",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data View / 2 lines / Transactional": {
+        "key": "e275af8e0c600c102439e4d1e015fbb2e8c90351",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / CardM": {
+        "key": "ce727fdc8da9a7e2ff9f0db546bb4a0aeeb9f6f6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data View / 2 lines / Small Icon": {
+        "key": "8863688b95c26f50c8b62d070439448fe2ef1612",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|CurrencyPickerView": {
+        "key": "47cf74cd25f683e60b69bb4b6c0f63d90fa76db9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / EuroM": {
+        "key": "183ec8ef8e864bac54d7274608e2e5b9bd23b434",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Timestamp": {
+        "key": "29c9eeecefa46675929564db207ddf2e5cfa4120",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Image": {
+        "key": "a74f90721333651f0ccd324f155dbacc7059df6d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Reactions": {
+        "key": "327812f861481ffe0e9fc4b21f5d273a19f84384",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Client/Voice": {
+        "key": "e691bde5664192123e33bfccc3a5382f79624100",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Server/Attachment/Single First/No Button": {
+        "key": "ca47e5e30e7328ff452a9c44ad5d9671abcfde87",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Server/Attachment/Single Middle/No Button": {
+        "key": "45acb325bf683cf58eebc269110bc6ba087282c3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Server/Attachment/Single First/With Button": {
+        "key": "b54bcb2bbf5fb9debc214c6a926a80f2833df68c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Server/Attachment/Single Middle/With Button": {
+        "key": "c04a5458665a44a5aa858373ad52df1926a86630",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Server/Attachment/With Text and Button": {
+        "key": "7242db4d5bb6f55f1def4d23b26f6f102c908e86",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Left/First and Last": {
+        "key": "43aa98c29d3861d5b1ffecb2d4e184e22b4bb032",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Bubble/Video": {
+        "key": "aab6cdcb960c1b40008e4c90fb1fd6618b4c8750",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Status/Assistant": {
+        "key": "58d2b198067e7661f1a27d6694fe444f3b52ede9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Status/Business": {
+        "key": "7e36a7523cc9bd6e24f03adb3b6a416ec2748f1d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Status/Assistant Rate": {
+        "key": "bfd1abfe148f3146e2206af70202029627555d8e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Greeting": {
+        "key": "39addc7ec12c923cabd8b2c54eb7036dbe7cba93",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Group Icon": {
+        "key": "fa15d589da8764330a1f0e6c9c7f94fff2580b58",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data View / CircleProgress": {
+        "key": "96c98cba60096853ad91ef1f0c74035d32358d88",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|CircleProgressView / Successful": {
+        "key": "748cc7bd7787e835769f7429ce447fba4bf46cf8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|CircleProgressView / Process": {
+        "key": "cb28e93a98547f9cb5811c0638207e339a7572db",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|CircleProgressView / None": {
+        "key": "76486424f93381dd30c340790b8c1c58e81c717a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|CircleProgressCardView": {
+        "key": "4a7eeb3dd79c6ffcfeb4291498a944a54e4cd128",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|LabelledCircleProgressView": {
+        "key": "6d09d9a5b9d59a171d30bd74e44751247667b78f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Input/With Voice": {
+        "key": "9346491e38ed3e2bda78aa5a9368100ceae88949",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Input/Voice/Recording": {
+        "key": "865e15ab696e69df5193c849df7ef507bbe55719",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Input/Voice/Recorded": {
+        "key": "ae6410eb379841a060aadab71fa5a07ae5f096d8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Chip": {
+        "key": "8e50cb549e45fd76b4c30ec4e7356cc5cc7ba005",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Button/Lock": {
+        "key": "1c247aeafe0f6d12bffd398f36bf6594d278c87f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Icon/Paperclip": {
+        "key": "544131ee742a92472313760212529b2e962fcb6e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Icon/Mic": {
+        "key": "ed8835a1621f602f47e4bf238e9f5f7bf2e49904",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Icon/Lock": {
+        "key": "008943cbf314428836805d53c5ca1f6be92a19a6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Icon/Send": {
+        "key": "011d472c8e6b4927df0cbde43209c29f2abff502",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Icon/Stop": {
+        "key": "a4d365bf3ad45a4129de904b96e3729ae5fd969b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Icon/Trash": {
+        "key": "c28ec29df5f5c27b1394469ec333a6c7482ccb71",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Navigation Bar/Chat": {
+        "key": "f6fbf986184c2d84f75a97a5954190b3e1cdf24b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Icon/Robot": {
+        "key": "76753f2d05f6e63985ba7031466971678c7fdd52",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Icon/Typing": {
+        "key": "876acb6b0a902c6761c16d9ab975d85ec94aea0d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / ChevronLeftM": {
+        "key": "a6b2f3a1a6593f90cde8f74ee0124269bcc99ef0",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / ChevronUpM": {
+        "key": "a1413a03ebd3a113064503d17a3d9c72efd4d07c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|TransactionalListItemWithMessage": {
+        "key": "13c132bad1ec13d0d132e56a767ba7169ded8cde",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|KeyPadElementView/375": {
+        "key": "2df35969f202f820d03473630ec22f441bb40def",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|KeyPadElementView/414": {
+        "key": "4e2b190991abfa8d53e7afc4b5c9cd923b322ad9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|KeyPadView/375": {
+        "key": "f7d9bf3ed1d1199f9e5e7fc7c7f23fa6aae4ab05",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|KeyPadView/414": {
+        "key": "d78da3c4e871c493f0d7ccc2b438e22f87b368a2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|KeyPadView/320": {
+        "key": "45bbd9a37b2fbe1a9450764646f31b675cd8659e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|KeyPadElementView/320": {
+        "key": "b5502a3780d0441512ffb4b07e4c921defed2449",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / MinimizeM": {
+        "key": "775a21b5d51d37b39c7c62a86c85803e5d3325e0",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Tile/Long": {
+        "key": "1bb87e3c3459ee6834afdffbfec8da288a4093ba",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Tile/Short": {
+        "key": "d2de737b5e804f9204879016f83025b23565a9d3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Icon/Mute": {
+        "key": "606fc7fe15bb061c07c7dd1c7a5ff6f84d78b2f8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ChatView": {
+        "key": "8e21beb177facb3007a2192c8b92f76becbddbaa",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ExpandableTextView": {
+        "key": "41902c1e67167a6e83a8e7df89b5085012b36d12",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DrawPatternPadElementView/320/On": {
+        "key": "496fa9afe90e2498a9b35c2034181ea3d3c3b757",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DrawPatternPadElementView/320/Error": {
+        "key": "70cc595fce907ce8d2c264a93ddc595181a618fa",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DrawPatternPadElementView/375/On": {
+        "key": "de960037cc7db1d868642c49ad657b42003b6dc1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DrawPatternPadElementView/375/Error": {
+        "key": "e12383940820c238bb19f6dcf54633fee6bc43c1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DrawPatternPadElementView/414/Off": {
+        "key": "a1679a3fc01a0c091bd2c5d2ec5c5637760245c1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DrawPatternPadElementView/414/On": {
+        "key": "280fb44deb1e876ae27f4c2d55775029d9844a74",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DrawPatternPadElementView/414/Error": {
+        "key": "62f9203f54b2bf91385efd17c1fbc81f05d9c8e8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DrawPatternPadView/320/Off": {
+        "key": "8a7a70b830b96232c711b6e3d6d0ecfaa48783ef",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DrawPatternPadView/375/Off": {
+        "key": "997411a3fd94f8dde089b5951cc023f3ce02590b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DrawPatternPadView/375/On": {
+        "key": "88090db37c0ad8c20df275d77c8313e81dc1dacc",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DrawPatternPadView/375/Error": {
+        "key": "f021dfdf914ede158850fb83fe32be28c0820852",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DrawPatternPadView/414/Off": {
+        "key": "6e634fef4cdaea6646d82a7561b903d3de8cafb6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DrawPatternPadView/414/On": {
+        "key": "52463109a4c249ba98cefc4990f632b04d742af1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DrawPatternPadView/414/Error": {
+        "key": "0be65a30bcee8fa475fdc5cb2620ce348d08dcb9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DrawPatternPadView/320/On": {
+        "key": "5f13efbc67872e9130ecd8b5d37e95a3c6f067b8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DrawPatternPadView/320/Error": {
+        "key": "e9e55280712f71f4bc4f5b2f809db08a85d56a81",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DrawPatternPadElementView/320/Off": {
+        "key": "366dfb81eb11c3bc91561add1accfde9f2ad15c9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DrawPatternPadElementView/375/Off": {
+        "key": "720435d0c2018deaa991eb1591a5fa218d289791",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / MoreM 2": {
+        "key": "f0276d57d1e089752eb1b6eee91687ffd84ffa21",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data View / 2 lines / Icon Center Revert": {
+        "key": "54fdfc5e43e016076f72e836c7a79169d36ae809",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / Phone": {
+        "key": "0cd5b147cd0d0dfc5d921b69ec8359af5be65b02",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / Image": {
+        "key": "dc633a65c300a9bd25b929da6223321c1adde749",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Product": {
+        "key": "8f3e4db62ae4465d069e4f56646e5715101c930f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Select": {
+        "key": "0728c2aa96de9c1e6dce8a291783d83eab59dc36",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Input/Attachments/Products": {
+        "key": "fe36822992369f316603f1b435c6795933bb4ad4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data View / 2 lines / Big Icon Two Subtitle Icon": {
+        "key": "0ab3d205ffafbd649c7d2c403fbea74da53c6e91",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / TumbUpM": {
+        "key": "b0b61a94b894465068dffd308e21609c64ba60bc",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / TumbDownM": {
+        "key": "0632194c5575fe217e4bda8ea6194e98481d00b8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|TimelapsePageControlView": {
+        "key": "c1c291194e1a77f2de961567dc6cc1e205e57021",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|StoryView": {
+        "key": "1437d2b251e89b36b11ecb3fbc292619358a44ed",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|PrimaryButtonView": {
+        "key": "ddf2a8e773bbcb19d4bf4ec3cd7623ee23b45afd",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / DoorM": {
+        "key": "7285aa24af8f2d928f4fef191488a548fc1aaf2b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data View / 1 line / Default": {
+        "key": "419aad1f7c71c3fff23bb3ec8e9052c5cd83c32c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Input/Send Text": {
+        "key": "80702282df6ced2b7d1aedae73464814f6548abc",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Input/Default": {
+        "key": "97fb6f65ac3bc7573ce51233ff073ff9541addee",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|MerchantLogo": {
+        "key": "99eff8238ff25f88324229b379ec068817f9b1d3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / KeyboardDownM": {
+        "key": "aec06029002348eb0f9db23ca23bf7c1d7b766ab",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Input/Attachments/414": {
+        "key": "1c0d944c8c733909a94c8f21a5775e803b595d21",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / CameraM": {
+        "key": "c36977ad8e25749e58a8a08dc159ac30b948026e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / ShareM": {
+        "key": "5e5f21ac8f8020dc974f9f4f34d880d04450e53f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Button Down": {
+        "key": "e6e0b62a3fdf1131ca2ae317d133b02c1eb2f3a8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|SegmentControl3items / 1": {
+        "key": "ce91bf140dae9b1cec698ba3925de3c668f1ad88",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|SegmentControl3items / 2": {
+        "key": "0a639221da56ac6e6bd94482df5e572284c2aa52",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|SegmentControl3items / 3": {
+        "key": "1340e6ef0f66444025e20f3f870f33a42def04f1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|SegmentControl2items / 1": {
+        "key": "107ab1b59c53df30a10a7d224244db280e8a0708",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|SegmentControl2items / 2": {
+        "key": "64a6b72e8f4ab9d990b1e4a33d67b198d45a48be",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Transaction": {
+        "key": "a67ffc3c4e733a4a9c634f1e68dbdb3e118c3c84",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Input/Attachments/375": {
+        "key": "ca517684c24a9fc373c4dfb18c44d5987aede50b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Input/Attachments/Images": {
+        "key": "938fcaccf82eea61b2435bc13f583d2812ed1437",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ImageTitleSubtitle ": {
+        "key": "2a0f53f3346df9c58e297d56b3e0b809238fb19f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / EyeOpenM": {
+        "key": "9cdfe6030e24e691751a5e59d6fb61b491d82805",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / MultipleCardsM": {
+        "key": "bfc9ca673577e2a91fc1f50afb65761dc7498f8a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / OutM": {
+        "key": "1dfa5fdbd113a8025210ad6080f275516c2e2cd1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / InM": {
+        "key": "bf8202f12c1b7e0bae7a19a5b33fbcfe73d59038",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / EagleM": {
+        "key": "4f2590c2b97f5ca026cacc8b41e1878a0b278664",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / BankM": {
+        "key": "ef07a1edcf4f7019f6e76a8b0f7011577516e8d3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / InternetM": {
+        "key": "de5c20729ee3a98d44737ee921aaa816163d5120",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / QRM": {
+        "key": "ae63bec9f1b3d960eba4276a4703cab671973bf6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / EMoneyM": {
+        "key": "3e3b725a83813d25252baf3c25c98be348ff8030",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / HouseM": {
+        "key": "edae09b6252e86a31429cc84c5813163e700f9ce",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / PayEuroM": {
+        "key": "c966aadf29d9abfcb6980c968d3a31e01350d9ee",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / PayDollarM": {
+        "key": "af973c3ed03409ecd45a8bce6fb976f0d4268985",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / PayM": {
+        "key": "2fd9afb4f631f27d2f9564abdd7dd8f5f6948bc5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / RouteM": {
+        "key": "703082980b84e75d3891189787cb11fbbf95920e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / MapM": {
+        "key": "84d933aaf9aa87ee0bf5716d6227e7a81fd3f25e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / InvestM": {
+        "key": "b40a041ec09e34fecbe1accd2e11ad45d55e240b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / BagM": {
+        "key": "5384b88af959d792d3928bb71b3ca685958f8024",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / MetroM": {
+        "key": "45d28fbb685fc0ec777911a3ad0efe66c1abfe05",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / TickM": {
+        "key": "927e28e492923b4410b37f8717df6dc192d7fc3a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / MoreM": {
+        "key": "8a581f6a3a4bb018ab9da46144c9c487a542cadc",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / InfoM": {
+        "key": "7c3fbf7f9c99c64c1e4745b2744dbd5ed57be5fe",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / EditM": {
+        "key": "c299f8f11b4b72354b546f8f44ffda825018c2df",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / VIPManagerS": {
+        "key": "dc8ffe73fcfe125fee02f67c2c7d56d3ed8ee16f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / InvestConsultS": {
+        "key": "62698db7d1825d8a6ec1c85f63f98e3091cd152d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / TransportM": {
+        "key": "84328f8df4b7049aa2d23e78ab58c06557f9af33",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / TransportXXL": {
+        "key": "c2c1b4e47e180b6307ea36ead1eb3b0c79ed92db",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / TransportL": {
+        "key": "87748471bad99bcbbad3c8ffe57e92213b5716ad",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / CarS": {
+        "key": "8625aba037bf87d23125bee4267a2c678d55a74d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / VIPS": {
+        "key": "7a21fb1668e9e42a694e4782ce7d92a5fdf0d1ec",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / TransportS": {
+        "key": "47a84cb32665ec8b3ac90737befcb69c0893cfd6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / CarM": {
+        "key": "2bacd20384fcae6368ec2ad6193eea09c56bf450",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / CarXXL": {
+        "key": "4acc53bd1a9db5223990d65884dd0b350073a1e6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / CloseNative": {
+        "key": "d5e61727f371318819d3d9425860c9a05b805263",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / CogM": {
+        "key": "818dc68df240d8bd0002ef34e335bcf21fdb1eac",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / CashM": {
+        "key": "2ddf52253cd31d097aa5eabc0e4245fe41ec2e15",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / CloseSolidM": {
+        "key": "8f0dbaca95cf53af7ab525c16464926bc2aad382",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / InfoSolidM": {
+        "key": "9207b6edae1e67302f09136c04f3b590d448b336",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / HistoryM": {
+        "key": "c8175b5753207ec662df8517e71c4d936fdc0aba",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / FilterM": {
+        "key": "6cfb7305598f356c7c73815aea9f2d722c686b5b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / DeleteM": {
+        "key": "dd7bb5772b2fd1542558428b1ca5e09318a12ba0",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / CloseM": {
+        "key": "bb5baced131914692dc50cf245887efda0495c2a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / ChevronRightM": {
+        "key": "a42857b9ca57cb4ec960079af7bd33f2f32b0cf2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / ChevronDownM": {
+        "key": "031eb418ba4feb2539eb2c319a8131f26d06ed08",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ActionButton": {
+        "key": "f75efae3a6c3ef85ba4ce74f886cb13055758a08",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Data View / 2 lines / Round Subicons": {
+        "key": "0de3e1220cf9adc441e12c119f4d968da71fba90",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|PaymentControlAccountSelect": {
+        "key": "5115f26c430dd3642bd56308347be933e6c2e125",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / AutoExchangeM": {
+        "key": "e324a4d330b7d6ea4ec53f265d232311f8523162",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / NotificationM": {
+        "key": "d05bfc960524926f0550d70ff20f6196272bfaf1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|iOS 2.0 / Icon / ExchangeM": {
+        "key": "d7f5825dc865b547a1e78a2d9a69cde9c941b739",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|UINavigationBar": {
+        "key": "2e0d92f055c679c6457a2fcf22e710e9a898d665",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Title H3": {
+        "key": "f385a78d1c1a67ba893c318dc3ad46f77cbb3d2a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Notification/Plain": {
+        "key": "57fdaabee99285af4dc560c03ee508de68a4cc96",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|alerts/alert + msg + 2 actions": {
+        "key": "b9bd8264b3f4acb074acb42fe125b6bb3c5b8c06",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Suggestion Bar": {
+        "key": "a598242b90970c8609810f9e0a6d44ba2208a76b",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Default": {
+        "key": "8004171ee41a535673af19f3943905f232bc0901",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Numbers and Punctuation": {
+        "key": "4fb4876ead3de908b6847b85ac1e8200b6b4e717",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS| Url": {
+        "key": "18739863bd25fba7930a2c370bf860210ab30461",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|E-mail Address": {
+        "key": "5c4ebd8d34480929ed5b8ea043f26b7087405061",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Number Pad": {
+        "key": "24c4dbd429047fe871d2a020bc08bdfcb3b8b531",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|alerts/alert + 2 actions": {
+        "key": "04946f83c7af8d2250bcc881002c5f49d567f086",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Decimal Pad": {
+        "key": "bfcbc51175989d88e94e66fe78d05307f7d32625",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|alerts/alert + msg + 3 actions": {
+        "key": "e6d94851fed1f641fe9acbb41b1eff7d66390651",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Phone Pad": {
+        "key": "469a899cb1291ce6e9f2ac4c1d4819b4ddc58c45",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Name Phone Pad": {
+        "key": "fc2b00d2874e3d31121aea5aa78f9c11285107e8",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|alerts/alert + msg + 1 action": {
+        "key": "193d453abbc8e78b295aafe3adee5b11d124b2d7",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|alerts/alert + sign in": {
+        "key": "a94d7ee8f20b647133daeba0f08646e28923d733",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Home Indicator / White": {
+        "key": "5592bee7b6f1c298c2bacbe46e55a268fcb43cc6",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Home Indicator / Black": {
+        "key": "92de0257875f40f42063918ad952cc4836099834",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Switch / On": {
+        "key": "26f50a32fe2ee959d42ab53a7444fe8bf90f74a0",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Switch / Off": {
+        "key": "9490738a0bca6644e6967d194717cce44f30dd4e",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Predective Text": {
+        "key": "c99af54bd46a9f704f5adf64aae286c75507b19f",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Default - Numbers": {
+        "key": "56dfd85922103bde0592e01dc3d1df1f7020b1dd",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Numbers And Punctuation 1": {
+        "key": "5108842679d012309305ba652859bb15fe72ef1f",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Url": {
+        "key": "aa9303326694f5cf3030e6fa4cede31b4e1e7ea2",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Deсimal Pad": {
+        "key": "b27456c920cc59959d61718da2f276a57b3865c2",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Phone pad": {
+        "key": "d158d01b77d87629a038ca09e970a2d6e7f9cce0",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Name Phone Pad - Numbers": {
+        "key": "e324103b50a9b6d05d322db15dc7cee9e266dfbb",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|E-mail": {
+        "key": "fd8ea185d8699fbb48c6bc3f3074eaefa4c5ce9a",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Numbers and Punctuation - Numbers": {
+        "key": "428c80052bd9112b09fc2d5a407141d5c17dce6a",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Segmented Control - 2 items": {
+        "key": "8e5e8c53b37a7262173f2ff7fb35ee363538c87c",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Search / Default": {
+        "key": "f7afd5023d6ae7807a669c4618eedfdb1c333be9",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Search / For Navigation Bar": {
+        "key": "1e321c3c162eb1a5b86c73becca8c2682ca30a47",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|single": {
+        "key": "aaaaa830d363abad80d3ce253a2419fc6abe1645",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|double": {
+        "key": "30af9756b17ba4b7ac59c6102ade3f0e181a1dbb",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|triple": {
+        "key": "d6f35596a903bb880b4b740de406ac56a413fbdc",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|PinPad": {
+        "key": "f065d582186614460c55a154b6bd3feb69889855",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Status Bar / White": {
+        "key": "6a1974f1df9b9237814191616807011c0e23a6a9",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Segmented Control - 3 items": {
+        "key": "022ef18389251bafdb9225094c70d4370e359557",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Status Bar/ Black": {
+        "key": "5765e0b7f9ef49a9ea2e125ef360217a35f5167e",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Controls / Segmented Control / Light / 4 Buttons": {
+        "key": "639338f33066c96b4eaffe58aaed287077114436",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Controls / Segmented Control / Light / 3 Buttons": {
+        "key": "5cec9b1c5c1ed8005f22aa3f9bf0c5ec93fc295b",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Controls / Segmented Control / Light / 2 Buttons": {
+        "key": "039247ccf636e57ba8669608037542d5c775bd94",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Status Bar / X Black": {
+        "key": "c52804e641d0ae36fab68c5822b5da0a55989529",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Status Bar / X White": {
+        "key": "ad35fd3830942649524e6aae9bcd8a9b353c19ba",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Controls / Page Control": {
+        "key": "999252df0ef30bcc242892b759c0f76e59457dbb",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Notification/With Icon": {
+        "key": "2651fe80bcb3e7a635480109d2ceec339cae6ae1",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Action Sheet": {
+        "key": "7ad232cee0c88d956fba273ad3f13d83f4209464",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Action": {
+        "key": "1cc715544383988387b1bf3a48018ecc1393837b",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Context Menu": {
+        "key": "a7ad89e362d1bf1d83b8a89015385cab544d9cd5",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Context Menu / Header": {
+        "key": "9875d2958f1cd86fdf0d9292afdd130fcc94d9d0",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Buttons/Apple Pay": {
+        "key": "fff551e1f05b423a0d207072d8f94c44bfdc9a41",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Keyboard": {
+        "key": "99198c4bc61d95997e3320b630c503c0ef96bd1c",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "IOS|Keyboard/Letter": {
+        "key": "fc025dea8ee701b2a97e1bb24f486b4e62b21403",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    "ANDROID|tag / normal": {
+        "key": "2a17c70d764413230e9452225a99d0e7a735f881",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|tag / active": {
+        "key": "40908a442d0c05120993ca0be9a1f13bcf52c3d3",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|ipsImage": {
+        "key": "8f4014c70e3765b5fa7985a94d6073f67119929d",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|ipsImageSmall": {
+        "key": "4299dc0529e86106fdadf21b685a739a21956dba",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|cardImage": {
+        "key": "d29775d50b26125eb611ced1d9bc2e9280992b27",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Markdown": {
+        "key": "d48ab9e29aad8cbd1c534b740b466e2b340cef30",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|faceImage": {
+        "key": "919e0c7acbb9971b273fe6370d9921789ec01f36",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|progress / 0-100": {
+        "key": "f8ffdaa9c55e5e25e15ee76232d19cefd931360b",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|progress / 20-100": {
+        "key": "d23d6cb70813f679745fa68446cb4cc17dfa3a25",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|progress / 100-100": {
+        "key": "527f8bd7407496c5c37d53dbe3c8ff1608ad51d4",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Markdown / Header 1": {
+        "key": "6fa6948819ba014472957276d7c85e32d3a33e7c",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Markdown / Header 2": {
+        "key": "c34f14f99833c6c91085195132f392829d49f48c",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Markdown / Header 3": {
+        "key": "3f737ae156e2fd11a860e450bb63f7bdec1c0e62",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Markdown / Header 4": {
+        "key": "48e183f7c7edcb1c6790c2c401da95390fcda045",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Markdown / Description": {
+        "key": "6fbcd7e60883035e4e1932267d74a98e4d26ea43",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Markdown / Text": {
+        "key": "a8f4a82f7683018afd43e9f4e532eb9e10b64ba2",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Markdown / Quote": {
+        "key": "06cace9bdf2d8d9a9db1c4b4a1b60d4544ad7176",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Markdown / Transparent separator / 32": {
+        "key": "ca181715b6dfa8f4a3da929e85cd3dce261b82f0",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Markdown / Transparent separator / 16": {
+        "key": "dfc6ec8c998b74c38ea7f0e2323bfceb5239ff2b",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Markdown / Transparent separator / 8": {
+        "key": "b6d3177761c30114ca61fd8dd3e354b70b073538",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|PaymentsNavigationBar": {
+        "key": "e5244df8428412a047797d9ff369581ad01606f1",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Markdown / Transparent separator / 24": {
+        "key": "f510828aea32bbc61ee10bee04458fa2ac48a57d",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|PaymentSegmentControl": {
+        "key": "5d26a295af239a3fdf4b909c415d085f31649eb0",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|AccountNotSelected": {
+        "key": "27052e5234e42f7e36844b9c329e02323ade0654",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|card_cell": {
+        "key": "e9a7461ecce628f3a34410c6c97693f6558db070",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|card_image": {
+        "key": "4ea3c646d8f521d582893cbc712dccb44fa682a8",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|CardTextField": {
+        "key": "6f81a2b18162dce5b9aee5d039eca550e3fdf939",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Markdown / Image / Cut": {
+        "key": "f2ec26364a3b32bf1abda0bf5b2106b918ad0040",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|RadioButton": {
+        "key": "060bf323e30e90d5d5236152fb9a6669127db2e3",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|RadioButton_Active": {
+        "key": "35d160b902a9bc0a75e257c70b1419b52115f0db",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|RadioButton_Inactive": {
+        "key": "dd4c07a33bdf65dd934b53b7dcadda2fd796e337",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Chips_Active": {
+        "key": "daf4ee89b8b124c42feea9476009d97cde825b3b",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|android-select-cell": {
+        "key": "a4ca1805abbf551a10cf2469ce8533356d9b43a8",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Card Cell": {
+        "key": "500e30a68c329b17969effa36ce831c8b156dcc3",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Chips": {
+        "key": "ab4fd7039f06e4adc4870df581f95fbc7392a1bd",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Chips_Inactive": {
+        "key": "c0014ed969de024a1c19938d5b04ce03ad3ad2b1",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|CellWithSubstrate": {
+        "key": "1e4afa3d1c3bf935b9255455b5bd7844aeaf286d",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Markdown / Image / Full": {
+        "key": "286c2fe06a1f662351cad47f98ccb3dbdfaf03cb",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Markdown / Image / Square": {
+        "key": "b8b5d9da49951df07b5938d41a176edb9fe63b61",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Markdown / Image / Long": {
+        "key": "e17b5a4de95f97cf2046ca83b76e1a43df9b550d",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Markdown / Image / 16:9": {
+        "key": "7d5e997536af78ee57bb479044a9e9d615f9472a",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Markdown / Image / Main": {
+        "key": "28083bf13e608d6fcf4747fe318ce5c5c9ff86ee",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Markdown / Image / 16:9 / Cut": {
+        "key": "f6d3a1838f3cb2c7e8ad621c71ff7ae840155d42",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|TransactionalStuffWithRightImage": {
+        "key": "37790bd082879567d7a078d2c30825b702071b21",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|ContactListItemView": {
+        "key": "b0aef18b1dac3786c2ff2fa07054bb3c3b2dbf3c",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|TitleSubtitleArrow": {
+        "key": "6882d8be787f3d1a4100344e45637ae0227da9f1",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|RegularLightDark / Big": {
+        "key": "c941cc45d7493b3f6d88c2f1077a8067bbd824f0",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|RegularLightWhite / Big": {
+        "key": "4c139d3c4a830f6beb95712f7b05339126ff883b",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|RegularLightDark / Standart": {
+        "key": "c9c2bf18ca36f75f2548725c02bf8418984aa73a",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|RegularLightWhite / Standart": {
+        "key": "afcd038b782af02be5c6bb9ff759a070a23f3639",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|RegularLightDark / Small": {
+        "key": "ee36b9fc1775738e3a5bfe909ed092f8f9c42923",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|RegularLightWhite / Small": {
+        "key": "ab3b767d85256f42e9646d752fd9ec7faed2153b",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|ConditionalProgressBarView / WithoutSubtitle": {
+        "key": "207fb78d88125b6f7496b510a8f235ffe2711db6",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|ConditionalProgressBarView / WithoutTitleSubtitle": {
+        "key": "740817081ddad7141b8f603e73383835c257954d",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|ExpandableTextItem / Standart": {
+        "key": "bea7ba42c6f810825eb82afc720b3dc49c7aa5ee",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|ExpandableTextItem / Active": {
+        "key": "621fa619d9f902f23037c96793765402e1788cb2",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|input / subline": {
+        "key": "eb28098066c4d5d642d93666c8ffded84001da84",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|CardSelector": {
+        "key": "7f45a1b8d07cef82f0fdb2d319d02bb44aa79bee",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|ConditionalProgressBarView / Standart": {
+        "key": "d7474cb2e2f2a79356f649dc00af0f72c6b3cbfe",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|LazyLoad": {
+        "key": "eb8af34a400440a4e43aaa7b042d8661130a33c9",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|TitleSubtitle": {
+        "key": "122b358045a4a0d8b0693aaddfdeb7f797a18d52",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Title": {
+        "key": "eb85b437a16f938a4860bf46c0920557287c4cfd",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ImageTitle": {
+        "key": "c723015554bf6f23ac8c3ad9a56fea5a30ad25c6",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|ImageTitleSubtitle": {
+        "key": "bf37cdf689ab101afed29f42b2f14eec6990c992",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|RubblesBardActivity": {
+        "key": "10afdd335417b080b1e5ff7bb7e57d1db1ae9e08",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|OfferCard / 1": {
+        "key": "ff67098aa8c3d6520ba514515eb6cc637870f306",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|OfferCard / 2": {
+        "key": "76ab3a0143a9161c2d9f403a226d37c2120c927f",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|OfferCard / 3": {
+        "key": "2ac998536215b5160582380decfd122ae7b3f705",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|OfferCard / 4": {
+        "key": "766789f69415a66bc0fbf85de8df4c1aba4446b1",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|tabbar": {
+        "key": "949485f2828a8f0b477746d01324a1bc6385e5b5",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|tabbar_middle_black": {
+        "key": "02bf35661d5cce8020944142a770d75d8d2bf117",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Toolbar / Title": {
+        "key": "8f36b8ba6a7b0132590f0c4f986b221ff4ce21af",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Toolbar / Close": {
+        "key": "8513f624eef4814e7e149a98146b94318dc36eb7",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Toolbar / ImageTitle": {
+        "key": "63d1ad1a04457dd1cfafa4fe3e7df4c1234cc288",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Toolbar / Search": {
+        "key": "1a81177ab6dce4f31c50b09c62292824b390e5c7",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Toolbar / TitleArrow": {
+        "key": "a6482137b0dd49979060b41aa49fab5bced7ea1e",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|SelectListView": {
+        "key": "348f10fc9a83c3581678aafe2dd237b8dd3c6815",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|List": {
+        "key": "fc9361c2c41176eeff92ad79661075df13eee951",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|UniversalItemCard / Simple": {
+        "key": "e9a23af5ad3e94ce4a91029bf85d0df0d1f05d57",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|UniversalItemCard / Suber": {
+        "key": "cf03edf6015f25d40c07440a75c54b9fed8e487e",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|UniversalItemCard / Super": {
+        "key": "71a4693a09c6fa98edfcea304f76e82b229f1dce",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|UniversalItemCard / Full": {
+        "key": "3b7109dc960c8d5663bb025bd634ecdff60bf651",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|button / normal": {
+        "key": "05ef051e128f5d18b27c8885714f08bf9bc7a633",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|button / pressed": {
+        "key": "45c659a2687dbb8ab6fccb18b36e1be610fa3b2b",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|button / disabled": {
+        "key": "ca6e21292167ea186a47735e3dcf34d5ca2e8935",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|TwoLineListItem / TitleSubtitle": {
+        "key": "43de1db6614897b89756b6abf4d59e4ed29a351e",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|TwoLineListItem / BigTitleSubtitle": {
+        "key": "51c20d79a60f59c6c7cb31802124438dd4359432",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|button 2 / disabled": {
+        "key": "7dfe014219925f3c17802df16326b4004b287353",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|button 2 / normal": {
+        "key": "c5970d7204fc11802a7486145d93e6046d766257",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|button 3 / normal": {
+        "key": "d8fe5e80e00079dc660c70d95c3dc0f11a2b93ab",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|button 3 / pressed": {
+        "key": "c98e2ea13750cdbea46b88405f950d670719ef55",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|CustomerCardView": {
+        "key": "4743f619492a91b8cba8651b34c32607b491159e",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|button 3 / disabled": {
+        "key": "5fd4a9baf113e06d736047b19030e20544989c98",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|RowCell": {
+        "key": "3ef9d93fb01fe32cf7894452acc2fe50cd4c4757",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|RadioButtonCell": {
+        "key": "696e409db7ff6b5ca344ad3217b0928cc78a201d",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Cancel": {
+        "key": "e2942327fec755db5f61f12f641cd21bc0cc7330",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|AccountSelect / Standart": {
+        "key": "03b6b58b5aed3a5907a8d8d1f8dfc2eb7dc6b39e",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|AccountSelect / Big": {
+        "key": "4eb45ac812b088955a6618c1d920f47f24c2c667",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|button 2 / pressed": {
+        "key": "3fbe113c449de9834f9edaf18775b46efd1eca43",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|GreenAlert": {
+        "key": "e7b1688e2836d2d0881b65a81b4ce65db1ec0113",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|CardSelect": {
+        "key": "17eea2dd1d4f7afedf439ef8749c577f20884d57",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|InfoCard": {
+        "key": "19c7b51c999f4d29e1cf3e528d58e2093138d4e8",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|P2P Card": {
+        "key": "4b911f29fbf8681fa26973356ab2b3142ddcf90d",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|DigitView": {
+        "key": "e0d65c1a425b181a210b76a6d7898900d9a2117a",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|EmptyView": {
+        "key": "afcd5de6ad1916dd9c96b26f9dd0233cdf15ed42",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|PopupWindow": {
+        "key": "2e224ee36fa778af2dc953dbb5fbe2b594e787de",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|button": {
+        "key": "19ac1c2ac3f19176d24466e39ce24dd4752092de",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|FaqView": {
+        "key": "80d7178bbbc753f7236b4e7fe73e95c1d93eee2a",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|InputCode / Standart": {
+        "key": "3811f5f7cb7911f49ca24da8b897ca396b7acbd2",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|InputCode / Error": {
+        "key": "19c7a6c634408476e89823ed2a6f95ae8aefbef1",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|AccountSelect": {
+        "key": "195a35b291f988a6efe2da6255d28c0fda53a522",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|input / desibled": {
+        "key": "b72e5b6a673dfdb3f5cf3c94e9b17a462ee2318a",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|LongTitle": {
+        "key": "2f6645b1aaaf8d7df65cac2cd83574c5ddf966a9",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|input / filled": {
+        "key": "bddc2ce84328f87a744ce3979e282586322526a8",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|input / not-filled": {
+        "key": "a01d11d88f40c80c9fd68a63af1be17fc8fd4153",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|input / label-error": {
+        "key": "be40dc43ed994fce2eae5e809b3e1dbcd64819af",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|input / no-label-error": {
+        "key": "7103e6b4989fb2a191ff9c9096780ac8e8517268",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|BottomNavigation": {
+        "key": "ed52d35e947d3ce14a1df75adefa7ba6f5fc933a",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|row_toggle on": {
+        "key": "ae593464391844c451ad4667c3e955d6715701dc",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|row_toggle off": {
+        "key": "fc1e1bb5815d7bc3c390769d5543e21a88d8b035",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|toggle on (android)": {
+        "key": "e155026f86f1546fd96f56eee459e220d1a74f9d",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|toggle off (android)": {
+        "key": "087bdf60e10483ea66cf48958d08e087ff9ddb10",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|CardWidget / TitleSubtitle": {
+        "key": "f49e7ae3550d0c265192c090474dd9342157b33d",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|CardWidget / TitleSubtitleDescr": {
+        "key": "c35e91fa3f3874b623eabfef28b4ff8db8d0e1cc",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|CardWidget": {
+        "key": "ee6fe72c63c59e7fd3da7df3a64eba0a522a98c3",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|CardWidget2": {
+        "key": "1aacaea26d2512d5115343933aeec87de90b38e2",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|CardsViewPagerFull": {
+        "key": "4f280aa0c477c161231a69e652629186a007b346",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|FinalPayment": {
+        "key": "776eabcbc61efc7b8dd0142d246c11447089596f",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|MobileTransferSpinner / Big": {
+        "key": "75536539bfd74cff8e740d8579f412582b225bf5",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|MobileTransferSpinner / Small": {
+        "key": "007c99443fc4f3f7760db3b4cf74c418189f9b09",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|AmountPaymentControl / ActiveAmount": {
+        "key": "d8b64fdbddd4f0c31d18c7dce9379d6f35a249c3",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|BottomSheet / Title_Big": {
+        "key": "c47ced0cd4ebafdb6169e062e6e6fc2e8261f10c",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|BottomSheet / Title": {
+        "key": "ed9cbcf315fbe259edf98ce41885c11b1fddd680",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|BottomSheet / Master": {
+        "key": "c5fc804c8802e83260f1c8394642e1dba0e15ee6",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|TransactionalStuff": {
+        "key": "5d33e5ddd53c27ca7120327642501d97ea8f2afb",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|TitleChips": {
+        "key": "2dce3afd907d5ac34df73ed825f34f4420aa3c1d",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Switches/Tumbler On": {
+        "key": "f76288592fa1b3eff7b118c7eb0c590e20956648",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Switches/Tumbler Off": {
+        "key": "24771c7abd920fa369f75fbffd8a21a74f425928",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Toggle/Cell": {
+        "key": "71f7d722fbc80cdc69b2d8ddc6b15dfe056e97c8",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|AlfaProfressBar": {
+        "key": "e00a2169e49b568db508246e084953f4dc533fa2",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|ArcProgress": {
+        "key": "a1b1a9cd17e36323a1a1c2eca193a9dc16d34021",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|BrandProgressBar": {
+        "key": "914dea837376754897b03f88f0d1e192058b89d8",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|SubtitleTitleDescriptionView": {
+        "key": "bb64986931994c3fc5f5379a12d6390b24841101",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|SubtitleTitleView": {
+        "key": "302ca5ca1dd95804b55fe6cd45dce011adf7a6db",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|android_pay": {
+        "key": "429fa9d9bf5fb06a40a9d85f4d8fcd6f6e3f9df1",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|ChipsView": {
+        "key": "4a483209c6a4d2eba35081e498f579fde8d17237",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Input/Chat": {
+        "key": "070a40e3f9a8fd1b7179decdf089e6ad8d92e56d",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Bubble/First/Client": {
+        "key": "137d7ca910d7723e1666f4b51d36e8e9aec91140",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Bubble/Common/Client": {
+        "key": "6b7a5f98fb748cfe093fc312b42de5433aa3fc5e",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Bubble/First/Service [title]": {
+        "key": "9810e458a6c0f820295c094b992d61a0410753e7",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Bubble/First/Service": {
+        "key": "674ba9d632da7d199224564f64693288c441b9b2",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Bubble/Common/Service": {
+        "key": "1575c6e116286c09f4ce70b997dec53c261656cb",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Rate/Not Rated": {
+        "key": "e0f09ffc21698a9c5cacc079bd6d718f2699f9bf",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Rate/Rated with Number": {
+        "key": "2051bb3a3307a868bc0a10ce96e82cd335da06ce",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Rate/Rated with Thumb": {
+        "key": "ff67090650973c26fcb9459558f7ad341035dff4",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Date": {
+        "key": "21523d5f60739381fa46e88c6e7a0d62c70e3b94",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Info": {
+        "key": "daf24c23ce37cadc6224a4335d00f06df643790c",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Rate Button/Not Rated": {
+        "key": "ad7d79a5ddc3b38a2490bc1d4dcedf9a54641eb5",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Rate Button/Rated": {
+        "key": "c504bf96775fda4e79c17016cff7e362c329ab73",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Keyboards / Light / Main": {
+        "key": "04d21ea1008acc4c4f39b7c754ad1bd7efff9002",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Icons/icon_logo-alfabank_xl_color": {
+        "key": "2bd622dcaf2a7db07475afd5da0d0f874b70da30",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Icons/icon_bot_xl_color": {
+        "key": "13cd1ff99742eeda5f92d66b8b3306442114796f",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|CirlceImageView": {
+        "key": "753e8edb254680e3df8689c13fb7d9b13e200ebd",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|CircleProgressBar": {
+        "key": "e762c9886b9b32cc06a16d0a5be8239fd1150d70",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Header / DateHeaders 1": {
+        "key": "1cdcfa42abf28acc53154582020c7472a3f71123",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Header / DateHeaders 2": {
+        "key": "63b1acb137a47d76534e51ced47540d372cb1bed",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|dividers / normal": {
+        "key": "3d112c57d4f310143388bdf94ef50986f652eb89",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|dividers / 12": {
+        "key": "987f59f12afd24be519bfa9a4fcdd47e723e6a56",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|dividers / 16": {
+        "key": "f0cb34c56ff2abcb7554d60f97555eab7906c7f9",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|dividers / 48": {
+        "key": "3157a269d0ceee55f2c68e9ac5b44dfc4c180512",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|dividers / 56": {
+        "key": "5cac2799047cf670bfa55f135c64dae823610eb5",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|dividers / 72": {
+        "key": "d404b3ca4702b59dd63ea2a82eb63899355b6024",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|header / dark": {
+        "key": "613c227f5d538d2d9be62b52bc1a301e73418409",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|header / white": {
+        "key": "9f66b51e477b3a8c151e10ae07a212b29106c649",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|header / light": {
+        "key": "5220699aedc3f461fbab181646367af40a17479f",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|RedCircleImageButton": {
+        "key": "26011f03e5d776ff6bbf1f496849e3ad69d10b5a",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|RedImageButton": {
+        "key": "7d9e2dc512cbe3e5b50e45d5f3ead342fa98c8eb",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|WhiteImageButton": {
+        "key": "b6c7545c2d0056ae42c00884c97ad1d500afef17",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Android 2.0 / Sheets / Master": {
+        "key": "c4b1fbca1738bc900202bba462846400e55c82f2",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e"
+    },
+    "ANDROID|Android 2.0 / Icon / More": {
+        "key": "e04e4681d4789d34f61d24bb4244378253cb6fda",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ProminentTopAppBar": {
+        "key": "981e64d03f96a0708cfd67800b9c67480d86f8a9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|RegularTopAppBar / Gray": {
+        "key": "5e0966593be5ae98b6f899262e5fd9350bfc5681",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|RegularTopAppBar / White": {
+        "key": "e2300b5b82164c93cb7bdfda59a2ac3baf83fa55",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|RegularTopAppBar / Context": {
+        "key": "286413b3e4d298fc56bac76ef1816d48f35ffd0d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Data View / 2 lines / Transactional": {
+        "key": "8b908a5a07880df572b6be710e7a9b8b768bcc45",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|icon_S": {
+        "key": "f84a3ea23e5164bac7af4345044071b210927fa5",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|icon_XXL / no_badge": {
+        "key": "c41701c59a3cc4f08be4f8a6dd0df2460a207f59",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|icon_XXL / round / bottom": {
+        "key": "c7d519d22a1861962ed6a60137c4e391a3f33057",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|CurrencyPickerView": {
+        "key": "e47f59c5a2a07289dbe5cec551a45588c260e663",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|DrawPatternPadElementView/Off": {
+        "key": "8b27367193a91f37589a6f7419762a53b15a6350",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|CircleProgressView / Process": {
+        "key": "99fda07d58c63dea30cec472228bbe4c00fe3588",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|CircleProgressCardView": {
+        "key": "2acee61f6dd24bc44f314916de5392b8c022b84c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|CircleProgressView / None": {
+        "key": "5255aecd30b6940797ae64f5c9ba6a91f291ccfd",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Data View / 2 lines / progress": {
+        "key": "964c4338e74b8cd5e472da93977106726062a929",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|CircleProgressView / Successful": {
+        "key": "4b1089bbd9bd917bd014df9221d98bc8820f52d9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|LabelledCircleProgressView": {
+        "key": "85a61bc1c5df5ca8404fde643a82e192db5a375d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|TransactionalListItemWithMessage": {
+        "key": "a0ebc2ccec7d4648399b6f6aa926bdb44937b3e7",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|KeyPadElementView": {
+        "key": "c6f4722ab4586dedca13071b348ceb4bd06c3858",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Data View / 2 lines / Icon XXL 2.0": {
+        "key": "bf5fcafe98f60eb0b86f6a1728190bff3bc91a2d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|KeyPadView": {
+        "key": "eb5885c5776b9c96df7708a1ad452c17e7adfb93",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ExpandableTextElementView": {
+        "key": "861367c83a2829be0d8b985b5309a4493e7cfd42",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|HeaderView / Primary": {
+        "key": "105d82b15a3e848da532b97fbb82daf31b976da6",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|DrawPatternPadView/Off": {
+        "key": "559c70b0fcda12485b0f62b84bfd48415918bea9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|DrawPatternPadView/On": {
+        "key": "e4092c87a2ac4f010db3f72be48987dcd6720ba9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|DrawPatternPadView/Error": {
+        "key": "94240fb7c01ecc38596eb4bdf129714e6dc56190",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|DrawPatternPadElementView/On": {
+        "key": "8935902a952b4803834cbcb7a4ca30c76b03606e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|DrawPatternPadElementView/Error": {
+        "key": "1969e02b3f9e5de707f81bc30f5ad2ddd4305e72",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Data View / 2 lines / Icon Center Revert": {
+        "key": "2ed9a49b0348f90068818d1a4b5348c706ab6959",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Data View / 2 lines / Big Icon Two Subtitle Icon": {
+        "key": "b04995ab9ff2e9a2af4beb8500ba91c8ce655078",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|DeepLinkButton": {
+        "key": "1646236f7ca3b8e584eb940d5033aac909e56262",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|TimelapsePageControlView": {
+        "key": "d550fbee18348843f8d0b7bc15db257b0fb94439",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|StoryView": {
+        "key": "6447b65239d4ae1c855beb377e9ce410518e157b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Data View / 2 lines / 2 subtitle": {
+        "key": "66b1a6185b8072c5fb474abc96d7b420df6e9221",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|MerchantLogo": {
+        "key": "4ed5bd135de60c6e96a22b7c20b5e5a3329c8934",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Bubble/Right/First": {
+        "key": "f785b863e96c3dbe73eeb02709ad350769bf2b45",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Bubble/Left/First": {
+        "key": "29fb4a9c769a94361db6be1751f0a84431eb3c46",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Bubble/Client/Text": {
+        "key": "9fdda3ae147059a22875746e1b42a43fcab31329",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Bubble/Left/First and Last": {
+        "key": "a006e87f60b7daa3a137112f3744044fdd9d6204",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Bubble/Left/Top/First": {
+        "key": "745a73182c1a286eae29e7ae3f82acec996845a8",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Bubble/Left/Top/Middle": {
+        "key": "f471e593ccdeaeaac1daee5f16ea2508a2549725",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Bubble/Server/Text": {
+        "key": "11de95ce2b45c0d8b6e6103206e04f4a003e3266",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Bubble/Right/Middle": {
+        "key": "5a3afa672f85650b5209cb3fffb2bad26dbb8eec",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Bubble/Right/Top/First": {
+        "key": "8acacb6ca10797cf2fc563638abca9df21a6eecc",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Bubble/Right/Top/Middle": {
+        "key": "2bc8cf73075ec1d7a399d394f94a9753418e6752",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Bubble/Left/Middle": {
+        "key": "7fd8373b05fa57cc749c565d76e2b2f774041761",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Bubble/Left/Last": {
+        "key": "5bb44b33ac1ae2b08f60c7234d3ebd05a68f1ee1",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Status/Assistant": {
+        "key": "507163515b6660c8ace7b221f616face8d4bba14",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Status/Timestamp": {
+        "key": "8ff6e81519328b6a910f49e1096b545a0d887f57",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Status/Assistant Rate": {
+        "key": "660e7585081792a82c180d5f0f8935e2dd3ed1c6",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Status/Business": {
+        "key": "06c0ffb793c89155f04900f836e2cdca7d3cd786",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Icon": {
+        "key": "44114e37118d698254a11a692b3dbbc5a0de95b8",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Bubble/Image": {
+        "key": "c3cf6639d19674e0401d73d7c8f808abeb2e2a22",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Bubble/Server/Attachment/With Text No Button": {
+        "key": "179807082f80fdb8e0abab2ace5d8516382f14a1",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Bubble/Server/Attachment/With Text and Button": {
+        "key": "d1310c4f439cef73e3045000e0316cf2d0aa2629",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Bubble/Link": {
+        "key": "805cc8c2a72c46bbf6e718072a08d044d94ce1c1",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Bubble/Client/Attachment/With Text": {
+        "key": "da8bae520ac1423a4972ef4b6988f878592ad216",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ChatView": {
+        "key": "e8b7e58f6aee78915ab3f30c3b6cebd6e6f4e531",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Group Icon": {
+        "key": "06d913c75ca89373506d5036102464582bb98a11",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Checkbox/Off": {
+        "key": "7e7f86ab9000b9c23d49e4a82690f0be4eb14068",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Checkbox/On": {
+        "key": "bfff8ef39d834428d83826165a67ad47bf95f69d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|CircularProgressBar": {
+        "key": "c555829ca6c4c885a0817d52f4fdacb073ef2d65",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ButtonView/Secondary/Enabled": {
+        "key": "5f67a8c924560fbe6f6fd63f8a9cc1918d926093",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ButtonView/Tertiary/Enabled": {
+        "key": "1606871537c27e06a309c496e30d1c944811be6c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ButtonView/Primary/Disabled": {
+        "key": "670c6346c3fbedd50490bd1692acee29d67e7400",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ButtonView/Secondary/Disabled": {
+        "key": "0581ec8a3c1a3f70100e6714ce6ad842db7ec958",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ButtonView/Tertiary/Disabled": {
+        "key": "5d638d65526fce649927261e67cb460301e031b8",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ButtonView/Primary/Enabled": {
+        "key": "568e7ec9896ab40998264ec2d6197457f3001ff9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ActionButton/Secondary/Enabled": {
+        "key": "9d818991b54775828d543bfdb348cac3c8f9add3",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ActionButton/Tertiary/Enabled": {
+        "key": "c012995195df5b801b66ea517d699e7c0d6677c4",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ActionButton/Primary/Disabled": {
+        "key": "521d792bdd8874b36cf0b7b4bffaf84e2e0ec567",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ActionButton/Secondary/Disabled": {
+        "key": "ee5caaa51331be439115b534dea8fff629c140db",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ActionButton/Tertiary/Disabled": {
+        "key": "6c803dd63a1b83939dba080880f6c3476b25ab39",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ActionButton/Custom/Enabled": {
+        "key": "718ddcd2f4c3629f7add22e1e0060140b6ca320c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ActionButton/Custom/Disabled": {
+        "key": "ba6522ab081760f3d5942229eceefc7f294f968c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ActionButton/Transparent/Enabled": {
+        "key": "b53e308ea7e7e29ee0b28555b349ae3798262297",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ActionButton/Transparent/Activated": {
+        "key": "4655483d9e8b7c54ec08d637370d7d2b8925a555",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Data View / 1 line / Default": {
+        "key": "207100da6afa1fbf4ab14410823fbd8ed1fefe0a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Data View / 2 lines / Icon XXL": {
+        "key": "dc8d1c4284d644092463e856a4ef9028b09fe647",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Data View / 1 line / IconM": {
+        "key": "09b74d04bbf007dc8b83150ea07b6df6af3350e3",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Data View / 2 lines / Icon XXXL": {
+        "key": "3599b116e8bda5c03f4e4e0610048e6ef4d95dc7",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Data View / 2 lines / No Icon Label": {
+        "key": "155aa9fac0cad6152d7ffa90dc012bd7fe1df0b6",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Data View / 2 lines / Icon Label": {
+        "key": "dff522f2129fafcbead2ace06e7dd6faae13bd73",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Data View / 3 lines / BigTitle": {
+        "key": "6fc1744f3958f0fafed1a93bbadbfe04a777393e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Data View / 2 lines / Account": {
+        "key": "da4448fbcf3188eedff677d14d0d37357a47e717",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Data View / 1 line / IconXXL": {
+        "key": "d3b509b1e1d1c7da167034a53168292589054ff4",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Data View / 1 line / IconXXXL": {
+        "key": "fa46e3461767f4d59b51ee43f3a8099f113c49a8",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Data View / 2 lines / No Icon": {
+        "key": "1b7cd75ed1c13b8ff0d3926959447ee3d6c40583",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Data View / 2 Lines / Icon M": {
+        "key": "470843b5138074e6e77bc493b179851b4d62d99c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ExchangeRateCell": {
+        "key": "c66ac9cb2538b4c8ba11b0eaaf434e444650c1c2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|PaymentControlAccountSelect": {
+        "key": "6cf06a03d67d85ccb92ad160b5d65378dc1d17db",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|PaymentControl": {
+        "key": "6910e90a9ca254982e89660385092a24e00aa25c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Image Title": {
+        "key": "938cd911bf9a3febff918fd22b5e1742e11131f9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Title Opened": {
+        "key": "36ea78e0e2cde63061e95534970c879772fbab81",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|HeaderView / Secondary": {
+        "key": "c6cf0ebb45ca843fb7d5da50325bdbdb3d290cb8",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|icon_XXL / bottom": {
+        "key": "9a0ba02df0c6e3b8a20c2b976ba25eb7573d6a56",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|icon_XXL / top": {
+        "key": "0f8a6bd2f8bcb581bc69f7808b86476f51735229",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|ActionButton/Primary/Enabled": {
+        "key": "9f190ed36b5b4826dcac47b9dbc741f4d5a91b46",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|TopAppBar / Regular / White": {
+        "key": "516abce4e2d3064874678c29ddf67ef2ad63d2f2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|TopAppBar / Regular / Gray": {
+        "key": "7243e3c8fe6c2afed99f289ad2b5836ee7594e20",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|TopAppBar / Promiment / Gray": {
+        "key": "d7bcbfaea7eab06e155850054d9cddeadb2105a3",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|Letters & Numbers": {
+        "key": "944edf54b6e2ecb0c21890a0555a9fd85fa3f722",
+        "file_key": "y4cihIhbipeclFDFkoNhgZ"
+    },
+    "ANDROID|Default": {
+        "key": "077ef4d34e7e33ef82da9a9294e98cadaf3a2eba",
+        "file_key": "y4cihIhbipeclFDFkoNhgZ"
+    },
+    "ANDROID|Decimal Pad": {
+        "key": "7fb844c792f655bd83e63bf072515c7b65494407",
+        "file_key": "y4cihIhbipeclFDFkoNhgZ"
+    },
+    "ANDROID|Calendar": {
+        "key": "bd3af3fa9d717106881b60257ce155b226e213e4",
+        "file_key": "y4cihIhbipeclFDFkoNhgZ"
+    },
+    "ANDROID|Buttons / Text / Enabled": {
+        "key": "8e9a5fc38272d9c33b728dd6f96a9b02b5af5ce1",
+        "file_key": "y4cihIhbipeclFDFkoNhgZ"
+    },
+    "ANDROID|Dialog / Basic": {
+        "key": "5517316e1e86df89b266e3c4c84b9799cf23fc5d",
+        "file_key": "y4cihIhbipeclFDFkoNhgZ"
+    },
+    "ANDROID|Dialogs / Simple menu": {
+        "key": "0392b81500a50e6a2c02677e02da8eee6637b227",
+        "file_key": "y4cihIhbipeclFDFkoNhgZ"
+    },
+    "ANDROID|Single Choice / Selected": {
+        "key": "6250bf6b2de8730d635035c4a4dc2c5c2ba5b4e0",
+        "file_key": "y4cihIhbipeclFDFkoNhgZ"
+    },
+    "ANDROID|List / Cell": {
+        "key": "baa083afb0d0a2d727fca8f57cfa59f946eb0105",
+        "file_key": "y4cihIhbipeclFDFkoNhgZ"
+    },
+    "ANDROID|Dialog / List": {
+        "key": "f3fd30f76c3faf06614901300de1ced10d4ff3f2",
+        "file_key": "y4cihIhbipeclFDFkoNhgZ"
+    },
+    "ANDROID|Single Choice / Unselected": {
+        "key": "4cd162ee4cc0bb362d1c1366630545135e1d9b28",
+        "file_key": "y4cihIhbipeclFDFkoNhgZ"
+    },
+    "ANDROID|System Bar / Dark Indigo": {
+        "key": "05ffe0d67399b125ded1712fc0c5e494829bea63",
+        "file_key": "y4cihIhbipeclFDFkoNhgZ"
+    },
+    "ANDROID|System Bar / White": {
+        "key": "114535dcd34f4f021b42dc3ead7910d479d3f4d7",
+        "file_key": "y4cihIhbipeclFDFkoNhgZ"
+    }
+}
