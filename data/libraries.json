@@ -14,7 +14,8 @@
     },
     {
       "name": "iOS Typography",
-      "file_key": "KDnAFN7TahUEDndgaJRhOi"
+      "file_key": "KDnAFN7TahUEDndgaJRhOi",
+      "type": "typography"
     }
   ],
   "ANDROID": [
@@ -32,7 +33,8 @@
     },
     {
       "name": "Android Typography",
-      "file_key": "Ffc7g24UX64BCNmW6GxXUy"
+      "file_key": "Ffc7g24UX64BCNmW6GxXUy",
+      "type": "typography"
     }
   ]
 }

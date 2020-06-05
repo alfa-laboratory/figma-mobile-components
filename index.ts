@@ -2,24 +2,39 @@ import path from 'path';
 import fs from 'fs';
 import { promisify } from 'util';
 import libraries from './data/libraries.json';
-import { requestComponents, parseComponents } from './utils';
+import { requestComponents, requestStyles, buildJSONMeta } from './utils';
 
 const writeFile = promisify(fs.writeFile);
 
 (async () => {
   let allComponents = {};
+  let allTextStyles = {};
 
   for (let platform of Object.keys(libraries) as PLATFORM[]) {
-    const responses = await Promise.all<FigmaComponent[]>(
-      libraries[platform].map((library) => requestComponents(library.file_key))
+    const componentsResponses = await Promise.all<FigmaItem[]>(
+      libraries[platform]
+        .filter((library) => library.type !== 'typography')
+        .map((library) => requestComponents(library.file_key))
     );
 
-    responses.forEach((response) => {
-      allComponents = { ...allComponents, ...parseComponents(response, platform) };
+    const textStylesResponses = await Promise.all<FigmaItem[]>(
+      libraries[platform]
+        .filter((library) => library.type === 'typography')
+        .map((library) => requestStyles(library.file_key))
+    );
+
+    componentsResponses.forEach((response) => {
+      allComponents = { ...allComponents, ...buildJSONMeta(response, platform) };
+    });
+
+    textStylesResponses.forEach((response) => {
+      allTextStyles = { ...allTextStyles, ...buildJSONMeta(response, platform) };
     });
   }
 
-  const jsonFileName = path.resolve(__dirname, './data/components.json');
+  const componentsFileName = path.resolve(__dirname, './data/components.json');
+  await writeFile(componentsFileName, JSON.stringify(allComponents, null, 4), 'UTF-8');
 
-  await writeFile(jsonFileName, JSON.stringify(allComponents, null, 4), 'UTF-8');
+  const textStylesFileName = path.resolve(__dirname, './data/text-styles.json');
+  await writeFile(textStylesFileName, JSON.stringify(allComponents, null, 4), 'UTF-8');
 })();

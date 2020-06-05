@@ -10,18 +10,33 @@ export async function requestComponents(file_id) {
     data: {
       meta: { components },
     },
-  } = await axios.get<FigmaResponse>(reqUrl, {
+  } = await axios.get<FigmaComponentsResponse>(reqUrl, {
     headers: { 'X-FIGMA-TOKEN': FIGMA_API_TOKEN },
   });
 
   return components;
 }
 
-export function parseComponents(components: FigmaComponent[], platform: PLATFORM) {
-  return components.reduce((acc, component) => {
-    acc[`${platform}|${component.name}`] = {
-      key: component.key,
-      file_key: component.file_key,
+export async function requestStyles(file_id) {
+  const reqUrl = `${FIGMA_API_URL}/files/${file_id}/styles`;
+
+  const {
+    data: {
+      meta: { styles },
+    },
+  } = await axios.get<FigmaTextStylesResponse>(reqUrl, {
+    headers: { 'X-FIGMA-TOKEN': FIGMA_API_TOKEN },
+  });
+
+  return styles;
+}
+
+export function buildJSONMeta(items: FigmaItem[], platform: PLATFORM) {
+  return items.reduce((acc, item) => {
+    acc[`${platform}|${item.name}`] = {
+      key: item.key,
+      file_key: item.file_key,
+      description: item.description,
     };
 
     return acc;
