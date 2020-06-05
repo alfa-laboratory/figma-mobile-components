@@ -3639,6 +3639,86 @@
         "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
         "description": ""
     },
+    "IOS|Caption 11-16 Semibold Caps (Caption)": {
+        "key": "19b04ab6aa0e1fd6012793877c04c2ef1580f3b1",
+        "file_key": "KDnAFN7TahUEDndgaJRhOi",
+        "description": ""
+    },
+    "IOS|PrimaryComponents 17-22 Regular (PrimaryComponents)": {
+        "key": "f025af3c4867353c520083e9e1fbc29d2ea1bbb5",
+        "file_key": "KDnAFN7TahUEDndgaJRhOi",
+        "description": ""
+    },
+    "IOS|PrimaryComponents 17-22 Medium (PrimaryComponents)": {
+        "key": "ebc60d9a2b9a98ba9686bba375b0e5c71758f5a9",
+        "file_key": "KDnAFN7TahUEDndgaJRhOi",
+        "description": ""
+    },
+    "IOS|PrimaryParagraph 17-24 Medium (PrimaryParagraph)": {
+        "key": "e944ea47d1b7a84f313819f9c6bc2c1c95bd7427",
+        "file_key": "KDnAFN7TahUEDndgaJRhOi",
+        "description": ""
+    },
+    "IOS|HeadingOS 34-41 Bold (HeadingOS)": {
+        "key": "e90d3695712ff6bc544ae1065eb3a6e56aab4d37",
+        "file_key": "KDnAFN7TahUEDndgaJRhOi",
+        "description": ""
+    },
+    "IOS|Heading2 27-32 Bold (Heading2)": {
+        "key": "df65b69781c831a2ff32146366455f2ebd08385c",
+        "file_key": "KDnAFN7TahUEDndgaJRhOi",
+        "description": ""
+    },
+    "IOS|Secondary 15-20 Regular (Secondary)": {
+        "key": "da8d518f8879e2b07ccfe3a6137bb28de2748cd9",
+        "file_key": "KDnAFN7TahUEDndgaJRhOi",
+        "description": ""
+    },
+    "IOS|Heading1 30-36 Bold (Heading1)": {
+        "key": "b2b4d6342ce33637b9b09eeb335bb10e1d31b912",
+        "file_key": "KDnAFN7TahUEDndgaJRhOi",
+        "description": ""
+    },
+    "IOS|PrimaryParagraph 17-24 Bold (PrimaryParagraph)": {
+        "key": "afad83bbda849ce3d405a4608406253e92e60f32",
+        "file_key": "KDnAFN7TahUEDndgaJRhOi",
+        "description": ""
+    },
+    "IOS|PrimaryComponents 17-22 Bold (PrimaryComponents)": {
+        "key": "7ca2846c0b45a5dc33c0396a765d080d8eab174f",
+        "file_key": "KDnAFN7TahUEDndgaJRhOi",
+        "description": ""
+    },
+    "IOS|Heading3 22-28 Bold (Heading3)": {
+        "key": "7bdb4f2b7286761b84e521c9626ad8a675dc6735",
+        "file_key": "KDnAFN7TahUEDndgaJRhOi",
+        "description": ""
+    },
+    "IOS|PrimaryParagraph 17-24 Regular (PrimaryParagraph)": {
+        "key": "7a5bb0c0cbb066e1820f49022e0a261510558349",
+        "file_key": "KDnAFN7TahUEDndgaJRhOi",
+        "description": ""
+    },
+    "IOS|Tertiary 13-18 Regular (Tertiary)": {
+        "key": "77c7c823c0516c2bf871d45f5d5bd26e0ae2f33f",
+        "file_key": "KDnAFN7TahUEDndgaJRhOi",
+        "description": ""
+    },
+    "IOS|Secondary 15-20 Bold (Secondary)": {
+        "key": "0eebf0b4e2f1bb5b2472446ac3a80722845c4beb",
+        "file_key": "KDnAFN7TahUEDndgaJRhOi",
+        "description": ""
+    },
+    "IOS|17-22 Regular Striketrough": {
+        "key": "ce1d5485c2c6af3be98c3fc983647b54c4870dfe",
+        "file_key": "KDnAFN7TahUEDndgaJRhOi",
+        "description": ""
+    },
+    "IOS|iOS/11-14 Regular": {
+        "key": "c9ebed98366d89e38d7f881575af85c5dcd35832",
+        "file_key": "KDnAFN7TahUEDndgaJRhOi",
+        "description": ""
+    },
     "ANDROID|tag / normal": {
         "key": "2a17c70d764413230e9452225a99d0e7a735f881",
         "file_key": "itQepYxRjEJVUrHkhoUi0e",
@@ -5108,5 +5188,70 @@
         "key": "114535dcd34f4f021b42dc3ead7910d479d3f4d7",
         "file_key": "y4cihIhbipeclFDFkoNhgZ",
         "description": ""
+    },
+    "ANDROID|Heading1 30-36 Bold (?textStyleHeading1)": {
+        "key": "2b9f8593dc0d237ea6117d3aff709aea8bcbf642",
+        "file_key": "Ffc7g24UX64BCNmW6GxXUy",
+        "description": "first_baseline_to_top_height=28\nlast_baseline_to_bottom_height=8"
+    },
+    "ANDROID|Secondary 14-20 Bold (?textStyleSecondaryBold)": {
+        "key": "ca3b829bc4c0076b27f3b200df3b7e3179b78421",
+        "file_key": "Ffc7g24UX64BCNmW6GxXUy",
+        "description": "first_baseline_to_top_height=15\nlast_baseline_to_bottom_height=5"
+    },
+    "ANDROID|Secondary 14-20 Regular (?textStyleSecondaryRegular)": {
+        "key": "c42d373364c61b886d74f35219ee7f71406259a9",
+        "file_key": "Ffc7g24UX64BCNmW6GxXUy",
+        "description": "first_baseline_to_top_height=15\nlast_baseline_to_bottom_height=5"
+    },
+    "ANDROID|PrimaryParagraph 16-24 Medium (?textStylePrimaryParagraphMedium)": {
+        "key": "bc8466a24491bff82415ab99f461aaec88d62f07",
+        "file_key": "Ffc7g24UX64BCNmW6GxXUy",
+        "description": "first_baseline_to_top_height=17\nlast_baseline_to_bottom_height=7"
+    },
+    "ANDROID|Caption 12-16 Medium Caps (?textStyleCaption)": {
+        "key": "b231104727624f51bf91ec23ce8137d8c4b9dd53",
+        "file_key": "Ffc7g24UX64BCNmW6GxXUy",
+        "description": "first_baseline_to_top_height=12\nlast_baseline_to_bottom_height=4"
+    },
+    "ANDROID|PrimaryComponents 16-20 Medium (?textStylePrimaryComponentsMedium)": {
+        "key": "9b0878083f24bb04910475c1d0f1f3339d39829b",
+        "file_key": "Ffc7g24UX64BCNmW6GxXUy",
+        "description": "first_baseline_to_top_height=15\nlast_baseline_to_bottom_height=5"
+    },
+    "ANDROID|Heading3 20-28 Bold (?textStyleHeading3)": {
+        "key": "8ce0c2bea77054c5f67cbe5a3997fd3c95b94eee",
+        "file_key": "Ffc7g24UX64BCNmW6GxXUy",
+        "description": "first_baseline_to_top_height=21\nlast_baseline_to_bottom_height=7"
+    },
+    "ANDROID|PrimaryParagraph 16-24 Bold (?textStylePrimaryParagraphBold)": {
+        "key": "730535568c5a5b23a99f450471b280e0ca81a85a",
+        "file_key": "Ffc7g24UX64BCNmW6GxXUy",
+        "description": "first_baseline_to_top_height=17\nlast_baseline_to_bottom_height=7"
+    },
+    "ANDROID|Heading2 26-32 Bold (?textStyleHeading2)": {
+        "key": "6ba936ff30899c088d4e7ffed26ff703b0a34361",
+        "file_key": "Ffc7g24UX64BCNmW6GxXUy",
+        "description": "first_baseline_to_top_height=25\nlast_baseline_to_bottom_height=7"
+    },
+    "ANDROID|PrimaryComponents 16-20 Regular (?textStylePrimaryComponentsRegular)": {
+        "key": "5541811956ed3b86f171c37b31c292c9a9e07a36",
+        "file_key": "Ffc7g24UX64BCNmW6GxXUy",
+        "description": "first_baseline_to_top_height=15\nlast_baseline_to_bottom_height=5"
+    },
+    "ANDROID|PrimaryComponents 16-20 Bold (?textStylePrimaryComponentsBold)": {
+        "key": "42c3a5fd492384267cc0bf67138a63fe134992dd",
+        "file_key": "Ffc7g24UX64BCNmW6GxXUy",
+        "description": "first_baseline_to_top_height=15\nlast_baseline_to_bottom_height=5"
+    },
+    "ANDROID|Tertiary 12-16 Regular (?textStyleTertiary)": {
+        "key": "1fb3d99eb9de8f299b6e2c5d9ca55c13cfb569e6",
+        "file_key": "Ffc7g24UX64BCNmW6GxXUy",
+        "description": "first_baseline_to_top_height=12\nlast_baseline_to_bottom_height=4"
+    },
+    "ANDROID|PrimaryParagraph 16-24 Regular (?textStylePrimaryParagraphRegular)": {
+        "key": "0911bfc3475f326acbcde158c1862b61c4ca1dc5",
+        "file_key": "Ffc7g24UX64BCNmW6GxXUy",
+        "description": "first_baseline_to_top_height=17\nlast_baseline_to_bottom_height=7"
     }
 }
