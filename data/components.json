@@ -1899,10 +1899,6 @@
         "key": "c88d951e8befb79cf0136fa4f878794228b6eaca",
         "file_key": "YhujCki0HSk2c8SkHec6jh"
     },
-    "IOS|DeepLinkButtonView": {
-        "key": "4ec233ab1e7ce39f02d09f8a4f8961c75a2ade83",
-        "file_key": "YhujCki0HSk2c8SkHec6jh"
-    },
     "IOS|Bubble/Bottom/Transaction": {
         "key": "d73916adf3eccd0a5a1bd0a11d0bc9243678f564",
         "file_key": "YhujCki0HSk2c8SkHec6jh"
@@ -2331,10 +2327,6 @@
         "key": "1437d2b251e89b36b11ecb3fbc292619358a44ed",
         "file_key": "YhujCki0HSk2c8SkHec6jh"
     },
-    "IOS|PrimaryButtonView": {
-        "key": "ddf2a8e773bbcb19d4bf4ec3cd7623ee23b45afd",
-        "file_key": "YhujCki0HSk2c8SkHec6jh"
-    },
     "IOS|iOS 2.0 / Icon / DoorM": {
         "key": "7285aa24af8f2d928f4fef191488a548fc1aaf2b",
         "file_key": "YhujCki0HSk2c8SkHec6jh"
@@ -2409,6 +2401,106 @@
     },
     "IOS|ImageTitleSubtitle ": {
         "key": "2a0f53f3346df9c58e297d56b3e0b809238fb19f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|CircularProgressBar": {
+        "key": "21ac08d0cf975f73d673b044ae02055fe79c2fa2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ActionButton/Transparent/Enabled": {
+        "key": "67594a8076def1d0b364935c893bb00701fabbfe",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ActionButton/Primary/Disabled": {
+        "key": "df3968d0a5cad3ada961fcb61b4ac10f3842fa1f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ActionButton/Secondary/Disabled": {
+        "key": "fd48896414dd7cede83a92a2d298fa53e58f8f32",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ActionButton/Primary/Enabled": {
+        "key": "d1b944f8a2f6dc6354515526c01c71d5ff0e7bb6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ActionButton/Tertiary/Disabled": {
+        "key": "d284427085a904eab4e82bff9a5d18402a421203",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ActionButton/Custom/Disabled": {
+        "key": "cf7bde4330898bcd90f0da2a9be7e941024c54eb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ActionButton/Transparent/Activated": {
+        "key": "2b67ffbf7960abde6efd69539709709fa144d9a8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ActionButton/Secondary/Enabled": {
+        "key": "f4754977683f62cbd9ce554add1ce02dc2b066d6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ActionButton/Tertiary/Enabled": {
+        "key": "fc381be944e3547986ef960a80c4841f114efa28",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ActionButton/Custom/Enabled": {
+        "key": "1513c8c5e35ff73e4f06b8c0e01cc545d5df333a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ButtonView/Primary/Enabled": {
+        "key": "473b09e7c02a786935ee6a996504a08e55b78720",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ButtonView/Primary/Disabled": {
+        "key": "be8e22075093d0c400272cc7bf6177cec229b66d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ButtonView/Secondary/Enabled": {
+        "key": "a87e12ca2de8b8a76258a54899cbe6512673a660",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ButtonView/Secondary/Disabled": {
+        "key": "3f8ee85f879042658a12a3d77888ce02f5789ed9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ButtonView/Tertiary/Enabled": {
+        "key": "77f2855e52942a994d65837e6d876559fd54fa19",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|ButtonView/Tertiary/Disabled": {
+        "key": "f9aaf2098501fb036e1dfb281cc32e90d5990cc1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Compact": {
+        "key": "eb8cb375177709247c635b9f39e094f88cc9ce84",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Glyph/Enabled": {
+        "key": "85487389e093200a5902eb5501d43d96c42e9dc5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Action/Primary/Enabled": {
+        "key": "36e2d898018c87fec658e4f0306867d2e3a72f71",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Action/Secondary/Enabled": {
+        "key": "994b3deb4ecee3fd85f31e028af0288fc728718f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Large": {
+        "key": "2cea5561853df47748c395110485a53979d0e747",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|Homescreen": {
+        "key": "9269add6d6fd34756c663acc4b80f821fb9252c3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DeepLinkButtonView/Inverted": {
+        "key": "7b1d499092ecb748a01dbe24415da26c0e29ab0b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh"
+    },
+    "IOS|DeepLinkButtonView/Static": {
+        "key": "6ae604120381ca1b8ce1feb21d76617a2d5363a2",
         "file_key": "YhujCki0HSk2c8SkHec6jh"
     },
     "IOS|iOS 2.0 / Icon / EyeOpenM": {
@@ -2581,10 +2673,6 @@
     },
     "IOS|iOS 2.0 / Icon / ChevronDownM": {
         "key": "031eb418ba4feb2539eb2c319a8131f26d06ed08",
-        "file_key": "YhujCki0HSk2c8SkHec6jh"
-    },
-    "IOS|ActionButton": {
-        "key": "f75efae3a6c3ef85ba4ce74f886cb13055758a08",
         "file_key": "YhujCki0HSk2c8SkHec6jh"
     },
     "IOS|Data View / 2 lines / Round Subicons": {
@@ -3659,10 +3747,6 @@
         "key": "b04995ab9ff2e9a2af4beb8500ba91c8ce655078",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
     },
-    "ANDROID|DeepLinkButton": {
-        "key": "1646236f7ca3b8e584eb940d5033aac909e56262",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
-    },
     "ANDROID|TimelapsePageControlView": {
         "key": "d550fbee18348843f8d0b7bc15db257b0fb94439",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
@@ -3845,6 +3929,14 @@
     },
     "ANDROID|ActionButton/Transparent/Activated": {
         "key": "4655483d9e8b7c54ec08d637370d7d2b8925a555",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|DeepLinkButtonView/Inverted": {
+        "key": "8845872dc830af7fb818f57dd61b0d6491144bd9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+    },
+    "ANDROID|DeepLinkButtonView/Static": {
+        "key": "32199a34f073751f46f6df72618642e3ce6ebed1",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
     },
     "ANDROID|Data View / 1 line / Default": {
