@@ -11,6 +11,10 @@
     {
       "name": "iOS Native Elements",
       "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+    },
+    {
+      "name": "iOS Typography",
+      "file_key": "KDnAFN7TahUEDndgaJRhOi"
     }
   ],
   "ANDROID": [
@@ -25,6 +29,10 @@
     {
       "name": "Android Native Elements",
       "file_key": "y4cihIhbipeclFDFkoNhgZ"
+    },
+    {
+      "name": "Android Typography",
+      "file_key": "Ffc7g24UX64BCNmW6GxXUy"
     }
   ]
 }
