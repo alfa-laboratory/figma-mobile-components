@@ -36,5 +36,5 @@ const writeFile = promisify(fs.writeFile);
   await writeFile(componentsFileName, JSON.stringify(allComponents, null, 4), 'UTF-8');
 
   const textStylesFileName = path.resolve(__dirname, './data/text-styles.json');
-  await writeFile(textStylesFileName, JSON.stringify(allComponents, null, 4), 'UTF-8');
+  await writeFile(textStylesFileName, JSON.stringify(allTextStyles, null, 4), 'UTF-8');
 })();
