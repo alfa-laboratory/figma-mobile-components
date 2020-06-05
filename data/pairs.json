@@ -4,5 +4,10 @@
   "IOS|Status Bar / X Black": "ANDROID|System Bar / White",
   "IOS|Data View / 2 lines / Round Subicons": "ANDROID|Data View / 2 lines / Icon XXL",
   "IOS|CardCell": "ANDROID|CustomerCardView",
-  "IOS|Enabled": "ANDROID|button / normal"
+  "IOS|Enabled": "ANDROID|button / normal",
+  "IOS|PrimaryParagraph 17-24 Bold (PrimaryParagraph)": "ANDROID|PrimaryParagraph 16-24 Bold (?textStylePrimaryParagraphBold)",
+  "IOS|PrimaryComponents 17-22 Regular (PrimaryComponents)": "ANDROID|PrimaryComponents 16-20 Regular (?textStylePrimaryComponentsRegular)",
+  "IOS|Secondary 15-20 Regular (Secondary)": "ANDROID|Secondary 14-20 Regular (?textStyleSecondaryRegular)",
+  "IOS|Tertiary 13-18 Regular (Tertiary)": "ANDROID|Tertiary 12-16 Regular (?textStyleTertiary)",
+  "IOS|Caption 11-16 Semibold Caps (Caption)": "ANDROID|Caption 12-16 Medium Caps (?textStyleCaption)"
 }
