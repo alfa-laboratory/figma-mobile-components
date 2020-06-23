@@ -4,6 +4,7 @@
   "IOS|Data View / 1 line / Empty Bg": "ANDROID|Data View / 1 line / Empty Bg",
   "IOS|Data View / 1 line / Default": "ANDROID|Data View / 1 line / Default",
   "IOS|Data View / 2 lines / Default": "ANDROID|Data View / 2 lines / Default",
+  "IOS|Data View / 2 lines / Revert": "ANDROID|Data View / 2 lines / Revert",
   "IOS|Data View / One Line": "ANDROID|Data View / One Line",
   "IOS|LongTitleSubtitleBottomTextProgressBar": "ANDROID|ConditionalProgressBarView / Standart",
   "IOS|Status Bar / X Black": "ANDROID|System Bar / White",
