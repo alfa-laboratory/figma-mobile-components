@@ -1,5 +1,10 @@
 {
   "IOS|Data View / 2 lines / No Icon": "ANDROID|Data View / 2 lines / No Icon",
+  "IOS|Data View / 2 lines / No Icon Revert": "ANDROID|Data View / 2 lines / No Icon Revert",
+  "IOS|Data View / 1 line / Empty Bg": "ANDROID|Data View / 1 line / Empty Bg",
+  "IOS|Data View / 1 line / Default": "ANDROID|Data View / 1 line / Default",
+  "IOS|Data View / 2 lines / Default": "ANDROID|Data View / 2 lines / Default",
+  "IOS|Data View / One Line": "ANDROID|Data View / One Line",
   "IOS|LongTitleSubtitleBottomTextProgressBar": "ANDROID|ConditionalProgressBarView / Standart",
   "IOS|Status Bar / X Black": "ANDROID|System Bar / White",
   "IOS|Data View / 2 lines / Round Subicons": "ANDROID|Data View / 2 lines / Icon XXL",
