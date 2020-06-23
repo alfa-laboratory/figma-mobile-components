@@ -184,9 +184,14 @@
         "file_key": "H9qWK6n05RhSkD1UBS6Tg2",
         "description": ""
     },
-    "IOS|Controls Small / Switch / On": {
-        "key": "f9e47f56c47838fa2edab68e5a165947fd464ac9",
-        "file_key": "H9qWK6n05RhSkD1UBS6Tg2",
+    "IOS|Switch / Off": {
+        "key": "9490738a0bca6644e6967d194717cce44f30dd4e",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
+        "description": ""
+    },
+    "IOS|Switch / On": {
+        "key": "26f50a32fe2ee959d42ab53a7444fe8bf90f74a0",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
         "description": ""
     },
     "IOS|TitleNoSubtitleThough": {
@@ -330,9 +335,9 @@
         "description": ""
     },
     "IOS|SelectableCell": {
-        "key": "23a060c60f40833161d39ff1676b662f13f0e2c0",
-        "file_key": "H9qWK6n05RhSkD1UBS6Tg2",
-        "description": ""
+        "key": "4ea4bd54fe0ab4e625e9b3c7c14a19b710e21a37",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": "ячейка c чекбоксом\n"
     },
     "IOS|Title": {
         "key": "aa7a63b62068c4e3eba51e7a3a86b80cf2e4339f",
@@ -445,13 +450,13 @@
         "description": ""
     },
     "IOS|CardCellWithSubstrate / Big": {
-        "key": "1c01e32605108dd54abcb87a848738be4dccb5a6",
-        "file_key": "H9qWK6n05RhSkD1UBS6Tg2",
+        "key": "e671422da2d4d638189ab51bdc043041d0d3bcfd",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
         "description": ""
     },
     "IOS|CardCellWithSubstrate / Small": {
-        "key": "ac143808dd1738e55463901f29a21f5d01728d2a",
-        "file_key": "H9qWK6n05RhSkD1UBS6Tg2",
+        "key": "ff7aefd4be41bff718564a13e99faa0c7fe2573d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
         "description": ""
     },
     "IOS|BigCardSelected": {
@@ -744,7 +749,7 @@
         "file_key": "H9qWK6n05RhSkD1UBS6Tg2",
         "description": ""
     },
-    "IOS|BottomAgreement": {
+    "IOS|ActionDetails": {
         "key": "abb7cb312bfe5a345e29eeed61cb6884bdb849dd",
         "file_key": "H9qWK6n05RhSkD1UBS6Tg2",
         "description": ""
@@ -931,16 +936,6 @@
     },
     "IOS|Data View / 2 lines / No Icon Revert": {
         "key": "f23b74ffd864ed981cb3c0d4eb4fd8caa0f5d855",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "description": ""
-    },
-    "IOS|Data View / 3 lines / BigTitle": {
-        "key": "22a456ad8116ebc7419cd0d6a3575c0b9edd8156",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "description": ""
-    },
-    "IOS|Data View / 2 lines / Account": {
-        "key": "ea6d68c86de5e94893a6a6b8d3bf583e50ca27ac",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "description": ""
     },
@@ -3344,6 +3339,136 @@
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "description": ""
     },
+    "IOS|Card / Mastercard": {
+        "key": "40c180055da025431e34acbf3e4ee50d1c0aad43",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|Arrows / Open": {
+        "key": "f22d8204c3cb66b1a155ed3dfadfe5d2ee657823",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|Arrows / Close": {
+        "key": "f59bf569d1d01031332b4abc44996b5adb7368d7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|Card / Visa": {
+        "key": "48cad5636aca13785df6a043b21440d0861fc388",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|ProductItem / Bill": {
+        "key": "4b9a2b144261dafc08b040c86165d792baf834c5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|Bill / Rub": {
+        "key": "7697162081d17a53d486d3ceae6fc91a99a38f1c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|ProductItem / Card / Closed": {
+        "key": "3714ad1d576e904e0549b3ac9b6a12373df0c3d3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|ProductItem / Card / Open": {
+        "key": "c3f38ae242147d42e8dc6ce43393fc315e0b9370",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|CardItem": {
+        "key": "87aa1b09e5f265db0085c9c57efd352ffa100d6c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|ProductItem / Bill /Family": {
+        "key": "331e472fec2e2415acd406d088b116bcae7981e3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|Data View / 2 lines / Two Subtitle": {
+        "key": "e105be3fe03e2d5440c3c05635f1c08a80edd656",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": "используется в индивидуальных банковских сейфах"
+    },
+    "IOS|Content / 2 lines": {
+        "key": "a19674db10bbb061cfbaca9315cc2b4f04b0382c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|BannerView / Content 2 Lines / Fill": {
+        "key": "6fbc57c2e9436455d49b1b413bba77bdbc209b87",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": "Баннер на базе DataView 2 lines revert"
+    },
+    "IOS|BannerView / Content 2 Lines / Stroke": {
+        "key": "95762629bc3e2bab45ac3ab906c122c9e1a5285d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": "Баннер на базе DataView 2 lines revert — с обводкой"
+    },
+    "IOS|Content/ 2 lines Revert": {
+        "key": "9512e41167073bf387b8d81d98c35083d0ac8b77",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|MultilineDataView / Regular": {
+        "key": "0db64c16b6563ac550f09058a70d8ab5f5577497",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|MultilineDataView / Revert": {
+        "key": "a7613a1ed88c6dcc5aac2bcd83f95e062f3c1a39",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|Content / 2 lines Small Icon Revert": {
+        "key": "b6e99e00a8c4e4f176c52fb21572e2a146f5a73d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|Content / 2 lines Small Icon": {
+        "key": "360abf1e5aa70f03a23226ff12afa32d7be7d7e4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|iOS 2.0 / Icon / ArrowUpS": {
+        "key": "4733843446c3867cab9a403ba5e397fcd695e03e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|iOS 2.0 / Icon / ArrowDownS": {
+        "key": "0ab14dfa05d832cf106cb2dc06248a13f21c06c3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|Separator / 16": {
+        "key": "907b0763411639034c20308edca6943f75b3b26a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|Separator / 8": {
+        "key": "95b1de1110ca0a66b4d452c13deece1425ef309b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|ParagraphView": {
+        "key": "2827b813ebe0592d00545f75b0afa452c0c47f82",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|CardItem / RightsideCard": {
+        "key": "3236778d303a5778abe16816b98266dae488f335",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": "Ячейка с картой, используется в карточках Итории операций"
+    },
+    "IOS|Data View / Test Only": {
+        "key": "2c2ede6ef290325d30c30991480a8b688a54ffbe",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": "Используется в витрине партнеров. В списке."
+    },
     "IOS|Data View / 2 lines / Round Subicons": {
         "key": "0de3e1220cf9adc441e12c119f4d968da71fba90",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
@@ -3461,16 +3586,6 @@
     },
     "IOS|Home Indicator / Black": {
         "key": "92de0257875f40f42063918ad952cc4836099834",
-        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
-        "description": ""
-    },
-    "IOS|Switch / On": {
-        "key": "26f50a32fe2ee959d42ab53a7444fe8bf90f74a0",
-        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
-        "description": ""
-    },
-    "IOS|Switch / Off": {
-        "key": "9490738a0bca6644e6967d194717cce44f30dd4e",
         "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
         "description": ""
     },
@@ -4014,6 +4129,26 @@
         "file_key": "itQepYxRjEJVUrHkhoUi0e",
         "description": ""
     },
+    "ANDROID|Controls small / Switch / On": {
+        "key": "18cdd73aa4ff0d2b558e84edb8ec89279ca63060",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e",
+        "description": "On\nNormal"
+    },
+    "ANDROID|Controls small / Switch / Off": {
+        "key": "b0f60bf0ddfa193cf895b7fde3d7bdfcdd59e556",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e",
+        "description": "Off\nNormal"
+    },
+    "ANDROID|SwitchTitle": {
+        "key": "b90b8cc9816924aed02df231ef56e6344fa4c91b",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e",
+        "description": ""
+    },
+    "ANDROID|SwithTitleSubtitle": {
+        "key": "6da928929576bb78d0ed9334c9a57491a73bc6d6",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e",
+        "description": ""
+    },
     "ANDROID|LazyLoad": {
         "key": "eb8af34a400440a4e43aaa7b042d8661130a33c9",
         "file_key": "itQepYxRjEJVUrHkhoUi0e",
@@ -4041,6 +4176,11 @@
     },
     "ANDROID|RubblesBardActivity": {
         "key": "10afdd335417b080b1e5ff7bb7e57d1db1ae9e08",
+        "file_key": "itQepYxRjEJVUrHkhoUi0e",
+        "description": ""
+    },
+    "ANDROID|universalItemCard / Simple": {
+        "key": "4513a0f14abd22ce6722f675963130974fd042d1",
         "file_key": "itQepYxRjEJVUrHkhoUi0e",
         "description": ""
     },
@@ -4190,9 +4330,9 @@
         "description": ""
     },
     "ANDROID|RadioButtonCell": {
-        "key": "696e409db7ff6b5ca344ad3217b0928cc78a201d",
-        "file_key": "itQepYxRjEJVUrHkhoUi0e",
-        "description": ""
+        "key": "99070c318051c4d0a693d4414954d0ff16a09764",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": "Ячейка с чекбоксом"
     },
     "ANDROID|Cancel": {
         "key": "e2942327fec755db5f61f12f641cd21bc0cc7330",
@@ -4622,22 +4762,22 @@
     "ANDROID|ProminentTopAppBar": {
         "key": "981e64d03f96a0708cfd67800b9c67480d86f8a9",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "description": ""
+        "description": "Используется только на экранах ключевых разделов (что есть в таббаре)."
     },
     "ANDROID|RegularTopAppBar / Gray": {
         "key": "5e0966593be5ae98b6f899262e5fd9350bfc5681",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "description": ""
+        "description": "Стандартный тулбар (серый)\n"
     },
     "ANDROID|RegularTopAppBar / White": {
         "key": "e2300b5b82164c93cb7bdfda59a2ac3baf83fa55",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "description": ""
+        "description": "Стандартный тулбар (белый)"
     },
     "ANDROID|RegularTopAppBar / Context": {
         "key": "286413b3e4d298fc56bac76ef1816d48f35ffd0d",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "description": ""
+        "description": "Контекстные действия в тулбаре"
     },
     "ANDROID|Data View / 2 lines / Transactional": {
         "key": "8b908a5a07880df572b6be710e7a9b8b768bcc45",
@@ -4774,7 +4914,7 @@
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "description": ""
     },
-    "ANDROID|Data View / 2 lines / 2 subtitle": {
+    "ANDROID|Data View / 2 lines / Two Subtitle": {
         "key": "66b1a6185b8072c5fb474abc96d7b420df6e9221",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "description": ""
@@ -5004,32 +5144,32 @@
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "description": ""
     },
-    "ANDROID|Data View / 1 line / Default": {
+    "ANDROID|Data View / 1 line / Right Icon": {
         "key": "207100da6afa1fbf4ab14410823fbd8ed1fefe0a",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "description": ""
     },
-    "ANDROID|Data View / 2 lines / Icon XXL": {
+    "ANDROID|Data View / 2 lines / Default": {
         "key": "dc8d1c4284d644092463e856a4ef9028b09fe647",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "description": ""
     },
-    "ANDROID|Data View / 1 line / IconM": {
+    "ANDROID|Data View / 1 line / Empty Bg": {
         "key": "09b74d04bbf007dc8b83150ea07b6df6af3350e3",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "description": ""
     },
-    "ANDROID|Data View / 2 lines / Icon XXXL": {
+    "ANDROID|Data View / 2 lines / Big Icon": {
         "key": "3599b116e8bda5c03f4e4e0610048e6ef4d95dc7",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "description": ""
     },
-    "ANDROID|Data View / 2 lines / No Icon Label": {
+    "ANDROID|Data View / 2 lines / No Icon Revert": {
         "key": "155aa9fac0cad6152d7ffa90dc012bd7fe1df0b6",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "description": ""
     },
-    "ANDROID|Data View / 2 lines / Icon Label": {
+    "ANDROID|Data View / 2 lines / Revert": {
         "key": "dff522f2129fafcbead2ace06e7dd6faae13bd73",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "description": ""
@@ -5044,7 +5184,7 @@
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "description": ""
     },
-    "ANDROID|Data View / 1 line / IconXXL": {
+    "ANDROID|Data View / One Line": {
         "key": "d3b509b1e1d1c7da167034a53168292589054ff4",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "description": ""
@@ -5059,8 +5199,133 @@
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "description": ""
     },
-    "ANDROID|Data View / 2 Lines / Icon M": {
+    "ANDROID|Data View / 2 lines / Small Icon": {
         "key": "470843b5138074e6e77bc493b179851b4d62d99c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|Data View / 1 line / Default": {
+        "key": "fefbbeee51bd62384cc0a14d5586023d40acf732",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|ProductItem / Bill": {
+        "key": "9daa4b2f2b3fdc5e5de6181eb89b730f8b3c24f0",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|ProductItem / Card / Closed": {
+        "key": "995f2f8fdc0505e3cf796232cc6108c264799dfd",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|ProductItem / Card / Open": {
+        "key": "609156d56064c720d3495ff1bcafdcdd5bf6e2e5",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|Bill / Rub": {
+        "key": "8e3fa888102bc909091ba612563cf2b30bfb9ff6",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|ProductItem / Bill /Family": {
+        "key": "4447a229811ae9456e2daf4221d043131d96ff5a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|Card / Mastercard": {
+        "key": "1b57342e6e65ada095daafcde664d4c5d73e88e0",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|Card / Visa": {
+        "key": "eb26e4d78f20460b28cc40d8ca33618df1cb12d4",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|CardItem": {
+        "key": "8dddef38f9a547057bd0765815cbca48d8acfa3f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|Arrows / Open": {
+        "key": "d74293b0649edb3921b54fa408a1da8829457e9d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|Arrows / Close": {
+        "key": "5b59eb0006ac59257823e2c70d247fa609a29bc9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|ProductItem / Credit Card / No Debt": {
+        "key": "5214c90bee84d04c13c2787e1fd2ab4cb5d8d2f4",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|RegularTopAppBar / Transparent": {
+        "key": "9b9da6044ddadacf2a91e731807c9a749fc01088",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": "Стандартный тулбар (прозрачный)"
+    },
+    "ANDROID|ActionDetails": {
+        "key": "a8ec76c37a7f810d34c1fab04590b9961cc24a41",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": "Кнопки с текстом сверху"
+    },
+    "ANDROID|AlertView": {
+        "key": "9da540fca56be56f17bf8da80bbe8bd5e224f3eb",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": "Полноэкранный алерт"
+    },
+    "ANDROID|Data View / 2 lines / Revert Skeleton": {
+        "key": "a7e0ca8ad847c6f1423d08a6bf0a139189efa595",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|Data View / 2 lines / Skeleton": {
+        "key": "8f68b6059c04aa350a4fd8a1f543679ca94c65dc",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|MultilineDataView / Regular": {
+        "key": "d5eb3e5e37658247f7ea59f0a1abebbc96e586b5",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|MultilineDataView / Revert": {
+        "key": "908df57ddbca53197f99674601a25049c3b61201",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|Content/ 2 lines": {
+        "key": "5a9e14fcbc12e0d2a439967c47c87b231c34906c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|Content/ 2 lines Revert": {
+        "key": "990d73ba9c09c3e9fb89e0535ed91bd6282e57b3",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|BannerView / Content 2 Lines / Fill": {
+        "key": "ef0df2fbc1a57d5b69a2db694a8c6bdfe0d549e5",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": "Баннер на базе DataView 2 lines revert"
+    },
+    "ANDROID|BannerView / Content 2 Lines / Stroke": {
+        "key": "508103d98b8ac9f216b2bcaf14b0c6364a242187",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|Content / 2 lines Small Icon Revert": {
+        "key": "8612467f7b3c835c9152de0d33e20b2b3d88c8b4",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|Content / 2 lines Small Icon": {
+        "key": "66d37fa5750ce94e48e7efcd82405d434a818f1e",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "description": ""
     },
@@ -5186,6 +5451,16 @@
     },
     "ANDROID|System Bar / White": {
         "key": "114535dcd34f4f021b42dc3ead7910d479d3f4d7",
+        "file_key": "y4cihIhbipeclFDFkoNhgZ",
+        "description": ""
+    },
+    "ANDROID|fingerprint_auth": {
+        "key": "a53ab0054cf55568af99cd56bdb5b4ac55d9e788",
+        "file_key": "y4cihIhbipeclFDFkoNhgZ",
+        "description": ""
+    },
+    "ANDROID|Letters Latin": {
+        "key": "008206f10074769de1e6d24b04c88c2ecabbf864",
         "file_key": "y4cihIhbipeclFDFkoNhgZ",
         "description": ""
     },
