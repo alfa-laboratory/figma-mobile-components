@@ -185,7 +185,7 @@
         "description": ""
     },
     "IOS|Switch / Off": {
-        "key": "9490738a0bca6644e6967d194717cce44f30dd4e",
+        "key": "b4ab9a12abc42933a91eafa22d6e20daf56cb3be",
         "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
         "description": ""
     },
@@ -3544,11 +3544,6 @@
         "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
         "description": ""
     },
-    "IOS|alerts/alert + 2 actions": {
-        "key": "04946f83c7af8d2250bcc881002c5f49d567f086",
-        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
-        "description": "Alert\n2 Action"
-    },
     "IOS|Decimal Pad": {
         "key": "bfcbc51175989d88e94e66fe78d05307f7d32625",
         "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
@@ -3575,9 +3570,9 @@
         "description": "Alert\nMsg + 1 Action"
     },
     "IOS|alerts/alert + sign in": {
-        "key": "a94d7ee8f20b647133daeba0f08646e28923d733",
+        "key": "b21a559c857ba80e62ee435ab106f85786914f09",
         "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
-        "description": "Alert\nSign in"
+        "description": "Alert\nMsg + 1 Action"
     },
     "IOS|Home Indicator / White": {
         "key": "5592bee7b6f1c298c2bacbe46e55a268fcb43cc6",
