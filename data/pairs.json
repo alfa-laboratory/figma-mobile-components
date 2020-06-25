@@ -1,4 +1,7 @@
 {
+  "IOS|Button/Primary/Enabled": "ANDROID|Button/Primary/Enabled",
+  "IOS|Button/Secondary/Enabled": "ANDROID|Button/Secondary/Enabled",
+  "IOS|Button/Tertiary/Enabled": "ANDROID|Button/Tertiary/Enabled",
   "IOS|Data View / 2 lines / No Icon": "ANDROID|Data View / 2 lines / No Icon",
   "IOS|Data View / 2 lines / No Icon Revert": "ANDROID|Data View / 2 lines / No Icon Revert",
   "IOS|Data View / 1 line / Empty Bg": "ANDROID|Data View / 1 line / Empty Bg",
