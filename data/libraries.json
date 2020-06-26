@@ -13,6 +13,10 @@
       "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
     },
     {
+      "name": "IOS Test Library",
+      "file_key": "L6uOo3QnM7Xvq9p3JHrnen"
+    },
+    {
       "name": "iOS Typography",
       "file_key": "KDnAFN7TahUEDndgaJRhOi",
       "type": "typography"
@@ -30,6 +34,10 @@
     {
       "name": "Android Native Elements",
       "file_key": "y4cihIhbipeclFDFkoNhgZ"
+    },
+    {
+      "name": "Android Test Library",
+      "file_key": "RKJQCbcFRKlGL4kpxoPUEn"
     },
     {
       "name": "Android Typography",
