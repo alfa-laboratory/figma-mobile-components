@@ -2749,6 +2749,11 @@
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "description": "Ячейка переписки в чате"
     },
+    "IOS|IndicatorView": {
+        "key": "fb3ff7af60b4024ce22fd4d6bb3089213bf25ece",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
     "IOS|ExpandableTextView": {
         "key": "41902c1e67167a6e83a8e7df89b5085012b36d12",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
@@ -2914,12 +2919,12 @@
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "description": ""
     },
-    "IOS|Input/Send Text": {
+    "IOS|ChatBar / With Text": {
         "key": "80702282df6ced2b7d1aedae73464814f6548abc",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "description": "Инпут в чате (голосового набора нет)"
     },
-    "IOS|Input/Default": {
+    "IOS|ChatBar / Default": {
         "key": "97fb6f65ac3bc7573ce51233ff073ff9541addee",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "description": "Инпут в чате, сообщение не введено"
@@ -2934,7 +2939,7 @@
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "description": ""
     },
-    "IOS|Input/Attachments/414": {
+    "IOS|Attachments / 414": {
         "key": "1c0d944c8c733909a94c8f21a5775e803b595d21",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "description": "Меню аттачментов — фото"
@@ -2983,11 +2988,6 @@
         "key": "a67ffc3c4e733a4a9c634f1e68dbdb3e118c3c84",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "description": "Ячейка выбора транзакции"
-    },
-    "IOS|Input/Attachments/375": {
-        "key": "ca517684c24a9fc373c4dfb18c44d5987aede50b",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "description": "Меню аттачментов — фото"
     },
     "IOS|Input/Attachments/Images": {
         "key": "938fcaccf82eea61b2435bc13f583d2812ed1437",
@@ -3469,6 +3469,31 @@
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "description": "Используется в витрине партнеров. В списке."
     },
+    "IOS|MultilineDataView / 2 lines / Transactional": {
+        "key": "2751298a8534bae1c2788d68ca9df1525c7a4136",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|MultilineDataView / 2 lines / Small Icon": {
+        "key": "62b7f5ef2f3495b01e0361c96526ca2f3c8c2d8c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|ImageCollection / 414": {
+        "key": "f39a90398e94e109971e59db77c435bbda62889b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|ImageCollection / 375": {
+        "key": "5b1802ddaae73537c0596a19797687da8bc1aba4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": ""
+    },
+    "IOS|Attachments / 375": {
+        "key": "279d1291a9c196e5719ba15011f442a1419d7a62",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "description": "Меню аттачментов — фото"
+    },
     "IOS|Data View / 2 lines / Round Subicons": {
         "key": "0de3e1220cf9adc441e12c119f4d968da71fba90",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
@@ -3749,7 +3774,12 @@
         "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
         "description": ""
     },
-    "IOS|Caption 11-16 Semibold Caps (Caption)": {
+    "IOS|Caption2 11-14 Regular (Caption2)": {
+        "key": "c9ebed98366d89e38d7f881575af85c5dcd35832",
+        "file_key": "KDnAFN7TahUEDndgaJRhOi",
+        "description": ""
+    },
+    "IOS|Caption1 11-16 Bold Caps (Caption1)": {
         "key": "19b04ab6aa0e1fd6012793877c04c2ef1580f3b1",
         "file_key": "KDnAFN7TahUEDndgaJRhOi",
         "description": ""
@@ -3821,11 +3851,6 @@
     },
     "IOS|17-22 Regular Striketrough": {
         "key": "ce1d5485c2c6af3be98c3fc983647b54c4870dfe",
-        "file_key": "KDnAFN7TahUEDndgaJRhOi",
-        "description": ""
-    },
-    "IOS|iOS/11-14 Regular": {
-        "key": "c9ebed98366d89e38d7f881575af85c5dcd35832",
         "file_key": "KDnAFN7TahUEDndgaJRhOi",
         "description": ""
     },
@@ -4234,13 +4259,13 @@
         "file_key": "itQepYxRjEJVUrHkhoUi0e",
         "description": ""
     },
-    "ANDROID|SelectListView": {
-        "key": "348f10fc9a83c3581678aafe2dd237b8dd3c6815",
+    "ANDROID|list": {
+        "key": "5b694175f6f0f372a4a2cf3c6c019226e62f7514",
         "file_key": "itQepYxRjEJVUrHkhoUi0e",
         "description": ""
     },
-    "ANDROID|List": {
-        "key": "fc9361c2c41176eeff92ad79661075df13eee951",
+    "ANDROID|SelectListView": {
+        "key": "348f10fc9a83c3581678aafe2dd237b8dd3c6815",
         "file_key": "itQepYxRjEJVUrHkhoUi0e",
         "description": ""
     },
@@ -4495,13 +4520,13 @@
         "description": ""
     },
     "ANDROID|MobileTransferSpinner / Big": {
-        "key": "75536539bfd74cff8e740d8579f412582b225bf5",
-        "file_key": "itQepYxRjEJVUrHkhoUi0e",
+        "key": "ad121a1ae3988afd5943f4e4053275cfc07b8e7e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "description": ""
     },
     "ANDROID|MobileTransferSpinner / Small": {
-        "key": "007c99443fc4f3f7760db3b4cf74c418189f9b09",
-        "file_key": "itQepYxRjEJVUrHkhoUi0e",
+        "key": "2e12f9adf6e3f1adc52d6d6837fda10dce919056",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "description": ""
     },
     "ANDROID|AmountPaymentControl / ActiveAmount": {
@@ -5204,31 +5229,6 @@
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "description": ""
     },
-    "ANDROID|ProductItem / Bill": {
-        "key": "9daa4b2f2b3fdc5e5de6181eb89b730f8b3c24f0",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "description": ""
-    },
-    "ANDROID|ProductItem / Card / Closed": {
-        "key": "995f2f8fdc0505e3cf796232cc6108c264799dfd",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "description": ""
-    },
-    "ANDROID|ProductItem / Card / Open": {
-        "key": "609156d56064c720d3495ff1bcafdcdd5bf6e2e5",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "description": ""
-    },
-    "ANDROID|Bill / Rub": {
-        "key": "8e3fa888102bc909091ba612563cf2b30bfb9ff6",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "description": ""
-    },
-    "ANDROID|ProductItem / Bill /Family": {
-        "key": "4447a229811ae9456e2daf4221d043131d96ff5a",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "description": ""
-    },
     "ANDROID|Card / Mastercard": {
         "key": "1b57342e6e65ada095daafcde664d4c5d73e88e0",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
@@ -5236,26 +5236,6 @@
     },
     "ANDROID|Card / Visa": {
         "key": "eb26e4d78f20460b28cc40d8ca33618df1cb12d4",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "description": ""
-    },
-    "ANDROID|CardItem": {
-        "key": "8dddef38f9a547057bd0765815cbca48d8acfa3f",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "description": ""
-    },
-    "ANDROID|Arrows / Open": {
-        "key": "d74293b0649edb3921b54fa408a1da8829457e9d",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "description": ""
-    },
-    "ANDROID|Arrows / Close": {
-        "key": "5b59eb0006ac59257823e2c70d247fa609a29bc9",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "description": ""
-    },
-    "ANDROID|ProductItem / Credit Card / No Debt": {
-        "key": "5214c90bee84d04c13c2787e1fd2ab4cb5d8d2f4",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "description": ""
     },
@@ -5323,6 +5303,71 @@
         "key": "66d37fa5750ce94e48e7efcd82405d434a818f1e",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "description": ""
+    },
+    "ANDROID|Bill / Android / RUB": {
+        "key": "1d761c774f1da34daf95e0ef93820667e590a106",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|ProductItem / Bill": {
+        "key": "655485a060d2353fea00236d2422e4cda041aa16",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|ProductItem / Credit / With Debt": {
+        "key": "4d1b4c638e9bf3e7a1a4995d3975959f9415e385",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|ProductItem / Credit / Expired": {
+        "key": "427b590de8e1be8cec270dd92c11efb9daafcb97",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|Card / Stack": {
+        "key": "192eff275bb742152af3ead840310a3319a5b926",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|Stack / Open": {
+        "key": "7d037ac3952383b126c5d28eaea158283a04cb4a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|Stack / Close": {
+        "key": "9628ee5b6cfb14140fc3a4eaf32ec2806d35261f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|CardItem / Normal": {
+        "key": "c7d1caf1a6e714d8f393ec32b4deff4dd7292c15",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|ImageCollection": {
+        "key": "35a96009eeb495c7a807e2f7fee12b5a1be00336",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|IndicatorView": {
+        "key": "bde1a03ff008278446a77952ec39518c7ab77bf1",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": ""
+    },
+    "ANDROID|ChatBar / With Text": {
+        "key": "32353dc9b5587ccf23d150d8dbe1aae6763d9b11",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": "Инпут в чате (голосового набора нет)"
+    },
+    "ANDROID|ChatBar / Default": {
+        "key": "729e9ccfb1de49897f3efd142131e6deca4e3e41",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": "Инпут в чате, сообщение не введено"
+    },
+    "ANDROID|Attachments": {
+        "key": "aa253cb20abf0dff22d4a21af2af5f8d8d9ae17e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "description": "Меню аттачментов — фото"
     },
     "ANDROID|ExchangeRateCell": {
         "key": "c66ac9cb2538b4c8ba11b0eaaf434e444650c1c2",
