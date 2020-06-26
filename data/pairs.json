@@ -40,5 +40,5 @@
   "IOS|KeyPadView/375": "ANDROID|KeyPadView",
   "IOS|DrawPatternPadView/375/Off": "ANDROID|DrawPatternPadView/Off",
   "IOS|StoryView": "ANDROID|StoryView",
-  "IOS|TimelapsePageControlView": "TimelapsePageControlView"
+  "IOS|TimelapsePageControlView": "ANDROID|TimelapsePageControlView"
 }
