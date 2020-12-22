@@ -24,7 +24,6 @@ type ShortFigmaItem = {
     file_key: string;
     name: string;
     description: string;
-    thumbnail_url: string;
     platform: string;
 };
 

@@ -21,7 +21,6 @@ const writeFile = promisify(fs.writeFile);
                     return {
                         key: component.key,
                         file_key: component.file_key,
-                        thumbnail_url: component.thumbnail_url,
                         name: component.name,
                         description: component.description,
                         platform,
