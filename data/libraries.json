@@ -1,48 +1,40 @@
 {
-  "IOS": [
-    {
-      "name": "iOS Library",
-      "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
-    },
-    {
-      "name": "iOS Library 2.0",
-      "file_key": "YhujCki0HSk2c8SkHec6jh"
-    },
-    {
-      "name": "iOS Native Elements",
-      "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
-    },
-    {
-      "name": "IOS Test Library",
-      "file_key": "L6uOo3QnM7Xvq9p3JHrnen"
-    },
-    {
-      "name": "iOS Typography",
-      "file_key": "KDnAFN7TahUEDndgaJRhOi",
-      "type": "typography"
-    }
-  ],
-  "ANDROID": [
-    {
-      "name": "Android Library",
-      "file_key": "itQepYxRjEJVUrHkhoUi0e"
-    },
-    {
-      "name": "Android Library 2.0",
-      "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
-    },
-    {
-      "name": "Android Native Elements",
-      "file_key": "y4cihIhbipeclFDFkoNhgZ"
-    },
-    {
-      "name": "Android Test Library",
-      "file_key": "RKJQCbcFRKlGL4kpxoPUEn"
-    },
-    {
-      "name": "Android Typography",
-      "file_key": "Ffc7g24UX64BCNmW6GxXUy",
-      "type": "typography"
-    }
-  ]
+    "IOS": [
+        {
+            "name": "iOS Library",
+            "file_key": "H9qWK6n05RhSkD1UBS6Tg2"
+        },
+        {
+            "name": "iOS Library 2.0",
+            "file_key": "YhujCki0HSk2c8SkHec6jh"
+        },
+        {
+            "name": "iOS Native Elements",
+            "file_key": "HsF1bAg6UMtRFyhBQeONpFo0"
+        },
+        {
+            "name": "iOS Typography",
+            "file_key": "KDnAFN7TahUEDndgaJRhOi",
+            "type": "typography"
+        }
+    ],
+    "ANDROID": [
+        {
+            "name": "Android Library",
+            "file_key": "itQepYxRjEJVUrHkhoUi0e"
+        },
+        {
+            "name": "Android Library 2.0",
+            "file_key": "jcbrP2ULUVYkNiXQ4HahzT"
+        },
+        {
+            "name": "Android Native Elements",
+            "file_key": "y4cihIhbipeclFDFkoNhgZ"
+        },
+        {
+            "name": "Android Typography",
+            "file_key": "Ffc7g24UX64BCNmW6GxXUy",
+            "type": "typography"
+        }
+    ]
 }
