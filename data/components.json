@@ -1330,6 +1330,538 @@
         "platform": "IOS"
     },
     {
+        "key": "cef655b0ad9ee9a85f1e44bc5ebfcf98c214d729",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Style=Revert, Horizontal Padding=Extended",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "7463cd67388723a6dbcef5d51aa5019fef728730",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "ChipsView / Choice / Multiline",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "23d3fa0e94e690b926d6ef69066f65c478e41a2f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "ChipsView / Choice / 1 line",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "980556d4a04c31d042b6e4f21c5a59d6a5c411bb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "CreditWidget / Default",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "5c92ee50b36ce7488bf2b70fcda769ca523f1e6e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Spacing / x5 (40dp) ––– gap 3xl",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "02f41f35803bf60560ae3170160653b89d19e537",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "CreditWidget/Default",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "40e17fce8e0617c21f431b2dc87793d00c1bee37",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Spacing / x4 (32dp) ––– gap 2xl",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "542e794e6cde1449dfb5c64c96b96f7fbb92c7a8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Spacing / x6 (48dp) ––– gap 4xl",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "edf53a9f174a31c89bcff428f4480eb8fb5c3afd",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Spacing / x8 (64dp) ––– gap 5xl",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "a818b1b470913d07ce62f50698698b15586367f1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "CreditWidget / LastDay",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "4d01fe5266882f2b401e7adcb3957a559bc948a7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "AttachmentsModule / Choose Files",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "47cf74cd25f683e60b69bb4b6c0f63d90fa76db9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "CurrencyPickerView",
+        "description": "Пикер для выбора валюты.\nИспользуются: При открытии новых счетов, при валютных или международных переводах,а также при выпуске новой карты.",
+        "platform": "IOS"
+    },
+    {
+        "key": "ffb68019892f1e14a14ceed91c4771b9e068c925",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "ff80afe53880372b53e7c50a76f343761dfe4ea2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "View=ProgressView, State=Contracted, Left Padding=Default",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "fec2f57da9d0eefc0f02dec31e898a77bf6caa6f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Style=Fill",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "fdb1a83e82cdbe714d39ae8e64f1f5e0f9f71bba",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Source=Outgoing, Order=First, Use=Default",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "f2c4ec13148f524c28738368ab2e188da56f6dd4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Multiline, Horizontal Margin=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "eef50a74e0564ab7ed658f3829d025e3c2355f8f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=3 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "e1b6a305dfb332866a478d79d87ffaa7ecc053d5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=2 lines, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "cb8fc955d21c8b1eaa6b8ebf75e88b51c633b5ee",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=3 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "c4bc33361e74417d8d1b9482027b1d3422c7e004",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "State=Expanded",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "b868012d48ce65f7f391037959fd350a88fb8e43",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Source=Outgoing, Order=Last, Use=Default",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "b16371622080a8fbf443ebfbad70545f855d037a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Type=Transfer, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "a75e60538f5d3daad680c7d2bafc53a85b932bfe",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Type=Hold, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "a135ba02c30f408349de6fc4eab418a94fdd5ba5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Notifications List / Multi Selection",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "9d45f9b6325b47abb8821ba9b45d3d73c5cb4d37",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=3 lines, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "9ac317da3429df13ea28980602c1b94865216da3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Source=Incoming, Order=First, Use=Default",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "8c467a38db9eee06ac6a3e633e1472a1b626c505",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Source=Incoming, Order=Middle, Use=Bottom",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "845b1b47d37533847d681a71a47aef7e6fc296b5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Source=Outgoing, Order=Middle, Use=Bottom",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "7d48a2ea072646aa228a6c4bdfe5d13eddc54bf2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Type=Top Up, Horizontal Margin=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "6fe1fbfea7a20c19705010ace76643be2cd4638f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=1 line, Icon=None, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "67be94e7a75f940a230f52d96a0eb922a532f140",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "CallModule / Fail / 414",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "5a82247aae80684594afb0ebbe05e08bae74bb08",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=2 lines, Icon=None, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "593c8c0542caf07e5fc7810fd60a849d948eb6ef",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=2 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "57afafb34ff17d251911a988e15c1904e05bd96d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=2 lines, Icon=None, Style=Revert, Truncation=Multiline, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "5664e7f7f026fb94c49a0d478f68292c64853ea8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=1 line, Icon=None, Style=Default, Truncation=Truncated, Horizontal Margin=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "552395597c908b0ae171e10030474c4376063874",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Preset=DataView, Left Padding=Extended",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "53e4d6ec5da57b2d94b95ff9924bf32f2cee95bd",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "CallModule / Tone Input / 320",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "389e82497498c9d54548a6298885031d82145af4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Preset=DataView, Left Padding=Default",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "37dcf94e90270a5d2e21d92b799f57b4adc84867",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "CallModule / Tone Keyboard / 320",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "378f7417a983ccd83515ad4686b443e5cf2acd5a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Preset=DataView, Left Padding=Extended",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "2db1439320188dd2f67caac410295c01ee1360e3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Source=Incoming, Order=Middle, Use=Default",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "23dbd2ad24ba92486d5f7ead41ba8eb72337b8d4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Multiline, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "23316da158b6adea90d270a38f78252088ef7975",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=1 line, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "1bd42b60e777222f32c851fe09873eebf8304223",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "17e09e52a50b7a958c0ff834b535d4a9813186b0",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Source=Outgoing, Order=Last, Use=Bottom",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "14558c201ca03d9ac4d7b768440baf7c0c2cf7ad",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Preset=DataView, Left Padding=Default",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "5f69a88d993ba87b47fe094972c69ef891372387",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Icon=Small, Truncation=Truncated, Horizontal Margin=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "5dbee2e9252cdc1370734a3c975cdc038a3f8f71",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Large, Shape=Super Ellipse, Inner=None, Top Subicon=Icon, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "5c11ca1f4d543c258ed84f0ccaea707e6a4fd717",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Large, Shape=Round, Inner=Icon, Top Subicon=None, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "5956d52ffd2cd6b0f6b8de9c06ab6caf5e25cbb7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Document=File, State=Uploading",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "578b1b4cb93d504b09a3a9f9e48ae8b0d4ac886c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Small, Shape=Round, Inner=Initials, Top Subicon=None, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "4dd5a43227dc262cd366caeb3b1a4dbd3fe3bc9c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Small, Shape=Super Ellipse, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "4bdaf539ebac90383ff36967707b123242f07372",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Medium, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "2c78630103c2c3b78b08dc75f62afeec41c72a33",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=XSmall, Shape=Super Ellipse, Inner=Icon, Top Subicon=None, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "2a8d5e5d9e67de1e92843ee22593258c60a08aaf",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=XLarge, Shape=Super Ellipse, Inner=Initials, Top Subicon=None, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "25ee34623003cc23f36baad73d72670f137ea83d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=4 lines, Icon=None, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "205cb1e5f8f38611f5de5cb5a4e64f650283a8a0",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Style=Headline, Truncation=1 line, Width=Full Width",
+        "description": "Кнопка действия",
+        "platform": "IOS"
+    },
+    {
+        "key": "1ee3a9c3c98aa25dbf47e69c16082e045f034579",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Preset=Action Secondary",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "1b243cf0b4ff8602f3e0a3a0d434192c8ea06847",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Large, Shape=Round, Inner=None, Top Subicon=None, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "19f3df12642b5b40f7ae58c8efd35240868a9f9b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=XLarge, Shape=Super Ellipse, Inner=None, Top Subicon=Icon, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "183854ffeccd948747343a0585041b8ee263d1ab",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Large, Shape=Super Ellipse, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "1043ebb1003fddf146b7eaffa5a5ad842f2c2b3b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=XLarge, Shape=Super Ellipse, Inner=Initials, Top Subicon=Icon, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "3ee653cbb9bfab9d6f6009a401b07307b840fcd5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "TagView / Attention",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "58596c0b53c14efc65c79eddcdd0aac716c49404",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "TagView / Used",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "d583cddb83d991bfd7693d58838a7a0c0895662a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Markdown / Transparent separator / 32",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "8f34fd4fb58db0a698eeebc5491ab9fff7378cab",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Markdown / Transparent separator / 8",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "fc44c40a4780182517830247ec6f039e1c007841",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=1 line, Truncation=Truncted, State=Loading",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "e9e7ba2935ad2275ae841b99cc78510f683f83ad",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "CallModule / Contracted / 375+",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "ca5814ab649d30d2cf05a7074372df163f8cc10e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Payments",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "c0e9172eda070f1fe7a5ae4c2ed8155409370847",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=3 lines, Truncation=Truncted, State=Loading",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "babd53bf8585545c42c99be402f3b9e5d5d9d22e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "AdviceBannerCollection / Default",
+        "description": "Баннер Рабблз iOS",
+        "platform": "IOS"
+    },
+    {
+        "key": "9f85868c18bebf7c089613474577e69421c64ebb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=3 lines, Truncation=Multiline, State=Default",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "41caf05ae678235a8f82a9426e9b4f2b2cff3049",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=1 line, Truncation=Multiline, State=Default",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "25028a02a2f2e0cb44f207362943bf1d4bde1bae",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=2 lines, Icon=None, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "0c08729b0a0d224e6b4e3b06be1ea43765d5cdbf",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=2 lines, Icon=Small, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
         "key": "f748b01ab59aa4eb96ac7d1a916e78b0d83057f6",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "PaymentControl",
@@ -1383,13 +1915,6 @@
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Style=Incoming, Order=Last, Usage=Default, Length=Multiline",
         "description": "Сервер: последний баббл в группе",
-        "platform": "IOS"
-    },
-    {
-        "key": "a135ba02c30f408349de6fc4eab418a94fdd5ba5",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Notifications List / Multi Selection",
-        "description": "",
         "platform": "IOS"
     },
     {
@@ -1449,93 +1974,9 @@
         "platform": "IOS"
     },
     {
-        "key": "fec2f57da9d0eefc0f02dec31e898a77bf6caa6f",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Style=Fill",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "fdb1a83e82cdbe714d39ae8e64f1f5e0f9f71bba",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Source=Outgoing, Order=First, Use=Default",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "e1b6a305dfb332866a478d79d87ffaa7ecc053d5",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=2 lines, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "d98602eae7e7a0eed87c7fb63957ca967657c126",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=2 lines, Icon=None, Horizontal Margin=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "d7b8c388bcf34ee35d7f04430fd77b1686b533a3",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Small, Shape=Round, Inner=Icon, Top Subicon=Icon, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "d0f0cf17f9b66ebab9edbf49e874e1ce096818ef",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Icon=Small, Truncation=Truncated, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "cb8fc955d21c8b1eaa6b8ebf75e88b51c633b5ee",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=3 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "c9e18946c99e8124586ea18bd1484d7d6d2ad54d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Small, Shape=Round, Inner=None, Top Subicon=None, Bottom Subicon=Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "c4bc33361e74417d8d1b9482027b1d3422c7e004",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "State=Expanded",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "c47f72c829caccf5e198466393197ec06051f03a",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Small, Shape=Round, Inner=None, Top Subicon=None, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "ab3343bc023ca2712d2d18da424d745328f911f7",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Medium, Shape=Round, Inner=Icon, Top Subicon=None, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "aa3bc33657bf56d8bc38b660dfc95d12a009a73b",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=XSmall, Shape=Rectangle, Inner=None, Top Subicon=None, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "9f082d50cec0d122cd8ca7b6f56c842c4fc66959",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Large, Shape=Super Ellipse, Inner=Icon, Top Subicon=None, Bottom Subicon=None",
         "description": "",
         "platform": "IOS"
     },
@@ -1547,93 +1988,9 @@
         "platform": "IOS"
     },
     {
-        "key": "7d48a2ea072646aa228a6c4bdfe5d13eddc54bf2",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Type=Top Up, Horizontal Margin=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "69e54cb05df12a024ba694182621e484e82ea91e",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Small, Shape=Round, Inner=Initials, Top Subicon=Icon, Bottom Subicon=Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "6896f95510d36c2a294e4249c14f4e9fea408b1e",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "CodeModule / 414 / Old",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "5b1a1783f1fa3826ef2ea711a743f0a6d20f3408",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Small, Shape=Super Ellipse, Inner=Icon, Top Subicon=None, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "5a82247aae80684594afb0ebbe05e08bae74bb08",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=2 lines, Icon=None, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "5705288df4eb6a97068d9a8a9874db481955c486",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=XLarge, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "56c15c2f5782919882767c0c8b82329310f0e318",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Small, Shape=Super Ellipse, Inner=Icon, Top Subicon=Icon, Bottom Subicon=Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "5664e7f7f026fb94c49a0d478f68292c64853ea8",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=1 line, Icon=None, Style=Default, Truncation=Truncated, Horizontal Margin=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "3ca38d0501f4fce54e38b4ef9c9f99e21d08ba10",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Medium, Shape=Round, Inner=Initials, Top Subicon=Indicator, Bottom Subicon=Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "23dbd2ad24ba92486d5f7ead41ba8eb72337b8d4",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Multiline, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "105fa51b0a3d69549459909aa529cab59a7c29f4",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Small, Shape=Super Ellipse, Inner=Initials, Top Subicon=Indicator, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "084de9e7d1b94480ab50f371dfa8c45b506d99bb",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Small, Shape=Round, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "01a7c0ea4a305941dc78fd7e145cb26900f0f93b",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Medium, Shape=Super Ellipse, Inner=Icon, Top Subicon=None, Bottom Subicon=Icon",
         "description": "",
         "platform": "IOS"
     },
@@ -1659,20 +2016,6 @@
         "platform": "IOS"
     },
     {
-        "key": "ff80afe53880372b53e7c50a76f343761dfe4ea2",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "View=ProgressView, State=Contracted, Left Padding=Default",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "fca7a0e4fbf7556c1f518b756f96d2a2fc7a7512",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Icon=None, Truncation=Truncated, Horizontal Margin=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "fc9b5e23a4bd102b6ddfc097f1bc841f25f0c581",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Size=Small, Shape=Super Ellipse, Inner=Initials, Top Subicon=Icon, Bottom Subicon=None",
@@ -1694,107 +2037,9 @@
         "platform": "IOS"
     },
     {
-        "key": "f5c68f9c5c5c9a3b9955aa1e263140aa43070586",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Document=Image, State=Complete",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "f56cbd389ed6236e9927466d277e46775b9d15cf",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Small, Shape=Round, Inner=Icon, Top Subicon=None, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "f500f695c9e2c06b3addc12aeb980219c5252b43",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Medium, Shape=Round, Inner=None, Top Subicon=None, Bottom Subicon=Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "f2c4ec13148f524c28738368ab2e188da56f6dd4",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Multiline, Horizontal Margin=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "f2005c7a2763161abc580d6d7c04619531edbeef",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Document=None, State=Action",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "f1e1dcf3476a8fe1fc0aafea436856463a1fb37c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=XLarge, Shape=Super Ellipse, Inner=Initials, Top Subicon=None, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "eef50a74e0564ab7ed658f3829d025e3c2355f8f",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=3 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "ec3f8b36eaa011704ca85c76d6641161f23b825e",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Medium, Shape=Super Ellipse, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "eb9d03f7952223b193890f15dc2e2ee9ca57507e",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Small, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "ea781277349143b7c1d6f76691a55e39b1d492e5",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Small, Shape=Round, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "e9e7ba2935ad2275ae841b99cc78510f683f83ad",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "CallModule / Contracted / 375+",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "e94e66fb8dabb0f05f1e73942206f0ea4ee225f5",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=4 lines, Icon=Small, Horizontal Margin=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "dde64f611e4ac8fbfc854bc8e4bc6a3c8a30edaf",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Small, Shape=Super Ellipse, Inner=None, Top Subicon=Icon, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "d548830d023e71cab2bd8e2ffc6ef3bd1fd840bd",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Lines=2 lines, Icon=None, Style=Revert, Truncation=Truncated, Horizontal Margin=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "d44e02356f8b2376de490526d3b8798933fb7eaf",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Medium, Shape=Round, Inner=None, Top Subicon=Indicator, Bottom Subicon=None",
         "description": "",
         "platform": "IOS"
     },
@@ -1806,100 +2051,9 @@
         "platform": "IOS"
     },
     {
-        "key": "cde7aaa4248c2e8925ee23bd0910e844f26f78f1",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Type=File, State=Uploading",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "cc8936af7ef5e6c00a5098b1a2298cf21959484a",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=XSmall, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "c9b656255300faa952e7bdcf2f484236d33e5935",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Small, Shape=Super Ellipse, Inner=Initials, Top Subicon=Indicator, Bottom Subicon=Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "bf5677122442848845df4ae661264aade4ff9f12",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=XLarge, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "be03432e181788326370b807dde8f8ce70646101",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Style=Headline, Truncation=2 lines, Width=Full Width",
-        "description": "Кнопка действия",
-        "platform": "IOS"
-    },
-    {
-        "key": "b8156a71c9aacf0b6a77adcf48d287f08623c6ac",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=4 lines, Icon=None, Horizontal Margin=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "b456b2ece40da764ad5c7da2ae7a9a7ba9eee611",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Small, Shape=Rectangle, Inner=Icon, Top Subicon=None, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "ad0a56cf7e1878cb3f370c6f0ccec95615885604",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Stroke=Default, Data=Icon, State=In Progress",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "ac67f11e7a9d865f264e26703e2907c0340f54a4",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Medium, Shape=Round, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "ac4f13a74714957861f2c836e79b310185ae4f2e",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Document=File, State=Error",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "ac0b1d06476f47bfe2da962041f843d4086203f6",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Medium, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "a75e60538f5d3daad680c7d2bafc53a85b932bfe",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Type=Hold, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "9f54e72ae000ecd26b440e4c73deb90a359fd65c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Small, Shape=Round, Inner=None, Top Subicon=Indicator, Bottom Subicon=Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "9d45f9b6325b47abb8821ba9b45d3d73c5cb4d37",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=3 lines, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
         "description": "",
         "platform": "IOS"
     },
@@ -1911,156 +2065,9 @@
         "platform": "IOS"
     },
     {
-        "key": "9caeccf19cca9af0579eb29f9627dfa3325271fe",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Large, Shape=Super Ellipse, Inner=None, Top Subicon=Indicator, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "9ac317da3429df13ea28980602c1b94865216da3",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Source=Incoming, Order=First, Use=Default",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "91047b01f523221ca52885aa217aaf5c7db735d2",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Large, Shape=Super Ellipse, Inner=Initials, Top Subicon=Indicator, Bottom Subicon=Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "8ee77753b7e2b6258c8556a1d470549f28485483",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Large, Shape=Round, Inner=None, Top Subicon=Indicator, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "8e9b2d49fecfd9f082cd03b320109e8713b90b86",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Style=Paragraph, Truncation=1 line, Width=Fixed",
-        "description": "Кнопка действия",
-        "platform": "IOS"
-    },
-    {
-        "key": "8c467a38db9eee06ac6a3e633e1472a1b626c505",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Source=Incoming, Order=Middle, Use=Bottom",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "8b3a09ac903187245b0731efc66fed7c86859b67",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Size=Small, Shape=Rectangle, Inner=None, Top Subicon=None, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "8b18579e0a45a7c70fd84746d03d29e7ca79a290",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=4 lines, Icon=Small, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "858c89a5d03207eb27c2d9b464ab8c68e1fa7973",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=XLarge, Shape=Super Ellipse, Inner=Icon, Top Subicon=Icon, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "85699df598aac2a457038ec1fe9c5fc499510ca8",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Medium, Shape=Round, Inner=None, Top Subicon=Icon, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "847b8a1a09799a81b1de25fcbf7d4881d106ba30",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Style=Default, State=Complete, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "845b1b47d37533847d681a71a47aef7e6fc296b5",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Source=Outgoing, Order=Middle, Use=Bottom",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "8371c1c3784d6bd19682b5629e8699952eb898b6",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Large, Shape=Round, Inner=Icon, Top Subicon=Icon, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "7d6b6b0c59fdbb470dfdc74d3a74ebaf694339cd",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Medium, Shape=Super Ellipse, Inner=Initials, Top Subicon=None, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "7d224f474a5eb6fa9b2d24934a6cfcdacc499cb8",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Medium, Shape=Round, Inner=Initials, Top Subicon=None, Bottom Subicon=Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "7c7910fd0c1ce9120dba5637d6eee6a42fca399f",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Document=Image, State=Preview",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "772aeb7141b3c565fc4de2f7f4a047bcc43e173f",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Large, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "6fe1fbfea7a20c19705010ace76643be2cd4638f",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=1 line, Icon=None, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "67be94e7a75f940a230f52d96a0eb922a532f140",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "CallModule / Fail / 414",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "63ba323871689905079c35d39cf0729b267e292b",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Large, Shape=Super Ellipse, Inner=Initials, Top Subicon=Indicator, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "5f69a88d993ba87b47fe094972c69ef891372387",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Icon=Small, Truncation=Truncated, Horizontal Margin=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "4dd5a43227dc262cd366caeb3b1a4dbd3fe3bc9c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Small, Shape=Super Ellipse, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=Icon",
         "description": "",
         "platform": "IOS"
     },
@@ -2072,44 +2079,9 @@
         "platform": "IOS"
     },
     {
-        "key": "4bdaf539ebac90383ff36967707b123242f07372",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Medium, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "4a8f9be7b996d76e795efb3eea518466615d9a72",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Size=XLarge, Shape=Super Ellipse, Inner=Icon, Top Subicon=None, Bottom Subicon=Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "3dae2702d96d66ebe7dd4592466ac7c6efeb3913",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Medium, Shape=Round, Inner=Icon, Top Subicon=Icon, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "389e82497498c9d54548a6298885031d82145af4",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Preset=DataView, Left Padding=Default",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "37dcf94e90270a5d2e21d92b799f57b4adc84867",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "CallModule / Tone Keyboard / 320",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "378f7417a983ccd83515ad4686b443e5cf2acd5a",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Preset=DataView, Left Padding=Extended",
         "description": "",
         "platform": "IOS"
     },
@@ -2128,48 +2100,6 @@
         "platform": "IOS"
     },
     {
-        "key": "2db1439320188dd2f67caac410295c01ee1360e3",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Source=Incoming, Order=Middle, Use=Default",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "2c78630103c2c3b78b08dc75f62afeec41c72a33",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=XSmall, Shape=Super Ellipse, Inner=Icon, Top Subicon=None, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "2a8d5e5d9e67de1e92843ee22593258c60a08aaf",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=XLarge, Shape=Super Ellipse, Inner=Initials, Top Subicon=None, Bottom Subicon=Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "25ee34623003cc23f36baad73d72670f137ea83d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=4 lines, Icon=None, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "25028a02a2f2e0cb44f207362943bf1d4bde1bae",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=2 lines, Icon=None, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "23316da158b6adea90d270a38f78252088ef7975",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=1 line, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "22091218d673f693b64bce452397aacca110c227",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Size=Large, Shape=Super Ellipse, Inner=Icon, Top Subicon=Icon, Bottom Subicon=None",
@@ -2180,62 +2110,6 @@
         "key": "1ff98a3405b6f1fea89fc89327655a8f826e20b9",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Type=Action, State=Add",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "1ee3a9c3c98aa25dbf47e69c16082e045f034579",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Preset=Action Secondary",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "1bd42b60e777222f32c851fe09873eebf8304223",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "1b243cf0b4ff8602f3e0a3a0d434192c8ea06847",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Large, Shape=Round, Inner=None, Top Subicon=None, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "19f3df12642b5b40f7ae58c8efd35240868a9f9b",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=XLarge, Shape=Super Ellipse, Inner=None, Top Subicon=Icon, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "183854ffeccd948747343a0585041b8ee263d1ab",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Large, Shape=Super Ellipse, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "17e09e52a50b7a958c0ff834b535d4a9813186b0",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Source=Outgoing, Order=Last, Use=Bottom",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "14558c201ca03d9ac4d7b768440baf7c0c2cf7ad",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Preset=DataView, Left Padding=Default",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "1043ebb1003fddf146b7eaffa5a5ad842f2c2b3b",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=XLarge, Shape=Super Ellipse, Inner=Initials, Top Subicon=Icon, Bottom Subicon=None",
         "description": "",
         "platform": "IOS"
     },
@@ -2327,13 +2201,6 @@
         "key": "19826108614c6dfb18307c47cb37096fcda9e939",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "0c08729b0a0d224e6b4e3b06be1ea43765d5cdbf",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=2 lines, Icon=Small, Horizontal Margin=Extended",
         "description": "",
         "platform": "IOS"
     },
@@ -2447,13 +2314,6 @@
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "MainButtonBottom / Two Buttons Vertical",
         "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "205cb1e5f8f38611f5de5cb5a4e64f650283a8a0",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Style=Headline, Truncation=1 line, Width=Full Width",
-        "description": "Кнопка действия",
         "platform": "IOS"
     },
     {
@@ -2622,6 +2482,391 @@
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Size=Large, Shape=Super Ellipse, Morphology=Bottom Subicon",
         "description": "Логотип торговой точки/категория траты в карточке операции\n",
+        "platform": "IOS"
+    },
+    {
+        "key": "fe091ad478b16e6f6d8090b71fa5a673e583ae50",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Style=Action, State=Complete, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "f56cbd389ed6236e9927466d277e46775b9d15cf",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Small, Shape=Round, Inner=Icon, Top Subicon=None, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "f1e1dcf3476a8fe1fc0aafea436856463a1fb37c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=XLarge, Shape=Super Ellipse, Inner=Initials, Top Subicon=None, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "d98602eae7e7a0eed87c7fb63957ca967657c126",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=2 lines, Icon=None, Horizontal Margin=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "d7b8c388bcf34ee35d7f04430fd77b1686b533a3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Small, Shape=Round, Inner=Icon, Top Subicon=Icon, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "d44e02356f8b2376de490526d3b8798933fb7eaf",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Medium, Shape=Round, Inner=None, Top Subicon=Indicator, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "c9e18946c99e8124586ea18bd1484d7d6d2ad54d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Small, Shape=Round, Inner=None, Top Subicon=None, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "c47f72c829caccf5e198466393197ec06051f03a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Small, Shape=Round, Inner=None, Top Subicon=None, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "c0f790e02939b066e10a7d759af226f76fb90a1e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "CallModule / Tone Input / 375",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "ab3343bc023ca2712d2d18da424d745328f911f7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Medium, Shape=Round, Inner=Icon, Top Subicon=None, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "aa3bc33657bf56d8bc38b660dfc95d12a009a73b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=XSmall, Shape=Rectangle, Inner=None, Top Subicon=None, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "9f082d50cec0d122cd8ca7b6f56c842c4fc66959",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Large, Shape=Super Ellipse, Inner=Icon, Top Subicon=None, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "69e54cb05df12a024ba694182621e484e82ea91e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Small, Shape=Round, Inner=Initials, Top Subicon=Icon, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "5b1a1783f1fa3826ef2ea711a743f0a6d20f3408",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Small, Shape=Super Ellipse, Inner=Icon, Top Subicon=None, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "5705288df4eb6a97068d9a8a9874db481955c486",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=XLarge, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "56c15c2f5782919882767c0c8b82329310f0e318",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Small, Shape=Super Ellipse, Inner=Icon, Top Subicon=Icon, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "3dae2702d96d66ebe7dd4592466ac7c6efeb3913",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Medium, Shape=Round, Inner=Icon, Top Subicon=Icon, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "3ca38d0501f4fce54e38b4ef9c9f99e21d08ba10",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Medium, Shape=Round, Inner=Initials, Top Subicon=Indicator, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "105fa51b0a3d69549459909aa529cab59a7c29f4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Small, Shape=Super Ellipse, Inner=Initials, Top Subicon=Indicator, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "084de9e7d1b94480ab50f371dfa8c45b506d99bb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Small, Shape=Round, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "01a7c0ea4a305941dc78fd7e145cb26900f0f93b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Medium, Shape=Super Ellipse, Inner=Icon, Top Subicon=None, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "fca7a0e4fbf7556c1f518b756f96d2a2fc7a7512",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Icon=None, Truncation=Truncated, Horizontal Margin=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "f5c68f9c5c5c9a3b9955aa1e263140aa43070586",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Document=Image, State=Complete",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "f500f695c9e2c06b3addc12aeb980219c5252b43",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Medium, Shape=Round, Inner=None, Top Subicon=None, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "f2005c7a2763161abc580d6d7c04619531edbeef",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Document=None, State=Action",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "ec3f8b36eaa011704ca85c76d6641161f23b825e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Medium, Shape=Super Ellipse, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "eb9d03f7952223b193890f15dc2e2ee9ca57507e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Small, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "ea781277349143b7c1d6f76691a55e39b1d492e5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Small, Shape=Round, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "e94e66fb8dabb0f05f1e73942206f0ea4ee225f5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=4 lines, Icon=Small, Horizontal Margin=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "dde64f611e4ac8fbfc854bc8e4bc6a3c8a30edaf",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Small, Shape=Super Ellipse, Inner=None, Top Subicon=Icon, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "cde7aaa4248c2e8925ee23bd0910e844f26f78f1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Type=File, State=Uploading",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "cc8936af7ef5e6c00a5098b1a2298cf21959484a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=XSmall, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "c9b656255300faa952e7bdcf2f484236d33e5935",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Small, Shape=Super Ellipse, Inner=Initials, Top Subicon=Indicator, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "bf5677122442848845df4ae661264aade4ff9f12",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=XLarge, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "be03432e181788326370b807dde8f8ce70646101",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Style=Headline, Truncation=2 lines, Width=Full Width",
+        "description": "Кнопка действия",
+        "platform": "IOS"
+    },
+    {
+        "key": "b8156a71c9aacf0b6a77adcf48d287f08623c6ac",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=4 lines, Icon=None, Horizontal Margin=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "b456b2ece40da764ad5c7da2ae7a9a7ba9eee611",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Small, Shape=Rectangle, Inner=Icon, Top Subicon=None, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "ac67f11e7a9d865f264e26703e2907c0340f54a4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Medium, Shape=Round, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "ac4f13a74714957861f2c836e79b310185ae4f2e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Document=File, State=Error",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "ac0b1d06476f47bfe2da962041f843d4086203f6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Medium, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "9f54e72ae000ecd26b440e4c73deb90a359fd65c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Small, Shape=Round, Inner=None, Top Subicon=Indicator, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "9caeccf19cca9af0579eb29f9627dfa3325271fe",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Large, Shape=Super Ellipse, Inner=None, Top Subicon=Indicator, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "91047b01f523221ca52885aa217aaf5c7db735d2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Large, Shape=Super Ellipse, Inner=Initials, Top Subicon=Indicator, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "8ee77753b7e2b6258c8556a1d470549f28485483",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Large, Shape=Round, Inner=None, Top Subicon=Indicator, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "8e9b2d49fecfd9f082cd03b320109e8713b90b86",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Style=Paragraph, Truncation=1 line, Width=Fixed",
+        "description": "Кнопка действия",
+        "platform": "IOS"
+    },
+    {
+        "key": "8b18579e0a45a7c70fd84746d03d29e7ca79a290",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Lines=4 lines, Icon=Small, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "858c89a5d03207eb27c2d9b464ab8c68e1fa7973",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=XLarge, Shape=Super Ellipse, Inner=Icon, Top Subicon=Icon, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "85699df598aac2a457038ec1fe9c5fc499510ca8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Medium, Shape=Round, Inner=None, Top Subicon=Icon, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "847b8a1a09799a81b1de25fcbf7d4881d106ba30",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Style=Default, State=Complete, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "8371c1c3784d6bd19682b5629e8699952eb898b6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Large, Shape=Round, Inner=Icon, Top Subicon=Icon, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "7d6b6b0c59fdbb470dfdc74d3a74ebaf694339cd",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Medium, Shape=Super Ellipse, Inner=Initials, Top Subicon=None, Bottom Subicon=None",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "7d224f474a5eb6fa9b2d24934a6cfcdacc499cb8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Medium, Shape=Round, Inner=Initials, Top Subicon=None, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "7c7910fd0c1ce9120dba5637d6eee6a42fca399f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Document=Image, State=Preview",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "772aeb7141b3c565fc4de2f7f4a047bcc43e173f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Large, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=Icon",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "63ba323871689905079c35d39cf0729b267e292b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "name": "Size=Large, Shape=Super Ellipse, Inner=Initials, Top Subicon=Indicator, Bottom Subicon=None",
+        "description": "",
         "platform": "IOS"
     },
     {
@@ -2828,13 +3073,6 @@
         "platform": "IOS"
     },
     {
-        "key": "7463cd67388723a6dbcef5d51aa5019fef728730",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "ChipsView / Choice / Multiline",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "fbc3558ee4eafbabdb58e952fc079042beae5a84",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Vertical Padding=Medium, Style=Default, Horizontal Padding=None",
@@ -2901,13 +3139,6 @@
         "key": "7d52d7319fce3ee65af77f0600be74b065b57b9c",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Style=Outgoing, Order=Last, Usage=Bottom",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "4d01fe5266882f2b401e7adcb3957a559bc948a7",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "AttachmentsModule / Choose Files",
         "description": "",
         "platform": "IOS"
     },
@@ -3304,65 +3535,9 @@
         "platform": "IOS"
     },
     {
-        "key": "5dbee2e9252cdc1370734a3c975cdc038a3f8f71",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Large, Shape=Super Ellipse, Inner=None, Top Subicon=Icon, Bottom Subicon=Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "5c11ca1f4d543c258ed84f0ccaea707e6a4fd717",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Large, Shape=Round, Inner=Icon, Top Subicon=None, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "5a6b6276c4f3448a1edc640dd33061911ca6b6f0",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Size=Medium, Shape=Round, Inner=Initials, Top Subicon=Icon, Bottom Subicon=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "5956d52ffd2cd6b0f6b8de9c06ab6caf5e25cbb7",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Document=File, State=Uploading",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "593c8c0542caf07e5fc7810fd60a849d948eb6ef",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=2 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=None",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "57afafb34ff17d251911a988e15c1904e05bd96d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=2 lines, Icon=None, Style=Revert, Truncation=Multiline, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "578b1b4cb93d504b09a3a9f9e48ae8b0d4ac886c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Size=Small, Shape=Round, Inner=Initials, Top Subicon=None, Bottom Subicon=Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "552395597c908b0ae171e10030474c4376063874",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Preset=DataView, Left Padding=Extended",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "53e4d6ec5da57b2d94b95ff9924bf32f2cee95bd",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "CallModule / Tone Input / 320",
         "description": "",
         "platform": "IOS"
     },
@@ -3535,13 +3710,6 @@
         "platform": "IOS"
     },
     {
-        "key": "ca5814ab649d30d2cf05a7074372df163f8cc10e",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Payments",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "c85677a979b52ca04373b68a5b9e673b720b6ce1",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Style=Revert, Truncation=Truncated, State=Default",
@@ -3552,13 +3720,6 @@
         "key": "c65a39d67792fee522f43c1d35a16872d33ce98e",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Progress=100%",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "c0f790e02939b066e10a7d759af226f76fb90a1e",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "CallModule / Tone Input / 375",
         "description": "",
         "platform": "IOS"
     },
@@ -4077,13 +4238,6 @@
         "key": "5928e6fb541a9ce8c6d0132c06ab2207f4ccf667",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Size=Medium, Shape=Round, Morphology=No Icon",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "58596c0b53c14efc65c79eddcdd0aac716c49404",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "TagView / Used",
         "description": "",
         "platform": "IOS"
     },
@@ -4879,20 +5033,6 @@
         "platform": "IOS"
     },
     {
-        "key": "fe091ad478b16e6f6d8090b71fa5a673e583ae50",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Style=Action, State=Complete, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "ffb68019892f1e14a14ceed91c4771b9e068c925",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "dd2e744a4d06a9cd3d31b9dd5da016fb6810036b",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Icon Position=Right",
@@ -5292,13 +5432,6 @@
         "platform": "IOS"
     },
     {
-        "key": "b16371622080a8fbf443ebfbad70545f855d037a",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Type=Transfer, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "946c83401ed6a2d2c00c113bf1c61dc0d3b99cb3",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Lines=2 lines, Icon=Medium, Style=Default, Truncation=Truncated, Horizontal Margin=None",
@@ -5362,13 +5495,6 @@
         "platform": "IOS"
     },
     {
-        "key": "41caf05ae678235a8f82a9426e9b4f2b2cff3049",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=1 line, Truncation=Multiline, State=Default",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "df21e4de07c6ca4a5866ba1a809f26a4ab6ad0bb",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Icon=None, Truncation=Multiline, Horizontal Margin=Extended",
@@ -5393,13 +5519,6 @@
         "key": "06097814145176217d4359e8cb5ae45739358bde",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Preset=Custom",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "cef655b0ad9ee9a85f1e44bc5ebfcf98c214d729",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Style=Revert, Horizontal Padding=Extended",
         "description": "",
         "platform": "IOS"
     },
@@ -5460,30 +5579,9 @@
         "platform": "IOS"
     },
     {
-        "key": "9f85868c18bebf7c089613474577e69421c64ebb",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=3 lines, Truncation=Multiline, State=Default",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "5def21adba0ac9c7e283eae7d4b070939d3b496a",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Lines=1 line, Truncation=Truncted, State=Default",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "fc44c40a4780182517830247ec6f039e1c007841",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=1 line, Truncation=Truncted, State=Loading",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "c0e9172eda070f1fe7a5ae4c2ed8155409370847",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Lines=3 lines, Truncation=Truncted, State=Loading",
         "description": "",
         "platform": "IOS"
     },
@@ -6790,13 +6888,6 @@
         "platform": "IOS"
     },
     {
-        "key": "b868012d48ce65f7f391037959fd350a88fb8e43",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Source=Outgoing, Order=Last, Use=Default",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "7b35622aa0fce40fe53f70efc18abefc8c0be681",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Source=Outgoing",
@@ -6895,13 +6986,6 @@
         "platform": "IOS"
     },
     {
-        "key": "23d3fa0e94e690b926d6ef69066f65c478e41a2f",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "ChipsView / Choice / 1 line",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "de0b8e0a9e418e3951c2d205e364c13509cc1873",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Markdown / Header 1",
@@ -6913,13 +6997,6 @@
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "SquareWidgetCollection / Branch",
         "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "47cf74cd25f683e60b69bb4b6c0f63d90fa76db9",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "CurrencyPickerView",
-        "description": "Пикер для выбора валюты.\nИспользуются: При открытии новых счетов, при валютных или международных переводах,а также при выпуске новой карты.",
         "platform": "IOS"
     },
     {
@@ -8064,13 +8141,6 @@
         "platform": "IOS"
     },
     {
-        "key": "babd53bf8585545c42c99be402f3b9e5d5d9d22e",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "AdviceBannerCollection / Default",
-        "description": "Баннер Рабблз iOS",
-        "platform": "IOS"
-    },
-    {
         "key": "b826d4be4c903f8748b6a095b40c780f496bdb7a",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "DEPRECATED / RateCell / Hint",
@@ -9065,13 +9135,6 @@
         "platform": "IOS"
     },
     {
-        "key": "8f34fd4fb58db0a698eeebc5491ab9fff7378cab",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Markdown / Transparent separator / 8",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "845ac5277494325a09878f6128d0dcc84c116f19",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "Markdown / H4",
@@ -9356,13 +9419,6 @@
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "AccountsAndCards / X",
         "description": "Виджет Счета и карты iOS X",
-        "platform": "IOS"
-    },
-    {
-        "key": "3ee653cbb9bfab9d6f6009a401b07307b840fcd5",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "TagView / Attention",
-        "description": "",
         "platform": "IOS"
     },
     {
@@ -9741,13 +9797,6 @@
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "name": "RadioCell / 1 line / Value",
         "description": "RadioButton / 1 line_Value",
-        "platform": "IOS"
-    },
-    {
-        "key": "d583cddb83d991bfd7693d58838a7a0c0895662a",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "name": "Markdown / Transparent separator / 32",
-        "description": "",
         "platform": "IOS"
     },
     {
@@ -12012,6 +12061,860 @@
         "platform": "ANDROID"
     },
     {
+        "key": "6c825d45b4d5cb4c97ddffa8541e5e84cdca2b04",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "ChipElement / Small / No Label / On",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "feaaea67286f3b5ecd6ce4c2bec639d5de9943fb",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=3 lines, Style=Default, Icons=Left, Ellipsize=Multilne, Margins=Extended, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "fda73ba0e1fdaf0e113dc15a4bffbbf261c79b75",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Snackbar / Progress",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "fce7b7d9a57ab67b269413da76c3abb9b6a4e8b5",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Style=Revert, Icons=Left, Ellipsize=Multilne, Margins=Default, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "f4fcfd77f3762b83ccf9076e24df046f243f410e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Style=Default, Icons=Right, Ellipsize=Multilne, Margins=Extended, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "eef079cba9b75c4d5577d02743f5e5e02154dabe",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Vertical Margins=Medium, Icon=Right, Style=Warning",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "ecf004a3bb49c782d8fff4b38fe0482a6e68292c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Style=Default, Icons=Left, Ellipsize=Multilne, Margins=Extended, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "e83e1615c774d9f7fb82ab8f1c973664ee4a40c9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "BonusFriendsWidget / Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "63c0fa55c55422a616f50d5aa0045d7f5b91e35b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Style=Revert, Icons=None, Ellipsize=Ellipsize, Margins=Extended, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "59affd490de192c4c0ab4e8dcb315e5e293f01cf",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "CounterWrapper",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "54efcf3ce4d752c2f151fabf1335eb4eb3d171f9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Style=Default, Icons=Right, Ellipsize=Ellipsize, Margins=Default, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "530152e0cc820d549a695d51285159d5b6028a9d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Style=Revert, Icons=Left and Right, Ellipsize=Ellipsize, Margins=Extended, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "4f4cb691df05336ec8c1b03a29f4fdbd76c439e1",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Style=Default, Icons=None, Ellipsize=Ellipsize, Margins=Extended, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "4c068aafaa969d8359d033deac15338f4ef18aad",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "MonthView / Selected Multiple 1 Row",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "4b7c9bd321ae688246c49cd1bcaef441c4468674",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=3 lines, Style=Revert, Icons=None, Ellipsize=Multilne, Margins=Default, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "498b93d3e7b76e2a286ef871d78b62a9e155d5a5",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Style=Default, Icons=None, Ellipsize=Multilne, Margins=Default, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "473d61ee27d0bb394486f086b17d1ccf96d89486",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Style=Default, Icons=Left, Ellipsize=Multilne, Margins=Extended, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "4384b0c3463500eac63e4a8e75fb93856d0b071a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Style=Default, Icons=None, Ellipsize=Ellipsize, Margins=Default, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "3b3de35caf6c0d7e621b9414297507e2be3c5a18",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Check / Write Off",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "3a7bb719926a1211e5fe69cdae5dda83daa94e9b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "CodeModule / Retry",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "382cc4628db49e7dcd22bb739e86bc3efe04b5c7",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "AttachmentView / Image / Error",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "360f4e35f442950cb144ad1d6284dd366011de34",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Type=Image, State=Complete",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "2fc51eee054d00ea322c813e22c0d36e224bdb20",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "TextField / Unit / Error",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "2fbc17eb0589c71e9e229b9dae47c473ffa8ef20",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Vertical Margins=Medium, Style=Subline, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "2f8fe60794efe8e1928235f310dd3043b897b0a0",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=3 lines, Style=Default, Icons=Left, Ellipsize=Ellipsize, Margins=Default, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "2914f8165d8564f1516e5f60a103f111ac90f3ac",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=3 lines, Style=Default, Icons=Left, Ellipsize=Multilne, Margins=Default, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "264e0103d85984603a8b07b0db01d4af2c702e0e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Style=Default, Icons=Left, Ellipsize=Multilne, Margins=Default, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "256c79afeb3bd34493bb1bd95503260de1487e6b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Style=Revert, Icons=Left, Ellipsize=Ellipsize, Margins=Default, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "2448e1e9a298b3112e02662b3f3f540c36af3b06",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Day / Selected Last",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "2333ba27447b9bfc73a453138b43560347b4e0e1",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Card / Actions",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "22d9b8c43468378d083771d8d4494e6281e9998f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Vertical Margins=Small, Style=Selectable, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "1e4224a5e289dd715d0e9c9b6e45523be7060507",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Check / Cancellation [Failed]",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "1b5f0d52971be55f856ef16e108dff2fc6a3fde4",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Style=Default, Icons=Left and Right, Ellipsize=Multilne, Margins=Extended, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "1b4f872b196e794b94d230f760b4b3ddd265f232",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Style=Revert, Icons=Left, Ellipsize=Ellipsize, Margins=Extended, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "196fa8bb0086acc899d747a3cd65de216962d2da",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Style=Default, Icons=Right, Ellipsize=Multilne, Margins=Extended, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "1595a30db71490c7a428d3d9fbb08a742cf554cb",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Vertical Margins=Medium, Style=Selectable, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "0faa68f62a30e8e830e10cebaa92c4e65d7dbdb2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Style=Revert, Icons=Right, Ellipsize=Ellipsize, Margins=Default, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "0f060b4727be79ad9e9fe9e1518e108b3716d7a3",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "TextField / Multiline / Error",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "0e1b391a1e8f495bc1e9a753debf16fd009a305a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Vertical Margins=Medium, Style=With Cards, State=Expanded",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "069f8e836f7fc73e82306f1e0adcd7149858edb7",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "BonusFriendsWidget / Empty",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "05ee55d68a178417af02945032bf6a4a13f6a5c6",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=3 lines, Style=Revert, Icons=None, Ellipsize=Multilne, Margins=Extended, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "6b65694ac94c3ed25dac4c8a21fa01cf15bf27e6",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "IndicatorView / Status / Approved",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "3d6ab40a13a146a406fac1364820d69351878d56",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "IndicatorView / Status / Attention",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "79e27d95ed711c9ca38ba963361dd73a463644f9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "IndicatorView / Status / Used",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "fcd6c0b6ba27664d897d169d27bbb7875a6a819d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "AddressModule / Full Address Input / Loading",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "e0cc62cbf4a20bfa3202ef2cf7143463de291c06",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "ActionButton / Custom / Loading",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "e2369a2d692310c3354e2c6a5cd203cfc82b7d32",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Style=Default, Icons=Right, Ellipsize=Ellipsize, Margins=Default, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "db3c5874b9a6b7932cbf3d180dcc510a48b524fc",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=4 lines, Icon=Small, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "d07f339b091a578c8649539ce0bfbda0292b2648",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=4 lines, Icon=Small, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "c2889987a1f684e4386d2600bf486b1ba75013ec",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "View=DataView, State=Expanded, Left Padding=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "c108f372a3b5dda9d161a157513a9ea82c496530",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=3 lines, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "b90e3c619a999280fde9ccca7a793c97b07d13ff",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "View=DataView, State=Contracted, Left Padding=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "9d5f16c871df008b9e130140b833a647dda31011",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Outgoing",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "92b82c68129e75b6b02bac09c7f93ad1c828af07",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Control Side=Left",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "8cee99137e4f03b9199f2fdcb7f60adcc8464ece",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Incoming, Order=Last, Usage=Default, Truncation=Truncated",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "838c20092141c6b1d5ba6b05fa6eb39cca8576f5",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Icon=None, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "8144a11fc6db52c703954b8f122349264659738f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Style=Outgoing, Order=Last, Usage=Default, Length=Single line",
+        "description": "Клиент: последний баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "80aa003b71c744b521dcbce42a2b23518d6bb547",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=Small, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "7c975688e4e1d75c7984bd8cfd3d393ed60763c3",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Horizontal Margin=None, Type=Top Up",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "7a92e9de35bffa2e86341544c4764b49154677c0",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Truncation=Truncted, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "73ec935b1df719bb660f85a6c34c3d7a43e67b4d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Style=Incoming, Order=First, Usage=Default, Length=Single line",
+        "description": "Сервер: первый баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "70b23380201ce122021090ef48fafa94a8db7053",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=None, Style=Default, Truncation=Multiline, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "6f170516d7f556900f8b6a61551b9541770d6195",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Outgoing, Order=Last, Use=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "6bd450d2995dde4fc0d2080dbe9723e317d82097",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "67e3e462f2b726876988575ec251011d46246680",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=None, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "6697891367031b99b4f74fc414051c89a6ddac5c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "5fba570931a0ad79fd498aad76443ddf5632133c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Style=Incoming, Order=Single, Usage=Default, Length=Multiline",
+        "description": "Сервер: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "59ef35f1f12b5edf96bfe4d2235a647c7afba857",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "View=ProductView, Padding=Extended, Control=Checkbox, Control Side=Right",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "585f77074a5e6b20fb47df1154c9d23c82e233c3",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=None, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "4e2b4cb97da7325958b1aeb1dc6193a7cb13b1a3",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Incoming, Order=First, Usage=Default, Truncation=Multiline",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "4df19faf4331f9d9f966d06422b6423f061bcdf2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Style=Revert, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "4df10a46d819b2423aac6fd8057a035cc0474ab3",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=3 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "4c6d502c1dd96a7ade5df32ea572a72548ccd5d0",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Incoming, Order=Middle, Usage=Default, Truncation=Multiline",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "4c5589b0d2a43689b809bdeac7e7b0304a9122e8",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Style=Outgoing, Order=Single, Usage=Default, Length=Multiline",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "498397cb527b2492a5ce3b21448ec2004e17b92c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=Medium, Style=Default, Truncation=Truncated, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "40af09baa6527d24c0c4c002ad3d523b4ba501a8",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Style=Incoming, Order=First, Usage=Default, Length=Multiline",
+        "description": "Сервер: первый баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "3b77e197081a0bcfeaae9064be876accb8003903",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Style=Incoming, Order=Middle, Usage=Default, Length=Single line",
+        "description": "Сервер: промежуточный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "3ae6436689a188084bb9bee02a73f8ba05b5ab67",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Outgoing, Order=First, Use=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "2b02f075c513b89e7c31e767d1c990a81701e38c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "View=CardView, Padding=Extended, Control=Checkbox, Control Side=Right",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "1fda4fe3201b908c6f3d9c10ab0e4f5accc7d7e2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Style=Outgoing, Order=First, Usage=Top, Length=Multiline",
+        "description": "Клиент: отдельная верхушка, первый баббл",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "1b95631cda49c72f1a09aa5866da654b61b54089",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Icon=None, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "1728f5953e1c08240750f96ae35c8bb75e2976f8",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=Small, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "162c3c610535a75f148156c3bf4a075c86ddec12",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Incoming, Order=Last, Usage=Default, Truncation=Multiline",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "14455da2977bed69897fce555ce202bbb6b5548f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Style=Incoming, Order=Single, Usage=Default, Length=Single line",
+        "description": "Сервер: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "11e87d3fcde65576242406a22f4da208bd5b8881",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Outgoing, Order=First, Usage=Top, Truncation=Multiline",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "0e45f4887d838f57810dcb4abdcaef7555dfe530",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "View=ProgressView, State=Contracted, Left Padding=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "0dabc061e4a03a4526f8087d38d8151a17ab6525",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "View=DataView, Left Padding=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "02f43fcbb8d06fdd4094efe99b54422c96ebe92f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "01f182506ba7eec99bc3cbd596bf241ba3743526",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Style=Default, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "01df005a316a59db9e6cc0a2de354ee9edf430b5",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=None, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "feb8d8bf3755cf39660dca0f4cab47cd00865c1d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Header=Default, Quote=Off, Usage=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "fca0cbd8a4e44798daec48f314f43f49935e9b77",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Incoming, Order=Middle, Usage=Default, Truncation=Truncated",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "fc7236746338860dab5a97df6de675bc64a561ca",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Style=Outgoing, Order=Single, Usage=Default, Length=Single line",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "fb831333cf33ce3597f92ac0b15f3d0569ce58ba",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "fa8059270a748858c4846221a329b0a4260643be",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "f6040b4400da070953d5277f25388c910c11a071",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Outgoing, Order=First, Usage=Default, Truncation=Multiline",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "f002dca71e27e168573a5fa8c6bb477c0855178f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "ee3f7e497dfaae7deedac438273669705a25d358",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "ebf9f86a5a638aca00b63dcccf6fc32fcf435a15",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Outgoing, Order=Single, Usage=Default, Truncation=Multiline",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "e611bd958056b0b5b7570283eb2fdfdb505fb53e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Action=Remove",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "e5cc353cd6ebc849fb6efd88e462457117660987",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Horizontal Margin=None, Type=Payment",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "e4032312801fa0641e117a1de388fd8b2798f69a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Header=With Icon, Quote=On, Usage=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "e2c81fa3c1db1f5562869e15035b341b3bc84c51",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "e166d0ada5ddb8ac99e71d0da94d85967893b526",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "View=DataView, Padding=Default, Control=Checkbox, Control Side=Right",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "d87ac7a81460a9f309787ac927b9041f87b7e600",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=4 lines, Icon=None, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "d55ba2a3943fd4c46ebb4502e12267654212402e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "View=DataView, Padding=Extended, Control=Switch, Control Side=Right",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "d535597956b6fb2aef9e19c98eacfe206487c345",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Incoming, Order=First, Use=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "c93b1053ff01a2e1aaed6ceda64d966764ca1ce5",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=3 lines, Icon=None, Style=Revert, Truncation=Truncated, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "c845ebe682a37b52abf407ddcac710e1f5e0e126",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Header=None, Quote=Off, Usage=Complex",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "bf19b7fdd8d771d1ef6ee9028d42192e8bfe7a61",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Icon=None, Style=Default, Truncation=Truncated, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "b34b9982944b814038a2744031b6438aa8759e75",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Outgoing, Order=Last, Usage=Default, Truncation=Multiline",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "243ffadeb248c4ee89a2d8a4581a0c55af6a7a6e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "23d8189841df693dfd43d939702c28ce7a07b0cf",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Style=Incoming, Order=Middle, Usage=Default, Length=Multiline",
+        "description": "Сервер: промежуточный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "1a2d47ac5f73086fd8ed112ff7e0fcc08c235a68",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=3 lines, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "19f018058d318d0ee1773a270219d494995814ca",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Style=Incoming, Order=Last, Usage=Default, Length=Single line",
+        "description": "Сервер: последний баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "18fc6e5c58f64c8d5aeec64cf8c30da2470236ff",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Incoming, Order=First, Usage=Top, Truncation=Multiline",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "18d8191b2b2cb1c48235fbc267d511b5e7275fcc",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "10786b7a31708ffad5289af40115cbb276638100",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "State=Collapsed, Style=Account",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "0d6ca4bb57c0b274fdf91b6600083815eb9b3c93",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Outgoing, Order=Middle, Usage=Top, Truncation=Multiline",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "0a3a72899615b159a853a066a98e6166236f762f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Multiline, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "08d2813cd1d4684f2bac4cbedd8f6c84ff37a15c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Outgoing, Order=Middle, Usage=Default, Truncation=Truncated",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "683951519c31086dbc57d75784f05ade66a8d92f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "TicketWidget / Error",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
         "key": "f98e5e75ad30b159cb085f180080b1fb7c9dedc8",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "TextField / Stepper / Inactive",
@@ -12033,13 +12936,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "c108f372a3b5dda9d161a157513a9ea82c496530",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=3 lines, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "a0cd043e1556bcdc7f5d2ca48b87f10e4a4b3222",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "PopupView / Img / Title Subtitle 1 Button",
@@ -12054,24 +12950,10 @@
         "platform": "ANDROID"
     },
     {
-        "key": "838c20092141c6b1d5ba6b05fa6eb39cca8576f5",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Icon=None, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "826d26d74cb40c54ec4cb51c21c2d5995e6ef6cb",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "AdviceBannerCollection / Default",
         "description": "Баннер Рабблз Android",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "69114315c6eb13a42746ad53c1a246567e2ace16",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Style=Default, Icons=Left and Right, Ellipsize=Multilne, Margins=Default, State=Default",
-        "description": "",
         "platform": "ANDROID"
     },
     {
@@ -12096,52 +12978,10 @@
         "platform": "ANDROID"
     },
     {
-        "key": "01f182506ba7eec99bc3cbd596bf241ba3743526",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Style=Default, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "a830450ec66215cfa8ee6f865e2362eadf86a593",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Outgoing, Order=Last, Usage=Default, Truncation=Truncated",
-        "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "80aa003b71c744b521dcbce42a2b23518d6bb547",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=Small, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "d07f339b091a578c8649539ce0bfbda0292b2648",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=4 lines, Icon=Small, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "1731e4365ff3d636e84970d6a09d3a877eec6a5e",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Style=Paragraph, Truncation=1 line, Width=Fixed",
         "description": "Кнопка действия",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "1fda4fe3201b908c6f3d9c10ab0e4f5accc7d7e2",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Style=Outgoing, Order=First, Usage=Top, Length=Multiline",
-        "description": "Клиент: отдельная верхушка, первый баббл",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "5fba570931a0ad79fd498aad76443ddf5632133c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Style=Incoming, Order=Single, Usage=Default, Length=Multiline",
-        "description": "Сервер: единственный баббл в группе",
         "platform": "ANDROID"
     },
     {
@@ -12222,13 +13062,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "f002dca71e27e168573a5fa8c6bb477c0855178f",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "ee047d6f097f07f1ef4e4a4bb66110ab8a50a817",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Lines=2 lines, Style=Default, Icons=Right, Ellipsize=Ellipsize, Margins=Extended, State=Default",
@@ -12239,20 +13072,6 @@
         "key": "e4681d88a91a754b36545461aaf47d2a7e42dd80",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "TextField / Icon / Inactive",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "e2c81fa3c1db1f5562869e15035b341b3bc84c51",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "e2369a2d692310c3354e2c6a5cd203cfc82b7d32",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Style=Default, Icons=Right, Ellipsize=Ellipsize, Margins=Default, State=Default",
         "description": "",
         "platform": "ANDROID"
     },
@@ -12278,9 +13097,156 @@
         "platform": "ANDROID"
     },
     {
+        "key": "e5401715e5ceae31f6bbbe5b4d9622d9790e543c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Check / Top Up",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "e2553e686ef463d171894de747c83215e7ecd52c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Vertical Margins=Medium, Icon=Left, Style=Warning",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "e083897b236f7eef7577f66f157849ae28176841",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Style=Default, Icons=Left, Ellipsize=Ellipsize, Margins=Extended, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
         "key": "d82b2e53bdbe5798d9796a835ec2001e4dd9149f",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Lines=1 line, Style=Default, Icons=Left and Right, Ellipsize=Multilne, Margins=Extended, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "bbd7ec075a1dbe4b75c905f136e814ab3692f7b7",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Style=Default, Icons=Left, Ellipsize=Multilne, Margins=Default, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "b601aa2d0d6809c127aab5eca3c838619d7d10fd",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Style=Default, Icons=Left and Right, Ellipsize=Ellipsize, Margins=Extended, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "b60053064d8b4e12e5e7d8ef1338af8896430640",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Style=Default, Icons=Left and Right, Ellipsize=Multilne, Margins=Default, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "b0bb085e95001122bd4cc4e9711e3560ed394cc8",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Style=Revert, Icons=Left and Right, Ellipsize=Multilne, Margins=Extended, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "9bbf0a09fcb85b9f8e8397b186498f8200352a98",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Style=Revert, Icons=None, Ellipsize=Ellipsize, Margins=Default, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "9a18250fda295a16c779c8a58432a6e52a89fb9b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Style=Revert, Icons=Left, Ellipsize=Multilne, Margins=Default, State=Loading",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "998d065993051f87b3cecb30c0e374fc9dca2ed2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Type=File, State=Uploading",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "94235dbf981d833f7e25b93859932e105578d9a3",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "DEPRECATED / DataView/2 lines/Revert/Warning/None/None/Ellipsize",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "889ce96f57286c9ad244ed9ce17576d29a03e0f3",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=3 lines, Style=Default, Icons=Left, Ellipsize=Multilne, Margins=Default, State=Loading",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "86e037dc9deb7bf8f996a2b2f991b43f652dc974",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Vertical Margins=Small, Icon=Left, Style=Revert",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "82fd3191bf37031bab6a0d6912d3cfe8fd140b42",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Vertical Margins=Small, Style=Default, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "826a11d0ae8d1728c51f76f8e2bc84cda54b8819",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Day / Selected Middle",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "77187036380d4e0b0371f44fec0045b8ac2eea03",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Style=Revert, Icons=None, Ellipsize=Multilne, Margins=Extended, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "73f1ec150fe989c39d51eae46c3c57ee09d9bd0b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Type=Image, State=Uploading",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "6cf06a03d67d85ccb92ad160b5d65378dc1d17db",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "PaymentControlAccountSelect",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "69114315c6eb13a42746ad53c1a246567e2ace16",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Style=Default, Icons=Left and Right, Ellipsize=Multilne, Margins=Default, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "6910e90a9ca254982e89660385092a24e00aa25c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "PaymentControl",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "6662daa43fe7c8fbc1db664048e0228c3ee2003a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Style=Revert, Icons=Left and Right, Ellipsize=Ellipsize, Margins=Default, State=Default",
         "description": "",
         "platform": "ANDROID"
     },
@@ -12362,13 +13328,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "7e700a7778bd78faed465934c8dcb3219a9f17f9",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Truncated, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "79a355aac79cf43cb927ba8ac60a2580737bc21e",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Lines=2 lines, Style=Default, Icon=S / No shape, Ellipsize=Ellipsize, Margins=Default, State=Default",
@@ -12383,30 +13342,9 @@
         "platform": "ANDROID"
     },
     {
-        "key": "789f883adf21410d7995e16e97d16cbfd88ccc54",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=Medium, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "77f1d561fb9a2cc4b995942a79034cf318673523",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Style=Revert, Ellipsize=Ellipsize, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "77187036380d4e0b0371f44fec0045b8ac2eea03",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Style=Revert, Icons=None, Ellipsize=Multilne, Margins=Extended, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "73f7736df4830ddb7a8b28616a5b17729d5d95ab",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
         "description": "",
         "platform": "ANDROID"
     },
@@ -12432,37 +13370,9 @@
         "platform": "ANDROID"
     },
     {
-        "key": "6bd450d2995dde4fc0d2080dbe9723e317d82097",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "6af0a29e2b5c9155f78ad90a6eab4dadc74c256e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=None, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "6662daa43fe7c8fbc1db664048e0228c3ee2003a",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Style=Revert, Icons=Left and Right, Ellipsize=Ellipsize, Margins=Default, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "655d5afe49b061aac16bb26c2efd8a630030b6e8",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Markdown / CoverImage",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "63c0fa55c55422a616f50d5aa0045d7f5b91e35b",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Style=Revert, Icons=None, Ellipsize=Ellipsize, Margins=Extended, State=Default",
         "description": "",
         "platform": "ANDROID"
     },
@@ -12481,51 +13391,9 @@
         "platform": "ANDROID"
     },
     {
-        "key": "59affd490de192c4c0ab4e8dcb315e5e293f01cf",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "CounterWrapper",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "554e4dc4f5038e1f309400a998efdd4034a1b415",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "54efcf3ce4d752c2f151fabf1335eb4eb3d171f9",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Style=Default, Icons=Right, Ellipsize=Ellipsize, Margins=Default, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "530152e0cc820d549a695d51285159d5b6028a9d",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Style=Revert, Icons=Left and Right, Ellipsize=Ellipsize, Margins=Extended, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "50d4c28dcc8dd8e8578829e22bf0b82c1ad00bef",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=3 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "504098583537c2f8794428d50a462ac862628395",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Status=Default, State=Normal",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "4b726295b5790df2d2731d64a4e6281c8654429a",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=None",
         "description": "",
         "platform": "ANDROID"
     },
@@ -12537,44 +13405,9 @@
         "platform": "ANDROID"
     },
     {
-        "key": "473d61ee27d0bb394486f086b17d1ccf96d89486",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Style=Default, Icons=Left, Ellipsize=Multilne, Margins=Extended, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "4384b0c3463500eac63e4a8e75fb93856d0b071a",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Style=Default, Icons=None, Ellipsize=Ellipsize, Margins=Default, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "40116c8afc33342c073cb5ce771ffc5e453df79c",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Lines=2 lines, Style=Revert, Icon=S / No shape, Ellipsize=Ellipsize, Margins=Default, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "3b3de35caf6c0d7e621b9414297507e2be3c5a18",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Check / Write Off",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "399d28d40b970d9e97966dd011ba4ff43d8cf164",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=3 lines, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "381d8b940d1909abe93dac9a6d2a22bd76ee069c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Multiline, Horizontal Margin=Extended",
         "description": "",
         "platform": "ANDROID"
     },
@@ -12593,13 +13426,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "342d1fb716f9e277419ac5493d27173abb9cc656",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Truncated, Horizontal Margin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "2ece3e37a02bf87c17c8e72f03c74985550b502b",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Style=Revert, Ellipsize=Ellipsize, State=Loading",
@@ -12607,72 +13433,9 @@
         "platform": "ANDROID"
     },
     {
-        "key": "290ca276e1df27382602c34bb659447eebf790e9",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=3 lines, Icon=None, Style=Revert, Truncation=Truncated, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "27055ae0a63dcfb11ce264778de8ca2ee2845598",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Status=Unread, State=Normal",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "264e0103d85984603a8b07b0db01d4af2c702e0e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Style=Default, Icons=Left, Ellipsize=Multilne, Margins=Default, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "243ffadeb248c4ee89a2d8a4581a0c55af6a7a6e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "2333ba27447b9bfc73a453138b43560347b4e0e1",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Card / Actions",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "1b95631cda49c72f1a09aa5866da654b61b54089",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Icon=None, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "1b5f0d52971be55f856ef16e108dff2fc6a3fde4",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Style=Default, Icons=Left and Right, Ellipsize=Multilne, Margins=Extended, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "1b4f872b196e794b94d230f760b4b3ddd265f232",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Style=Revert, Icons=Left, Ellipsize=Ellipsize, Margins=Extended, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "1a2d47ac5f73086fd8ed112ff7e0fcc08c235a68",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=3 lines, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "196fa8bb0086acc899d747a3cd65de216962d2da",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Style=Default, Icons=Right, Ellipsize=Multilne, Margins=Extended, State=Default",
         "description": "",
         "platform": "ANDROID"
     },
@@ -12705,30 +13468,9 @@
         "platform": "ANDROID"
     },
     {
-        "key": "0faa68f62a30e8e830e10cebaa92c4e65d7dbdb2",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Style=Revert, Icons=Right, Ellipsize=Ellipsize, Margins=Default, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "0ace0afdb411f91621a74f7bff70035837da53fb",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Style=Revert, Ellipsize=Multiline, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "0a3a72899615b159a853a066a98e6166236f762f",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Multiline, Horizontal Margin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "05ee55d68a178417af02945032bf6a4a13f6a5c6",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=3 lines, Style=Revert, Icons=None, Ellipsize=Multilne, Margins=Extended, State=Default",
         "description": "",
         "platform": "ANDROID"
     },
@@ -12750,13 +13492,6 @@
         "key": "3018c5e8b5ff6ab5c3f99a59e99aaa59ebd4fcef",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "TicketWidget / Skeleton",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "54a2ca98ffeef54002169d1954f216dd9b9abf5c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=3 lines, Truncation=Truncted, State=Default",
         "description": "",
         "platform": "ANDROID"
     },
@@ -12796,13 +13531,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "e83e1615c774d9f7fb82ab8f1c973664ee4a40c9",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "BonusforfriendsWidget / Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "cf29574d19bf9bbfe791cc676182c3e608d8ac8c",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Style=Default, State=Default, Sum=Action",
@@ -12824,38 +13552,10 @@
         "platform": "ANDROID"
     },
     {
-        "key": "9a2deaf7fd98a25e1811d372c0adeee32694f421",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=3 lines, Truncation=Multiline, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "9eacb5496bd0c20b1fe601fb90d84fc610c2ba17",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Style=Outgoing, Order=First, Usage=Default, Length=Multiline",
         "description": "Клиент: первый баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "40af09baa6527d24c0c4c002ad3d523b4ba501a8",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Style=Incoming, Order=First, Usage=Default, Length=Multiline",
-        "description": "Сервер: первый баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "d87ac7a81460a9f309787ac927b9041f87b7e600",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=4 lines, Icon=None, Horizontal Margin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "e4032312801fa0641e117a1de388fd8b2798f69a",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Header=With Icon, Quote=On, Usage=Default",
-        "description": "",
         "platform": "ANDROID"
     },
     {
@@ -12880,41 +13580,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "43b73f08ad9365ce27e6d1efecd1edead5b0b528",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Header=None, Quote=Off, Usage=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "fc7236746338860dab5a97df6de675bc64a561ca",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Style=Outgoing, Order=Single, Usage=Default, Length=Single line",
-        "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "73ec935b1df719bb660f85a6c34c3d7a43e67b4d",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Style=Incoming, Order=First, Usage=Default, Length=Single line",
-        "description": "Сервер: первый баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "3287a3c076ee5fcd145a1b3e69b6f51ff9e0bb2b",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Style=Outgoing, Order=Middle, Usage=Default, Length=Multiline",
-        "description": "Клиент: промежуточный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "23d8189841df693dfd43d939702c28ce7a07b0cf",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Style=Incoming, Order=Middle, Usage=Default, Length=Multiline",
-        "description": "Сервер: промежуточный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
         "key": "e181391503c3dc7d888baff13ab93cc809b49fe5",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Style=Incoming, Order=Last, Usage=Default, Length=Multiline",
@@ -12922,59 +13587,10 @@
         "platform": "ANDROID"
     },
     {
-        "key": "4c5589b0d2a43689b809bdeac7e7b0304a9122e8",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Style=Outgoing, Order=Single, Usage=Default, Length=Multiline",
-        "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "99503764b41464a688f8992894613c8cc18d84ec",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Style=Outgoing, Order=Middle, Usage=Default, Length=Single line",
-        "description": "Клиент: промежуточный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "19f018058d318d0ee1773a270219d494995814ca",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Style=Incoming, Order=Last, Usage=Default, Length=Single line",
-        "description": "Сервер: последний баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "9cc09262e2462428913d36c47a0a8b48d4cc489e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Style=Incoming, Order=First, Usage=Top, Length=Multiline",
-        "description": "Сервер: отдельная верхушка, первый баббл",
-        "platform": "ANDROID"
-    },
-    {
         "key": "9c72c3b232d161b962188b2d8c54abce0f30644d",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Style=Incoming, Order=Middle, Usage=Top, Length=Multiline",
         "description": "Сервер: отдельная верхушка, первый баббл",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "300e9b52eb8ec4d27dc0ed3c31848111df320296",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Header=None, Quote=On, Usage=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "88d9199f303f01cfc684831a070d7e8a547a1bec",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Header=With Icon, Quote=Off, Usage=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "c845ebe682a37b52abf407ddcac710e1f5e0e126",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Header=None, Quote=Off, Usage=Complex",
-        "description": "",
         "platform": "ANDROID"
     },
     {
@@ -13008,7 +13624,7 @@
     {
         "key": "d64fae8cb5c70cf7052a158fac5f847336113b03",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "BonusforfriendsWidget / Coach",
+        "name": "BonusFriendsWidget / Coach",
         "description": "",
         "platform": "ANDROID"
     },
@@ -13048,23 +13664,9 @@
         "platform": "ANDROID"
     },
     {
-        "key": "c2889987a1f684e4386d2600bf486b1ba75013ec",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "View=DataView, State=Expanded, Left Padding=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "b93cf33e1e33ae83a6d6ff6588e40c611d11c8bb",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Horizontal Margin=None, State=Complete, Style=Action",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "b90e3c619a999280fde9ccca7a793c97b07d13ff",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "View=DataView, State=Contracted, Left Padding=Default",
         "description": "",
         "platform": "ANDROID"
     },
@@ -13097,13 +13699,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "0e45f4887d838f57810dcb4abdcaef7555dfe530",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "View=ProgressView, State=Contracted, Left Padding=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "03753c0030090fdd3fe380839f0055ae73d6273b",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Horizontal Margin=None, State=In progress, Style=Default",
@@ -13122,6 +13717,279 @@
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "State=Default, Account=Car Loan",
         "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "a8b78a6d0148d5e00779014064e370254e5ea8f4",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Incoming, Order=Middle, Usage=Top, Truncation=Multiline",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "a830450ec66215cfa8ee6f865e2362eadf86a593",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Outgoing, Order=Last, Usage=Default, Truncation=Truncated",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "a5edf309ddc07dfdd1bd2037c8e0864a35315264",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Truncation=Multiline, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "a40a76dbea349a5efbbe779029fd8ceca288a072",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Action=Add",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "9ed40c866e4c210d1259d7c5815e5a51cdbece61",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=None, Style=Default, Truncation=Truncated, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "9dbc82b7bfba11f4c792f12576d6fa8760faf9b7",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "9cc09262e2462428913d36c47a0a8b48d4cc489e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Style=Incoming, Order=First, Usage=Top, Length=Multiline",
+        "description": "Сервер: отдельная верхушка, первый баббл",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "9a2deaf7fd98a25e1811d372c0adeee32694f421",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=3 lines, Truncation=Multiline, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "9969477202b28ff6e6066fdf6da8be7fd0106afb",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Incoming, Order=First, Usage=Default, Truncation=Truncated",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "99503764b41464a688f8992894613c8cc18d84ec",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Style=Outgoing, Order=Middle, Usage=Default, Length=Single line",
+        "description": "Клиент: промежуточный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "88fc9935d122b372583f956eb248b80a6b886d16",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Incoming, Order=Last, Use=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "88d9199f303f01cfc684831a070d7e8a547a1bec",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Header=With Icon, Quote=Off, Usage=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "7f7d7c912e7f89ab3ea6cc23cddc91294b2d0d7e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "View=DataView, Padding=Extended, Control=Checkbox, Control Side=Right",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "7e700a7778bd78faed465934c8dcb3219a9f17f9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Truncated, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "7c7b020c4d9e7b243f0da282a265a86abcb1fcb8",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=None, Style=Revert, Truncation=Multiline, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "789f883adf21410d7995e16e97d16cbfd88ccc54",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=Medium, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "73f7736df4830ddb7a8b28616a5b17729d5d95ab",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "6df69b54c4781f98183e215af09f74895c8e9811",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "State=Collapsed, Style=With cards",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "6af0a29e2b5c9155f78ad90a6eab4dadc74c256e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=None, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "6a0bb65e641de41f04063f9662252d4b92961016",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Header=With Icon, Quote=Off, Usage=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "66e51ee6b05f9fad4e762f9dadaf75b6428b1bbf",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "CodeModule / Push",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "62203fb9d10443513ceb3b04cfec8386c542dace",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Outgoing, Order=Middle, Usage=Default, Truncation=Multiline",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "6208d71b5ffe188c8114e36da7af6d0595ffe068",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=3 lines, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "5edad0819e4f356da0d5e2e01e9c04c8e380b778",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Outgoing, Order=Single, Usage=Default, Truncation=Truncated",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "554e4dc4f5038e1f309400a998efdd4034a1b415",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "54a2ca98ffeef54002169d1954f216dd9b9abf5c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=3 lines, Truncation=Truncted, State=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "50d4c28dcc8dd8e8578829e22bf0b82c1ad00bef",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=3 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "4fc611e0f0a28a8fdc80422c3f12e0464b8e4a22",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Outgoing, Order=First, Usage=Default, Truncation=Truncated",
+        "description": "Клиент: единственный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "4b726295b5790df2d2731d64a4e6281c8654429a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=1 line, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "47f3c27820884c3b1ea89961c4bfb1ba2140bcde",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Style=Outgoing, Order=First, Usage=Default, Length=Single line",
+        "description": "Клиент: первый баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "43b73f08ad9365ce27e6d1efecd1edead5b0b528",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Header=None, Quote=Off, Usage=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "3f14f56a32e3dd88c191662e29286be3081bdf93",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Calendar / Forward",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "399d28d40b970d9e97966dd011ba4ff43d8cf164",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=3 lines, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "381d8b940d1909abe93dac9a6d2a22bd76ee069c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Multiline, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "342d1fb716f9e277419ac5493d27173abb9cc656",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Truncated, Horizontal Margin=None",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "3287a3c076ee5fcd145a1b3e69b6f51ff9e0bb2b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Style=Outgoing, Order=Middle, Usage=Default, Length=Multiline",
+        "description": "Клиент: промежуточный баббл в группе",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "300e9b52eb8ec4d27dc0ed3c31848111df320296",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Header=None, Quote=On, Usage=Default",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "290ca276e1df27382602c34bb659447eebf790e9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Lines=3 lines, Icon=None, Style=Revert, Truncation=Truncated, Horizontal Margin=Extended",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
+        "key": "2625fd0a1c1ef78ea71254fe0399ae981c060c44",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "name": "Source=Incoming, Order=Single, Usage=Default, Truncation=Truncated",
+        "description": "Клиент: единственный баббл в группе",
         "platform": "ANDROID"
     },
     {
@@ -13153,20 +14021,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "2fc51eee054d00ea322c813e22c0d36e224bdb20",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "TextField / Unit / Error",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "2f8fe60794efe8e1928235f310dd3043b897b0a0",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=3 lines, Style=Default, Icons=Left, Ellipsize=Ellipsize, Margins=Default, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "2b19746a24f3f03f435c1c360d609181c2cef298",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Lines=3 lines, Style=Default, Icon=None, Ellipsize=Ellipsize, Margins=Default, State=Default",
@@ -13177,13 +14031,6 @@
         "key": "29e057db34a418ba6c21cf31861276c191c1da57",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "TextField / Multiline / Inactive",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "2914f8165d8564f1516e5f60a103f111ac90f3ac",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=3 lines, Style=Default, Icons=Left, Ellipsize=Multilne, Margins=Default, State=Default",
         "description": "",
         "platform": "ANDROID"
     },
@@ -13202,13 +14049,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "2448e1e9a298b3112e02662b3f3f540c36af3b06",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Day / Selected Last",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "213971479c9dddfe40378e25dd2b8a39573ad7c7",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "DEPRECATED / DataStackView / Small Title",
@@ -13223,23 +14063,9 @@
         "platform": "ANDROID"
     },
     {
-        "key": "1e4224a5e289dd715d0e9c9b6e45523be7060507",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Check / Cancellation [Failed]",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "198deab2d55e22751d955ec1e3a9dc68f6ee244c",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Lines=3 lines, Style=Default, Icon=S / SuperEllipse, Ellipsize=Multiline, Margins=Default, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "18d8191b2b2cb1c48235fbc267d511b5e7275fcc",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=None",
         "description": "",
         "platform": "ANDROID"
     },
@@ -13258,13 +14084,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "0f060b4727be79ad9e9fe9e1518e108b3716d7a3",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "TextField / Multiline / Error",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "0da3ea873585bd958a46abdab6c83e4f0fd90f16",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Markdown / Image 16:9 1280×960",
@@ -13275,20 +14094,6 @@
         "key": "0c83dfb21c1a8786fe0da5dd972776fa3246d532",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "CalendarView",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "02f43fcbb8d06fdd4094efe99b54422c96ebe92f",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "01df005a316a59db9e6cc0a2de354ee9edf430b5",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=None, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
         "description": "",
         "platform": "ANDROID"
     },
@@ -13307,45 +14112,10 @@
         "platform": "ANDROID"
     },
     {
-        "key": "2625fd0a1c1ef78ea71254fe0399ae981c060c44",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Incoming, Order=Single, Usage=Default, Truncation=Truncated",
-        "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "7a92e9de35bffa2e86341544c4764b49154677c0",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Truncation=Truncted, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "d9e320523d820ef307254264387fef75ed7a69cc",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Header=None, Quote=Off, Usage=Default",
         "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "3b77e197081a0bcfeaae9064be876accb8003903",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Style=Incoming, Order=Middle, Usage=Default, Length=Single line",
-        "description": "Сервер: промежуточный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "8144a11fc6db52c703954b8f122349264659738f",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Style=Outgoing, Order=Last, Usage=Default, Length=Single line",
-        "description": "Клиент: последний баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "08d2813cd1d4684f2bac4cbedd8f6c84ff37a15c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Outgoing, Order=Middle, Usage=Default, Truncation=Truncated",
-        "description": "Клиент: единственный баббл в группе",
         "platform": "ANDROID"
     },
     {
@@ -13356,13 +14126,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "fca0cbd8a4e44798daec48f314f43f49935e9b77",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Incoming, Order=Middle, Usage=Default, Truncation=Truncated",
-        "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
         "key": "1e942d1a4aebd12dc67a1fc5bc79c47072d0e896",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Style=Headline, Truncation=2 lines, Width=Full Width",
@@ -13370,31 +14133,10 @@
         "platform": "ANDROID"
     },
     {
-        "key": "8cee99137e4f03b9199f2fdcb7f60adcc8464ece",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Incoming, Order=Last, Usage=Default, Truncation=Truncated",
-        "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "f6040b4400da070953d5277f25388c910c11a071",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Outgoing, Order=First, Usage=Default, Truncation=Multiline",
-        "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
         "key": "85fe19430acc29e202d956b142e5fdee26dee32e",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Style=Outgoing, Order=Last, Usage=Default, Length=Multiline",
         "description": "Клиент: последний баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "14455da2977bed69897fce555ce202bbb6b5548f",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Style=Incoming, Order=Single, Usage=Default, Length=Single line",
-        "description": "Сервер: единственный баббл в группе",
         "platform": "ANDROID"
     },
     {
@@ -13412,20 +14154,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "67e3e462f2b726876988575ec251011d46246680",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=None, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "db3c5874b9a6b7932cbf3d180dcc510a48b524fc",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=4 lines, Icon=Small, Horizontal Margin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "e8b0a04d0ef8077acb533b0c73b4a959cb46a9ce",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Lines=4 lines, Icon=None, Horizontal Margin=Extended",
@@ -13433,44 +14161,9 @@
         "platform": "ANDROID"
     },
     {
-        "key": "585f77074a5e6b20fb47df1154c9d23c82e233c3",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=None, Horizontal Margin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "1728f5953e1c08240750f96ae35c8bb75e2976f8",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=Small, Horizontal Margin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "0d6ca4bb57c0b274fdf91b6600083815eb9b3c93",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Outgoing, Order=Middle, Usage=Top, Truncation=Multiline",
-        "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "4c6d502c1dd96a7ade5df32ea572a72548ccd5d0",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Incoming, Order=Middle, Usage=Default, Truncation=Multiline",
-        "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "4fc611e0f0a28a8fdc80422c3f12e0464b8e4a22",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Outgoing, Order=First, Usage=Default, Truncation=Truncated",
-        "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
         "key": "f1b13f4f584501e1c75c813cc95cb8a69c16f7cd",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "BonusforfriendsWidget / Skeleton",
+        "name": "BonusFriendsWidget / Skeleton",
         "description": "",
         "platform": "ANDROID"
     },
@@ -13482,30 +14175,9 @@
         "platform": "ANDROID"
     },
     {
-        "key": "21974b2c2ca72f663b5011eb5137eb7abf8639e0",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Сoin",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "ebf9f86a5a638aca00b63dcccf6fc32fcf435a15",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Outgoing, Order=Single, Usage=Default, Truncation=Multiline",
-        "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
         "key": "743f1ebba2ed811c864f0420dbb2dd6341fa927b",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Preset=Action Secondary",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "feb8d8bf3755cf39660dca0f4cab47cd00865c1d",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Header=Default, Quote=Off, Usage=Default",
         "description": "",
         "platform": "ANDROID"
     },
@@ -13517,38 +14189,10 @@
         "platform": "ANDROID"
     },
     {
-        "key": "18fc6e5c58f64c8d5aeec64cf8c30da2470236ff",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Incoming, Order=First, Usage=Top, Truncation=Multiline",
-        "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
         "key": "ed9c31fd2be84e614474a9b6be49d64740513d18",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Style=Headline, Truncation=1 line, Width=Fixed",
         "description": "Кнопка действия",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "47f3c27820884c3b1ea89961c4bfb1ba2140bcde",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Style=Outgoing, Order=First, Usage=Default, Length=Single line",
-        "description": "Клиент: первый баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "62203fb9d10443513ceb3b04cfec8386c542dace",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Outgoing, Order=Middle, Usage=Default, Truncation=Multiline",
-        "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "a5edf309ddc07dfdd1bd2037c8e0864a35315264",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Truncation=Multiline, State=Default",
-        "description": "",
         "platform": "ANDROID"
     },
     {
@@ -13559,59 +14203,10 @@
         "platform": "ANDROID"
     },
     {
-        "key": "b34b9982944b814038a2744031b6438aa8759e75",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Outgoing, Order=Last, Usage=Default, Truncation=Multiline",
-        "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "162c3c610535a75f148156c3bf4a075c86ddec12",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Incoming, Order=Last, Usage=Default, Truncation=Multiline",
-        "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
         "key": "d0299fa10d5d1cbe408b7ae0055afe8847071098",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Source=Incoming, Order=Single, Usage=Default, Truncation=Multiline",
         "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "11e87d3fcde65576242406a22f4da208bd5b8881",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Outgoing, Order=First, Usage=Top, Truncation=Multiline",
-        "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "9969477202b28ff6e6066fdf6da8be7fd0106afb",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Incoming, Order=First, Usage=Default, Truncation=Truncated",
-        "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "4e2b4cb97da7325958b1aeb1dc6193a7cb13b1a3",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Incoming, Order=First, Usage=Default, Truncation=Multiline",
-        "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "a8b78a6d0148d5e00779014064e370254e5ea8f4",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Incoming, Order=Middle, Usage=Top, Truncation=Multiline",
-        "description": "Клиент: единственный баббл в группе",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "6a0bb65e641de41f04063f9662252d4b92961016",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Header=With Icon, Quote=Off, Usage=Default",
-        "description": "",
         "platform": "ANDROID"
     },
     {
@@ -13636,37 +14231,9 @@
         "platform": "ANDROID"
     },
     {
-        "key": "feaaea67286f3b5ecd6ce4c2bec639d5de9943fb",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=3 lines, Style=Default, Icons=Left, Ellipsize=Multilne, Margins=Extended, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "fce7b7d9a57ab67b269413da76c3abb9b6a4e8b5",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Style=Revert, Icons=Left, Ellipsize=Multilne, Margins=Default, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "fc5713b3ba3d9e808d2c192228adc8c9d069e064",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "TileGrid / 9 Elements",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "fb831333cf33ce3597f92ac0b15f3d0569ce58ba",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "fa8059270a748858c4846221a329b0a4260643be",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=Extended",
         "description": "",
         "platform": "ANDROID"
     },
@@ -13688,41 +14255,6 @@
         "key": "f554f84d158a1dd6da87ba1a9280ad067f687125",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Lines=3 lines, Style=Default, Icon=S / SuperEllipse, Ellipsize=Ellipsize, Margins=Default, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "f4fcfd77f3762b83ccf9076e24df046f243f410e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Style=Default, Icons=Right, Ellipsize=Multilne, Margins=Extended, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "ee3f7e497dfaae7deedac438273669705a25d358",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "ecf004a3bb49c782d8fff4b38fe0482a6e68292c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Style=Default, Icons=Left, Ellipsize=Multilne, Margins=Extended, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "e5401715e5ceae31f6bbbe5b4d9622d9790e543c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Check / Top Up",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "e083897b236f7eef7577f66f157849ae28176841",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Style=Default, Icons=Left, Ellipsize=Ellipsize, Margins=Extended, State=Default",
         "description": "",
         "platform": "ANDROID"
     },
@@ -13762,23 +14294,9 @@
         "platform": "ANDROID"
     },
     {
-        "key": "c93b1053ff01a2e1aaed6ceda64d966764ca1ce5",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=3 lines, Icon=None, Style=Revert, Truncation=Truncated, Horizontal Margin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "c433cda3fa2bd1e37dd97e978bc213972beef8e9",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Lines=1 line, Icon=None, Style=Default, Truncation=Multiline, Horizontal Margin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "bf19b7fdd8d771d1ef6ee9028d42192e8bfe7a61",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Icon=None, Style=Default, Truncation=Truncated, Horizontal Margin=None",
         "description": "",
         "platform": "ANDROID"
     },
@@ -13793,13 +14311,6 @@
         "key": "b61cdce1ee45ff3e768fcee3d1f51e407f88dec8",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Style=Default, Ellipsize=Ellipsize, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "b60053064d8b4e12e5e7d8ef1338af8896430640",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Style=Default, Icons=Left and Right, Ellipsize=Multilne, Margins=Default, State=Default",
         "description": "",
         "platform": "ANDROID"
     },
@@ -13825,13 +14336,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "9ed40c866e4c210d1259d7c5815e5a51cdbece61",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=None, Style=Default, Truncation=Truncated, Horizontal Margin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "9bf5f7ad61a45f7970c0d0b7ed35dfde24d57bc7",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Lines=3 lines, Style=Revert, Icon=None, Ellipsize=Ellipsize, Margins=Default, State=Default",
@@ -13839,23 +14343,9 @@
         "platform": "ANDROID"
     },
     {
-        "key": "9a18250fda295a16c779c8a58432a6e52a89fb9b",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Style=Revert, Icons=Left, Ellipsize=Multilne, Margins=Default, State=Loading",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "9127429bc7177f10a7b9929e8d9b5751f6ba1af9",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Lines=2 lines, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "889ce96f57286c9ad244ed9ce17576d29a03e0f3",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=3 lines, Style=Default, Icons=Left, Ellipsize=Multilne, Margins=Default, State=Loading",
         "description": "",
         "platform": "ANDROID"
     },
@@ -13972,20 +14462,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "73f1ec150fe989c39d51eae46c3c57ee09d9bd0b",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Type=Image, State=Uploading",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "360f4e35f442950cb144ad1d6284dd366011de34",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Type=Image, State=Complete",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "ed059d9e52bb39385a06bb563d70aa31e9b34832",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Type=Action, State=Error",
@@ -14007,69 +14483,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "0dabc061e4a03a4526f8087d38d8151a17ab6525",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "View=DataView, Left Padding=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "6df69b54c4781f98183e215af09f74895c8e9811",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "State=Collapsed, Style=With cards",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "10786b7a31708ffad5289af40115cbb276638100",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "State=Collapsed, Style=Account",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "e166d0ada5ddb8ac99e71d0da94d85967893b526",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "View=DataView, Padding=Default, Control=Checkbox, Control Side=Right",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "59ef35f1f12b5edf96bfe4d2235a647c7afba857",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "View=ProductView, Padding=Extended, Control=Checkbox, Control Side=Right",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "d55ba2a3943fd4c46ebb4502e12267654212402e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "View=DataView, Padding=Extended, Control=Switch, Control Side=Right",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "7f7d7c912e7f89ab3ea6cc23cddc91294b2d0d7e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "View=DataView, Padding=Extended, Control=Checkbox, Control Side=Right",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "a40a76dbea349a5efbbe779029fd8ceca288a072",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Action=Add",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "e611bd958056b0b5b7570283eb2fdfdb505fb53e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Action=Remove",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "005e6004a8de3917c49190ca9cff410a2a81a02f",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Horizontal Margin=Extended, Type=Transfer",
@@ -14077,23 +14490,9 @@
         "platform": "ANDROID"
     },
     {
-        "key": "e5cc353cd6ebc849fb6efd88e462457117660987",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Horizontal Margin=None, Type=Payment",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "16ed97451afd5ae12cfd4610cfe1d88ad5d8d98e",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Horizontal Magin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "7c975688e4e1d75c7984bd8cfd3d393ed60763c3",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Horizontal Margin=None, Type=Top Up",
         "description": "",
         "platform": "ANDROID"
     },
@@ -14329,13 +14728,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "7c7b020c4d9e7b243f0da282a265a86abcb1fcb8",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=None, Style=Revert, Truncation=Multiline, Horizontal Margin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "77c4b94f31c6968e3bd8e02e0f1c8348dfbba40e",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Markdown / Image 3:2 1200 x 800",
@@ -14364,13 +14756,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "70b23380201ce122021090ef48fafa94a8db7053",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=None, Style=Default, Truncation=Multiline, Horizontal Margin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "70a7eeadfbe734f463e4d1db3bd8fced3530363c",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "TextField / Unit / Activated",
@@ -14385,13 +14770,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "6cf06a03d67d85ccb92ad160b5d65378dc1d17db",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "PaymentControlAccountSelect",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "6ce15a8de965caececde8c7580e8d6dac9e78d1f",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Markdown / ListWrap",
@@ -14399,23 +14777,9 @@
         "platform": "ANDROID"
     },
     {
-        "key": "6910e90a9ca254982e89660385092a24e00aa25c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "PaymentControl",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "6889ef24f1baf7f842782313678c174354d6cecc",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "DEPRECATED / DataStackView / Small Title / Skeleton",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "6697891367031b99b4f74fc414051c89a6ddac5c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
         "description": "",
         "platform": "ANDROID"
     },
@@ -14434,13 +14798,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "6208d71b5ffe188c8114e36da7af6d0595ffe068",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=3 lines, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=Extended",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "616bcb5ed7b66d89eb473aecb356dc3ea651658d",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "TextField / Stepper / On Tap Stepper",
@@ -14452,13 +14809,6 @@
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "TileGrid / 8 Elements",
         "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "5edad0819e4f356da0d5e2e01e9c04c8e380b778",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Outgoing, Order=Single, Usage=Default, Truncation=Truncated",
-        "description": "Клиент: единственный баббл в группе",
         "platform": "ANDROID"
     },
     {
@@ -14483,59 +14833,10 @@
         "platform": "ANDROID"
     },
     {
-        "key": "4f4cb691df05336ec8c1b03a29f4fdbd76c439e1",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Style=Default, Icons=None, Ellipsize=Ellipsize, Margins=Extended, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "4df19faf4331f9d9f966d06422b6423f061bcdf2",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Style=Revert, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "4df10a46d819b2423aac6fd8057a035cc0474ab3",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=3 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "4c068aafaa969d8359d033deac15338f4ef18aad",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "MonthView / Selected Multiple 1 Row",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "4b7c9bd321ae688246c49cd1bcaef441c4468674",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=3 lines, Style=Revert, Icons=None, Ellipsize=Multilne, Margins=Default, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "4a91149d77ce8251aeafcdc1081d468d60311d8c",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Icon Position=Left, Style=Revert, Vertical Padding=Default, Horizontal Margin=Extended",
         "description": "Ячейка с картой, используется в карточках Итории операций",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "498b93d3e7b76e2a286ef871d78b62a9e155d5a5",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Style=Default, Icons=None, Ellipsize=Multilne, Margins=Default, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "498397cb527b2492a5ce3b21448ec2004e17b92c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Icon=Medium, Style=Default, Truncation=Truncated, Horizontal Margin=None",
-        "description": "",
         "platform": "ANDROID"
     },
     {
@@ -14626,13 +14927,6 @@
         "key": "00c028e6f968e593f7a0881cdef94eb008950ea9",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Source=Incoming, Order=Middle, Use=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "2b02f075c513b89e7c31e767d1c990a81701e38c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "View=CardView, Padding=Extended, Control=Checkbox, Control Side=Right",
         "description": "",
         "platform": "ANDROID"
     },
@@ -15253,30 +15547,9 @@
         "platform": "ANDROID"
     },
     {
-        "key": "3ae6436689a188084bb9bee02a73f8ba05b5ab67",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Outgoing, Order=First, Use=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "f8cb801b4c2c04e7229e9688b3566f72615ce17b",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Source=Outgoing, Order=Middle, Use=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "d535597956b6fb2aef9e19c98eacfe206487c345",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Incoming, Order=First, Use=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "88fc9935d122b372583f956eb248b80a6b886d16",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Incoming, Order=Last, Use=Default",
         "description": "",
         "platform": "ANDROID"
     },
@@ -15470,13 +15743,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "b0bb085e95001122bd4cc4e9711e3560ed394cc8",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Style=Revert, Icons=Left and Right, Ellipsize=Multilne, Margins=Extended, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "a8b7f93d2daf2e13028ee3c2e1d61133c575ef96",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Icon Position=Right",
@@ -15488,20 +15754,6 @@
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Icon Position=Right, Style=Default, Vertical Padding=Default, Horizontal Margin=Extended",
         "description": "Ячейка с картой, используется в карточках Итории операций",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "9dbc82b7bfba11f4c792f12576d6fa8760faf9b7",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=None",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "9d5f16c871df008b9e130140b833a647dda31011",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Outgoing",
-        "description": "",
         "platform": "ANDROID"
     },
     {
@@ -15571,13 +15823,6 @@
         "key": "83635918fdf1046942e282fa30675b85cb78c819",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "ProgressWidget / Regular",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "826a11d0ae8d1728c51f76f8e2bc84cda54b8819",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Day / Selected Middle",
         "description": "",
         "platform": "ANDROID"
     },
@@ -15722,13 +15967,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "eef079cba9b75c4d5577d02743f5e5e02154dabe",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Vertical Margins=Medium, Icon=Right, Style=Warning",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "e96df224c9fcb3ea952de88ffd9964d64800b04e",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Style=Card, Product=Virtual",
@@ -15806,13 +16044,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "86e037dc9deb7bf8f996a2b2f991b43f652dc974",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Vertical Margins=Small, Icon=Left, Style=Revert",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "7fbd7e07d882029ea7eddd4f913ed0c1a7b25bfe",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Style=Card, Product=Beeline Debit",
@@ -15879,13 +16110,6 @@
         "key": "1480af8bfd6ce2370266333476bbab4245b3b55c",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "CardIconViewCollection",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "0e1b391a1e8f495bc1e9a753debf16fd009a305a",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Vertical Margins=Medium, Style=With Cards, State=Expanded",
         "description": "",
         "platform": "ANDROID"
     },
@@ -16030,23 +16254,9 @@
         "platform": "ANDROID"
     },
     {
-        "key": "998d065993051f87b3cecb30c0e374fc9dca2ed2",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Type=File, State=Uploading",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "114e71fc9d143bffa583ec556c5050dd57e38811",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "RateContent",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "92b82c68129e75b6b02bac09c7f93ad1c828af07",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Control Side=Left",
         "description": "",
         "platform": "ANDROID"
     },
@@ -16103,13 +16313,6 @@
         "key": "2c33f36acff9db74540b95862da9e48c7ca64ad2",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Source=Incoming, Size=3 cells",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "6f170516d7f556900f8b6a61551b9541770d6195",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Source=Outgoing, Order=Last, Use=Default",
         "description": "",
         "platform": "ANDROID"
     },
@@ -16513,13 +16716,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "22d9b8c43468378d083771d8d4494e6281e9998f",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Vertical Margins=Small, Style=Selectable, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "1969e02b3f9e5de707f81bc30f5ad2ddd4305e72",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "DrawPatternPadElementView / Error",
@@ -16632,13 +16828,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "82fd3191bf37031bab6a0d6912d3cfe8fd140b42",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Vertical Margins=Small, Style=Default, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "573b358814b46114a00aeea2e1f9b97758e848a0",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Size=M, Style=Card, State=Default",
@@ -16649,20 +16838,6 @@
         "key": "51fc0dc38a3c6fba3b9f35bd648393aa7ce38fc8",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Vertical Margins=Medium, Style=Default, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "2fbc17eb0589c71e9e229b9dae47c473ffa8ef20",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Vertical Margins=Medium, Style=Subline, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "1595a30db71490c7a428d3d9fbb08a742cf554cb",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Vertical Margins=Medium, Style=Selectable, State=Default",
         "description": "",
         "platform": "ANDROID"
     },
@@ -16702,20 +16877,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "bbd7ec075a1dbe4b75c905f136e814ab3692f7b7",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=1 line, Style=Default, Icons=Left, Ellipsize=Multilne, Margins=Default, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "b601aa2d0d6809c127aab5eca3c838619d7d10fd",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Style=Default, Icons=Left and Right, Ellipsize=Ellipsize, Margins=Extended, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "abf7f3181f41e278b1d30cefc68eb31b7fe2c0ca",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Icon=Left, Vertical Margins=Medium",
@@ -16726,13 +16887,6 @@
         "key": "9f57fac7f6132bfcc7680779d3a13243038a8ad9",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Lines=2 lines, Style=Default, Icons=Right, Ellipsize=Multilne, Margins=Default, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "9bbf0a09fcb85b9f8e8397b186498f8200352a98",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Style=Revert, Icons=None, Ellipsize=Ellipsize, Margins=Default, State=Default",
         "description": "",
         "platform": "ANDROID"
     },
@@ -16768,13 +16922,6 @@
         "key": "39f15cbe4815022d24f0931ec4caaadef89de666",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Lines=2 lines, Style=Default, Icons=Left, Ellipsize=Multilne, Margins=Default, State=Loading",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "256c79afeb3bd34493bb1bd95503260de1487e6b",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Lines=2 lines, Style=Revert, Icons=Left, Ellipsize=Ellipsize, Margins=Default, State=Default",
         "description": "",
         "platform": "ANDROID"
     },
@@ -16859,13 +17006,6 @@
         "key": "e3bc1af964ca53737153eb733f1532f9799878ee",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Lines=2 lines, Style=Revert, Icons=Left and Right, Ellipsize=Multilne, Margins=Default, State=Default",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "e2553e686ef463d171894de747c83215e7ecd52c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Vertical Margins=Medium, Icon=Left, Style=Warning",
         "description": "",
         "platform": "ANDROID"
     },
@@ -17178,23 +17318,9 @@
         "platform": "ANDROID"
     },
     {
-        "key": "79e27d95ed711c9ca38ba963361dd73a463644f9",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "IndicatorView / Status / Used",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "744d3277c10485fc5f1481c322e93cd34db6c8eb",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "OfferCard / Small",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "6b65694ac94c3ed25dac4c8a21fa01cf15bf27e6",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "IndicatorView / Status / Approved",
         "description": "",
         "platform": "ANDROID"
     },
@@ -17426,13 +17552,6 @@
         "key": "995b67711f29c84b817653dfa7d97b3e924c6942",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "DEPRECATED / DataView/2 lines/Revert/Warning/None/None/Multiline",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "94235dbf981d833f7e25b93859932e105578d9a3",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "DEPRECATED / DataView/2 lines/Revert/Warning/None/None/Ellipsize",
         "description": "",
         "platform": "ANDROID"
     },
@@ -17703,13 +17822,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "e0cc62cbf4a20bfa3202ef2cf7143463de291c06",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "ActionButton / Custom / Loading",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "da720122e513d694b02e3c922680bc2eb00cfabe",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "OverallBalanceWidget / Skeleton",
@@ -17836,13 +17948,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "3f14f56a32e3dd88c191662e29286be3081bdf93",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Calendar / Forward",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "3c82b5df8e20d845981a7433fe1726d4f21e8e02",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "Style=Secondary, State=Loading",
@@ -17955,13 +18060,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "66e51ee6b05f9fad4e762f9dadaf75b6428b1bbf",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "CodeModule / Push",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "2a5ef3779f8b6e4c627cbdbd9d62ed2963df48f8",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "MainButtonBottom / One Button / Floating",
@@ -17986,13 +18084,6 @@
         "key": "36b0f052081644c82b7d454397ed58e278155199",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "State=Expanded",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "fcd6c0b6ba27664d897d169d27bbb7875a6a819d",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "AddressModule / Full Address Input / Loading",
         "description": "",
         "platform": "ANDROID"
     },
@@ -18077,13 +18168,6 @@
         "key": "931dda811696e45025e3fe26e611db71fc16b00b",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "ChipsView / Choice / 1 line",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "6c825d45b4d5cb4c97ddffa8541e5e84cdca2b04",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "ChipElement / Small / No Label / On",
         "description": "",
         "platform": "ANDROID"
     },
@@ -18340,13 +18424,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "382cc4628db49e7dcd22bb739e86bc3efe04b5c7",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "AttachmentView / Image / Error",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "f4f0f7939ef90b0ce3aad7a09f30202a343707df",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "ChevronDataView",
@@ -18561,13 +18638,6 @@
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "AlertView",
         "description": "Полноэкранный алерт",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "3a7bb719926a1211e5fe69cdae5dda83daa94e9b",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "CodeModule / Retry",
-        "description": "",
         "platform": "ANDROID"
     },
     {
@@ -18910,13 +18980,6 @@
         "key": "05b764f42ac83295c3c4b820e451ad9dffebbf3a",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "TileGrid / 10 Elements",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "fda73ba0e1fdaf0e113dc15a4bffbbf261c79b75",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "Snackbar / Progress",
         "description": "",
         "platform": "ANDROID"
     },
@@ -19267,13 +19330,6 @@
         "key": "6c803dd63a1b83939dba080880f6c3476b25ab39",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "name": "ActionButton / Tertiary / Disabled",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
-        "key": "3d6ab40a13a146a406fac1364820d69351878d56",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "name": "IndicatorView / Status / Attention",
         "description": "",
         "platform": "ANDROID"
     },
