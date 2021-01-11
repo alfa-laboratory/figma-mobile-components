@@ -18,13 +18,21 @@ const writeFile = promisify(fs.writeFile);
 
             allComponents.push(
                 ...response.map<ShortFigmaItem>((component) => {
-                    return {
+                    const isVariant = !!component.containing_frame?.containingStateGroup;
+
+                    const item: ShortFigmaItem = {
                         key: component.key,
                         file_key: component.file_key,
-                        name: component.name,
+                        name: isVariant ? component.containing_frame.containingStateGroup.name : component.name,
                         description: component.description,
                         platform,
                     };
+
+                    if (isVariant) {
+                        item.variant = component.name;
+                    }
+
+                    return item;
                 })
             );
 

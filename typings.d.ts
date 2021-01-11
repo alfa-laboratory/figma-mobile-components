@@ -7,6 +7,9 @@ type FrameInfo = {
     name: string;
     pageId: string;
     pageName: string;
+    containingStateGroup?: {
+        name: string
+    }
 };
 
 type FigmaItem = {
@@ -23,6 +26,7 @@ type ShortFigmaItem = {
     key: string;
     file_key: string;
     name: string;
+    variant?: string;
     description: string;
     platform: string;
 };
