@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@types/node": "^14.0.10",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.3",
     "util": "^0.12.3"
