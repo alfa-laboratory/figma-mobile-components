@@ -54,6 +54,8 @@ const writeFile = promisify(fs.writeFile);
         }
     }
 
+    allComponents.sort((a, b) => `${a.name}: ${a.description}`.localeCompare(`${b.name}: ${b.description}`));
+
     const componentsFileName = path.resolve(__dirname, './data/components.json');
     await writeFile(componentsFileName, JSON.stringify(allComponents, null, 4), 'UTF-8');
 })();
