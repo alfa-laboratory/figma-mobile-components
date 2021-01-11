@@ -976,14 +976,6 @@
         "platform": "IOS"
     },
     {
-        "key": "98eb8578418986325a02062447134898745c150f",
-        "file_key": "H9qWK6n05RhSkD1UBS6Tg2",
-        "library_name": "iOS Library",
-        "name": "ДД.ММ.ГГГГ",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "769bd5b7224144a3c8fe5d3dd1a3140463e620ea",
         "file_key": "H9qWK6n05RhSkD1UBS6Tg2",
         "library_name": "iOS Library",
@@ -6116,20 +6108,20 @@
         "platform": "IOS"
     },
     {
-        "key": "aa7d2bdc5e22c0749814f0fd737028a821b5785a",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CheckboxCell / 2 line / No Value",
-        "description": "Ячейка с SelectionControl CheckBox",
-        "platform": "ANDROID"
-    },
-    {
         "key": "706a292eca41edb71e927e9114e40c2d82d4d0d6",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "CheckboxCell / 2 line / No Value",
         "description": "RadioButton / 2 line",
         "platform": "IOS"
+    },
+    {
+        "key": "aa7d2bdc5e22c0749814f0fd737028a821b5785a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CheckboxCell / 2 line / No Value",
+        "description": "Ячейка с SelectionControl CheckBox",
+        "platform": "ANDROID"
     },
     {
         "key": "f70be4cefe2e0966d949cf7ea81aa40eb22ba236",
@@ -8968,14 +8960,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "b27456c920cc59959d61718da2f276a57b3865c2",
-        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
-        "library_name": "iOS Native Elements",
-        "name": "Deсimal Pad",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "d584c3817b185bc03920e8843853aae6343e462f",
         "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
         "library_name": "iOS Native Elements",
@@ -11486,6 +11470,14 @@
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "DEPRECATEDImageGrid / Top Row / Two Images",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "b27456c920cc59959d61718da2f276a57b3865c2",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
+        "library_name": "iOS Native Elements",
+        "name": "Deсimal Pad",
         "description": "",
         "platform": "IOS"
     },
@@ -19524,20 +19516,20 @@
         "platform": "IOS"
     },
     {
-        "key": "af10eaefa9239a38c38a5edf6fda9ae15b87d252",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "RadioCellCollection",
-        "description": "Группа ячеек с SelectionControl RadioButton",
-        "platform": "ANDROID"
-    },
-    {
         "key": "d777e0140cb8c89e3342fe5271c87522fcb251f0",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "RadioCellCollection",
         "description": "RadioButton / Group_Multiline",
         "platform": "IOS"
+    },
+    {
+        "key": "af10eaefa9239a38c38a5edf6fda9ae15b87d252",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "RadioCellCollection",
+        "description": "Группа ячеек с SelectionControl RadioButton",
+        "platform": "ANDROID"
     },
     {
         "key": "d682eb71190204b480e149fddde264360474c7a1",
@@ -24710,6 +24702,14 @@
         "file_key": "H9qWK6n05RhSkD1UBS6Tg2",
         "library_name": "iOS Library",
         "name": "WriteOffAccount",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "98eb8578418986325a02062447134898745c150f",
+        "file_key": "H9qWK6n05RhSkD1UBS6Tg2",
+        "library_name": "iOS Library",
+        "name": "ДД.ММ.ГГГГ",
         "description": "",
         "platform": "IOS"
     }
