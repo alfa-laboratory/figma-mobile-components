@@ -25,6 +25,7 @@ type FigmaItem = {
 type ShortFigmaItem = {
     key: string;
     file_key: string;
+    library_name: string;
     name: string;
     variant?: string;
     description: string;

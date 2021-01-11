@@ -23,6 +23,7 @@ const writeFile = promisify(fs.writeFile);
                     const item: ShortFigmaItem = {
                         key: component.key,
                         file_key: component.file_key,
+                        library_name: library.name,
                         name: isVariant ? component.containing_frame.containingStateGroup.name : component.name,
                         description: component.description,
                         platform,
