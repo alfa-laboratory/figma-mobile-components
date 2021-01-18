@@ -6926,14 +6926,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "b27456c920cc59959d61718da2f276a57b3865c2",
-        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
-        "library_name": "iOS Native Elements",
-        "name": "Deсimal Pad",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "d584c3817b185bc03920e8843853aae6343e462f",
         "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
         "library_name": "iOS Native Elements",
@@ -7036,6 +7028,14 @@
         "name": "Default",
         "description": "Клавиатура",
         "platform": "ANDROID"
+    },
+    {
+        "key": "b27456c920cc59959d61718da2f276a57b3865c2",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
+        "library_name": "iOS Native Elements",
+        "name": "Deсimal Pad",
+        "description": "",
+        "platform": "IOS"
     },
     {
         "key": "5517316e1e86df89b266e3c4c84b9799cf23fc5d",
