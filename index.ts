@@ -47,6 +47,10 @@ const findPairs = async (components: ShortFigmaItem[]) => {
             const variant2 = JSON.stringify(c2.variant.split(', ').sort());
             return c1.name === c2.name && variant1 === variant2;
         }
+
+        if (!c1.variant && !c2.variant) {
+            return c1.name === c2.name;
+        }
     };
 
     const newPairs: Array<[ShortFigmaItem, ShortFigmaItem]> = [];

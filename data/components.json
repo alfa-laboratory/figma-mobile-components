@@ -23,7 +23,7 @@
         "name": "🤘TextConstructorView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Title"
+        "variant": "Style=Default"
     },
     {
         "key": "485284ca72ddb701b037c7532a16e53e9fc5c77b",
@@ -1298,15 +1298,6 @@
         "variant": "Source=Incoming, Order=Single, Use=Default"
     },
     {
-        "key": "8f9da823b9d97a1ed9bcf9762453b1a63bd0d190",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AttachmentBubbleView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Source=Outgoing, Order=Single, Use=Default"
-    },
-    {
         "key": "8c467a38db9eee06ac6a3e633e1472a1b626c505",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -1332,6 +1323,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Source=Incoming, Order=Last, Use=Default"
+    },
+    {
+        "key": "8f9da823b9d97a1ed9bcf9762453b1a63bd0d190",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "AttachmentBubbleView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Source=Outgoing, Order=Single, Use=Default"
     },
     {
         "key": "2db1439320188dd2f67caac410295c01ee1360e3",
@@ -1451,6 +1451,15 @@
         "variant": "Type=File, State=Complete"
     },
     {
+        "key": "73f1ec150fe989c39d51eae46c3c57ee09d9bd0b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "AttachmentIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=Image, State=Uploading"
+    },
+    {
         "key": "360f4e35f442950cb144ad1d6284dd366011de34",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -1467,15 +1476,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Type=Action, State=Add"
-    },
-    {
-        "key": "73f1ec150fe989c39d51eae46c3c57ee09d9bd0b",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "AttachmentIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Type=Image, State=Uploading"
     },
     {
         "key": "998d065993051f87b3cecb30c0e374fc9dca2ed2",
@@ -1577,24 +1577,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "f5c68f9c5c5c9a3b9955aa1e263140aa43070586",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AttachmentView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Document=Image, State=Complete"
-    },
-    {
-        "key": "f2005c7a2763161abc580d6d7c04619531edbeef",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AttachmentView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Document=None, State=Action"
-    },
-    {
         "key": "ac4f13a74714957861f2c836e79b310185ae4f2e",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -1613,6 +1595,24 @@
         "variant": "Document=Image, State=Preview"
     },
     {
+        "key": "5956d52ffd2cd6b0f6b8de9c06ab6caf5e25cbb7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "AttachmentView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Document=File, State=Uploading"
+    },
+    {
+        "key": "f5c68f9c5c5c9a3b9955aa1e263140aa43070586",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "AttachmentView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Document=Image, State=Complete"
+    },
+    {
         "key": "625285cd9994b6aeeaa75a635e6cd3b4c9bd2897",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -1622,13 +1622,22 @@
         "variant": "Document=File, State=Preview"
     },
     {
-        "key": "5956d52ffd2cd6b0f6b8de9c06ab6caf5e25cbb7",
+        "key": "635f22e756364540812c84cda327175aa7cd0c34",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "AttachmentView",
         "description": "",
         "platform": "IOS",
-        "variant": "Document=File, State=Uploading"
+        "variant": "Document=File, State=Complete"
+    },
+    {
+        "key": "f2005c7a2763161abc580d6d7c04619531edbeef",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "AttachmentView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Document=None, State=Action"
     },
     {
         "key": "827165188b72fe887bea40f844af7061c3fe8d71",
@@ -1647,15 +1656,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Document=Image, State=Uploading"
-    },
-    {
-        "key": "635f22e756364540812c84cda327175aa7cd0c34",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AttachmentView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Document=File, State=Complete"
     },
     {
         "key": "941415969e010998071f76342ff3c862dc74dce1",
@@ -1731,6 +1731,15 @@
         "variant": "Preset=RangeSliderView, Style=Fill, Right Icon=Icon"
     },
     {
+        "key": "03417444779b6e1487149faecd51e44fd35250a1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "BannerWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=DataView No Icon, Style=Fill, Right Icon=Icon"
+    },
+    {
         "key": "5c09ec26e01d5c33a556e23092cf6b20e56074db",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -1776,13 +1785,13 @@
         "variant": "Preset=DataView, Style=Stroke, Right Icon=Icon"
     },
     {
-        "key": "39a1aacdbaa7910043ca8ce852c8e6a065ca2210",
+        "key": "fe913e8c08675c09ba5cb03f35593d8c42e0dd15",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "BannerWrapper",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Preset=DataView, Style=Fill, Right Icon=None"
+        "variant": "Preset=DataView, Style=Stroke, Right Icon=None"
     },
     {
         "key": "afb8ef8a1e1425526a751259a92b0a9e50fa90a5",
@@ -1803,13 +1812,13 @@
         "variant": "Preset=DataView, Style=Fill, Right Icon=Icon"
     },
     {
-        "key": "fe913e8c08675c09ba5cb03f35593d8c42e0dd15",
+        "key": "39a1aacdbaa7910043ca8ce852c8e6a065ca2210",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "BannerWrapper",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Preset=DataView, Style=Stroke, Right Icon=None"
+        "variant": "Preset=DataView, Style=Fill, Right Icon=None"
     },
     {
         "key": "c8e8275b3601d4e6fae1d452d69c4b8edf4d05b9",
@@ -1967,15 +1976,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "d95b14e7cca1c4063ba0759f67c5b5e75686eaa1",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "BottomSheetNavigation",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Title=Big, Exit=Icon, Right Action=None"
-    },
-    {
         "key": "a58668a9d823ed0e28fa1f769f11a66b8bff29d4",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -1983,6 +1983,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Title=Big, Exit=Swiper, Right Action=None"
+    },
+    {
+        "key": "d95b14e7cca1c4063ba0759f67c5b5e75686eaa1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "BottomSheetNavigation",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Title=Big, Exit=Icon, Right Action=None"
     },
     {
         "key": "d418eba9eb676798555e985e77db914e1b32d3b7",
@@ -4287,6 +4296,15 @@
         "platform": "IOS"
     },
     {
+        "key": "7e2777278a00355854f33d96ecc483eb91d7a69d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ChevronWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "View=DataView, State=Expanded, Left Padding=Default"
+    },
+    {
         "key": "ff80afe53880372b53e7c50a76f343761dfe4ea2",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -4303,15 +4321,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "View=DataView, State=Contracted, Left Padding=Default"
-    },
-    {
-        "key": "7e2777278a00355854f33d96ecc483eb91d7a69d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ChevronWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "View=DataView, State=Expanded, Left Padding=Default"
     },
     {
         "key": "c2889987a1f684e4386d2600bf486b1ba75013ec",
@@ -4643,6 +4652,132 @@
         "name": "CircleProgressCardView",
         "description": "Карточка виджета выполнения условий Пакета услуг",
         "platform": "ANDROID"
+    },
+    {
+        "key": "ad0a56cf7e1878cb3f370c6f0ccec95615885604",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Stroke=Default, Data=Icon, State=In Progress"
+    },
+    {
+        "key": "7b331fa3663f06af2cc040e8d67d4d442aba94a8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Stroke=None, Data=Text, State=In Progress"
+    },
+    {
+        "key": "65011b504d36f27a5850ea939d72df8637aee741",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Stroke=Default, Data=Text, State=In Progress"
+    },
+    {
+        "key": "933c8a93f7146ece26f27f4cdf30b5e3384fc35d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Stroke=None, Data=Icon, State=In Progress"
+    },
+    {
+        "key": "e660de6ff316d191f02155f351d14fe63abbb155",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Stroke=None, Data=Text, State=Complete"
+    },
+    {
+        "key": "cf87b9abad5ed340636fd719365150a5b127b09e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Stroke=None, Data=Icon, State=Complete"
+    },
+    {
+        "key": "823a838711d5c0435841549b4e279bf095ad2a95",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Action, State=In Progress, Horizontal Margin=None"
+    },
+    {
+        "key": "9551450eb9228124246b41b31853f8824204d5d4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Action, State=Complete, Horizontal Margin=None"
+    },
+    {
+        "key": "4c74b88bd4046c3702a7fed5f884c0c10199f7ea",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Action, State=In Progress, Horizontal Margin=Extended"
+    },
+    {
+        "key": "fb1409023df78b11ee6fb8dd8c18971496f76f02",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Default, State=In Progress, Horizontal Margin=Extended"
+    },
+    {
+        "key": "d36c3dbd4995059e192f618c9598391ae49c8b56",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Default, State=Complete, Horizontal Margin=None"
+    },
+    {
+        "key": "fe091ad478b16e6f6d8090b71fa5a673e583ae50",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Action, State=Complete, Horizontal Margin=Extended"
+    },
+    {
+        "key": "847b8a1a09799a81b1de25fcbf7d4881d106ba30",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Default, State=Complete, Horizontal Margin=Extended"
+    },
+    {
+        "key": "bd13af06a2b43e21cdc18b041ea88873855cb839",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Default, State=In Progress, Horizontal Margin=None"
     },
     {
         "key": "b93cf33e1e33ae83a6d6ff6588e40c611d11c8bb",
@@ -5843,6 +5978,51 @@
         "platform": "IOS"
     },
     {
+        "key": "c04d53e2a067524400cb10926461b0b70d063526",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Truncated, Horizontal Margin=None"
+    },
+    {
+        "key": "593c8c0542caf07e5fc7810fd60a849d948eb6ef",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=None"
+    },
+    {
+        "key": "2c99b6e1c45c9fc116c8b6edb65ad657a38f6403",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Truncated, Horizontal Margin=Extended"
+    },
+    {
+        "key": "23316da158b6adea90d270a38f78252088ef7975",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Lines=1 line, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=None"
+    },
+    {
+        "key": "1bd42b60e777222f32c851fe09873eebf8304223",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=None"
+    },
+    {
         "key": "ffb68019892f1e14a14ceed91c4771b9e068c925",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -5859,42 +6039,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=Extended"
-    },
-    {
-        "key": "e9dc3b1f66894b5a6307b6a92c4a74601b8c8f6d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Lines=3 lines, Icon=None, Style=Revert, Truncation=Truncated, Horizontal Margin=None"
-    },
-    {
-        "key": "d548830d023e71cab2bd8e2ffc6ef3bd1fd840bd",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Lines=2 lines, Icon=None, Style=Revert, Truncation=Truncated, Horizontal Margin=None"
-    },
-    {
-        "key": "cb8fc955d21c8b1eaa6b8ebf75e88b51c633b5ee",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=Extended"
-    },
-    {
-        "key": "c04d53e2a067524400cb10926461b0b70d063526",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Truncated, Horizontal Margin=None"
     },
     {
         "key": "bb1e2a8a54eb7c049267ecb612e2481754c890e8",
@@ -5924,15 +6068,6 @@
         "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=Extended"
     },
     {
-        "key": "593c8c0542caf07e5fc7810fd60a849d948eb6ef",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=None"
-    },
-    {
         "key": "586d02cd18b26f2245bea7f13df3eddde6e3b2b9",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -5960,31 +6095,31 @@
         "variant": "Lines=1 line, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=Extended"
     },
     {
-        "key": "2c99b6e1c45c9fc116c8b6edb65ad657a38f6403",
+        "key": "e9dc3b1f66894b5a6307b6a92c4a74601b8c8f6d",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "DataView",
         "description": "",
         "platform": "IOS",
-        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Truncated, Horizontal Margin=Extended"
+        "variant": "Lines=3 lines, Icon=None, Style=Revert, Truncation=Truncated, Horizontal Margin=None"
     },
     {
-        "key": "23316da158b6adea90d270a38f78252088ef7975",
+        "key": "d548830d023e71cab2bd8e2ffc6ef3bd1fd840bd",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "DataView",
         "description": "",
         "platform": "IOS",
-        "variant": "Lines=1 line, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=None"
+        "variant": "Lines=2 lines, Icon=None, Style=Revert, Truncation=Truncated, Horizontal Margin=None"
     },
     {
-        "key": "1bd42b60e777222f32c851fe09873eebf8304223",
+        "key": "cb8fc955d21c8b1eaa6b8ebf75e88b51c633b5ee",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "DataView",
         "description": "",
         "platform": "IOS",
-        "variant": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=None"
+        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=Extended"
     },
     {
         "key": "261f87b4f5c1e60f39e510a8a261d847bafe96c2",
@@ -6227,142 +6362,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=None, Style=Default, Truncation=Truncated, Horizontal Margin=Extended"
-    },
-    {
-        "key": "b05704a9eb181aa5c8306818eadaa0ff20492e1c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=None, Style=Revert, Truncation=Truncated, Horizontal Margin=Extended"
-    },
-    {
-        "key": "9127429bc7177f10a7b9929e8d9b5751f6ba1af9",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=None"
-    },
-    {
-        "key": "7c7b020c4d9e7b243f0da282a265a86abcb1fcb8",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=None, Style=Revert, Truncation=Multiline, Horizontal Margin=None"
-    },
-    {
-        "key": "789f883adf21410d7995e16e97d16cbfd88ccc54",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Medium, Style=Default, Truncation=Truncated, Horizontal Margin=Extended"
-    },
-    {
-        "key": "73f7736df4830ddb7a8b28616a5b17729d5d95ab",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=Extended"
-    },
-    {
-        "key": "70b23380201ce122021090ef48fafa94a8db7053",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=None, Style=Default, Truncation=Multiline, Horizontal Margin=None"
-    },
-    {
-        "key": "c108f372a3b5dda9d161a157513a9ea82c496530",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=None"
-    },
-    {
-        "key": "838c20092141c6b1d5ba6b05fa6eb39cca8576f5",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=None, Style=Default, Truncation=Multiline, Horizontal Margin=Extended"
-    },
-    {
-        "key": "6bd450d2995dde4fc0d2080dbe9723e317d82097",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=None"
-    },
-    {
-        "key": "6697891367031b99b4f74fc414051c89a6ddac5c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=Extended"
-    },
-    {
-        "key": "4df10a46d819b2423aac6fd8057a035cc0474ab3",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=None"
-    },
-    {
-        "key": "498397cb527b2492a5ce3b21448ec2004e17b92c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Medium, Style=Default, Truncation=Truncated, Horizontal Margin=None"
-    },
-    {
-        "key": "02f43fcbb8d06fdd4094efe99b54422c96ebe92f",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=Extended"
-    },
-    {
-        "key": "01df005a316a59db9e6cc0a2de354ee9edf430b5",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=None, Style=Default, Truncation=Truncated, Horizontal Margin=Extended"
-    },
-    {
-        "key": "fb831333cf33ce3597f92ac0b15f3d0569ce58ba",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=Extended"
+        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Margin=Extended"
     },
     {
         "key": "fa8059270a748858c4846221a329b0a4260643be",
@@ -6371,7 +6371,142 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=Extended"
+        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Margin=Extended"
+    },
+    {
+        "key": "9127429bc7177f10a7b9929e8d9b5751f6ba1af9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Margin=None"
+    },
+    {
+        "key": "7c7b020c4d9e7b243f0da282a265a86abcb1fcb8",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=None, Style=Revert, Ellipsize=Multiline, Horizontal Margin=None"
+    },
+    {
+        "key": "789f883adf21410d7995e16e97d16cbfd88ccc54",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=Medium, Style=Default, Ellipsize=Ellipsize, Horizontal Margin=Extended"
+    },
+    {
+        "key": "73f7736df4830ddb7a8b28616a5b17729d5d95ab",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Margin=Extended"
+    },
+    {
+        "key": "70b23380201ce122021090ef48fafa94a8db7053",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Margin=None"
+    },
+    {
+        "key": "b05704a9eb181aa5c8306818eadaa0ff20492e1c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=None, Style=Revert, Ellipsize=Ellipsize, Horizontal Margin=Extended"
+    },
+    {
+        "key": "c108f372a3b5dda9d161a157513a9ea82c496530",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=3 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Margin=None"
+    },
+    {
+        "key": "838c20092141c6b1d5ba6b05fa6eb39cca8576f5",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Margin=Extended"
+    },
+    {
+        "key": "6bd450d2995dde4fc0d2080dbe9723e317d82097",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Margin=None"
+    },
+    {
+        "key": "6697891367031b99b4f74fc414051c89a6ddac5c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Margin=Extended"
+    },
+    {
+        "key": "4df10a46d819b2423aac6fd8057a035cc0474ab3",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Margin=None"
+    },
+    {
+        "key": "498397cb527b2492a5ce3b21448ec2004e17b92c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=Medium, Style=Default, Ellipsize=Ellipsize, Horizontal Margin=None"
+    },
+    {
+        "key": "02f43fcbb8d06fdd4094efe99b54422c96ebe92f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Margin=Extended"
+    },
+    {
+        "key": "01df005a316a59db9e6cc0a2de354ee9edf430b5",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Margin=Extended"
+    },
+    {
+        "key": "fb831333cf33ce3597f92ac0b15f3d0569ce58ba",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Margin=Extended"
     },
     {
         "key": "f002dca71e27e168573a5fa8c6bb477c0855178f",
@@ -6380,7 +6515,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=Extended"
+        "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Margin=Extended"
     },
     {
         "key": "ee3f7e497dfaae7deedac438273669705a25d358",
@@ -6389,7 +6524,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=None"
+        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Margin=None"
     },
     {
         "key": "e2c81fa3c1db1f5562869e15035b341b3bc84c51",
@@ -6398,7 +6533,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=Extended"
+        "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Margin=Extended"
     },
     {
         "key": "c93b1053ff01a2e1aaed6ceda64d966764ca1ce5",
@@ -6407,7 +6542,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=None, Style=Revert, Truncation=Truncated, Horizontal Margin=None"
+        "variant": "Lines=3 lines, Icon=None, Style=Revert, Ellipsize=Ellipsize, Horizontal Margin=None"
     },
     {
         "key": "bf19b7fdd8d771d1ef6ee9028d42192e8bfe7a61",
@@ -6416,7 +6551,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=None, Style=Default, Truncation=Truncated, Horizontal Margin=None"
+        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Margin=None"
     },
     {
         "key": "243ffadeb248c4ee89a2d8a4581a0c55af6a7a6e",
@@ -6425,7 +6560,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=Extended"
+        "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Margin=Extended"
     },
     {
         "key": "1a2d47ac5f73086fd8ed112ff7e0fcc08c235a68",
@@ -6434,7 +6569,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=Extended"
+        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Margin=Extended"
     },
     {
         "key": "18d8191b2b2cb1c48235fbc267d511b5e7275fcc",
@@ -6443,7 +6578,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=None"
+        "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Margin=None"
     },
     {
         "key": "0a3a72899615b159a853a066a98e6166236f762f",
@@ -6452,7 +6587,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Multiline, Horizontal Margin=None"
+        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Ellipsize=Multiline, Horizontal Margin=None"
     },
     {
         "key": "9ed40c866e4c210d1259d7c5815e5a51cdbece61",
@@ -6461,7 +6596,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=None, Style=Default, Truncation=Truncated, Horizontal Margin=None"
+        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Margin=None"
     },
     {
         "key": "9dbc82b7bfba11f4c792f12576d6fa8760faf9b7",
@@ -6470,7 +6605,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=None"
+        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Margin=None"
     },
     {
         "key": "7e700a7778bd78faed465934c8dcb3219a9f17f9",
@@ -6479,7 +6614,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Truncated, Horizontal Margin=Extended"
+        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Ellipsize=Ellipsize, Horizontal Margin=Extended"
     },
     {
         "key": "6af0a29e2b5c9155f78ad90a6eab4dadc74c256e",
@@ -6488,7 +6623,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=None, Style=Default, Truncation=Multiline, Horizontal Margin=Extended"
+        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Margin=Extended"
     },
     {
         "key": "6208d71b5ffe188c8114e36da7af6d0595ffe068",
@@ -6497,7 +6632,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=Extended"
+        "variant": "Lines=3 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Margin=Extended"
     },
     {
         "key": "554e4dc4f5038e1f309400a998efdd4034a1b415",
@@ -6506,7 +6641,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=None"
+        "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Margin=None"
     },
     {
         "key": "50d4c28dcc8dd8e8578829e22bf0b82c1ad00bef",
@@ -6515,7 +6650,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Truncation=Multiline, Horizontal Margin=Extended"
+        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Margin=Extended"
     },
     {
         "key": "4b726295b5790df2d2731d64a4e6281c8654429a",
@@ -6524,7 +6659,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=None"
+        "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Margin=None"
     },
     {
         "key": "399d28d40b970d9e97966dd011ba4ff43d8cf164",
@@ -6533,7 +6668,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Truncation=Truncated, Horizontal Margin=None"
+        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Margin=None"
     },
     {
         "key": "381d8b940d1909abe93dac9a6d2a22bd76ee069c",
@@ -6542,7 +6677,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Multiline, Horizontal Margin=Extended"
+        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Ellipsize=Multiline, Horizontal Margin=Extended"
     },
     {
         "key": "342d1fb716f9e277419ac5493d27173abb9cc656",
@@ -6551,7 +6686,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Truncation=Truncated, Horizontal Margin=None"
+        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Ellipsize=Ellipsize, Horizontal Margin=None"
     },
     {
         "key": "290ca276e1df27382602c34bb659447eebf790e9",
@@ -6560,7 +6695,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=None, Style=Revert, Truncation=Truncated, Horizontal Margin=Extended"
+        "variant": "Lines=3 lines, Icon=None, Style=Revert, Ellipsize=Ellipsize, Horizontal Margin=Extended"
     },
     {
         "key": "f8dd9aeb8ad6c2c856cee648ad27d6892b99af61",
@@ -6569,7 +6704,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=None, Style=Revert, Truncation=Truncated, Horizontal Margin=None"
+        "variant": "Lines=2 lines, Icon=None, Style=Revert, Ellipsize=Ellipsize, Horizontal Margin=None"
     },
     {
         "key": "ca6696ef297d08b29c4a4fe5ddb25a24fd006e1c",
@@ -6578,7 +6713,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=None, Style=Revert, Truncation=Multiline, Horizontal Margin=Extended"
+        "variant": "Lines=2 lines, Icon=None, Style=Revert, Ellipsize=Multiline, Horizontal Margin=Extended"
     },
     {
         "key": "c433cda3fa2bd1e37dd97e978bc213972beef8e9",
@@ -6587,7 +6722,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=None, Style=Default, Truncation=Multiline, Horizontal Margin=None"
+        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Margin=None"
     },
     {
         "key": "9239e338b19f3a111db8c48259f2dffd6bf0543c",
@@ -6596,7 +6731,7 @@
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=None"
+        "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Margin=None"
     },
     {
         "key": "3e45c438651edfac72fe21f527d141b76d184a36",
@@ -6791,6 +6926,14 @@
         "platform": "ANDROID"
     },
     {
+        "key": "b27456c920cc59959d61718da2f276a57b3865c2",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
+        "library_name": "iOS Native Elements",
+        "name": "Deсimal Pad",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
         "key": "d584c3817b185bc03920e8843853aae6343e462f",
         "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
         "library_name": "iOS Native Elements",
@@ -6893,14 +7036,6 @@
         "name": "Default",
         "description": "Клавиатура",
         "platform": "ANDROID"
-    },
-    {
-        "key": "b27456c920cc59959d61718da2f276a57b3865c2",
-        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
-        "library_name": "iOS Native Elements",
-        "name": "Deсimal Pad",
-        "description": "",
-        "platform": "IOS"
     },
     {
         "key": "5517316e1e86df89b266e3c4c84b9799cf23fc5d",
@@ -7524,6 +7659,33 @@
         "name": "Greeting",
         "description": "Первое сообщение в чате для нового клиента",
         "platform": "IOS"
+    },
+    {
+        "key": "91f9a2fadc6fb0f9b7b9f272669c93d474aad673",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "HeaderView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Small"
+    },
+    {
+        "key": "f3337b97f7334345ad08fba9ea534a724899894e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "HeaderView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Medium"
+    },
+    {
+        "key": "13088826657852b298e44007ea60f54f8baac2c2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "HeaderView",
+        "description": "32 / 12",
+        "platform": "IOS",
+        "variant": "Style=xSmall"
     },
     {
         "key": "2b9f8593dc0d237ea6117d3aff709aea8bcbf642",
@@ -8307,40 +8469,31 @@
         "variant": "Size=Large, Shape=None, Inner=Icon, Top Subicon=None, Bottom Subicon=None"
     },
     {
-        "key": "01a7c0ea4a305941dc78fd7e145cb26900f0f93b",
+        "key": "f56cbd389ed6236e9927466d277e46775b9d15cf",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "IconView",
         "description": "",
         "platform": "IOS",
-        "variant": "Size=Medium, Shape=Super Ellipse, Inner=Icon, Top Subicon=None, Bottom Subicon=Icon"
+        "variant": "Size=Small, Shape=Round, Inner=Icon, Top Subicon=None, Bottom Subicon=None"
     },
     {
-        "key": "fc9b5e23a4bd102b6ddfc097f1bc841f25f0c581",
+        "key": "f500f695c9e2c06b3addc12aeb980219c5252b43",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "IconView",
         "description": "",
         "platform": "IOS",
-        "variant": "Size=Small, Shape=Super Ellipse, Inner=Initials, Top Subicon=Icon, Bottom Subicon=None"
+        "variant": "Size=Medium, Shape=Round, Inner=None, Top Subicon=None, Bottom Subicon=Icon"
     },
     {
-        "key": "ec3f8b36eaa011704ca85c76d6641161f23b825e",
+        "key": "f1e1dcf3476a8fe1fc0aafea436856463a1fb37c",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "IconView",
         "description": "",
         "platform": "IOS",
-        "variant": "Size=Medium, Shape=Super Ellipse, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=Icon"
-    },
-    {
-        "key": "eb9d03f7952223b193890f15dc2e2ee9ca57507e",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=Small, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=Icon"
+        "variant": "Size=XLarge, Shape=Super Ellipse, Inner=Initials, Top Subicon=None, Bottom Subicon=None"
     },
     {
         "key": "ea781277349143b7c1d6f76691a55e39b1d492e5",
@@ -8350,15 +8503,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Size=Small, Shape=Round, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=Icon"
-    },
-    {
-        "key": "d2c15f8464ee8880ac2753d38bc403bb5e6d179c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=Small, Shape=Round, Inner=Icon, Top Subicon=None, Bottom Subicon=Icon"
     },
     {
         "key": "c9b656255300faa952e7bdcf2f484236d33e5935",
@@ -8388,6 +8532,24 @@
         "variant": "Size=Medium, Shape=Round, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=None"
     },
     {
+        "key": "ab3343bc023ca2712d2d18da424d745328f911f7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=Medium, Shape=Round, Inner=Icon, Top Subicon=None, Bottom Subicon=None"
+    },
+    {
+        "key": "aa3bc33657bf56d8bc38b660dfc95d12a009a73b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=XSmall, Shape=Rectangle, Inner=None, Top Subicon=None, Bottom Subicon=None"
+    },
+    {
         "key": "9f54e72ae000ecd26b440e4c73deb90a359fd65c",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -8397,13 +8559,13 @@
         "variant": "Size=Small, Shape=Round, Inner=None, Top Subicon=Indicator, Bottom Subicon=Icon"
     },
     {
-        "key": "9caeccf19cca9af0579eb29f9627dfa3325271fe",
+        "key": "99c2c0a7f807c3addff952250b015efa1c0d7e55",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "IconView",
         "description": "",
         "platform": "IOS",
-        "variant": "Size=Large, Shape=Super Ellipse, Inner=None, Top Subicon=Indicator, Bottom Subicon=None"
+        "variant": "Size=Small, Shape=Round, Inner=Icon, Top Subicon=Icon, Bottom Subicon=Icon"
     },
     {
         "key": "932c624acd5e35fa06097d78aa40210d6cb18406",
@@ -8424,40 +8586,13 @@
         "variant": "Size=Large, Shape=Super Ellipse, Inner=Initials, Top Subicon=Indicator, Bottom Subicon=Icon"
     },
     {
-        "key": "8ee77753b7e2b6258c8556a1d470549f28485483",
+        "key": "8b3a09ac903187245b0731efc66fed7c86859b67",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "IconView",
         "description": "",
         "platform": "IOS",
-        "variant": "Size=Large, Shape=Round, Inner=None, Top Subicon=Indicator, Bottom Subicon=None"
-    },
-    {
-        "key": "858c89a5d03207eb27c2d9b464ab8c68e1fa7973",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=XLarge, Shape=Super Ellipse, Inner=Icon, Top Subicon=Icon, Bottom Subicon=None"
-    },
-    {
-        "key": "83056b6790ac56d13fa28c3ad5ab4d9678049f80",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=Small, Shape=Round, Inner=Initials, Top Subicon=None, Bottom Subicon=None"
-    },
-    {
-        "key": "7d6b6b0c59fdbb470dfdc74d3a74ebaf694339cd",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=Medium, Shape=Super Ellipse, Inner=Initials, Top Subicon=None, Bottom Subicon=None"
+        "variant": "Size=Small, Shape=Rectangle, Inner=None, Top Subicon=None, Bottom Subicon=None"
     },
     {
         "key": "7d224f474a5eb6fa9b2d24934a6cfcdacc499cb8",
@@ -8469,13 +8604,13 @@
         "variant": "Size=Medium, Shape=Round, Inner=Initials, Top Subicon=None, Bottom Subicon=Icon"
     },
     {
-        "key": "772aeb7141b3c565fc4de2f7f4a047bcc43e173f",
+        "key": "69e54cb05df12a024ba694182621e484e82ea91e",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "IconView",
         "description": "",
         "platform": "IOS",
-        "variant": "Size=Large, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=Icon"
+        "variant": "Size=Small, Shape=Round, Inner=Initials, Top Subicon=Icon, Bottom Subicon=Icon"
     },
     {
         "key": "5dbee2e9252cdc1370734a3c975cdc038a3f8f71",
@@ -8485,15 +8620,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Size=Large, Shape=Super Ellipse, Inner=None, Top Subicon=Icon, Bottom Subicon=Icon"
-    },
-    {
-        "key": "5c11ca1f4d543c258ed84f0ccaea707e6a4fd717",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=Large, Shape=Round, Inner=Icon, Top Subicon=None, Bottom Subicon=None"
     },
     {
         "key": "5a6b6276c4f3448a1edc640dd33061911ca6b6f0",
@@ -8532,87 +8658,6 @@
         "variant": "Size=Small, Shape=Super Ellipse, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=Icon"
     },
     {
-        "key": "4bdaf539ebac90383ff36967707b123242f07372",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=Medium, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=Icon"
-    },
-    {
-        "key": "4a8f9be7b996d76e795efb3eea518466615d9a72",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=XLarge, Shape=Super Ellipse, Inner=Icon, Top Subicon=None, Bottom Subicon=Icon"
-    },
-    {
-        "key": "4313b1b8ef5daa56c89798cbaa52e13b7f179f4d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=Medium, Shape=Round, Inner=Icon, Top Subicon=None, Bottom Subicon=Icon"
-    },
-    {
-        "key": "3dae2702d96d66ebe7dd4592466ac7c6efeb3913",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=Medium, Shape=Round, Inner=Icon, Top Subicon=Icon, Bottom Subicon=None"
-    },
-    {
-        "key": "35d337a8da5975db9c3e918ed17bb4f68cf7f383",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=XLarge, Shape=Super Ellipse, Inner=Initials, Top Subicon=Icon, Bottom Subicon=Icon"
-    },
-    {
-        "key": "2c78630103c2c3b78b08dc75f62afeec41c72a33",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=XSmall, Shape=Super Ellipse, Inner=Icon, Top Subicon=None, Bottom Subicon=None"
-    },
-    {
-        "key": "263b0c3ac12843072f4e9b3569e239e0f87ac8d4",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=Large, Shape=Round, Inner=Initials, Top Subicon=Icon, Bottom Subicon=Icon"
-    },
-    {
-        "key": "22091218d673f693b64bce452397aacca110c227",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=Large, Shape=Super Ellipse, Inner=Icon, Top Subicon=Icon, Bottom Subicon=None"
-    },
-    {
-        "key": "1c0233e6b4cf5cc282fa7e7d64b578ad3e38470a",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=Small, Shape=Round, Inner=None, Top Subicon=Indicator, Bottom Subicon=None"
-    },
-    {
         "key": "1b243cf0b4ff8602f3e0a3a0d434192c8ea06847",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -8640,6 +8685,15 @@
         "variant": "Size=Large, Shape=Super Ellipse, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=None"
     },
     {
+        "key": "108dfdea49cc248a8f8b9c2da66d08711421ccf1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=Medium, Shape=Super Ellipse, Inner=Initials, Top Subicon=Indicator, Bottom Subicon=None"
+    },
+    {
         "key": "1043ebb1003fddf146b7eaffa5a5ad842f2c2b3b",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -8658,67 +8712,157 @@
         "variant": "Size=Medium, Shape=Super Ellipse, Inner=Initials, Top Subicon=Icon, Bottom Subicon=Icon"
     },
     {
-        "key": "f1e1dcf3476a8fe1fc0aafea436856463a1fb37c",
+        "key": "01a7c0ea4a305941dc78fd7e145cb26900f0f93b",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "IconView",
         "description": "",
         "platform": "IOS",
-        "variant": "Size=XLarge, Shape=Super Ellipse, Inner=Initials, Top Subicon=None, Bottom Subicon=None"
+        "variant": "Size=Medium, Shape=Super Ellipse, Inner=Icon, Top Subicon=None, Bottom Subicon=Icon"
     },
     {
-        "key": "f56cbd389ed6236e9927466d277e46775b9d15cf",
+        "key": "4bdaf539ebac90383ff36967707b123242f07372",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "IconView",
         "description": "",
         "platform": "IOS",
-        "variant": "Size=Small, Shape=Round, Inner=Icon, Top Subicon=None, Bottom Subicon=None"
+        "variant": "Size=Medium, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=Icon"
     },
     {
-        "key": "d7b8c388bcf34ee35d7f04430fd77b1686b533a3",
+        "key": "35d337a8da5975db9c3e918ed17bb4f68cf7f383",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "IconView",
         "description": "",
         "platform": "IOS",
-        "variant": "Size=Small, Shape=Round, Inner=Icon, Top Subicon=Icon, Bottom Subicon=None"
+        "variant": "Size=XLarge, Shape=Super Ellipse, Inner=Initials, Top Subicon=Icon, Bottom Subicon=Icon"
     },
     {
-        "key": "ab3343bc023ca2712d2d18da424d745328f911f7",
+        "key": "22091218d673f693b64bce452397aacca110c227",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "IconView",
         "description": "",
         "platform": "IOS",
-        "variant": "Size=Medium, Shape=Round, Inner=Icon, Top Subicon=None, Bottom Subicon=None"
+        "variant": "Size=Large, Shape=Super Ellipse, Inner=Icon, Top Subicon=Icon, Bottom Subicon=None"
     },
     {
-        "key": "aa3bc33657bf56d8bc38b660dfc95d12a009a73b",
+        "key": "1c0233e6b4cf5cc282fa7e7d64b578ad3e38470a",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "IconView",
         "description": "",
         "platform": "IOS",
-        "variant": "Size=XSmall, Shape=Rectangle, Inner=None, Top Subicon=None, Bottom Subicon=None"
+        "variant": "Size=Small, Shape=Round, Inner=None, Top Subicon=Indicator, Bottom Subicon=None"
     },
     {
-        "key": "9f082d50cec0d122cd8ca7b6f56c842c4fc66959",
+        "key": "fc9b5e23a4bd102b6ddfc097f1bc841f25f0c581",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "IconView",
         "description": "",
         "platform": "IOS",
-        "variant": "Size=Large, Shape=Super Ellipse, Inner=Icon, Top Subicon=None, Bottom Subicon=None"
+        "variant": "Size=Small, Shape=Super Ellipse, Inner=Initials, Top Subicon=Icon, Bottom Subicon=None"
     },
     {
-        "key": "8b3a09ac903187245b0731efc66fed7c86859b67",
+        "key": "ec3f8b36eaa011704ca85c76d6641161f23b825e",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "IconView",
         "description": "",
         "platform": "IOS",
-        "variant": "Size=Small, Shape=Rectangle, Inner=None, Top Subicon=None, Bottom Subicon=None"
+        "variant": "Size=Medium, Shape=Super Ellipse, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=Icon"
+    },
+    {
+        "key": "eb9d03f7952223b193890f15dc2e2ee9ca57507e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=Small, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=Icon"
+    },
+    {
+        "key": "d2c15f8464ee8880ac2753d38bc403bb5e6d179c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=Small, Shape=Round, Inner=Icon, Top Subicon=None, Bottom Subicon=Icon"
+    },
+    {
+        "key": "9caeccf19cca9af0579eb29f9627dfa3325271fe",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=Large, Shape=Super Ellipse, Inner=None, Top Subicon=Indicator, Bottom Subicon=None"
+    },
+    {
+        "key": "8ee77753b7e2b6258c8556a1d470549f28485483",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=Large, Shape=Round, Inner=None, Top Subicon=Indicator, Bottom Subicon=None"
+    },
+    {
+        "key": "858c89a5d03207eb27c2d9b464ab8c68e1fa7973",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=XLarge, Shape=Super Ellipse, Inner=Icon, Top Subicon=Icon, Bottom Subicon=None"
+    },
+    {
+        "key": "83056b6790ac56d13fa28c3ad5ab4d9678049f80",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=Small, Shape=Round, Inner=Initials, Top Subicon=None, Bottom Subicon=None"
+    },
+    {
+        "key": "7d6b6b0c59fdbb470dfdc74d3a74ebaf694339cd",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=Medium, Shape=Super Ellipse, Inner=Initials, Top Subicon=None, Bottom Subicon=None"
+    },
+    {
+        "key": "772aeb7141b3c565fc4de2f7f4a047bcc43e173f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=Large, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=Icon"
+    },
+    {
+        "key": "5c11ca1f4d543c258ed84f0ccaea707e6a4fd717",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=Large, Shape=Round, Inner=Icon, Top Subicon=None, Bottom Subicon=None"
+    },
+    {
+        "key": "4a8f9be7b996d76e795efb3eea518466615d9a72",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=XLarge, Shape=Super Ellipse, Inner=Icon, Top Subicon=None, Bottom Subicon=Icon"
     },
     {
         "key": "84e58d760cca40242dd7570af63d4577e325f1fa",
@@ -8730,13 +8874,76 @@
         "variant": "Size=Medium, Shape=Round, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=Icon"
     },
     {
-        "key": "69e54cb05df12a024ba694182621e484e82ea91e",
+        "key": "56c15c2f5782919882767c0c8b82329310f0e318",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "IconView",
         "description": "",
         "platform": "IOS",
-        "variant": "Size=Small, Shape=Round, Inner=Initials, Top Subicon=Icon, Bottom Subicon=Icon"
+        "variant": "Size=Small, Shape=Super Ellipse, Inner=Icon, Top Subicon=Icon, Bottom Subicon=Icon"
+    },
+    {
+        "key": "1bb8dd86aa8a901852993d70bf399ac026013c0c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=XSmall, Shape=Rectangle, Inner=Icon, Top Subicon=None, Bottom Subicon=None"
+    },
+    {
+        "key": "4313b1b8ef5daa56c89798cbaa52e13b7f179f4d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=Medium, Shape=Round, Inner=Icon, Top Subicon=None, Bottom Subicon=Icon"
+    },
+    {
+        "key": "3dae2702d96d66ebe7dd4592466ac7c6efeb3913",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=Medium, Shape=Round, Inner=Icon, Top Subicon=Icon, Bottom Subicon=None"
+    },
+    {
+        "key": "2c78630103c2c3b78b08dc75f62afeec41c72a33",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=XSmall, Shape=Super Ellipse, Inner=Icon, Top Subicon=None, Bottom Subicon=None"
+    },
+    {
+        "key": "263b0c3ac12843072f4e9b3569e239e0f87ac8d4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=Large, Shape=Round, Inner=Initials, Top Subicon=Icon, Bottom Subicon=Icon"
+    },
+    {
+        "key": "d7b8c388bcf34ee35d7f04430fd77b1686b533a3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=Small, Shape=Round, Inner=Icon, Top Subicon=Icon, Bottom Subicon=None"
+    },
+    {
+        "key": "9f082d50cec0d122cd8ca7b6f56c842c4fc66959",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "IconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Size=Large, Shape=Super Ellipse, Inner=Icon, Top Subicon=None, Bottom Subicon=None"
     },
     {
         "key": "5b1a1783f1fa3826ef2ea711a743f0a6d20f3408",
@@ -8755,15 +8962,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Size=XLarge, Shape=Super Ellipse, Inner=None, Top Subicon=None, Bottom Subicon=Icon"
-    },
-    {
-        "key": "56c15c2f5782919882767c0c8b82329310f0e318",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=Small, Shape=Super Ellipse, Inner=Icon, Top Subicon=Icon, Bottom Subicon=Icon"
     },
     {
         "key": "3ca38d0501f4fce54e38b4ef9c9f99e21d08ba10",
@@ -8845,15 +9043,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Size=Small, Shape=Round, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=None"
-    },
-    {
-        "key": "f500f695c9e2c06b3addc12aeb980219c5252b43",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=Medium, Shape=Round, Inner=None, Top Subicon=None, Bottom Subicon=Icon"
     },
     {
         "key": "dde64f611e4ac8fbfc854bc8e4bc6a3c8a30edaf",
@@ -9024,7 +9213,7 @@
         "name": "IconView",
         "description": "",
         "platform": "IOS",
-        "variant": "Size=Large, Shape=No Shape, Inner=None, Top Subicon=None, Bottom Subicon=None"
+        "variant": "Size=Large, Shape=No Shape, Inner=Icon, Top Subicon=None, Bottom Subicon=None"
     },
     {
         "key": "d4f009f86244836f9dc78aacc40d86b735bf26e9",
@@ -9061,15 +9250,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Size=Large, Shape=Super Ellipse, Inner=None, Top Subicon=Indicator, Bottom Subicon=Icon"
-    },
-    {
-        "key": "99c2c0a7f807c3addff952250b015efa1c0d7e55",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=Small, Shape=Round, Inner=Icon, Top Subicon=Icon, Bottom Subicon=Icon"
     },
     {
         "key": "961ccaaba9fa8a80dee0e01e300f4394c31c0f87",
@@ -9123,7 +9303,7 @@
         "name": "IconView",
         "description": "",
         "platform": "IOS",
-        "variant": "Size=Medium, Shape=No Shape, Inner=None, Top Subicon=None, Bottom Subicon=None"
+        "variant": "Size=Medium, Shape=No Shape, Inner=Icon, Top Subicon=None, Bottom Subicon=None"
     },
     {
         "key": "661feff8ed6f169a7baf671b8c312d6bf377d670",
@@ -9205,15 +9385,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Size=Large, Shape=Round, Inner=Icon, Top Subicon=Indicator, Bottom Subicon=Icon"
-    },
-    {
-        "key": "108dfdea49cc248a8f8b9c2da66d08711421ccf1",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=Medium, Shape=Super Ellipse, Inner=Initials, Top Subicon=Indicator, Bottom Subicon=None"
     },
     {
         "key": "0da7bb93eb96a74c0481124bb0742425fe92c220",
@@ -9375,7 +9546,7 @@
         "name": "IconView",
         "description": "",
         "platform": "IOS",
-        "variant": "Size=Small, Shape=No Shape, Inner=None, Top Subicon=None, Bottom Subicon=None"
+        "variant": "Size=Small, Shape=No Shape, Inner=Icon, Top Subicon=None, Bottom Subicon=None"
     },
     {
         "key": "19de1ca124a829dfe823452e826ccaafa9b2a9e4",
@@ -9396,22 +9567,13 @@
         "variant": "Size=XLarge, Shape=Super Ellipse, Inner=Icon, Top Subicon=None, Bottom Subicon=None"
     },
     {
-        "key": "1bb8dd86aa8a901852993d70bf399ac026013c0c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "IconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Size=XSmall, Shape=Rectangle, Inner=Icon, Top Subicon=None, Bottom Subicon=None"
-    },
-    {
         "key": "1c7c5e6701752c162cdc1e1d10fd92bb22708531",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "IconView",
         "description": "",
         "platform": "IOS",
-        "variant": "Size=XLarge, Shape=No Shape, Inner=None, Top Subicon=None, Bottom Subicon=None"
+        "variant": "Size=XLarge, Shape=No Shape, Inner=Icon, Top Subicon=None, Bottom Subicon=None"
     },
     {
         "key": "c848c3bda212e4e1a99f8e6ddad11fd97fb50c17",
@@ -13197,60 +13359,6 @@
         "variant": "Progress=20%"
     },
     {
-        "key": "ad0a56cf7e1878cb3f370c6f0ccec95615885604",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProgressIconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Stroke=Default, Data=Icon, State=In Progress"
-    },
-    {
-        "key": "7b331fa3663f06af2cc040e8d67d4d442aba94a8",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProgressIconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Stroke=None, Data=Text, State=In Progress"
-    },
-    {
-        "key": "65011b504d36f27a5850ea939d72df8637aee741",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProgressIconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Stroke=Default, Data=Text, State=In Progress"
-    },
-    {
-        "key": "933c8a93f7146ece26f27f4cdf30b5e3384fc35d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProgressIconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Stroke=None, Data=Icon, State=In Progress"
-    },
-    {
-        "key": "e660de6ff316d191f02155f351d14fe63abbb155",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProgressIconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Stroke=None, Data=Text, State=Complete"
-    },
-    {
-        "key": "cf87b9abad5ed340636fd719365150a5b127b09e",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProgressIconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Stroke=None, Data=Icon, State=Complete"
-    },
-    {
         "key": "99fda07d58c63dea30cec472228bbe4c00fe3588",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -13303,78 +13411,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Stroke=Default, Style=Text, State=In progress"
-    },
-    {
-        "key": "4c74b88bd4046c3702a7fed5f884c0c10199f7ea",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProgressView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Action, State=In Progress, Horizontal Margin=Extended"
-    },
-    {
-        "key": "d36c3dbd4995059e192f618c9598391ae49c8b56",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProgressView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Default, State=Complete, Horizontal Margin=None"
-    },
-    {
-        "key": "fe091ad478b16e6f6d8090b71fa5a673e583ae50",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProgressView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Action, State=Complete, Horizontal Margin=Extended"
-    },
-    {
-        "key": "9551450eb9228124246b41b31853f8824204d5d4",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProgressView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Action, State=Complete, Horizontal Margin=None"
-    },
-    {
-        "key": "847b8a1a09799a81b1de25fcbf7d4881d106ba30",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProgressView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Default, State=Complete, Horizontal Margin=Extended"
-    },
-    {
-        "key": "fb1409023df78b11ee6fb8dd8c18971496f76f02",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProgressView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Default, State=In Progress, Horizontal Margin=Extended"
-    },
-    {
-        "key": "823a838711d5c0435841549b4e279bf095ad2a95",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProgressView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Action, State=In Progress, Horizontal Margin=None"
-    },
-    {
-        "key": "bd13af06a2b43e21cdc18b041ea88873855cb839",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProgressView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Default, State=In Progress, Horizontal Margin=None"
     },
     {
         "key": "7e4656ede73390c026b49e74f2784a6a97d78365",
@@ -13813,6 +13849,15 @@
         "platform": "IOS"
     },
     {
+        "key": "d1de7004dfd4d6bb1cb96a8457f2b5dcfec3fcbf",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "RightIconWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=DataView, Left Padding=None"
+    },
+    {
         "key": "233af4c7ce843989442e763a214eef674b11d01e",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -13963,15 +14008,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "df21e4de07c6ca4a5866ba1a809f26a4ab6ad0bb",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "RiskView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Icon=None, Truncation=Multiline, Horizontal Margin=Extended"
-    },
-    {
         "key": "1ee88a2e44a00da4e5efeef9f60244ad48b1955b",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -13979,6 +14015,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Icon=Small, Truncation=Multiline, Horizontal Margin=Extended"
+    },
+    {
+        "key": "df21e4de07c6ca4a5866ba1a809f26a4ab6ad0bb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "RiskView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Icon=None, Truncation=Multiline, Horizontal Margin=Extended"
     },
     {
         "key": "fca7a0e4fbf7556c1f518b756f96d2a2fc7a7512",
@@ -14316,33 +14361,6 @@
         "variant": "Preset=DataView, Padding=Extended, Control=Radio, Control Side=Left"
     },
     {
-        "key": "d7a6789e72a95b5a6351a30728f34618b0a91563",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "SelectionWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=DataView, Padding=Extended, Control=Checkbox, Control Side=Left"
-    },
-    {
-        "key": "d6ade7a439fd175e37c9792ea7ed05efc7aef344",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "SelectionWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=DataView, Padding=Extended, Control=Checkbox, Control Side=Right"
-    },
-    {
-        "key": "cc673a41296d64f87a50f15c89dfe5a13ff929e3",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "SelectionWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=CardView, Padding=Extended, Control=Checkbox, Control Side=Right"
-    },
-    {
         "key": "b6d4c826274a161961f6b6af930acf8100184e22",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -14361,6 +14379,33 @@
         "variant": "Preset=DataView, Padding=Default, Control=Checkbox, Control Side=Right"
     },
     {
+        "key": "d6ade7a439fd175e37c9792ea7ed05efc7aef344",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "SelectionWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=DataView, Padding=Extended, Control=Checkbox, Control Side=Right"
+    },
+    {
+        "key": "d7a6789e72a95b5a6351a30728f34618b0a91563",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "SelectionWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=DataView, Padding=Extended, Control=Checkbox, Control Side=Left"
+    },
+    {
+        "key": "cc673a41296d64f87a50f15c89dfe5a13ff929e3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "SelectionWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=CardView, Padding=Extended, Control=Checkbox, Control Side=Right"
+    },
+    {
         "key": "552395597c908b0ae171e10030474c4376063874",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -14368,6 +14413,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Preset=DataView, Padding=Extended, Control=Switch, Control Side=Right"
+    },
+    {
+        "key": "c3dbd5a37ced932aff8fc923aa9f748bdc4c0724",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "SelectionWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "View=DataView, Padding=Extended, Control=Radio, Control Side=Left"
     },
     {
         "key": "d55ba2a3943fd4c46ebb4502e12267654212402e",
@@ -14422,15 +14476,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "View=DataView, Padding=Extended, Control=Checkbox, Control Side=Left"
-    },
-    {
-        "key": "c3dbd5a37ced932aff8fc923aa9f748bdc4c0724",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "SelectionWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "View=DataView, Padding=Extended, Control=Radio, Control Side=Left"
     },
     {
         "key": "936b3b9a39b89b698e0ba7c8ed54f83396ea12ce",
@@ -15754,15 +15799,6 @@
         "variant": "Style=Outgoing, Order=Middle, Usage=Top, Length=Multiline"
     },
     {
-        "key": "fd3755e0eed0a4ece83b6613df8256eb28b0d194",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextBubbleView",
-        "description": "Клиент: первый баббл в группе",
-        "platform": "IOS",
-        "variant": "Style=Outgoing, Order=First, Usage=Default, Length=Single line"
-    },
-    {
         "key": "33719cb3b72cefdc89c0c06c1f709b1dc96a6b8f",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -15770,6 +15806,15 @@
         "description": "Клиент: первый баббл в группе",
         "platform": "IOS",
         "variant": "Style=Outgoing, Order=First, Usage=Default, Length=Multiline"
+    },
+    {
+        "key": "fd3755e0eed0a4ece83b6613df8256eb28b0d194",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextBubbleView",
+        "description": "Клиент: первый баббл в группе",
+        "platform": "IOS",
+        "variant": "Style=Outgoing, Order=First, Usage=Default, Length=Single line"
     },
     {
         "key": "9eacb5496bd0c20b1fe601fb90d84fc610c2ba17",
@@ -15790,15 +15835,6 @@
         "variant": "Style=Outgoing, Order=First, Usage=Default, Length=Single line"
     },
     {
-        "key": "bc658b4e38d3f4678499652f84b8677eb41ef366",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextBubbleView",
-        "description": "Клиент: последний баббл в группе",
-        "platform": "IOS",
-        "variant": "Style=Outgoing, Order=Last, Usage=Default, Length=Multiline"
-    },
-    {
         "key": "52ce71d0d70b652aa77c25713ba1f7464250db7b",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -15806,6 +15842,15 @@
         "description": "Клиент: последний баббл в группе",
         "platform": "IOS",
         "variant": "Style=Outgoing, Order=Last, Usage=Default, Length=Single line"
+    },
+    {
+        "key": "bc658b4e38d3f4678499652f84b8677eb41ef366",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextBubbleView",
+        "description": "Клиент: последний баббл в группе",
+        "platform": "IOS",
+        "variant": "Style=Outgoing, Order=Last, Usage=Default, Length=Multiline"
     },
     {
         "key": "8144a11fc6db52c703954b8f122349264659738f",
@@ -15862,15 +15907,6 @@
         "variant": "Style=Outgoing, Order=Middle, Usage=Default, Length=Multiline"
     },
     {
-        "key": "ecae6b4f099a3af9d1dd8c8c3ebbd5e79b6deaa6",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextBubbleView",
-        "description": "Сервер: единственный баббл в группе",
-        "platform": "IOS",
-        "variant": "Style=Incoming, Order=Single, Usage=Default, Length=Single line"
-    },
-    {
         "key": "01bddbddc25536f5e0f6acf22412f937d29d896b",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -15878,6 +15914,15 @@
         "description": "Сервер: единственный баббл в группе",
         "platform": "IOS",
         "variant": "Style=Incoming, Order=Single, Usage=Default, Length=Multiline"
+    },
+    {
+        "key": "ecae6b4f099a3af9d1dd8c8c3ebbd5e79b6deaa6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextBubbleView",
+        "description": "Сервер: единственный баббл в группе",
+        "platform": "IOS",
+        "variant": "Style=Incoming, Order=Single, Usage=Default, Length=Single line"
     },
     {
         "key": "5fba570931a0ad79fd498aad76443ddf5632133c",
@@ -16006,15 +16051,6 @@
         "variant": "Style=Incoming, Order=Last, Usage=Default, Length=Multiline"
     },
     {
-        "key": "658fd058905828bd8034600eb405f327a81ade3c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextBubbleView",
-        "description": "Сервер: промежуточный баббл в группе",
-        "platform": "IOS",
-        "variant": "Style=Incoming, Order=Middle, Usage=Default, Length=Multiline"
-    },
-    {
         "key": "5d22c504d65546b28e0309285b5d34fc8cc67d9a",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -16022,6 +16058,15 @@
         "description": "Сервер: промежуточный баббл в группе",
         "platform": "IOS",
         "variant": "Style=Incoming, Order=Middle, Usage=Default, Length=Single line"
+    },
+    {
+        "key": "658fd058905828bd8034600eb405f327a81ade3c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextBubbleView",
+        "description": "Сервер: промежуточный баббл в группе",
+        "platform": "IOS",
+        "variant": "Style=Incoming, Order=Middle, Usage=Default, Length=Multiline"
     },
     {
         "key": "3b77e197081a0bcfeaae9064be876accb8003903",
@@ -17450,6 +17495,33 @@
         "platform": "ANDROID"
     },
     {
+        "key": "9cffc0cea924d6b7a03ae225dec6c1a71083d97d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TransactionalView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Top Up, Horizontal Margin=Extended"
+    },
+    {
+        "key": "602b6146763d00b8083169317b5e2b4fe3d836b6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TransactionalView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Purchase, Horizontal Margin=None"
+    },
+    {
+        "key": "20a3bf7ebd7b6e48cf07272a1524ae3c7dd39e19",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TransactionalView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Payment, Horizontal Margin=Extended"
+    },
+    {
         "key": "b16371622080a8fbf443ebfbad70545f855d037a",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -17468,22 +17540,13 @@
         "variant": "Type=Hold, Horizontal Margin=Extended"
     },
     {
-        "key": "9cffc0cea924d6b7a03ae225dec6c1a71083d97d",
+        "key": "0ae3dcf289cbf247a129985bdab555af16c5ebbd",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TransactionalView",
         "description": "",
         "platform": "IOS",
-        "variant": "Type=Top Up, Horizontal Margin=Extended"
-    },
-    {
-        "key": "20a3bf7ebd7b6e48cf07272a1524ae3c7dd39e19",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TransactionalView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Payment, Horizontal Margin=Extended"
+        "variant": "Type=Transfer, Horizontal Margin=None"
     },
     {
         "key": "01f7d4d8fd390b21e7890b165c466edfae5c5cea",
@@ -17511,24 +17574,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Type=Hold, Horizontal Margin=None"
-    },
-    {
-        "key": "0ae3dcf289cbf247a129985bdab555af16c5ebbd",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TransactionalView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Transfer, Horizontal Margin=None"
-    },
-    {
-        "key": "602b6146763d00b8083169317b5e2b4fe3d836b6",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TransactionalView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Purchase, Horizontal Margin=None"
     },
     {
         "key": "48a03758d7ca8bc31b12e0cfdb46b82f135cbbf4",
