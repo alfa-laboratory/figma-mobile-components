@@ -1289,15 +1289,6 @@
         "variant": "Style=Revert, State=Default, Sum=Action"
     },
     {
-        "key": "ae184c3226f470edb2fd4c8f6db9511b04b7fd91",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AttachmentBubbleView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Source=Incoming, Order=Single, Use=Default"
-    },
-    {
         "key": "8c467a38db9eee06ac6a3e633e1472a1b626c505",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -1305,6 +1296,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Source=Incoming, Order=Middle, Use=Bottom"
+    },
+    {
+        "key": "ae184c3226f470edb2fd4c8f6db9511b04b7fd91",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "AttachmentBubbleView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Source=Incoming, Order=Single, Use=Default"
     },
     {
         "key": "845b1b47d37533847d681a71a47aef7e6fc296b5",
@@ -4386,6 +4386,15 @@
         "platform": "IOS"
     },
     {
+        "key": "0bed77c62b4ac3d2dd7c27c90f6d709766bef33f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ChevronWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "View=DataView, State=Contracted, Left Padding=Default"
+    },
+    {
         "key": "7e2777278a00355854f33d96ecc483eb91d7a69d",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -4402,15 +4411,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "View=ProgressView, State=Contracted, Left Padding=Default"
-    },
-    {
-        "key": "0bed77c62b4ac3d2dd7c27c90f6d709766bef33f",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ChevronWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "View=DataView, State=Contracted, Left Padding=Default"
     },
     {
         "key": "c2889987a1f684e4386d2600bf486b1ba75013ec",
@@ -4870,6 +4870,33 @@
         "variant": "Style=Action, State=Complete, Horizontal Margin=Extended"
     },
     {
+        "key": "03753c0030090fdd3fe380839f0055ae73d6273b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Horizontal Margin=None, State=In progress, Style=Default"
+    },
+    {
+        "key": "fc6e8c91f9e8501544d1c09cf29f8e272d335348",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Horizontal Margin=None, State=In progress, Style=Action"
+    },
+    {
+        "key": "c37e1337d2746418281afbce52c510703b504b28",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Horizontal Margin=Extended, State=In progress, Style=Action"
+    },
+    {
         "key": "b93cf33e1e33ae83a6d6ff6588e40c611d11c8bb",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -4913,33 +4940,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Horizontal Margin=Extended, State=In progress, Style=Default"
-    },
-    {
-        "key": "03753c0030090fdd3fe380839f0055ae73d6273b",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CircleProgressView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Horizontal Margin=None, State=In progress, Style=Default"
-    },
-    {
-        "key": "fc6e8c91f9e8501544d1c09cf29f8e272d335348",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CircleProgressView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Horizontal Margin=None, State=In progress, Style=Action"
-    },
-    {
-        "key": "c37e1337d2746418281afbce52c510703b504b28",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CircleProgressView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Horizontal Margin=Extended, State=In progress, Style=Action"
     },
     {
         "key": "b8e0a4da79e6f4e2e410f24dd461d644383400df",
@@ -6068,6 +6068,33 @@
         "platform": "IOS"
     },
     {
+        "key": "ffb68019892f1e14a14ceed91c4771b9e068c925",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=Extended"
+    },
+    {
+        "key": "d548830d023e71cab2bd8e2ffc6ef3bd1fd840bd",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Lines=2 lines, Icon=None, Style=Revert, Truncation=Truncated, Horizontal Margin=None"
+    },
+    {
+        "key": "3722d9a2b609e9fe5aac3d12f062be6ecdac0c0a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Lines=1 line, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=Extended"
+    },
+    {
         "key": "c04d53e2a067524400cb10926461b0b70d063526",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -6111,15 +6138,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=None"
-    },
-    {
-        "key": "ffb68019892f1e14a14ceed91c4771b9e068c925",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Lines=2 lines, Icon=Small, Style=Default, Truncation=Multiline, Horizontal Margin=Extended"
     },
     {
         "key": "ed49b67b1c923ba1f331ec1184d6af1773cbc189",
@@ -6176,15 +6194,6 @@
         "variant": "Lines=3 lines, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=None"
     },
     {
-        "key": "3722d9a2b609e9fe5aac3d12f062be6ecdac0c0a",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Lines=1 line, Icon=Small, Style=Default, Truncation=Truncated, Horizontal Margin=Extended"
-    },
-    {
         "key": "e9dc3b1f66894b5a6307b6a92c4a74601b8c8f6d",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -6192,15 +6201,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Lines=3 lines, Icon=None, Style=Revert, Truncation=Truncated, Horizontal Margin=None"
-    },
-    {
-        "key": "d548830d023e71cab2bd8e2ffc6ef3bd1fd840bd",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Lines=2 lines, Icon=None, Style=Revert, Truncation=Truncated, Horizontal Margin=None"
     },
     {
         "key": "cb8fc955d21c8b1eaa6b8ebf75e88b51c633b5ee",
@@ -7564,22 +7564,13 @@
         "platform": "IOS"
     },
     {
-        "key": "eead8d3816a2d7e1b28e9822a6f141b4584c24f5",
+        "key": "f9e1b425ad293f257117a5488e5ea6c8c831552b",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "DYNAMIC",
         "description": "",
         "platform": "IOS",
-        "variant": "Type=ACCOUNT"
-    },
-    {
-        "key": "bcdbad4b4ddd498a93797a42053924ed2c5fb033",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=CARD"
+        "variant": "Type=INVOICE_ITEM"
     },
     {
         "key": "ece9376208adcd9a37fa56eed7c23388fb47e6be",
@@ -7589,42 +7580,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Type=INVOICE_COLORED_STATUS"
-    },
-    {
-        "key": "b6e0b185df7caf4a3e112ca328600e7bc6a2cc18",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=DATE"
-    },
-    {
-        "key": "a905620496008e38c91bc289ead1162fbce6b672",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=CURRENCY_STRING"
-    },
-    {
-        "key": "101ee5beeb935ee38c76092802d2a12995b7356a",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=CURRENCY_EXCHANGE"
-    },
-    {
-        "key": "f9e1b425ad293f257117a5488e5ea6c8c831552b",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=INVOICE_ITEM"
     },
     {
         "key": "e8ec54d633e404baaee44d164d51a047d50e8bcd",
@@ -7663,13 +7618,22 @@
         "variant": "Type=COLORED_STATUS_AMOUNT"
     },
     {
-        "key": "96dcba8f792ff809a0d7114b99b7b222b30f8169",
+        "key": "b6e0b185df7caf4a3e112ca328600e7bc6a2cc18",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "DYNAMIC",
         "description": "",
         "platform": "IOS",
-        "variant": "Type=INTEREST_RATE"
+        "variant": "Type=DATE"
+    },
+    {
+        "key": "a905620496008e38c91bc289ead1162fbce6b672",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=CURRENCY_STRING"
     },
     {
         "key": "4c7f16632509b597922aef6d6d6a1e009652effc",
@@ -7688,6 +7652,42 @@
         "description": "",
         "platform": "IOS",
         "variant": "Type=STRING"
+    },
+    {
+        "key": "101ee5beeb935ee38c76092802d2a12995b7356a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=CURRENCY_EXCHANGE"
+    },
+    {
+        "key": "eead8d3816a2d7e1b28e9822a6f141b4584c24f5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=ACCOUNT"
+    },
+    {
+        "key": "bcdbad4b4ddd498a93797a42053924ed2c5fb033",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=CARD"
+    },
+    {
+        "key": "96dcba8f792ff809a0d7114b99b7b222b30f8169",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=INTEREST_RATE"
     },
     {
         "key": "5c4ebd8d34480929ed5b8ea043f26b7087405061",
@@ -13599,13 +13599,13 @@
         "variant": "Progress=20%"
     },
     {
-        "key": "99fda07d58c63dea30cec472228bbe4c00fe3588",
+        "key": "7d7f4d32c598ab46400e81363c4c60b2f9d323a6",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "ProgressIconView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Stroke=None, Style=Icon, State=In progress"
+        "variant": "Stroke=Default, Style=Text, State=In progress"
     },
     {
         "key": "4b1089bbd9bd917bd014df9221d98bc8820f52d9",
@@ -13615,6 +13615,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Stroke=Default, Style=Icon, State=Complete"
+    },
+    {
+        "key": "99fda07d58c63dea30cec472228bbe4c00fe3588",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Stroke=None, Style=Icon, State=In progress"
     },
     {
         "key": "d1b0546f45379cb243f7857e10c05b8ea9e09958",
@@ -13642,15 +13651,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Stroke=Default, Style=Icon, State=In progress"
-    },
-    {
-        "key": "7d7f4d32c598ab46400e81363c4c60b2f9d323a6",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProgressIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Stroke=Default, Style=Text, State=In progress"
     },
     {
         "key": "7e4656ede73390c026b49e74f2784a6a97d78365",
@@ -14601,6 +14601,15 @@
         "variant": "Preset=DataView, Padding=Extended, Control=Checkbox, Control Side=Right"
     },
     {
+        "key": "cc673a41296d64f87a50f15c89dfe5a13ff929e3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "SelectionWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=CardView, Padding=Extended, Control=Checkbox, Control Side=Right"
+    },
+    {
         "key": "d7f8d0db54e38dc6418135395067149b2e3c3651",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -14635,15 +14644,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Preset=DataView, Padding=Extended, Control=Checkbox, Control Side=Left"
-    },
-    {
-        "key": "cc673a41296d64f87a50f15c89dfe5a13ff929e3",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "SelectionWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=CardView, Padding=Extended, Control=Checkbox, Control Side=Right"
     },
     {
         "key": "552395597c908b0ae171e10030474c4376063874",
