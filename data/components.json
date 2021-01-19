@@ -3948,15 +3948,6 @@
         "platform": "IOS"
     },
     {
-        "key": "2bf5ece1e2e94d757a33ab617ec5828b8bc4571a",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Icon Position=No Icon, Style=Revert, Vertical Padding=Medium, Horizontal Margin=Extended"
-    },
-    {
         "key": "cadb5cd80e4a9dc0e74408af3d1e8a9d9633ca70",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -3993,15 +3984,6 @@
         "variant": "Icon Position=Right, Style=Default, Vertical Padding=Small, Horizontal Margin=None"
     },
     {
-        "key": "7186b334279b6089ed252d4ecd903271dfb5f913",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardView",
-        "description": "Ячейка с картой, используется в карточках Итории операций",
-        "platform": "IOS",
-        "variant": "Icon Position=Left, Style=Additional info, Vertical Padding=Medium, Horizontal Margin=Extended"
-    },
-    {
         "key": "72100edc347fd2b82dc6acc3a15e8147c8516ca9",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -4009,6 +3991,15 @@
         "description": "Ячейка с картой, используется в карточках Итории операций",
         "platform": "IOS",
         "variant": "Icon Position=Left, Style=Revert, Vertical Padding=Medium, Horizontal Margin=Extended"
+    },
+    {
+        "key": "7186b334279b6089ed252d4ecd903271dfb5f913",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardView",
+        "description": "Ячейка с картой, используется в карточках Итории операций",
+        "platform": "IOS",
+        "variant": "Icon Position=Left, Style=Additional info, Vertical Padding=Medium, Horizontal Margin=Extended"
     },
     {
         "key": "3236778d303a5778abe16816b98266dae488f335",
@@ -7571,6 +7562,24 @@
         "name": "Dynamic / ACCOUNT",
         "description": "",
         "platform": "IOS"
+    },
+    {
+        "key": "eead8d3816a2d7e1b28e9822a6f141b4584c24f5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=ACCOUNT"
+    },
+    {
+        "key": "bcdbad4b4ddd498a93797a42053924ed2c5fb033",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=CARD"
     },
     {
         "key": "ece9376208adcd9a37fa56eed7c23388fb47e6be",
@@ -14583,6 +14592,15 @@
         "variant": "State=Radio"
     },
     {
+        "key": "d6ade7a439fd175e37c9792ea7ed05efc7aef344",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "SelectionWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=DataView, Padding=Extended, Control=Checkbox, Control Side=Right"
+    },
+    {
         "key": "d7f8d0db54e38dc6418135395067149b2e3c3651",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -14608,15 +14626,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Preset=DataView, Padding=Default, Control=Checkbox, Control Side=Right"
-    },
-    {
-        "key": "d6ade7a439fd175e37c9792ea7ed05efc7aef344",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "SelectionWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=DataView, Padding=Extended, Control=Checkbox, Control Side=Right"
     },
     {
         "key": "d7a6789e72a95b5a6351a30728f34618b0a91563",
