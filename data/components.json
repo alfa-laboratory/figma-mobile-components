@@ -12932,6 +12932,22 @@
         "platform": "ANDROID"
     },
     {
+        "key": "9a3877a3a89dac3a81de8f41a965da4effd26cd2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "PopupView / No Img / Title Subtitle 2 Horizontal Button",
+        "description": "",
+        "platform": "IOS"
+    },
+    {
+        "key": "8dadcaf10ac772b78baa8ebdee4d0ba27e505446",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "PopupView / No Img / Title Subtitle 2 Horizontal Button",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
         "key": "9ddf13c006912daf9122f929fc4eedc6000c0c61",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
