@@ -1812,42 +1812,6 @@
         "variant": "Preset=DataView, Style=Fill, Right Icon=Icon"
     },
     {
-        "key": "38f70c6f1c5a4ff12c7fab6c37f093fe756756d0",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "BannerWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=RangeSliderView, Style=Fill, Right Icon=Icon"
-    },
-    {
-        "key": "5c09ec26e01d5c33a556e23092cf6b20e56074db",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "BannerWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=DataView, Style=Stroke, Right Icon=None"
-    },
-    {
-        "key": "2d0158d732ffa5164e9b52fd1f35ea12ec265f29",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "BannerWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=RangeSliderView, Style=Fill, Right Icon=None"
-    },
-    {
-        "key": "03417444779b6e1487149faecd51e44fd35250a1",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "BannerWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=DataView No Icon, Style=Fill, Right Icon=Icon"
-    },
-    {
         "key": "9b41ab6f2e9fcacc8ee65b711deaaeec81751575",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -1873,6 +1837,42 @@
         "description": "",
         "platform": "IOS",
         "variant": "Preset=DataView, Style=Stroke, Right Icon=Icon"
+    },
+    {
+        "key": "03417444779b6e1487149faecd51e44fd35250a1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "BannerWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=DataView No Icon, Style=Fill, Right Icon=Icon"
+    },
+    {
+        "key": "38f70c6f1c5a4ff12c7fab6c37f093fe756756d0",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "BannerWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=RangeSliderView, Style=Fill, Right Icon=Icon"
+    },
+    {
+        "key": "5c09ec26e01d5c33a556e23092cf6b20e56074db",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "BannerWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=DataView, Style=Stroke, Right Icon=None"
+    },
+    {
+        "key": "2d0158d732ffa5164e9b52fd1f35ea12ec265f29",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "BannerWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=RangeSliderView, Style=Fill, Right Icon=None"
     },
     {
         "key": "fe913e8c08675c09ba5cb03f35593d8c42e0dd15",
@@ -4753,15 +4753,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "ad0a56cf7e1878cb3f370c6f0ccec95615885604",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CircleProgressIconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Stroke=Default, Data=Icon, State=In Progress"
-    },
-    {
         "key": "7b331fa3663f06af2cc040e8d67d4d442aba94a8",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -4769,6 +4760,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Stroke=None, Data=Text, State=In Progress"
+    },
+    {
+        "key": "ad0a56cf7e1878cb3f370c6f0ccec95615885604",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Stroke=Default, Data=Icon, State=In Progress"
     },
     {
         "key": "65011b504d36f27a5850ea939d72df8637aee741",
@@ -4807,6 +4807,42 @@
         "variant": "Stroke=None, Data=Icon, State=Complete"
     },
     {
+        "key": "fb1409023df78b11ee6fb8dd8c18971496f76f02",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Default, State=In Progress, Horizontal Margin=Extended"
+    },
+    {
+        "key": "d36c3dbd4995059e192f618c9598391ae49c8b56",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Default, State=Complete, Horizontal Margin=None"
+    },
+    {
+        "key": "bd13af06a2b43e21cdc18b041ea88873855cb839",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Default, State=In Progress, Horizontal Margin=None"
+    },
+    {
+        "key": "847b8a1a09799a81b1de25fcbf7d4881d106ba30",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Default, State=Complete, Horizontal Margin=Extended"
+    },
+    {
         "key": "823a838711d5c0435841549b4e279bf095ad2a95",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -4834,24 +4870,6 @@
         "variant": "Style=Action, State=In Progress, Horizontal Margin=Extended"
     },
     {
-        "key": "fb1409023df78b11ee6fb8dd8c18971496f76f02",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CircleProgressView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Default, State=In Progress, Horizontal Margin=Extended"
-    },
-    {
-        "key": "d36c3dbd4995059e192f618c9598391ae49c8b56",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CircleProgressView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Default, State=Complete, Horizontal Margin=None"
-    },
-    {
         "key": "fe091ad478b16e6f6d8090b71fa5a673e583ae50",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -4859,24 +4877,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Style=Action, State=Complete, Horizontal Margin=Extended"
-    },
-    {
-        "key": "847b8a1a09799a81b1de25fcbf7d4881d106ba30",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CircleProgressView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Default, State=Complete, Horizontal Margin=Extended"
-    },
-    {
-        "key": "bd13af06a2b43e21cdc18b041ea88873855cb839",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CircleProgressView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Default, State=In Progress, Horizontal Margin=None"
     },
     {
         "key": "b93cf33e1e33ae83a6d6ff6588e40c611d11c8bb",
