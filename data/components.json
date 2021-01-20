@@ -3072,76 +3072,13 @@
         "variant": "Style=Compact, State=Loading"
     },
     {
-        "key": "f68deafa5f5042ebfde2642a55b8722a03d99072",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardCover",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Default, Product=100 Days"
-    },
-    {
-        "key": "be2bf051b418e2162118ddc1f8580595e2afc1af",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardCover",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Default, Product=Pyaterochka"
-    },
-    {
-        "key": "bcf350f42b13c42ac8577eab5f58ce1153c6f208",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardCover",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Default, Product=Aeroflot Platinum"
-    },
-    {
-        "key": "a0f601c78be162be26e4a28033b5d4562a7f100a",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardCover",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Default, Product=Alfa Miles"
-    },
-    {
-        "key": "8c1cc4df33291a29feb97f1583a1c3435196c87d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardCover",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Default, Product=Alfa Travel"
-    },
-    {
-        "key": "4b6b90cd93d2f611133a48f42e232fcf2da2ee9d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardCover",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Default, Product=Kids"
-    },
-    {
         "key": "3e7f9e7ee8b8c82f8f4905ad0312cb764ad089de",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "CardCover",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Default, Product=AlfaBank"
-    },
-    {
-        "key": "08c47ac820a139ee5e2a6b420cd3f5fca7eb3f25",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardCover",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Default, Product=Perekrestok"
+        "variant": "Style=Product, Product=AlfaBank"
     },
     {
         "key": "024c1a27815e22288217ee4f500018c318cb5f5b",
@@ -3150,7 +3087,16 @@
         "name": "CardCover",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Default, Product=Virtual"
+        "variant": "Style=Product, Product=Virtual"
+    },
+    {
+        "key": "08c47ac820a139ee5e2a6b420cd3f5fca7eb3f25",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardCover",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Product, Product=Perekrestok"
     },
     {
         "key": "fba53c26c50fbc05b9ac716dfcf8c2584c9fa4d4",
@@ -3159,7 +3105,61 @@
         "name": "CardCover",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Default, Product=Cashback"
+        "variant": "Style=Product, Product=Cashback"
+    },
+    {
+        "key": "f68deafa5f5042ebfde2642a55b8722a03d99072",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardCover",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Product, Product=100 Days"
+    },
+    {
+        "key": "be2bf051b418e2162118ddc1f8580595e2afc1af",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardCover",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Product, Product=Pyaterochka"
+    },
+    {
+        "key": "bcf350f42b13c42ac8577eab5f58ce1153c6f208",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardCover",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Product, Product=Aeroflot Platinum"
+    },
+    {
+        "key": "a0f601c78be162be26e4a28033b5d4562a7f100a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardCover",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Product, Product=Alfa Miles"
+    },
+    {
+        "key": "8c1cc4df33291a29feb97f1583a1c3435196c87d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardCover",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Product, Product=Alfa Travel"
+    },
+    {
+        "key": "4b6b90cd93d2f611133a48f42e232fcf2da2ee9d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardCover",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Product, Product=Kids"
     },
     {
         "key": "c61efef121308914d06fd97f66257c6c4956ba3a",
@@ -3177,7 +3177,7 @@
         "name": "CardCover",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Default, Product=Yandex"
+        "variant": "Style=Product, Product=Yandex"
     },
     {
         "key": "43cea87b68e1a4bb52f13a49952dc974bcca280b",
@@ -3186,7 +3186,7 @@
         "name": "CardCover",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Default, Product=Alfa Card"
+        "variant": "Style=Product, Product=Alfa Card"
     },
     {
         "key": "41a935160493708e5f886171139025edddf87810",
@@ -3195,7 +3195,7 @@
         "name": "CardCover",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Default, Product=A Club"
+        "variant": "Style=Product, Product=A Club"
     },
     {
         "key": "33ea2872f26e4379be0d3d0769bced506bae4038",
@@ -3204,7 +3204,7 @@
         "name": "CardCover",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Default, Product=Platinum"
+        "variant": "Style=Product, Product=Platinum"
     },
     {
         "key": "07ac22866773a96b7b9c2e0e37ecc9e43603a988",
@@ -3222,7 +3222,7 @@
         "name": "CardCover",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Default, Product=Tanks"
+        "variant": "Style=Product, Product=Tanks"
     },
     {
         "key": "5c4dac60a77345a2d3f19c827528b70858ca5db6",
@@ -3231,7 +3231,7 @@
         "name": "CardCover",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Default, Product=Beeline Debit"
+        "variant": "Style=Product, Product=Beeline Debit"
     },
     {
         "key": "e0adf50fe8f6e6f6ad861313acea07472838bed4",
@@ -3240,52 +3240,7 @@
         "name": "CardCover",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Default, Product=Gold"
-    },
-    {
-        "key": "d5e3861b262d37a078dc087313687f362f7e6ed6",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardCover",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Card, Product=Yandex"
-    },
-    {
-        "key": "9004f2af7a9d57980101fcb0da1d271084fedbaf",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardCover",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Loading, Product=None"
-    },
-    {
-        "key": "d8f9225cb84b56edc3ba5aa1e464ad50bc53b38d",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardCover",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Card, Product=Alfa Card"
-    },
-    {
-        "key": "1f11fbaefe5efd7ab8ae88049fb4e5a7ec704bb2",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardCover",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Card, Product=Alfa Miles"
-    },
-    {
-        "key": "94caed84789eeb6b44a75dc91424949a3fa0816c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardCover",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Card, Product=Perekrestok"
+        "variant": "Style=Product, Product=Gold"
     },
     {
         "key": "e96df224c9fcb3ea952de88ffd9964d64800b04e",
@@ -3294,7 +3249,7 @@
         "name": "CardCover",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=Card, Product=Virtual"
+        "variant": "Style=Product, Product=Virtual"
     },
     {
         "key": "e8350551c09a7b0421dde7f975157647dbbfb59f",
@@ -3303,7 +3258,7 @@
         "name": "CardCover",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=Card, Product=Cashback"
+        "variant": "Style=Product, Product=Cashback"
     },
     {
         "key": "de2b3a041203926a2d4c5a9ef222276403af016a",
@@ -3312,7 +3267,7 @@
         "name": "CardCover",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=Card, Product=AlfaTravel"
+        "variant": "Style=Product, Product=AlfaTravel"
     },
     {
         "key": "db35639e395a1713e58b695f9b6f3ae66411f93c",
@@ -3321,7 +3276,7 @@
         "name": "CardCover",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=Card, Product=A Club"
+        "variant": "Style=Product, Product=A Club"
     },
     {
         "key": "b6c1f484832e58da5d63d1006255f15c24e94cf2",
@@ -3330,7 +3285,7 @@
         "name": "CardCover",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=Card, Product=Tanks"
+        "variant": "Style=Product, Product=Tanks"
     },
     {
         "key": "ad316c174261c6e10cb254d0dba40640b26cd882",
@@ -3348,7 +3303,7 @@
         "name": "CardCover",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=Card, Product=AlfaBank"
+        "variant": "Style=Product, Product=AlfaBank"
     },
     {
         "key": "979623abcdb23bd4f458118b984caaa3f7e08528",
@@ -3357,7 +3312,16 @@
         "name": "CardCover",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=Card, Product=Gold"
+        "variant": "Style=Product, Product=Gold"
+    },
+    {
+        "key": "9004f2af7a9d57980101fcb0da1d271084fedbaf",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardCover",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=Loading, Product=None"
     },
     {
         "key": "8da222e5eff29cef8b1f7c52c894f92ba69e9b29",
@@ -3366,7 +3330,7 @@
         "name": "CardCover",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=Card, Product=Aeroflot Platinum"
+        "variant": "Style=Product, Product=Aeroflot Platinum"
     },
     {
         "key": "7fbd7e07d882029ea7eddd4f913ed0c1a7b25bfe",
@@ -3375,7 +3339,7 @@
         "name": "CardCover",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=Card, Product=Beeline Debit"
+        "variant": "Style=Product, Product=Beeline Debit"
     },
     {
         "key": "736935b123f3ecde74d4bba818652c779b66ff44",
@@ -3384,7 +3348,7 @@
         "name": "CardCover",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=Card, Product=100 Days"
+        "variant": "Style=Product, Product=100 Days"
     },
     {
         "key": "5266350eea4a2509f82e4fdf9cf12ae9462c5873",
@@ -3393,16 +3357,7 @@
         "name": "CardCover",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=Card, Product=AlfaLogo"
-    },
-    {
-        "key": "34fa9caa6c71063d1e0f711c9682b003d184bdb9",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardCover",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Card, Product=Pyaterochka"
+        "variant": "Style=Product, Product=AlfaLogo"
     },
     {
         "key": "26ea857bb67f6f30b0a5ca51b9f03e8107b94bea",
@@ -3411,7 +3366,52 @@
         "name": "CardCover",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=Card, Product=Platinum"
+        "variant": "Style=Product, Product=Platinum"
+    },
+    {
+        "key": "d5e3861b262d37a078dc087313687f362f7e6ed6",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardCover",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=Product, Product=Yandex"
+    },
+    {
+        "key": "d8f9225cb84b56edc3ba5aa1e464ad50bc53b38d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardCover",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=Product, Product=Alfa Card"
+    },
+    {
+        "key": "1f11fbaefe5efd7ab8ae88049fb4e5a7ec704bb2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardCover",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=Product, Product=Alfa Miles"
+    },
+    {
+        "key": "94caed84789eeb6b44a75dc91424949a3fa0816c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardCover",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=Product, Product=Perekrestok"
+    },
+    {
+        "key": "34fa9caa6c71063d1e0f711c9682b003d184bdb9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardCover",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=Product, Product=Pyaterochka"
     },
     {
         "key": "eab69eb485b33fee0b519cb4a954577d67582e84",
@@ -3420,7 +3420,88 @@
         "name": "CardCover",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=Card, Product=Kids"
+        "variant": "Style=Product, Product=Kids"
+    },
+    {
+        "key": "304c76dc6f035727a5380e649fa543beb6e8cd55",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Account, Size=Medium, State=Loading"
+    },
+    {
+        "key": "216c51b7e5b7000aff215daf0b52e60a7e5783de",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Card, Size=Small, State=Inactive"
+    },
+    {
+        "key": "1c70c06d717216d511ff229f3d9869dd4710f8a7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Card, Size=Large, State=Locked"
+    },
+    {
+        "key": "14a8930c7e5113bddab4698b2d6a43834903eee3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Stack, Size=Small, State=Default"
+    },
+    {
+        "key": "933e145ba6eec2b7800ed9f4e4a4a84f7fba0d17",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Stack, Size=XSmall, State=Default"
+    },
+    {
+        "key": "62da19bf9389c667275cecd9bf2c19d2ea26e36c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Card, Size=Medium, State=Inactive"
+    },
+    {
+        "key": "500f2a04634170cf24b96bed6c55a0afb422b91c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Account, Size=Small, State=Default"
+    },
+    {
+        "key": "fd680507ef00676c51588be05c02e841bbb28514",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Account, Size=Medium, State=Default"
+    },
+    {
+        "key": "f9ec49a316f40154ba6fdcade422d38a54db5605",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Card, Size=Medium, State=Locked"
     },
     {
         "key": "f412b7707d9cf25d7228b860576a1b04569c9db7",
@@ -3477,15 +3558,6 @@
         "variant": "Type=Account, Size=Small, State=Loading"
     },
     {
-        "key": "933e145ba6eec2b7800ed9f4e4a4a84f7fba0d17",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Stack, Size=XSmall, State=Default"
-    },
-    {
         "key": "6aee5c43fc1e3fc1a64aadb59463dc28bf73142c",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -3495,24 +3567,6 @@
         "variant": "Type=Stack, Size=Small, State=Loading"
     },
     {
-        "key": "62da19bf9389c667275cecd9bf2c19d2ea26e36c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Card, Size=Medium, State=Inactive"
-    },
-    {
-        "key": "500f2a04634170cf24b96bed6c55a0afb422b91c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Account, Size=Small, State=Default"
-    },
-    {
         "key": "488ffbf6295b2568ccc98f0091ea2f28312e97cb",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -3520,60 +3574,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Type=Stack, Size=Medium, State=Default"
-    },
-    {
-        "key": "304c76dc6f035727a5380e649fa543beb6e8cd55",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Account, Size=Medium, State=Loading"
-    },
-    {
-        "key": "216c51b7e5b7000aff215daf0b52e60a7e5783de",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Card, Size=Small, State=Inactive"
-    },
-    {
-        "key": "1c70c06d717216d511ff229f3d9869dd4710f8a7",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Card, Size=Large, State=Locked"
-    },
-    {
-        "key": "14a8930c7e5113bddab4698b2d6a43834903eee3",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Stack, Size=Small, State=Default"
-    },
-    {
-        "key": "fd680507ef00676c51588be05c02e841bbb28514",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Account, Size=Medium, State=Default"
-    },
-    {
-        "key": "f9ec49a316f40154ba6fdcade422d38a54db5605",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Card, Size=Medium, State=Locked"
     },
     {
         "key": "d23088a08273849c951e8836c716a42a4a700d59",
@@ -3675,6 +3675,15 @@
         "variant": "Type=Card, Size=Medium, State=Default"
     },
     {
+        "key": "f94faf0e7f18db5cef4a1b94d789db9f8acf7b1b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=S, Style=Card, State=Locked"
+    },
+    {
         "key": "f2f27b86afdfb890a4bc5ff60f93e490cdbd414f",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -3682,6 +3691,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Size=XS, Style=Card, State=Default"
+    },
+    {
+        "key": "e9e172e53f09ae416be859cc598cd97360209051",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XS, Style=Logo, State=Default"
     },
     {
         "key": "e5e6b1a4c34b70339efe4eee5eac4d59241e849f",
@@ -3709,15 +3727,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Size=XS, Style=Stacked, State=Default"
-    },
-    {
-        "key": "cc0d65e22c342e70ed1c387ddf2bb312e7bdf420",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Size=S, Style=Card, State=Inactive"
     },
     {
         "key": "c7fc3691df921a6409e125d69f71b664e50bdb56",
@@ -3774,6 +3783,15 @@
         "variant": "Size=L, Style=Card, State=Default"
     },
     {
+        "key": "9fd83f5f3d6d324629e94c634006433361e6fd0d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=S, Style=Any, State=Loading"
+    },
+    {
         "key": "9cecd80026c9ea311357f767f107d6d7faa94937",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -3810,15 +3828,6 @@
         "variant": "Size=XS, Style=Card, State=Inactive"
     },
     {
-        "key": "400c221e173a9c61545f503b74303a5a0565838e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Size=L, Style=Card, State=Inactive"
-    },
-    {
         "key": "19c610ee02dde0615b38b7bccda3afb485d4c0e7",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -3828,13 +3837,22 @@
         "variant": "Size=M, Style=Stacked, State=Default"
     },
     {
-        "key": "e9e172e53f09ae416be859cc598cd97360209051",
+        "key": "400c221e173a9c61545f503b74303a5a0565838e",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "CardIconView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Size=XS, Style=Logo, State=Default"
+        "variant": "Size=L, Style=Card, State=Inactive"
+    },
+    {
+        "key": "cc0d65e22c342e70ed1c387ddf2bb312e7bdf420",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=S, Style=Card, State=Inactive"
     },
     {
         "key": "7dd66fb2013767df3b2ed62bf0d21a7be7eb2a28",
@@ -3844,15 +3862,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Size=S, Style=Logo, State=Default"
-    },
-    {
-        "key": "9fd83f5f3d6d324629e94c634006433361e6fd0d",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Size=S, Style=Any, State=Loading"
     },
     {
         "key": "56fdf81ed2d53e5d4c711ddab225d091782e5569",
@@ -3880,15 +3889,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Size=M, Style=Logo, State=Default"
-    },
-    {
-        "key": "f94faf0e7f18db5cef4a1b94d789db9f8acf7b1b",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Size=S, Style=Card, State=Locked"
     },
     {
         "key": "ec52815c2bd791f3555e9c4f35eb0995a5ddd8e9",
@@ -3984,15 +3984,6 @@
         "variant": "Icon Position=Right, Style=Default, Vertical Padding=Small, Horizontal Margin=None"
     },
     {
-        "key": "45b785f95727a4b765888cf7376a54c9968e2f34",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardView",
-        "description": "Ячейка с картой, используется в карточках Итории операций",
-        "platform": "IOS",
-        "variant": "Icon Position=Right, Style=Default, Vertical Padding=Medium, Horizontal Margin=Extended"
-    },
-    {
         "key": "72100edc347fd2b82dc6acc3a15e8147c8516ca9",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -4000,6 +3991,15 @@
         "description": "Ячейка с картой, используется в карточках Итории операций",
         "platform": "IOS",
         "variant": "Icon Position=Left, Style=Revert, Vertical Padding=Medium, Horizontal Margin=Extended"
+    },
+    {
+        "key": "45b785f95727a4b765888cf7376a54c9968e2f34",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardView",
+        "description": "Ячейка с картой, используется в карточках Итории операций",
+        "platform": "IOS",
+        "variant": "Icon Position=Right, Style=Default, Vertical Padding=Medium, Horizontal Margin=Extended"
     },
     {
         "key": "7186b334279b6089ed252d4ecd903271dfb5f913",
@@ -4029,15 +4029,6 @@
         "variant": "Icon Position=Left, Style=Default, Vertical Padding=Medium, Horizontal Margin=Extended"
     },
     {
-        "key": "1110ff5a0ace72939847a658cd93ee1f6b1f0376",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardView",
-        "description": "Ячейка с картой, используется в карточках Итории операций",
-        "platform": "ANDROID",
-        "variant": "Icon Position=Right, Style=Revert, Vertical Padding=Medium, Horizontal Margin=Extended"
-    },
-    {
         "key": "4a91149d77ce8251aeafcdc1081d468d60311d8c",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -4045,6 +4036,15 @@
         "description": "Ячейка с картой, используется в карточках Итории операций",
         "platform": "ANDROID",
         "variant": "Icon Position=Left, Style=Revert, Vertical Padding=Medium, Horizontal Margin=Extended"
+    },
+    {
+        "key": "1110ff5a0ace72939847a658cd93ee1f6b1f0376",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardView",
+        "description": "Ячейка с картой, используется в карточках Итории операций",
+        "platform": "ANDROID",
+        "variant": "Icon Position=Right, Style=Revert, Vertical Padding=Medium, Horizontal Margin=Extended"
     },
     {
         "key": "d012028aa316493d557b57a8053e5f0d19b453d0",
@@ -7564,24 +7564,6 @@
         "platform": "IOS"
     },
     {
-        "key": "eead8d3816a2d7e1b28e9822a6f141b4584c24f5",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=ACCOUNT"
-    },
-    {
-        "key": "bcdbad4b4ddd498a93797a42053924ed2c5fb033",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=CARD"
-    },
-    {
         "key": "f9e1b425ad293f257117a5488e5ea6c8c831552b",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -7679,6 +7661,24 @@
         "description": "",
         "platform": "IOS",
         "variant": "Type=CURRENCY_EXCHANGE"
+    },
+    {
+        "key": "eead8d3816a2d7e1b28e9822a6f141b4584c24f5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=ACCOUNT"
+    },
+    {
+        "key": "bcdbad4b4ddd498a93797a42053924ed2c5fb033",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=CARD"
     },
     {
         "key": "96dcba8f792ff809a0d7114b99b7b222b30f8169",
@@ -13232,6 +13232,15 @@
         "platform": "ANDROID"
     },
     {
+        "key": "07947ecf868e57877472e7a2910dd28e5f3e152d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProductView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Vertical Padding=Medium, Style=No Sum, Horizontal Padding=Extended"
+    },
+    {
         "key": "d5ab64e2b9359fa428aa1cd166eec59921b2c269",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -13239,6 +13248,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Vertical Padding=Small, Style=Subline, Horizontal Padding=None"
+    },
+    {
+        "key": "fbc3558ee4eafbabdb58e952fc079042beae5a84",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProductView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Vertical Padding=Medium, Style=Default, Horizontal Padding=None"
     },
     {
         "key": "81285d42c188433d6403d8b7a44d775bcc7c6d1c",
@@ -13257,24 +13275,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Vertical Padding=Medium, Style=Subline, Horizontal Padding=Extended"
-    },
-    {
-        "key": "07947ecf868e57877472e7a2910dd28e5f3e152d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProductView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Vertical Padding=Medium, Style=No Sum, Horizontal Padding=Extended"
-    },
-    {
-        "key": "fbc3558ee4eafbabdb58e952fc079042beae5a84",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProductView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Vertical Padding=Medium, Style=Default, Horizontal Padding=None"
     },
     {
         "key": "d723a67cbd12547cc50f30a9b5ab4e1f1aae1e09",
@@ -14089,15 +14089,6 @@
         "platform": "IOS"
     },
     {
-        "key": "de6588a5cf95f9981ac3e44ee1e2a4150ccef97d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "RightIconWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=ProductView, Left Padding=Extended"
-    },
-    {
         "key": "d1de7004dfd4d6bb1cb96a8457f2b5dcfec3fcbf",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -14114,6 +14105,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Preset=MetroView, Left Padding=Extended"
+    },
+    {
+        "key": "de6588a5cf95f9981ac3e44ee1e2a4150ccef97d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "RightIconWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=ProductView, Left Padding=Extended"
     },
     {
         "key": "389e82497498c9d54548a6298885031d82145af4",
