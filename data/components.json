@@ -632,20 +632,22 @@
         "platform": "ANDROID"
     },
     {
-        "key": "4364e460a89537f00ccab7dc286d8d07c73c5570",
-        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
-        "library_name": "iOS Native Elements",
-        "name": "Action Sheet / With Title",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "7ad232cee0c88d956fba273ad3f13d83f4209464",
         "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
         "library_name": "iOS Native Elements",
         "name": "Action Sheet",
         "description": "",
-        "platform": "IOS"
+        "platform": "IOS",
+        "variant": "State=DEFAULT"
+    },
+    {
+        "key": "4364e460a89537f00ccab7dc286d8d07c73c5570",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
+        "library_name": "iOS Native Elements",
+        "name": "Action Sheet",
+        "description": "",
+        "platform": "IOS",
+        "variant": "State=WITH TITLE"
     },
     {
         "key": "1cc715544383988387b1bf3a48018ecc1393837b",
@@ -1997,6 +1999,24 @@
         "variant": "Document=File, State=Action"
     },
     {
+        "key": "f8b0a3c92fdb35ae8ab4e55ea9dce84f7500df13",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "BannerWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=DataView, Style=Fill"
+    },
+    {
+        "key": "edfa7060c5db54089dbdcd615185f26fdfc46b96",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "BannerWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=RangeSliderView, Style=Fill"
+    },
+    {
         "key": "33890b5c0ece4adfa9437561759bc0fc4696c504",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -2015,33 +2035,6 @@
         "variant": "Preset=ErrorLoadingView, Style=Fill"
     },
     {
-        "key": "edfa7060c5db54089dbdcd615185f26fdfc46b96",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "BannerWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=RangeSliderView, Style=Fill"
-    },
-    {
-        "key": "56f8909ae47dd30ba5d67c4afeb0d54bbdec51d3",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "BannerWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=CircleProgressView, Style=Fill"
-    },
-    {
-        "key": "f8b0a3c92fdb35ae8ab4e55ea9dce84f7500df13",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "BannerWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=DataView, Style=Fill"
-    },
-    {
         "key": "93d3be8e8ace65116da8b9b1c432b1cfe1064f83",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -2058,6 +2051,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Preset=RiskView, Style=Fill"
+    },
+    {
+        "key": "56f8909ae47dd30ba5d67c4afeb0d54bbdec51d3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "BannerWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=CircleProgressView, Style=Fill"
     },
     {
         "key": "1f85d4cd097ae191017812518b475f7bfe4c25e5",
@@ -2114,15 +2116,6 @@
         "variant": "Preset=DataView, Style=Fill"
     },
     {
-        "key": "0fa14b80006c066de780c279b56e0daeac417522",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "BannerWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Preset=ProductView, Style=Fill"
-    },
-    {
         "key": "ca9deaa9ea1b9d53a7632acb95c7986632e39127",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -2141,6 +2134,15 @@
         "variant": "Preset=DataView, Style=Stroke"
     },
     {
+        "key": "c71dd4b4484fcd16ba404b9bb7519b4b30272579",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "BannerWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Preset=ErrorLoadingView, Style=Fill"
+    },
+    {
         "key": "afb8ef8a1e1425526a751259a92b0a9e50fa90a5",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -2148,6 +2150,24 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Preset=RangeSliderView, Style=Fill"
+    },
+    {
+        "key": "486a0d572ff8585e59da845d0347832922a065fb",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "BannerWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Preset=ErrorLoadingView, Style=Shadow"
+    },
+    {
+        "key": "0fa14b80006c066de780c279b56e0daeac417522",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "BannerWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Preset=ProductView, Style=Fill"
     },
     {
         "key": "674d49d3c981e84129dfa209771f53755a91b530",
@@ -2166,24 +2186,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Preset=RightIconWrapper, Style=Fill"
-    },
-    {
-        "key": "c71dd4b4484fcd16ba404b9bb7519b4b30272579",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "BannerWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Preset=ErrorLoadingView, Style=Fill"
-    },
-    {
-        "key": "486a0d572ff8585e59da845d0347832922a065fb",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "BannerWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Preset=ErrorLoadingView, Style=Shadow"
     },
     {
         "key": "1c51e000760de6d63a59a88b6bba0af0c97d0041",
@@ -3644,6 +3646,24 @@
         "variant": "Style=Compact, State=Default"
     },
     {
+        "key": "55196a477337f6c765a638472b0ea607c3e79bb7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardContent",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Default, State=Loading"
+    },
+    {
+        "key": "529fa4ab7109c14f4831a43aeb4fd558df949f93",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardContent",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Default, State=Default"
+    },
+    {
         "key": "41899742b12fd2ba962cd0fb072588ef0764417b",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -3662,15 +3682,6 @@
         "variant": "Style=Compact, State=Loading"
     },
     {
-        "key": "55196a477337f6c765a638472b0ea607c3e79bb7",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardContent",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Default, State=Loading"
-    },
-    {
         "key": "0c6d3cb70518308523021ae9312d7c553d38dda3",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -3680,12 +3691,21 @@
         "variant": "Style=Additional info, State=Loading"
     },
     {
-        "key": "529fa4ab7109c14f4831a43aeb4fd558df949f93",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
+        "key": "203871e09f0a8f46f29159f206cd8eb260abef91",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
         "name": "CardContent",
         "description": "",
-        "platform": "IOS",
+        "platform": "ANDROID",
+        "variant": "Style=Default, State=Loading"
+    },
+    {
+        "key": "16061c3b7e3109514480c824fc564bc9b2b13266",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardContent",
+        "description": "",
+        "platform": "ANDROID",
         "variant": "Style=Default, State=Default"
     },
     {
@@ -3716,15 +3736,6 @@
         "variant": "Style=Compact, State=Default"
     },
     {
-        "key": "203871e09f0a8f46f29159f206cd8eb260abef91",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardContent",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Default, State=Loading"
-    },
-    {
         "key": "a448757d96931ae916ec363c313dab50681d11f5",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -3732,15 +3743,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Style=Additional info, State=Default"
-    },
-    {
-        "key": "16061c3b7e3109514480c824fc564bc9b2b13266",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardContent",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Default, State=Default"
     },
     {
         "key": "bd5ff29d7eef901e1a13b39d11414d193582c1db",
@@ -4427,15 +4429,6 @@
         "variant": "Type=Card, Size=Small, State=Loading"
     },
     {
-        "key": "f94faf0e7f18db5cef4a1b94d789db9f8acf7b1b",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Size=S, Style=Card, State=Locked"
-    },
-    {
         "key": "cc0d65e22c342e70ed1c387ddf2bb312e7bdf420",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -4445,13 +4438,22 @@
         "variant": "Size=S, Style=Card, State=Inactive"
     },
     {
-        "key": "ac347708dc08713356a420fcfa6c0c23eff9697d",
+        "key": "400c221e173a9c61545f503b74303a5a0565838e",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "CardIconView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Size=L, Style=Card, State=Default"
+        "variant": "Size=L, Style=Card, State=Inactive"
+    },
+    {
+        "key": "f94faf0e7f18db5cef4a1b94d789db9f8acf7b1b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=S, Style=Card, State=Locked"
     },
     {
         "key": "f2f27b86afdfb890a4bc5ff60f93e490cdbd414f",
@@ -4461,6 +4463,24 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Size=XS, Style=Card, State=Default"
+    },
+    {
+        "key": "ec52815c2bd791f3555e9c4f35eb0995a5ddd8e9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XS, Style=Account, State=Default"
+    },
+    {
+        "key": "e5e6b1a4c34b70339efe4eee5eac4d59241e849f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=M, Style=Any, State=Loading"
     },
     {
         "key": "d5a18cd692c20ba73638b9f54d0c6ed02b9263e4",
@@ -4508,6 +4528,15 @@
         "variant": "Size=XS, Style=Any, State=Loading"
     },
     {
+        "key": "ac347708dc08713356a420fcfa6c0c23eff9697d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=L, Style=Card, State=Default"
+    },
+    {
         "key": "9fd83f5f3d6d324629e94c634006433361e6fd0d",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -4524,6 +4553,51 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Size=M, Style=Card, State=Inactive"
+    },
+    {
+        "key": "56fdf81ed2d53e5d4c711ddab225d091782e5569",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=M, Style=Card, State=Locked"
+    },
+    {
+        "key": "42ce0926820f0502050b8786d97f351fc79619a0",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XS, Style=Card, State=Inactive"
+    },
+    {
+        "key": "217fe215444214421d7f4ad4b4f07a580562a81a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=L, Style=Card, State=Locked"
+    },
+    {
+        "key": "19c610ee02dde0615b38b7bccda3afb485d4c0e7",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=M, Style=Stacked, State=Default"
+    },
+    {
+        "key": "c7fc3691df921a6409e125d69f71b664e50bdb56",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=M, Style=Account, State=Default"
     },
     {
         "key": "677e52c8f4fb8669dce6c2dd81940564c25100c9",
@@ -4551,78 +4625,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Size=S, Style=Card, State=Default"
-    },
-    {
-        "key": "42ce0926820f0502050b8786d97f351fc79619a0",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Size=XS, Style=Card, State=Inactive"
-    },
-    {
-        "key": "56fdf81ed2d53e5d4c711ddab225d091782e5569",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Size=M, Style=Card, State=Locked"
-    },
-    {
-        "key": "ec52815c2bd791f3555e9c4f35eb0995a5ddd8e9",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Size=XS, Style=Account, State=Default"
-    },
-    {
-        "key": "c7fc3691df921a6409e125d69f71b664e50bdb56",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Size=M, Style=Account, State=Default"
-    },
-    {
-        "key": "e5e6b1a4c34b70339efe4eee5eac4d59241e849f",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Size=M, Style=Any, State=Loading"
-    },
-    {
-        "key": "400c221e173a9c61545f503b74303a5a0565838e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Size=L, Style=Card, State=Inactive"
-    },
-    {
-        "key": "217fe215444214421d7f4ad4b4f07a580562a81a",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Size=L, Style=Card, State=Locked"
-    },
-    {
-        "key": "19c610ee02dde0615b38b7bccda3afb485d4c0e7",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Size=M, Style=Stacked, State=Default"
     },
     {
         "key": "2aa3d564ccbb5307a5429bf2bfe8d9390127bd0d",
@@ -4709,6 +4711,15 @@
         "variant": "Icon Position=Right, CardContent Style=Default, Vertical Padding=Small, Horizontal Padding=None"
     },
     {
+        "key": "f58b6ea65f1a984eeb50b1665fcd1f0e98f3100d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardView",
+        "description": "Ячейка с картой, используется в карточках Итории операций",
+        "platform": "IOS",
+        "variant": "Icon Position=Left, Style=Default, Vertical Padding=Medium, Horizontal Paddings=Both"
+    },
+    {
         "key": "12107d7dfebf1f12e1ed7680894d3899ba2caf00",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -4716,24 +4727,6 @@
         "description": "Ячейка с картой, используется в карточках Итории операций",
         "platform": "IOS",
         "variant": "Icon Position=Right, Style=Default, Vertical Padding=Medium, Horizontal Paddings=None"
-    },
-    {
-        "key": "0d55d24e4c3eafd11a2eb7545354dab712348377",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardView",
-        "description": "Ячейка с картой, используется в карточках Итории операций",
-        "platform": "IOS",
-        "variant": "Icon Position=Left, Style=Default, Vertical Padding=Medium, Horizontal Paddings=Only right"
-    },
-    {
-        "key": "45b785f95727a4b765888cf7376a54c9968e2f34",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardView",
-        "description": "Ячейка с картой, используется в карточках Итории операций",
-        "platform": "IOS",
-        "variant": "Icon Position=Right, Style=Default, Vertical Padding=Medium, Horizontal Paddings=Both"
     },
     {
         "key": "f4d335a4dd0ead232bf0005fa803b5831ce8c0a0",
@@ -4754,22 +4747,13 @@
         "variant": "Icon Position=Right, Style=Default, Vertical Padding=Medium, Horizontal Paddings=Only left"
     },
     {
-        "key": "43e4880592272b9d4c60fc36745e59755bc77804",
+        "key": "d225e8f5e993ae5320d85ee8424220db4909c276",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "CardView",
         "description": "Ячейка с картой, используется в карточках Итории операций",
         "platform": "IOS",
-        "variant": "Icon Position=Left, Style=Additional info, Vertical Padding=Medium, Horizontal Paddings=Only right"
-    },
-    {
-        "key": "1fbec864ebd9340b3c9038215ffd7672d9b126db",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardView",
-        "description": "Ячейка с картой, используется в карточках Итории операций",
-        "platform": "IOS",
-        "variant": "Icon Position=Left, Style=Additional info, Vertical Padding=Medium, Horizontal Paddings=None"
+        "variant": "Icon Position=Right, Style=Revert, Vertical Padding=Medium, Horizontal Paddings=None"
     },
     {
         "key": "a7cbf6f31952f3bb79c79006f3452e68e5b9227e",
@@ -4781,33 +4765,6 @@
         "variant": "Icon Position=Left, Style=Additional info, Vertical Padding=Medium, Horizontal Paddings=Only left"
     },
     {
-        "key": "1dddb83910dd467c5e40f6303de056cafe8be07b",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardView",
-        "description": "Ячейка с картой, используется в карточках Итории операций",
-        "platform": "IOS",
-        "variant": "Icon Position=Left, Style=Revert, Vertical Padding=Medium, Horizontal Paddings=None"
-    },
-    {
-        "key": "07d4182033b5ccb2f4f360669af601bf7c5f6758",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardView",
-        "description": "Ячейка с картой, используется в карточках Итории операций",
-        "platform": "IOS",
-        "variant": "Icon Position=Right, Style=Revert, Vertical Padding=Medium, Horizontal Paddings=Only right"
-    },
-    {
-        "key": "575cb0ea28dc3e1dc86eeecb4fe5e018f6a263a0",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardView",
-        "description": "Ячейка с картой, используется в карточках Итории операций",
-        "platform": "IOS",
-        "variant": "Icon Position=Right, Style=Default, Vertical Padding=Medium, Horizontal Paddings=Only right"
-    },
-    {
         "key": "53ca5f65e664ed55e3ac205113e58f8617be89c8",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -4817,31 +4774,22 @@
         "variant": "Icon Position=Left, Style=Revert, Vertical Padding=Medium, Horizontal Paddings=Only left"
     },
     {
-        "key": "18d8313c7d5d6686f4c023189984b42e5e095acf",
+        "key": "45b785f95727a4b765888cf7376a54c9968e2f34",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "CardView",
         "description": "Ячейка с картой, используется в карточках Итории операций",
         "platform": "IOS",
-        "variant": "Icon Position=Left, Style=Default, Vertical Padding=Medium, Horizontal Paddings=Only left"
+        "variant": "Icon Position=Right, Style=Default, Vertical Padding=Medium, Horizontal Paddings=Both"
     },
     {
-        "key": "b6a3f82920b4e8dc4eb6d8b7a2973bc7166e0a71",
+        "key": "43e4880592272b9d4c60fc36745e59755bc77804",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "CardView",
         "description": "Ячейка с картой, используется в карточках Итории операций",
         "platform": "IOS",
-        "variant": "Icon Position=Right, Style=Revert, Vertical Padding=Medium, Horizontal Paddings=Only left"
-    },
-    {
-        "key": "d225e8f5e993ae5320d85ee8424220db4909c276",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CardView",
-        "description": "Ячейка с картой, используется в карточках Итории операций",
-        "platform": "IOS",
-        "variant": "Icon Position=Right, Style=Revert, Vertical Padding=Medium, Horizontal Paddings=None"
+        "variant": "Icon Position=Left, Style=Additional info, Vertical Padding=Medium, Horizontal Paddings=Only right"
     },
     {
         "key": "3236778d303a5778abe16816b98266dae488f335",
@@ -4853,6 +4801,42 @@
         "variant": "Icon Position=Right, Style=Revert, Vertical Padding=Medium, Horizontal Paddings=Both"
     },
     {
+        "key": "1fbec864ebd9340b3c9038215ffd7672d9b126db",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardView",
+        "description": "Ячейка с картой, используется в карточках Итории операций",
+        "platform": "IOS",
+        "variant": "Icon Position=Left, Style=Additional info, Vertical Padding=Medium, Horizontal Paddings=None"
+    },
+    {
+        "key": "1dddb83910dd467c5e40f6303de056cafe8be07b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardView",
+        "description": "Ячейка с картой, используется в карточках Итории операций",
+        "platform": "IOS",
+        "variant": "Icon Position=Left, Style=Revert, Vertical Padding=Medium, Horizontal Paddings=None"
+    },
+    {
+        "key": "18d8313c7d5d6686f4c023189984b42e5e095acf",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardView",
+        "description": "Ячейка с картой, используется в карточках Итории операций",
+        "platform": "IOS",
+        "variant": "Icon Position=Left, Style=Default, Vertical Padding=Medium, Horizontal Paddings=Only left"
+    },
+    {
+        "key": "07d4182033b5ccb2f4f360669af601bf7c5f6758",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardView",
+        "description": "Ячейка с картой, используется в карточках Итории операций",
+        "platform": "IOS",
+        "variant": "Icon Position=Right, Style=Revert, Vertical Padding=Medium, Horizontal Paddings=Only right"
+    },
+    {
         "key": "72100edc347fd2b82dc6acc3a15e8147c8516ca9",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -4862,13 +4846,31 @@
         "variant": "Icon Position=Left, Style=Revert, Vertical Padding=Medium, Horizontal Paddings=Both"
     },
     {
-        "key": "f58b6ea65f1a984eeb50b1665fcd1f0e98f3100d",
+        "key": "575cb0ea28dc3e1dc86eeecb4fe5e018f6a263a0",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "CardView",
         "description": "Ячейка с картой, используется в карточках Итории операций",
         "platform": "IOS",
-        "variant": "Icon Position=Left, Style=Default, Vertical Padding=Medium, Horizontal Paddings=Both"
+        "variant": "Icon Position=Right, Style=Default, Vertical Padding=Medium, Horizontal Paddings=Only right"
+    },
+    {
+        "key": "0d55d24e4c3eafd11a2eb7545354dab712348377",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardView",
+        "description": "Ячейка с картой, используется в карточках Итории операций",
+        "platform": "IOS",
+        "variant": "Icon Position=Left, Style=Default, Vertical Padding=Medium, Horizontal Paddings=Only right"
+    },
+    {
+        "key": "b6a3f82920b4e8dc4eb6d8b7a2973bc7166e0a71",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CardView",
+        "description": "Ячейка с картой, используется в карточках Итории операций",
+        "platform": "IOS",
+        "variant": "Icon Position=Right, Style=Revert, Vertical Padding=Medium, Horizontal Paddings=Only left"
     },
     {
         "key": "7186b334279b6089ed252d4ecd903271dfb5f913",
@@ -4934,15 +4936,6 @@
         "variant": "Icon Position=Right, CardContent Style=Compact, Vertical Padding=Medium, Horizontal Padding=Both"
     },
     {
-        "key": "957152705710868b3ee8ce3d32552e7a0f2bb7fd",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CardView",
-        "description": "Ячейка с картой, используется в настройках пушей и смс",
-        "platform": "ANDROID",
-        "variant": "Icon Position=Left, CardContent Style=Additional info, Vertical Padding=Medium, Horizontal Padding=Only Left"
-    },
-    {
         "key": "dc27e1dac299abed01b0b3b7fd1406812958e083",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -4950,6 +4943,15 @@
         "description": "Ячейка с картой, используется в настройках пушей и смс",
         "platform": "ANDROID",
         "variant": "Icon Position=Left, CardContent Style=Additional info, Vertical Padding=Medium, Horizontal Padding=Both"
+    },
+    {
+        "key": "957152705710868b3ee8ce3d32552e7a0f2bb7fd",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CardView",
+        "description": "Ячейка с картой, используется в настройках пушей и смс",
+        "platform": "ANDROID",
+        "variant": "Icon Position=Left, CardContent Style=Additional info, Vertical Padding=Medium, Horizontal Padding=Only Left"
     },
     {
         "key": "1de26c3e7a7ef27b6bf4893b5a8e548fbcea3aab",
@@ -6602,15 +6604,6 @@
         "variant": "CreditsWidgetViewType=LOADING, WidgetSize=M"
     },
     {
-        "key": "03c845e472a58fc1b3f4d2206bc1baef608747d9",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CreditsWidgetView",
-        "description": "До платежа осталось 5 дней. На кредитном счету не достаточно денег",
-        "platform": "IOS",
-        "variant": "CreditsWidgetViewType=CREDIT_NEED_REPLENISH_1, WidgetSize=M"
-    },
-    {
         "key": "5552de4f72a3382956889f8b03eeaeb4bdafa03b",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -6620,13 +6613,13 @@
         "variant": "CreditsWidgetViewType=CREDIT_NEED_REPLENISH_1, WidgetSize=S"
     },
     {
-        "key": "565291f2c9a54a80713fa155daea9b9a413cd191",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
+        "key": "03c845e472a58fc1b3f4d2206bc1baef608747d9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
         "name": "CreditsWidgetView",
         "description": "До платежа осталось 5 дней. На кредитном счету не достаточно денег",
-        "platform": "ANDROID",
-        "variant": "CreditsWidgetViewType=CREDIT_NEED_REPLENISH_1, WidgetSize=S"
+        "platform": "IOS",
+        "variant": "CreditsWidgetViewType=CREDIT_NEED_REPLENISH_1, WidgetSize=M"
     },
     {
         "key": "0db64bd59ff5659bc8ed35bb58d975195f8635c2",
@@ -6636,6 +6629,15 @@
         "description": "До платежа осталось 5 дней. На кредитном счету не достаточно денег",
         "platform": "ANDROID",
         "variant": "CreditsWidgetViewType=CREDIT_NEED_REPLENISH_1, WidgetSize=M"
+    },
+    {
+        "key": "565291f2c9a54a80713fa155daea9b9a413cd191",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CreditsWidgetView",
+        "description": "До платежа осталось 5 дней. На кредитном счету не достаточно денег",
+        "platform": "ANDROID",
+        "variant": "CreditsWidgetViewType=CREDIT_NEED_REPLENISH_1, WidgetSize=S"
     },
     {
         "key": "0f713dcd75bcb54f00bf1a5dd542ed239f1966d2",
@@ -6656,15 +6658,6 @@
         "variant": "CreditsWidgetViewType=CREDIT_CLOSED_1, WidgetSize=M"
     },
     {
-        "key": "c2bbc14df670845e427cc5910e38e9eb5f2da278",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CreditsWidgetView",
-        "description": "Кредит успешно погашен. Показываем падение конфетти в ячейке",
-        "platform": "ANDROID",
-        "variant": "CreditsWidgetViewType=CREDIT_CLOSED_1, WidgetSize=M"
-    },
-    {
         "key": "9f4e1b30cbcd8e3e6cbc0d886bf5e2f016d11bf3",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -6672,6 +6665,15 @@
         "description": "Кредит успешно погашен. Показываем падение конфетти в ячейке",
         "platform": "ANDROID",
         "variant": "CreditsWidgetViewType=CREDIT_CLOSED_1, WidgetSize=S"
+    },
+    {
+        "key": "c2bbc14df670845e427cc5910e38e9eb5f2da278",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CreditsWidgetView",
+        "description": "Кредит успешно погашен. Показываем падение конфетти в ячейке",
+        "platform": "ANDROID",
+        "variant": "CreditsWidgetViewType=CREDIT_CLOSED_1, WidgetSize=M"
     },
     {
         "key": "ea6f7061e4083f1ce6787cd4a85849b803ab3796",
@@ -6692,15 +6694,6 @@
         "variant": "CreditsWidgetViewType=CREDIT_REPAID_2, WidgetSize=S"
     },
     {
-        "key": "5c4fdeb322eb7764030a26d5eafa56e4c479aa0d",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CreditsWidgetView",
-        "description": "На счету достаточно денег. Спишем 26 сентября\n",
-        "platform": "ANDROID",
-        "variant": "CreditsWidgetViewType=CREDIT_REPAID_2, WidgetSize=S"
-    },
-    {
         "key": "80cc45d461fdc409144d217232d67c0565f75d78",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -6710,13 +6703,13 @@
         "variant": "CreditsWidgetViewType=CREDIT_REPAID_2, WidgetSize=M"
     },
     {
-        "key": "70b14747a88b604eb09892c50566b431d86edd53",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
+        "key": "5c4fdeb322eb7764030a26d5eafa56e4c479aa0d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
         "name": "CreditsWidgetView",
-        "description": "Оплата прошла. Через 3 дня показываем дату следующего платежа. Если платёж был просрочен, то показываем дату следующего платежа через 1 день",
-        "platform": "IOS",
-        "variant": "CreditsWidgetViewType=CREDIT_IS_CHARGE, WidgetSize=S"
+        "description": "На счету достаточно денег. Спишем 26 сентября\n",
+        "platform": "ANDROID",
+        "variant": "CreditsWidgetViewType=CREDIT_REPAID_2, WidgetSize=S"
     },
     {
         "key": "a2358cb0214c7b8e5fa743b6215127ff8e90b126",
@@ -6728,12 +6721,12 @@
         "variant": "CreditsWidgetViewType=CREDIT_IS_CHARGE, WidgetSize=M"
     },
     {
-        "key": "c2cbb115e262b802e0a53e9074f64d62990984c0",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
+        "key": "70b14747a88b604eb09892c50566b431d86edd53",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
         "name": "CreditsWidgetView",
         "description": "Оплата прошла. Через 3 дня показываем дату следующего платежа. Если платёж был просрочен, то показываем дату следующего платежа через 1 день",
-        "platform": "ANDROID",
+        "platform": "IOS",
         "variant": "CreditsWidgetViewType=CREDIT_IS_CHARGE, WidgetSize=S"
     },
     {
@@ -6744,6 +6737,15 @@
         "description": "Оплата прошла. Через 3 дня показываем дату следующего платежа. Если платёж был просрочен, то показываем дату следующего платежа через 1 день",
         "platform": "ANDROID",
         "variant": "CreditsWidgetViewType=CREDIT_IS_CHARGE, WidgetSize=M"
+    },
+    {
+        "key": "c2cbb115e262b802e0a53e9074f64d62990984c0",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CreditsWidgetView",
+        "description": "Оплата прошла. Через 3 дня показываем дату следующего платежа. Если платёж был просрочен, то показываем дату следующего платежа через 1 день",
+        "platform": "ANDROID",
+        "variant": "CreditsWidgetViewType=CREDIT_IS_CHARGE, WidgetSize=S"
     },
     {
         "key": "1231692815f746d48d4c7f3143b7fb6eb42363f2",
@@ -6764,15 +6766,6 @@
         "variant": "CreditsWidgetViewType=CREDIT_NORMAL, WidgetSize=M"
     },
     {
-        "key": "2a1bfe630410c912fa4a26d78d9b1c16d0937f6f",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CreditsWidgetView",
-        "description": "Плановый платёж 26 сентября.\nНа кредитном счету не достаточно денег",
-        "platform": "ANDROID",
-        "variant": "CreditsWidgetViewType=CREDIT_NORMAL, WidgetSize=S"
-    },
-    {
         "key": "9fe996561f91b37e3085987af0bd211afc36dcdc",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -6780,6 +6773,15 @@
         "description": "Плановый платёж 26 сентября.\nНа кредитном счету не достаточно денег",
         "platform": "ANDROID",
         "variant": "CreditsWidgetViewType=CREDIT_NORMAL, WidgetSize=M"
+    },
+    {
+        "key": "2a1bfe630410c912fa4a26d78d9b1c16d0937f6f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CreditsWidgetView",
+        "description": "Плановый платёж 26 сентября.\nНа кредитном счету не достаточно денег",
+        "platform": "ANDROID",
+        "variant": "CreditsWidgetViewType=CREDIT_NORMAL, WidgetSize=S"
     },
     {
         "key": "a7348dd4b809da7a49e4e6f1cafbe19a4bd94f1e",
@@ -6800,15 +6802,6 @@
         "variant": "CreditsWidgetViewType=CREDIT_REPAID_1, WidgetSize=M"
     },
     {
-        "key": "6047c75c7f8d2c2a32f9fdfab27a16710984bcfe",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CreditsWidgetView",
-        "description": "Платёж просрочен, а счёт пополнен. Спишем сегодня в полночь",
-        "platform": "ANDROID",
-        "variant": "CreditsWidgetViewType=CREDIT_REPAID_1, WidgetSize=M"
-    },
-    {
         "key": "074910b934b6c3ba22b7179239eb25467ddc3d9d",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -6816,6 +6809,15 @@
         "description": "Платёж просрочен, а счёт пополнен. Спишем сегодня в полночь",
         "platform": "ANDROID",
         "variant": "CreditsWidgetViewType=CREDIT_REPAID_1, WidgetSize=S"
+    },
+    {
+        "key": "6047c75c7f8d2c2a32f9fdfab27a16710984bcfe",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CreditsWidgetView",
+        "description": "Платёж просрочен, а счёт пополнен. Спишем сегодня в полночь",
+        "platform": "ANDROID",
+        "variant": "CreditsWidgetViewType=CREDIT_REPAID_1, WidgetSize=M"
     },
     {
         "key": "4c34fc6541d3438c35da4da7f70d4a56af6a34bb",
@@ -6836,15 +6838,6 @@
         "variant": "CreditsWidgetViewType=CREDIT_NEED_REPLENISH_2, WidgetSize=S"
     },
     {
-        "key": "0627d19e39d2449ad92398e4a34a5e842ca16d56",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CreditsWidgetView",
-        "description": "Платёж просрочен. Сумму платежа отображаем с пенями",
-        "platform": "ANDROID",
-        "variant": "CreditsWidgetViewType=CREDIT_NEED_REPLENISH_2, WidgetSize=S"
-    },
-    {
         "key": "eb38d182065e109dd67f473c4babfa9b644a04a2",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -6852,6 +6845,15 @@
         "description": "Платёж просрочен. Сумму платежа отображаем с пенями",
         "platform": "ANDROID",
         "variant": "CreditsWidgetViewType=CREDIT_NEED_REPLENISH_2, WidgetSize=M"
+    },
+    {
+        "key": "0627d19e39d2449ad92398e4a34a5e842ca16d56",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CreditsWidgetView",
+        "description": "Платёж просрочен. Сумму платежа отображаем с пенями",
+        "platform": "ANDROID",
+        "variant": "CreditsWidgetViewType=CREDIT_NEED_REPLENISH_2, WidgetSize=S"
     },
     {
         "key": "1628c89e3a75e7969c22f477179e542cd361992a",
@@ -10656,6 +10658,33 @@
         "variant": "Shape=Circle"
     },
     {
+        "key": "c8aa906ecfe817f56851597f870a9c502f11f4ca",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=TEXT_AREA, State=Typing"
+    },
+    {
+        "key": "4f898096b1a123bd3fa0a39621ebbb9f37883294",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=TEXT_AREA, State=Activated"
+    },
+    {
+        "key": "492cc43d5322751645acf2ff68c1ecf4d0afeb54",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=PROGRESS"
+    },
+    {
         "key": "bf28023df9fcbbc86c186c3308abd20d53d88ee7",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -10674,6 +10703,15 @@
         "variant": "Type=TRANSACTIONAL"
     },
     {
+        "key": "8887c4191ab7b0c55b0459e2bd9b03e966cb5f19",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=TEXT_AREA, State=Error"
+    },
+    {
         "key": "e8ec54d633e404baaee44d164d51a047d50e8bcd",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -10690,15 +10728,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "TYPE=INPUT, State=Error"
-    },
-    {
-        "key": "492cc43d5322751645acf2ff68c1ecf4d0afeb54",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=PROGRESS"
     },
     {
         "key": "cfd9a34dda35a38646aa82070b6f8ed95eb802b2",
@@ -10888,33 +10917,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Type=STRING"
-    },
-    {
-        "key": "4f898096b1a123bd3fa0a39621ebbb9f37883294",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=TEXT_AREA, State=Activated"
-    },
-    {
-        "key": "c8aa906ecfe817f56851597f870a9c502f11f4ca",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=TEXT_AREA, State=Typing"
-    },
-    {
-        "key": "8887c4191ab7b0c55b0459e2bd9b03e966cb5f19",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=TEXT_AREA, State=Error"
     },
     {
         "key": "7dd2e6911d44cc4f1dd8d40e33164a4d47203239",
@@ -11695,6 +11697,114 @@
         "platform": "ANDROID"
     },
     {
+        "key": "cfd4d3728abebb72f2721910d67af1a222673460",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ExpandableProductView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "State=Expanded, Style=Subline, Status=Off"
+    },
+    {
+        "key": "248b0705b8fd13a2c47dff3dc36d04faaae491c4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ExpandableProductView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "State=Default, Style=Subline, Status=On"
+    },
+    {
+        "key": "126ea34799cf7155e4a4f59592f4f06a9f2bb0b7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ExpandableProductView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "State=Expanded, Style=Subline, Status=On"
+    },
+    {
+        "key": "384f206ae54163752a3b576b60d478825ff69b92",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ExpandableProductView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "State=Default, Style=Subline, Status=Off"
+    },
+    {
+        "key": "61c606b0dda1849ba56eadd638e06582e24ab951",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ExpandableProductView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "State=Default, Style=Default, Status=Off"
+    },
+    {
+        "key": "2ee5d95162b1d4068a682c10b1b616650517f6a3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ExpandableProductView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "State=Expanded, Style=Default, Status=Off"
+    },
+    {
+        "key": "94f84be046fb83e2642ce6685aa4b29176f1cfba",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ExpandableProductView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "State=Expanded, Style=Subline, Status=On"
+    },
+    {
+        "key": "1fb92896a517dba5b34937b78f8c39716b659df5",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ExpandableProductView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "State=Expanded, Style=Subline, Status=Off"
+    },
+    {
+        "key": "f4fc61ab6ca97f4d37b5012b7cf3c9291db52460",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ExpandableProductView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "State=Expanded, Style=Default, Status=Off"
+    },
+    {
+        "key": "9fa68fb7ce30305f2c7ab676da0e49079b46e5a9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ExpandableProductView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "State=Default, Style=Subline, Status=Off"
+    },
+    {
+        "key": "9ecb1220e2eb5fc953b3758ea043495ae280f169",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ExpandableProductView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "State=Default, Style=Default, Status=Off"
+    },
+    {
+        "key": "b2ddfc77fd6d8e3994f7036d90caa299dfb46be5",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ExpandableProductView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "State=Default, Style=Subline, Status=On"
+    },
+    {
         "key": "861367c83a2829be0d8b985b5309a4493e7cfd42",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -11982,15 +12092,6 @@
         "platform": "IOS"
     },
     {
-        "key": "d550c1fca71c813eaf643e000ad0ca410d093e59",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "HorizontalProgressView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Default, Horizontal Padding=None"
-    },
-    {
         "key": "7d803b26629d7160e6c83009088a6b3cc9fe31bb",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -12007,6 +12108,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Style=Revert, Horizontal Padding=Only right"
+    },
+    {
+        "key": "d550c1fca71c813eaf643e000ad0ca410d093e59",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "HorizontalProgressView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Default, Horizontal Padding=None"
     },
     {
         "key": "9a55e02d4475bc44fca505b1441132a5cb1d8270",
@@ -15472,15 +15582,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "e8eee9d93fd237fc8d10858603e6c1aa2a4a5e58",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "LabelWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=DataView"
-    },
-    {
         "key": "195b963f85adabbdb61f6f808ecac76d65d3db51",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -15488,6 +15589,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Preset=RightIconWrapper"
+    },
+    {
+        "key": "e8eee9d93fd237fc8d10858603e6c1aa2a4a5e58",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "LabelWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=DataView"
     },
     {
         "key": "bdafbaf16e0d081ddd03bdeff049c79fdee2e833",
@@ -15517,15 +15627,6 @@
         "variant": "Preset=DataView"
     },
     {
-        "key": "b2198a8cee779dce7c2c39614067723b6ee25deb",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "LabelWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Preset=RightIconWrapper"
-    },
-    {
         "key": "21ccdb3db225180ce73ec2865bf9584dcbf0c72b",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -15533,6 +15634,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Preset=Chips"
+    },
+    {
+        "key": "b2198a8cee779dce7c2c39614067723b6ee25deb",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "LabelWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Preset=RightIconWrapper"
     },
     {
         "key": "e8f08266a66ea5ed52dd00be04ce10435b0b7be0",
@@ -18190,6 +18300,15 @@
         "variant": "Size=Medium, Width=Dynamic, Type=Text, Active State=Off, Indicator=Off, Left Icon=Off, Rigt Icon=Off, Logo=On"
     },
     {
+        "key": "9a76f18cd777ca9eba7dfbf625746c70c17bb672",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "NEWChipsView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Chips Size=Small, Chips Width=Dynamic, Title=On, Lines=1 line"
+    },
+    {
         "key": "eda283358d93196d41f84f5b1e3a61ac6d3515a1",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -18197,6 +18316,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Chips Size=Medium, Chips Width=Static, Title=Off, Lines=1 line"
+    },
+    {
+        "key": "a9f2b15add8e79c208b3685a3a774c81ea138a92",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "NEWChipsView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Chips Size=Small, Chips Width=Dynamic, Title=Off, Lines=Multiline"
     },
     {
         "key": "37347754ea6a11cdbb3e0b9db34aa539065a559d",
@@ -18217,33 +18345,6 @@
         "variant": "Chips Size=Medium, Chips Width=Dynamic, Title=On, Lines=1 line"
     },
     {
-        "key": "9a76f18cd777ca9eba7dfbf625746c70c17bb672",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "NEWChipsView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Chips Size=Small, Chips Width=Dynamic, Title=On, Lines=1 line"
-    },
-    {
-        "key": "9bc596fcebfc8368ddd77db1a7fdbbe37575e30b",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "NEWChipsView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Chips Size=Small, Chips Width=Dynamic, Title=Off, Lines=1 line"
-    },
-    {
-        "key": "a9f2b15add8e79c208b3685a3a774c81ea138a92",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "NEWChipsView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Chips Size=Small, Chips Width=Dynamic, Title=Off, Lines=Multiline"
-    },
-    {
         "key": "f7975e72d79c2a2d083ff71bc2362f899763a092",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -18260,6 +18361,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Chips Size=Medium, Chips Width=Dynamic, Title=Off, Lines=Multiline"
+    },
+    {
+        "key": "9bc596fcebfc8368ddd77db1a7fdbbe37575e30b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "NEWChipsView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Chips Size=Small, Chips Width=Dynamic, Title=Off, Lines=1 line"
     },
     {
         "key": "b924fffde7eb5996411940102da2fab6df946bee",
@@ -18282,17 +18392,19 @@
         "key": "57fdaabee99285af4dc560c03ee508de68a4cc96",
         "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
         "library_name": "iOS Native Elements",
-        "name": "Notification / Plain",
+        "name": "Notification",
         "description": "",
-        "platform": "IOS"
+        "platform": "IOS",
+        "variant": "State=DEFAULT"
     },
     {
         "key": "2651fe80bcb3e7a635480109d2ceec339cae6ae1",
         "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
         "library_name": "iOS Native Elements",
-        "name": "Notification / With Icon",
+        "name": "Notification",
         "description": "",
-        "platform": "IOS"
+        "platform": "IOS",
+        "variant": "State=WITH ICON"
     },
     {
         "key": "532ea7f0e70e276a72596dfb8aa134a17bd3145a",
@@ -18587,24 +18699,6 @@
         "variant": "State=Typing"
     },
     {
-        "key": "9f534c3f731a3be3fbbd1172c385f353c9ce6e73",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "PaymentContainer",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "State=Typing"
-    },
-    {
-        "key": "1357d25ecff647bb82bc465622c6efa6cc17e597",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "PaymentContainer",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "State=Empty"
-    },
-    {
         "key": "dbd61e77f0697632a97d654d52f7b0137dd8ca58",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -18621,6 +18715,24 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "State=Activated"
+    },
+    {
+        "key": "1357d25ecff647bb82bc465622c6efa6cc17e597",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "PaymentContainer",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "State=Empty"
+    },
+    {
+        "key": "9f534c3f731a3be3fbbd1172c385f353c9ce6e73",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "PaymentContainer",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "State=Typing"
     },
     {
         "key": "9155a0e0c31005d5940f6ab5c0c51de6caba5038",
@@ -19834,33 +19946,6 @@
         "platform": "IOS"
     },
     {
-        "key": "b9dd98c2cdd427140f363d0ad422386262703b52",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProductItem",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "State=Expanded, Style=With cards"
-    },
-    {
-        "key": "6df69b54c4781f98183e215af09f74895c8e9811",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProductItem",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "State=Collapsed, Style=With cards"
-    },
-    {
-        "key": "10786b7a31708ffad5289af40115cbb276638100",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProductItem",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "State=Collapsed, Style=Account"
-    },
-    {
         "key": "58ac4343c90e7ffda51f3e7b85ddb2ab5d8d960c",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -20309,6 +20394,15 @@
         "variant": "Vertical Padding=Large, Horizontal Padding=Both, Style=Subline, Percent=Off, Status=On, Icon=On"
     },
     {
+        "key": "f0e455565ef0c3e65108daed57d4bea747376ae2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ProductView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Vertical Padding=Large, Horizontal Padding=None, Style=Default, Percent=On, Status=On, Icon=Off"
+    },
+    {
         "key": "dd17cfad1b4874dc438c54b9f3a0f9d938d6a163",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -20316,6 +20410,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Vertical Padding=Large, Horizontal Padding=Both, Style=Default, Percent=Off, Status=On, Icon=On"
+    },
+    {
+        "key": "d3ca6952161429475f2656592452b69fc3313025",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ProductView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Vertical Padding=Large, Horizontal Padding=None, Style=Default, Percent=On, Status=Off, Icon=Off"
     },
     {
         "key": "89e7e993e44aa67c1dbd8f097752a871416289c3",
@@ -20336,6 +20439,15 @@
         "variant": "Vertical Padding=Large, Horizontal Padding=None, Style=Subline, Percent=Off, Status=Off, Icon=On"
     },
     {
+        "key": "85af182269bc7e7668f415846699e7c1cbacca51",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ProductView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Vertical Padding=Large, Horizontal Padding=Both, Style=Subline, Percent=Off, Status=Off, Icon=On"
+    },
+    {
         "key": "7afcb64553d9cd5f651dae1f72dc6ef846cd1a2c",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -20343,6 +20455,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Vertical Padding=Large, Horizontal Padding=Both, Style=Default, Percent=On, Status=Off, Icon=Off"
+    },
+    {
+        "key": "6e50d1bf784a20f96489e5b1ba5b85c43c85031e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ProductView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Vertical Padding=Large, Horizontal Padding=None, Style=No Sum, Percent=Off, Status=Off, Icon=Off"
     },
     {
         "key": "64c5fcd7a517437b0e3b0832189345305700bfa2",
@@ -20354,6 +20475,15 @@
         "variant": "Vertical Padding=Large, Horizontal Padding=None, Style=Subline, Percent=Off, Status=On, Icon=On"
     },
     {
+        "key": "f17449a13e09ecb84a1be312169688d6283e17fb",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ProductView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Vertical Padding=Medium, Horizontal Padding=Both, Style=No Sum, Percent=Off, Status=Off, Icon=Off"
+    },
+    {
         "key": "e7f6a9d1748f7f2c5dfdb1428d86d55fdc6f3b15",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -20363,6 +20493,15 @@
         "variant": "Vertical Padding=Large, Horizontal Padding=Both, Style=Subline, Percent=Off, Status=Off, Icon=Off"
     },
     {
+        "key": "e317efad48f49b6cca419369f084c724b1343338",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ProductView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Vertical Padding=Large, Horizontal Padding=None, Style=Default, Percent=Off, Status=Off, Icon=Off"
+    },
+    {
         "key": "e20d572001716ee5e9ca14e37994486d1d2f55b9",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -20370,6 +20509,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Vertical Padding=Large, Horizontal Padding=Both, Style=No Sum, Percent=Off, Status=Off, Icon=Off"
+    },
+    {
+        "key": "dd4604f8869bf61e7a8d4098e60adea1ecf50f6b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ProductView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Vertical Padding=Small, Horizontal Padding=None, Style=Subline, Percent=Off, Status=Off, Icon=Off"
     },
     {
         "key": "cba361f8f145b59a1b89f9dc3fdfb1abb78ee4c2",
@@ -20417,6 +20565,33 @@
         "variant": "Vertical Padding=Large, Horizontal Padding=Both, Style=Subline, Percent=On, Status=On, Icon=Off"
     },
     {
+        "key": "94d9384e2db07812891a77c9f6b14634adb62463",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ProductView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Vertical Padding=Large, Horizontal Padding=None, Style=Subline, Percent=On, Status=Off, Icon=Off"
+    },
+    {
+        "key": "904655427fe16bd035f608c9fb07416ad829b418",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ProductView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Vertical Padding=Large, Horizontal Padding=Both, Style=Default, Percent=On, Status=On, Icon=Off"
+    },
+    {
+        "key": "8b603d6e103bcdd570a4712020606eb4ef148309",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ProductView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Vertical Padding=Medium, Horizontal Padding=None, Style=Default, Percent=Off, Status=Off, Icon=Off"
+    },
+    {
         "key": "884d69ca8bb600ff2a26cfc9c6b91c1ff0ec6667",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -20444,22 +20619,13 @@
         "variant": "Vertical Padding=Large, Horizontal Padding=Both, Style=Default, Percent=Off, Status=On, Icon=Off"
     },
     {
-        "key": "65ca48178d866e6fbb33f79bac71249ceb61c2c0",
+        "key": "4c7f2e995ca9b1ecbef08b86d489913e92123386",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "ProductView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Vertical Padding=Large, Horizontal Padding=None, Style=Subline, Percent=Off, Status=Off, Icon=Off"
-    },
-    {
-        "key": "59200a9732c6d555d97a3733f7f99780e5c000f0",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProductView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Vertical Padding=Large, Horizontal Padding=Both, Style=Subline, Percent=On, Status=Off, Icon=Off"
+        "variant": "Vertical Padding=Large, Horizontal Padding=None, Style=Default, Percent=Off, Status=On, Icon=On"
     },
     {
         "key": "3e9bd563b1956a8829e7736482e21e3422476ab9",
@@ -20469,51 +20635,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Vertical Padding=Small, Horizontal Padding=None, Style=No Sum, Percent=Off, Status=Off, Icon=Off"
-    },
-    {
-        "key": "904655427fe16bd035f608c9fb07416ad829b418",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProductView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Vertical Padding=Large, Horizontal Padding=Both, Style=Default, Percent=On, Status=On, Icon=Off"
-    },
-    {
-        "key": "8b603d6e103bcdd570a4712020606eb4ef148309",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProductView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Vertical Padding=Medium, Horizontal Padding=None, Style=Default, Percent=Off, Status=Off, Icon=Off"
-    },
-    {
-        "key": "85af182269bc7e7668f415846699e7c1cbacca51",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProductView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Vertical Padding=Large, Horizontal Padding=Both, Style=Subline, Percent=Off, Status=Off, Icon=On"
-    },
-    {
-        "key": "6e50d1bf784a20f96489e5b1ba5b85c43c85031e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProductView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Vertical Padding=Large, Horizontal Padding=None, Style=No Sum, Percent=Off, Status=Off, Icon=Off"
-    },
-    {
-        "key": "4c7f2e995ca9b1ecbef08b86d489913e92123386",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProductView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Vertical Padding=Large, Horizontal Padding=None, Style=Default, Percent=Off, Status=On, Icon=On"
     },
     {
         "key": "2c1a507891dfa49510bc9b7999bc7eff578a24c4",
@@ -20534,78 +20655,6 @@
         "variant": "Vertical Padding=Small, Horizontal Padding=Both, Style=Subline, Percent=Off, Status=Off, Icon=Off"
     },
     {
-        "key": "12c5729ac2a6267e9bc9b336e43d56378914d07e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProductView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Vertical Padding=Small, Horizontal Padding=Both, Style=Default, Percent=Off, Status=Off, Icon=Off"
-    },
-    {
-        "key": "f5de910feac7e08e24d0290d9b69d22ac4adaa76",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProductView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Vertical Padding=Large, Horizontal Padding=Both, Style=Subline, Percent=Off, Status=On, Icon=Off"
-    },
-    {
-        "key": "f0e455565ef0c3e65108daed57d4bea747376ae2",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProductView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Vertical Padding=Large, Horizontal Padding=None, Style=Default, Percent=On, Status=On, Icon=Off"
-    },
-    {
-        "key": "e317efad48f49b6cca419369f084c724b1343338",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProductView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Vertical Padding=Large, Horizontal Padding=None, Style=Default, Percent=Off, Status=Off, Icon=Off"
-    },
-    {
-        "key": "dd4604f8869bf61e7a8d4098e60adea1ecf50f6b",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProductView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Vertical Padding=Small, Horizontal Padding=None, Style=Subline, Percent=Off, Status=Off, Icon=Off"
-    },
-    {
-        "key": "d3ca6952161429475f2656592452b69fc3313025",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProductView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Vertical Padding=Large, Horizontal Padding=None, Style=Default, Percent=On, Status=Off, Icon=Off"
-    },
-    {
-        "key": "f17449a13e09ecb84a1be312169688d6283e17fb",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProductView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Vertical Padding=Medium, Horizontal Padding=Both, Style=No Sum, Percent=Off, Status=Off, Icon=Off"
-    },
-    {
-        "key": "5fb37c8d683e3214b605b1ea7078fe39deeb1ba3",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProductView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Vertical Padding=Large, Horizontal Padding=None, Style=Subline, Percent=Off, Status=On, Icon=Off"
-    },
-    {
         "key": "21d7d16dd6cb40ed939c4a7337018728888cdf44",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -20615,13 +20664,13 @@
         "variant": "Vertical Padding=Large, Horizontal Padding=None, Style=Default, Percent=Off, Status=Off, Icon=On"
     },
     {
-        "key": "94d9384e2db07812891a77c9f6b14634adb62463",
+        "key": "12c5729ac2a6267e9bc9b336e43d56378914d07e",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "ProductView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Vertical Padding=Large, Horizontal Padding=None, Style=Subline, Percent=On, Status=Off, Icon=Off"
+        "variant": "Vertical Padding=Small, Horizontal Padding=Both, Style=Default, Percent=Off, Status=Off, Icon=Off"
     },
     {
         "key": "0c6730019838a23576675ed91c32a842a6c1b9c5",
@@ -20633,22 +20682,40 @@
         "variant": "Vertical Padding=Medium, Horizontal Padding=Both, Style=Subline, Percent=Off, Status=Off, Icon=Off"
     },
     {
-        "key": "91d92ad9dd54c205a9d20ec9887959eb4c239068",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProductWidget",
+        "key": "65ca48178d866e6fbb33f79bac71249ceb61c2c0",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ProductView",
         "description": "",
-        "platform": "IOS",
-        "variant": "State=Default"
+        "platform": "ANDROID",
+        "variant": "Vertical Padding=Large, Horizontal Padding=None, Style=Subline, Percent=Off, Status=Off, Icon=Off"
     },
     {
-        "key": "c4bc33361e74417d8d1b9482027b1d3422c7e004",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProductWidget",
+        "key": "5fb37c8d683e3214b605b1ea7078fe39deeb1ba3",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ProductView",
         "description": "",
-        "platform": "IOS",
-        "variant": "State=Expanded"
+        "platform": "ANDROID",
+        "variant": "Vertical Padding=Large, Horizontal Padding=None, Style=Subline, Percent=Off, Status=On, Icon=Off"
+    },
+    {
+        "key": "59200a9732c6d555d97a3733f7f99780e5c000f0",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ProductView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Vertical Padding=Large, Horizontal Padding=Both, Style=Subline, Percent=On, Status=Off, Icon=Off"
+    },
+    {
+        "key": "f5de910feac7e08e24d0290d9b69d22ac4adaa76",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ProductView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Vertical Padding=Large, Horizontal Padding=Both, Style=Subline, Percent=Off, Status=On, Icon=Off"
     },
     {
         "key": "e242fd90eb237c96217a94913a8919b9fdb13761",
@@ -20667,49 +20734,13 @@
         "platform": "ANDROID"
     },
     {
-        "key": "d8f49247f89268405ff5b4a780d80f47fc15d568",
+        "key": "cc7f5633b5207d320947e6d27d6cab3c125e9927",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "ProgressBarView",
         "description": "",
         "platform": "IOS",
-        "variant": "Progress=20%"
-    },
-    {
-        "key": "c75b1fa0e36c6627a411a36712586556aa283951",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProgressBarView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Progress=60%"
-    },
-    {
-        "key": "c65a39d67792fee522f43c1d35a16872d33ce98e",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProgressBarView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Progress=40%"
-    },
-    {
-        "key": "c35e4a3306d6ec6f468699d6852127f127152e85",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProgressBarView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Progress=30%"
-    },
-    {
-        "key": "3e38b602360f07992370828a80d1d761315e8f47",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProgressBarView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Progress=80%"
+        "variant": "Style=Default, Progress=100%"
     },
     {
         "key": "4a74655bf6968ea490583f4e20612f0b12901540",
@@ -20718,16 +20749,43 @@
         "name": "ProgressBarView",
         "description": "",
         "platform": "IOS",
-        "variant": "Progress=90%"
+        "variant": "Style=Default, Progress=90%"
     },
     {
-        "key": "4e781cf025550559605ddbe2c75e9ededff9b0a8",
+        "key": "3e38b602360f07992370828a80d1d761315e8f47",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "ProgressBarView",
         "description": "",
         "platform": "IOS",
-        "variant": "Progress=0%"
+        "variant": "Style=Default, Progress=80%"
+    },
+    {
+        "key": "e342b30a13513561b7c85d60d4609b88ff829669",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProgressBarView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Stepper, Progress=10 Payments"
+    },
+    {
+        "key": "05032fdab9f66040e06458a6e85eee1bab011599",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProgressBarView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Stepper, Progress=11 Payments"
+    },
+    {
+        "key": "1209d0437a3708f286a1e62c923e353b64109d19",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProgressBarView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Stepper, Progress=3 Payments"
     },
     {
         "key": "f4462f27398735f8e46a4e49d3d3e2d092376b83",
@@ -20736,7 +20794,7 @@
         "name": "ProgressBarView",
         "description": "",
         "platform": "IOS",
-        "variant": "Progress=50%"
+        "variant": "Style=Default, Progress=50%"
     },
     {
         "key": "e4eecbca5f0ae5c6c27876c7806b9516cd5209b5",
@@ -20745,16 +20803,7 @@
         "name": "ProgressBarView",
         "description": "",
         "platform": "IOS",
-        "variant": "Progress=10%"
-    },
-    {
-        "key": "cc7f5633b5207d320947e6d27d6cab3c125e9927",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ProgressBarView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Progress=100%"
+        "variant": "Style=Default, Progress=10%"
     },
     {
         "key": "e1325495f2737ba73dd6ccb65e167c225e7ab59c",
@@ -20763,7 +20812,142 @@
         "name": "ProgressBarView",
         "description": "",
         "platform": "IOS",
-        "variant": "Progress=70%"
+        "variant": "Style=Default, Progress=70%"
+    },
+    {
+        "key": "d8f49247f89268405ff5b4a780d80f47fc15d568",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProgressBarView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Default, Progress=20%"
+    },
+    {
+        "key": "c75b1fa0e36c6627a411a36712586556aa283951",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProgressBarView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Default, Progress=60%"
+    },
+    {
+        "key": "c65a39d67792fee522f43c1d35a16872d33ce98e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProgressBarView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Default, Progress=40%"
+    },
+    {
+        "key": "4e781cf025550559605ddbe2c75e9ededff9b0a8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProgressBarView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Default, Progress=0%"
+    },
+    {
+        "key": "9c0cf5b2cdf2f3894ef2c5238c99812919b4d041",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProgressBarView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Stepper, Progress=8 Payments"
+    },
+    {
+        "key": "816f5427bddbfd7089598eb379f2630fed078544",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProgressBarView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Stepper, Progress=7 Payments"
+    },
+    {
+        "key": "9caa0ca92d07e21219018ecc5c51c10191f595b3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProgressBarView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Stepper, Progress=0 Payments"
+    },
+    {
+        "key": "2b7b705026db74114283e2fff94222ff97e9a004",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProgressBarView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Stepper, Progress=4 Payments"
+    },
+    {
+        "key": "c50eff849cfa86cecf5a6cb06f392e110483e052",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProgressBarView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Stepper, Progress=9 Payments"
+    },
+    {
+        "key": "ff01070d767349b3587d4123f7b7728f1b1c86bc",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProgressBarView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Stepper, Progress=12 Payments"
+    },
+    {
+        "key": "529fd81fba6e8190e06b7681b4d6b30a79737aeb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProgressBarView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Stepper, Progress=2 Payments"
+    },
+    {
+        "key": "482598ad88e73feb34eda26f880a91bc9749fb91",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProgressBarView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Stepper, Progress=6 Payments"
+    },
+    {
+        "key": "0c866d70b2670dbae06fb8873550347e9f2c8e19",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProgressBarView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Stepper, Progress=1 Payments"
+    },
+    {
+        "key": "45cb7a941f5c961413d09e5d443b087a220ddd73",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProgressBarView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Stepper, Progress=5 Payments"
+    },
+    {
+        "key": "c35e4a3306d6ec6f468699d6852127f127152e85",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ProgressBarView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Default, Progress=30%"
     },
     {
         "key": "d666fa78e7d8fc7ae5113c74200132a7a1eafdd2",
@@ -21928,30 +22112,6 @@
         "variant": "Icon=Small, Truncation=Truncated, Horizontal Padding=Only left"
     },
     {
-        "key": "7206782dbfa0da7ad81b498b08a153165300ec3b",
-        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
-        "library_name": "iOS Native Elements",
-        "name": "Safari / light / SearchBar / onLoad",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "d1a9591a4bad7c03de15e9aeb4a3304d931c1298",
-        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
-        "library_name": "iOS Native Elements",
-        "name": "Safari / light / ToolBar",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
-        "key": "5cee08721ee0770d5294e212a8fbf86864a67130",
-        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
-        "library_name": "iOS Native Elements",
-        "name": "Safari / light / webView",
-        "description": "",
-        "platform": "IOS"
-    },
-    {
         "key": "3a520a1a1c578a8c289effa80e991383c740aa92",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -22227,6 +22387,33 @@
         "variant": "State=Empty, Enabled=Enabled"
     },
     {
+        "key": "454230ef790b77e73ccfe40b7be07619b7bdef68",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "SelectionWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=DataView, Control=Checkbox, Control Side=Left, Control Padding=None"
+    },
+    {
+        "key": "3dcd64cb5ad93ce626de84e1adcab5a2bd941e4b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "SelectionWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=DataView, Control=Checkbox, Control Side=Right, Control Padding=None"
+    },
+    {
+        "key": "08bddc5b128b4966863eb078b62c8126a3a326a9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "SelectionWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=DataView, Control=Radio, Control Side=Right, Control Padding=Default"
+    },
+    {
         "key": "d7f8d0db54e38dc6418135395067149b2e3c3651",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -22270,24 +22457,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Preset=DataView, Control=Switch, Control Side=Right, Control Padding=None"
-    },
-    {
-        "key": "3dcd64cb5ad93ce626de84e1adcab5a2bd941e4b",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "SelectionWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=DataView, Control=Checkbox, Control Side=Right, Control Padding=None"
-    },
-    {
-        "key": "454230ef790b77e73ccfe40b7be07619b7bdef68",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "SelectionWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=DataView, Control=Checkbox, Control Side=Left, Control Padding=None"
     },
     {
         "key": "19729de9f130bbc1eae504003a3d51e0c6910f23",
@@ -22344,24 +22513,6 @@
         "variant": "Preset=CardView, Control=Checkbox, Control Side=Right, Control Padding=Default"
     },
     {
-        "key": "08bddc5b128b4966863eb078b62c8126a3a326a9",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "SelectionWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=DataView, Control=Radio, Control Side=Right, Control Padding=Default"
-    },
-    {
-        "key": "7f7d7c912e7f89ab3ea6cc23cddc91294b2d0d7e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "SelectionWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "View=DataView, Control=Checkbox, Control Side=End"
-    },
-    {
         "key": "d55ba2a3943fd4c46ebb4502e12267654212402e",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -22369,15 +22520,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "View=DataView, Control=Switch, Control Side=End"
-    },
-    {
-        "key": "5a1d36977d3f9cbd84a0802a31c5a11e514cb902",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "SelectionWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "View=DataView, Control=Radio, Control Side=End"
     },
     {
         "key": "c3dbd5a37ced932aff8fc923aa9f748bdc4c0724",
@@ -22389,6 +22531,24 @@
         "variant": "View=DataView, Control=Radio, Control Side=Start"
     },
     {
+        "key": "2b02f075c513b89e7c31e767d1c990a81701e38c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "SelectionWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "View=CardView, Control=Checkbox, Control Side=End"
+    },
+    {
+        "key": "7f7d7c912e7f89ab3ea6cc23cddc91294b2d0d7e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "SelectionWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "View=DataView, Control=Checkbox, Control Side=End"
+    },
+    {
         "key": "6f29789a49af2ab242ad0a7708fec15eae9e912d",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -22398,6 +22558,15 @@
         "variant": "View=DataView, Control=Checkbox, Control Side=Start"
     },
     {
+        "key": "5a1d36977d3f9cbd84a0802a31c5a11e514cb902",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "SelectionWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "View=DataView, Control=Radio, Control Side=End"
+    },
+    {
         "key": "59ef35f1f12b5edf96bfe4d2235a647c7afba857",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -22405,15 +22574,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "View=ProductView, Control=Checkbox, Control Side=End"
-    },
-    {
-        "key": "2b02f075c513b89e7c31e767d1c990a81701e38c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "SelectionWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "View=CardView, Control=Checkbox, Control Side=End"
     },
     {
         "key": "936b3b9a39b89b698e0ba7c8ed54f83396ea12ce",
@@ -22892,24 +23052,6 @@
         "variant": "Type=Error"
     },
     {
-        "key": "b28aae051ac05cfc5f11da6b1f6f4c83ea2d6133",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "SquareWidgetCollection",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Error"
-    },
-    {
-        "key": "10ba7f6cd95ea529d0a226b1e93a3eb2f32d8d3b",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "SquareWidgetCollection",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Branch"
-    },
-    {
         "key": "c4a6c07b60a762145f260bb2dbaa3e711806b3c4",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -22919,6 +23061,15 @@
         "variant": "Type=Ghost Bonus"
     },
     {
+        "key": "b28aae051ac05cfc5f11da6b1f6f4c83ea2d6133",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "SquareWidgetCollection",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Error"
+    },
+    {
         "key": "8caaaf607cd1ee7f38f1365e07396baa555949e0",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -22926,6 +23077,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Type=Branch Markswebb"
+    },
+    {
+        "key": "10ba7f6cd95ea529d0a226b1e93a3eb2f32d8d3b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "SquareWidgetCollection",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Branch"
     },
     {
         "key": "a524cd80eb0298471c8c3727385440d302614383",
@@ -22991,6 +23151,15 @@
         "variant": "Type=Bonus"
     },
     {
+        "key": "24e779ab10b66aa5c70cd194b0d523048f652360",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "SquareWidgetCollection",
+        "description": "Виджет Бонусы и привилегии",
+        "platform": "ANDROID",
+        "variant": "Type=Error"
+    },
+    {
         "key": "f1064d8999aa5e75b380c376437d36f1b6d68613",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -23000,13 +23169,13 @@
         "variant": "Type=Skeleton"
     },
     {
-        "key": "24e779ab10b66aa5c70cd194b0d523048f652360",
+        "key": "e5e4bbb0472c46a856c3bfceef4958fd2fed3be5",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "SquareWidgetCollection",
         "description": "Виджет Бонусы и привилегии",
         "platform": "ANDROID",
-        "variant": "Type=Error"
+        "variant": "Type=Branch Markswebb"
     },
     {
         "key": "54955f642bf072b68cf519c5468427c9780cad9f",
@@ -23025,15 +23194,6 @@
         "description": "Виджет Бонусы и привилегии",
         "platform": "ANDROID",
         "variant": "Type=Ghost Bonus"
-    },
-    {
-        "key": "e5e4bbb0472c46a856c3bfceef4958fd2fed3be5",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "SquareWidgetCollection",
-        "description": "Виджет Бонусы и привилегии",
-        "platform": "ANDROID",
-        "variant": "Type=Branch Markswebb"
     },
     {
         "key": "c52804e641d0ae36fab68c5822b5da0a55989529",
@@ -23825,148 +23985,166 @@
         "platform": "ANDROID"
     },
     {
-        "key": "e6f1a730c7dc887388443b4b0fcc037d7e38810c",
+        "key": "8cf5e7ce4e2e1814e79a0ff325a71ecbfb782677",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TagView",
         "description": "",
         "platform": "IOS",
-        "variant": "Morphology=Only Icon, Style=Fill, Size=Small"
+        "variant": "Content=Only Label, Style=Fill, Size=Medium, State=Loading"
     },
     {
-        "key": "a9b3a5f9ae6fc3a86055cc5dc7d7ccd5baca76ed",
+        "key": "816da09cf68c8346735421accb63de6e3416db97",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TagView",
         "description": "",
         "platform": "IOS",
-        "variant": "Morphology=Icon + Label, Style=Fill, Size=Small"
+        "variant": "Content=Label + RightIcon, Style=Fill, Size=Small, State=Default"
     },
     {
-        "key": "48c64f7e944177ee596255b6966c6ac4f171b09d",
+        "key": "f6aa1ab3f7dec11f5eebba44bf54d58112884396",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TagView",
         "description": "",
         "platform": "IOS",
-        "variant": "Morphology=Only Label, Style=Fill, Size=Small"
+        "variant": "Content=LeftIcon + Label, Style=Fill, Size=Medium, State=Default"
     },
     {
-        "key": "36b1e744d9769024bd8904f0bbe1853ed2bcf519",
+        "key": "06a6f490682376a985b77dc38e9766048296da33",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TagView",
         "description": "",
         "platform": "IOS",
-        "variant": "Morphology=Only Icon, Style=Stroke, Size=Small"
+        "variant": "Content=LeftIcon + Label, Style=Fill, Size=Small, State=Default"
     },
     {
-        "key": "28132163f5edc92ebabd90346c817a3caaafd8c7",
+        "key": "d09a30428e9e4623dab66a84c9fdb1ca53c9e848",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TagView",
         "description": "",
         "platform": "IOS",
-        "variant": "Morphology=Only Label, Style=Fill, Size=Medium"
+        "variant": "Content=Only Label, Style=Fill, Size=Medium, State=Default"
     },
     {
-        "key": "5616436c46b3e91aa634bb8f4a83b438c6a6788d",
+        "key": "bf1d064bf5ad308566943948147e340cbc4a8437",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TagView",
         "description": "",
         "platform": "IOS",
-        "variant": "Morphology=Icon + Label, Style=Stroke, Size=Medium"
+        "variant": "Content=Label + RightIcon, Style=Fill, Size=Medium, State=Default"
     },
     {
-        "key": "67d8324cb9b5a4d702fcbd96e1620bd47744462c",
+        "key": "1dead80177e2ac27a93b56a05a35124e2ea6fdbb",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TagView",
         "description": "",
         "platform": "IOS",
-        "variant": "Morphology=Only Label, Style=Stroke, Size=Medium"
+        "variant": "Content=Only Icon, Style=Fill, Size=Medium, State=Default"
     },
     {
-        "key": "9ef877487bd8ea97d5a910dd181de4669fd35054",
+        "key": "33a7024aa80ce16e25bb2f54c14e588269360a4a",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TagView",
         "description": "",
         "platform": "IOS",
-        "variant": "Morphology=Only Icon, Style=Fill, Size=Medium"
+        "variant": "Content=Label + RightIcon, Style=Stroke, Size=Small, State=Default"
     },
     {
-        "key": "3557b5bd0734087170eaa66e85a487bfd47333b1",
+        "key": "59c82a34c8990cb4e57620d1b6093473ac1e9ac0",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TagView",
         "description": "",
         "platform": "IOS",
-        "variant": "Morphology=Label + Icon, Style=Fill, Size=Medium"
+        "variant": "Content=LeftIcon + Label, Style=Stroke, Size=Small, State=Default"
     },
     {
-        "key": "e526f183e83540d44219af3f17224b7b4925346b",
+        "key": "64fa8a25fff5c8b492aecc59c58d916ce8f99cfa",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TagView",
         "description": "",
         "platform": "IOS",
-        "variant": "Morphology=Label + Icon, Style=Stroke, Size=Medium"
+        "variant": "Content=Only Label, Style=Stroke, Size=Medium, State=Default"
     },
     {
-        "key": "d69832167a4c31e96b34393e4b858a6e530a9f3a",
+        "key": "609641930341c21f0684f3c9dbf991eb6f6c3277",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TagView",
         "description": "",
         "platform": "IOS",
-        "variant": "Morphology=Label + Icon, Style=Stroke, Size=Small"
+        "variant": "Content=Only Icon, Style=Stroke, Size=Medium, State=Default"
     },
     {
-        "key": "d42d42d5ad16269cdfbce9012b77914f40da3b3a",
+        "key": "1de18012a11681c852eebdd902b5f894d88d581c",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TagView",
         "description": "",
         "platform": "IOS",
-        "variant": "Morphology=Icon + Label, Style=Stroke, Size=Small"
+        "variant": "Content=Label + RightIcon, Style=Stroke, Size=Medium, State=Default"
     },
     {
-        "key": "ca981a3fd837de298fb6beb7cef8c3e9f89f61b2",
+        "key": "ea9d4c35ba24bfbfb59bc69d12b586413c76d421",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TagView",
         "description": "",
         "platform": "IOS",
-        "variant": "Morphology=Icon + Label, Style=Fill, Size=Medium"
+        "variant": "Content=LeftIcon + Label, Style=Stroke, Size=Medium, State=Default"
     },
     {
-        "key": "a9f7d5cb8b87c55f4be8ccb75a425d4868453386",
+        "key": "6b54e7e627ae8ae2efb1e1df9d123da8911d8242",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TagView",
         "description": "",
         "platform": "IOS",
-        "variant": "Morphology=Label + Icon, Style=Fill, Size=Small"
+        "variant": "Content=Only Label, Style=Fill, Size=Small, State=Default"
     },
     {
-        "key": "8c74bee8e10ff5df0922b287c6e29b46ae033b1b",
+        "key": "557d2ddbf8b25b8404c810dfb88a433601005a70",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TagView",
         "description": "",
         "platform": "IOS",
-        "variant": "Morphology=Only Icon, Style=Stroke, Size=Medium"
+        "variant": "Content=Only Icon, Style=Fill, Size=Small, State=Default"
     },
     {
-        "key": "6b3be1a16752daa886ca61bb669c0f2015e5f847",
+        "key": "7fab9d19c56c5c4ab9c19c9a9ce92a4ef2d0629d",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TagView",
         "description": "",
         "platform": "IOS",
-        "variant": "Morphology=Only Label, Style=Stroke, Size=Small"
+        "variant": "Content=Only Label, Style=Stroke, Size=Small, State=Default"
+    },
+    {
+        "key": "61be0877aca4408d7969c6c29704bc7325dd9cb6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TagView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Content=Only Icon, Style=Stroke, Size=Small, State=Default"
+    },
+    {
+        "key": "ca10b56c7223570a86a3ba1686b49823803e84c0",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TagView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Content=Only Label, Style=Fill, Size=Small, State=Loading"
     },
     {
         "key": "1fb3d99eb9de8f299b6e2c5d9ca55c13cfb569e6",
@@ -23994,33 +24172,6 @@
         "variant": "State=Focused"
     },
     {
-        "key": "b481a25578581cb514286dbb4f3f8de1fd89de7f",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextArea",
-        "description": "",
-        "platform": "IOS",
-        "variant": "State=Inactive"
-    },
-    {
-        "key": "77003d6a7253b732a8a990a6376660cb8a9c8315",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextArea",
-        "description": "",
-        "platform": "IOS",
-        "variant": "State=Disabled"
-    },
-    {
-        "key": "11294955d9560cdc061d0cb2cbf2d755340d51e0",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextArea",
-        "description": "",
-        "platform": "IOS",
-        "variant": "State=Typing"
-    },
-    {
         "key": "b9a4071206b897803dc4631212b2fca9ac19a7fd",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -24036,6 +24187,87 @@
         "name": "TextArea",
         "description": "",
         "platform": "IOS",
+        "variant": "State=Activated"
+    },
+    {
+        "key": "77003d6a7253b732a8a990a6376660cb8a9c8315",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextArea",
+        "description": "",
+        "platform": "IOS",
+        "variant": "State=Disabled"
+    },
+    {
+        "key": "b481a25578581cb514286dbb4f3f8de1fd89de7f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextArea",
+        "description": "",
+        "platform": "IOS",
+        "variant": "State=Inactive"
+    },
+    {
+        "key": "11294955d9560cdc061d0cb2cbf2d755340d51e0",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextArea",
+        "description": "",
+        "platform": "IOS",
+        "variant": "State=Typing"
+    },
+    {
+        "key": "992867c428ba0fabc75c54ae0187390c36f18a44",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TextArea",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "State=Inactive"
+    },
+    {
+        "key": "030e438a3642859a9300a253c5d1d74c623d752d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TextArea",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "State=Error"
+    },
+    {
+        "key": "2e0737a864e808e83bfdbc18969378e5cba777fb",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TextArea",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "State=Focused"
+    },
+    {
+        "key": "c783d5e51e8010d32d709d9a525696de6573d1db",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TextArea",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "State=Disabled"
+    },
+    {
+        "key": "3cffa85957c7c07a71ac7f89f55922bfd355a409",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TextArea",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "State=Typing"
+    },
+    {
+        "key": "9940ed32754d035617f28312a71e425f3e7def16",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TextArea",
+        "description": "",
+        "platform": "ANDROID",
         "variant": "State=Activated"
     },
     {
@@ -26360,6 +26592,14 @@
         "variant": "Style=Vertical"
     },
     {
+        "key": "d7c7134d4c3d1f13d9214f3772f0cac2392aaced",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TicketViev",
+        "description": "",
+        "platform": "ANDROID"
+    },
+    {
         "key": "9edc526747dce8e37ee607cf087201186b7cafec",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -26429,52 +26669,25 @@
         "name": "TicketWidget",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Property 1=Skeleton"
+        "variant": "Style=Skeleton"
     },
     {
-        "key": "f1fbdee757d7cc01232b49977a8a72f448a4be9f",
+        "key": "f433d66427f7e73f75dec14556bb39825261cbc5",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "TicketWidget",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Property 1=Date"
+        "variant": "Style=Waiting"
     },
     {
-        "key": "e0305e918ade247aa5473adb3610d6fa44dffe34",
+        "key": "8ed75bbaf9e0f3bf0a9f8b8fca73061de1522481",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "TicketWidget",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Property 1=YourTurn"
-    },
-    {
-        "key": "64bb8c08304fb66808a7bc7aee2dd7c8fdece20f",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TicketWidget",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Property 1=DayBefore"
-    },
-    {
-        "key": "7e48f27605151ad250095b54f7ac7584d9e89e00",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TicketWidget",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Property 1=Waiting"
-    },
-    {
-        "key": "5066fb02f8a8ad75dd34acdec7cca0a848c82a5e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TicketWidget",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Property 1=Today"
+        "variant": "Style=Today"
     },
     {
         "key": "4187237e76639b96098820087434f40d6522d7fd",
@@ -26483,7 +26696,34 @@
         "name": "TicketWidget",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Property 1=Error"
+        "variant": "Style=Error"
+    },
+    {
+        "key": "18520d91f3a2a7d7a7f4dedd7c96e9a33551316b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TicketWidget",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=YoutTurn"
+    },
+    {
+        "key": "bffddd6dab7a55c02349622ad33c15247607511f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TicketWidget",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=DayBefore"
+    },
+    {
+        "key": "78f7a4f490487beb6ddf3167d220107d9888c309",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TicketWidget",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=Date"
     },
     {
         "key": "5bbfd48b2eef78ca37e9ecdff79fc8ccc64b5d10",
@@ -27848,6 +28088,24 @@
         "variant": "Payment Type=Mobile, Destination=Alfa"
     },
     {
+        "key": "dd0613d51d02555fd69da5840b9dd7bcd867393c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransferContent",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Payment Type=Card, Destination=Alfa"
+    },
+    {
+        "key": "8d8e8b635dbc8986d382d94f9b76b95bdb0141b7",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransferContent",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Payment Type=Card, Destination=Empty"
+    },
+    {
         "key": "daddb9c00da40171abda8766c37e00c3e85f64b2",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -27855,6 +28113,42 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Payment Type=Card, Destination=Sber"
+    },
+    {
+        "key": "b8200596b8b31367d098ca256c6ef320ba03af26",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransferContent",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Payment Type=To Myself, Destination=Card"
+    },
+    {
+        "key": "ab24eaf77edce709a26c0f73ba6f2d35b092aa39",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransferContent",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Payment Type=Account, Destination=Alfa"
+    },
+    {
+        "key": "555b9bf2b6e7d6c846238b8efdf0e996d6d95c9e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransferContent",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Payment Type=Mobile, Destination=Empty"
+    },
+    {
+        "key": "528f97c82a5a90f30badede2d8daefe7f19f1805",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransferContent",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Payment Type=Empty, Destination=Empty"
     },
     {
         "key": "35dc424bee00be9576042f35d23155d32e0d407e",
@@ -27875,15 +28169,6 @@
         "variant": "Payment Type=Mobile, Destination=Sber"
     },
     {
-        "key": "8d8e8b635dbc8986d382d94f9b76b95bdb0141b7",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransferContent",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Payment Type=Card, Destination=Empty"
-    },
-    {
         "key": "1c2db2b58b931cebcf4a2bbb9764930f7966356a",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -27891,6 +28176,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Payment Type=Account, Destination=Empty"
+    },
+    {
+        "key": "1bfe009b26da6b32a0b041d50bb6f5ef9ddc28b8",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransferContent",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Payment Type=To Myself, Destination=Empty"
     },
     {
         "key": "0158d1e621320409199bbd90d9e9458301f07ccb",
@@ -27902,33 +28196,6 @@
         "variant": "Payment Type=Mobile, Destination=Alfa"
     },
     {
-        "key": "555b9bf2b6e7d6c846238b8efdf0e996d6d95c9e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransferContent",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Payment Type=Mobile, Destination=Empty"
-    },
-    {
-        "key": "b8200596b8b31367d098ca256c6ef320ba03af26",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransferContent",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Payment Type=To Myself, Destination=Card"
-    },
-    {
-        "key": "dd0613d51d02555fd69da5840b9dd7bcd867393c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransferContent",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Payment Type=Card, Destination=Alfa"
-    },
-    {
         "key": "ca029fe27827b1180a0574f6836ab62c067d6ca8",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -27938,31 +28205,13 @@
         "variant": "Payment Type=Account, Destination=Sber"
     },
     {
-        "key": "ab24eaf77edce709a26c0f73ba6f2d35b092aa39",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransferContent",
+        "key": "ff8c97b6dfab0c12ef55b3a5ad1a368ecc1fe9e7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TransferView",
         "description": "",
-        "platform": "ANDROID",
-        "variant": "Payment Type=Account, Destination=Alfa"
-    },
-    {
-        "key": "528f97c82a5a90f30badede2d8daefe7f19f1805",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransferContent",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Payment Type=Empty, Destination=Empty"
-    },
-    {
-        "key": "1bfe009b26da6b32a0b041d50bb6f5ef9ddc28b8",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransferContent",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Payment Type=To Myself, Destination=Empty"
+        "platform": "IOS",
+        "variant": "Type=Account"
     },
     {
         "key": "a23425332f1009a5b85be47e64620185d6b9ce12",
@@ -27981,15 +28230,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Type=Mobile"
-    },
-    {
-        "key": "ff8c97b6dfab0c12ef55b3a5ad1a368ecc1fe9e7",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TransferView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Account"
     },
     {
         "key": "ae576ed81a7124fa51ac23a3b8c552f8bcd596cd",
@@ -28247,6 +28487,33 @@
         "variant": "Before=Message, After=Button, State=Pressed"
     },
     {
+        "key": "d2d154441f6503ab1ee317e02ed64e2b788cda7e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "VADeeplinkWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Before=Button, After=Message, State=Pressed"
+    },
+    {
+        "key": "8209a6df0e1ce8873fe6014d07e24c5c6b76c4e9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "VADeeplinkWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Before=None, After=Message, State=Pressed"
+    },
+    {
+        "key": "ee87e266b64c60d7161e2f17e9e47d1dce86c9e6",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "VADeeplinkWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Before=None, After=None, State=Pressed"
+    },
+    {
         "key": "e5c93aacc7d96916bc9d3b5b2facac53781f9839",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -28256,40 +28523,13 @@
         "variant": "Before=Message, After=Message, State=Pressed"
     },
     {
-        "key": "78e6d8fb4c3679e21c4385844ac881c7d5f66818",
+        "key": "cdd2653c4c3bdb476309dd3d3c140c1f9f093168",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "VADeeplinkWrapper",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Before=Message, After=Message, State=Enabled"
-    },
-    {
-        "key": "610c5f54561ea2a55da5633b5a230d44b616c5c1",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "VADeeplinkWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Before=None, After=Message, State=Enabled"
-    },
-    {
-        "key": "2275518b224d0dc5e88bd7479d0aff87d8cd5924",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "VADeeplinkWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Before=None, After=Button, State=Enabled"
-    },
-    {
-        "key": "0b4f5259e3f39f75b1194a89ae7c4369ddb38fdc",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "VADeeplinkWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Before=Message, After=None, State=Pressed"
+        "variant": "Before=Button, After=None, State=Pressed"
     },
     {
         "key": "b3a2d6cf96b0b8c51c83730b080fe9e5bbbcb010",
@@ -28299,6 +28539,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Before=Button, After=Message, State=Enabled"
+    },
+    {
+        "key": "ae7e1940a239b4e2f57052c4be0f5ba0f323ebcc",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "VADeeplinkWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Before=Message, After=None, State=Enabled"
     },
     {
         "key": "adb4a396022b216c5470303b96e18c4ef91f4091",
@@ -28319,58 +28568,13 @@
         "variant": "Before=Button, After=Button, State=Enabled"
     },
     {
-        "key": "631c05e9cc3af232fd4fd0df0d57d61464b7676c",
+        "key": "2275518b224d0dc5e88bd7479d0aff87d8cd5924",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "VADeeplinkWrapper",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Before=Message, After=Button, State=Enabled"
-    },
-    {
-        "key": "0f59d8cef4f3699e10f1ecc963c4a36705d2b5c1",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "VADeeplinkWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Before=Button, After=None, State=Enabled"
-    },
-    {
-        "key": "ee87e266b64c60d7161e2f17e9e47d1dce86c9e6",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "VADeeplinkWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Before=None, After=None, State=Pressed"
-    },
-    {
-        "key": "8209a6df0e1ce8873fe6014d07e24c5c6b76c4e9",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "VADeeplinkWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Before=None, After=Message, State=Pressed"
-    },
-    {
-        "key": "5da37759523f96ca034589cd5d49a91a35322ca6",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "VADeeplinkWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Before=None, After=None, State=Enabled"
-    },
-    {
-        "key": "ce3e61b3ffa280f6a83d9a98c2df95b603711a15",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "VADeeplinkWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Before=None, After=Button, State=Pressed"
+        "variant": "Before=None, After=Button, State=Enabled"
     },
     {
         "key": "b64884c3836c5eee8c4cd2f3bf5e6b3ded143309",
@@ -28382,31 +28586,67 @@
         "variant": "Before=Message, After=Button, State=Pressed"
     },
     {
-        "key": "d2d154441f6503ab1ee317e02ed64e2b788cda7e",
+        "key": "78e6d8fb4c3679e21c4385844ac881c7d5f66818",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "VADeeplinkWrapper",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Before=Button, After=Message, State=Pressed"
+        "variant": "Before=Message, After=Message, State=Enabled"
     },
     {
-        "key": "cdd2653c4c3bdb476309dd3d3c140c1f9f093168",
+        "key": "631c05e9cc3af232fd4fd0df0d57d61464b7676c",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "VADeeplinkWrapper",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Before=Button, After=None, State=Pressed"
+        "variant": "Before=Message, After=Button, State=Enabled"
     },
     {
-        "key": "ae7e1940a239b4e2f57052c4be0f5ba0f323ebcc",
+        "key": "610c5f54561ea2a55da5633b5a230d44b616c5c1",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "VADeeplinkWrapper",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Before=Message, After=None, State=Enabled"
+        "variant": "Before=None, After=Message, State=Enabled"
+    },
+    {
+        "key": "5da37759523f96ca034589cd5d49a91a35322ca6",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "VADeeplinkWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Before=None, After=None, State=Enabled"
+    },
+    {
+        "key": "0b4f5259e3f39f75b1194a89ae7c4369ddb38fdc",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "VADeeplinkWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Before=Message, After=None, State=Pressed"
+    },
+    {
+        "key": "0f59d8cef4f3699e10f1ecc963c4a36705d2b5c1",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "VADeeplinkWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Before=Button, After=None, State=Enabled"
+    },
+    {
+        "key": "ce3e61b3ffa280f6a83d9a98c2df95b603711a15",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "VADeeplinkWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Before=None, After=Button, State=Pressed"
     },
     {
         "key": "3857fc81dccd28a179f3dbf587235baf7dd1d8e7",
@@ -28795,6 +29035,15 @@
         "variant": "Before=Button, After=Button"
     },
     {
+        "key": "eb269ef4190c49f2d70c408d8961956dc7a0fafd",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "VAStackWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Before=Message, After=Button"
+    },
+    {
         "key": "d5ec17a34e98054aa8fdf9cdef54fe3dcd740976",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -28858,15 +29107,6 @@
         "variant": "Before=None, After=Button"
     },
     {
-        "key": "eb269ef4190c49f2d70c408d8961956dc7a0fafd",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "VAStackWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Before=Message, After=Button"
-    },
-    {
         "key": "cfc1a3fdbd82d34c0dc8d6b3b02190bfaec4587c",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -28881,6 +29121,33 @@
         "name": "VoCMudule / Entry Point / Selected",
         "description": "",
         "platform": "IOS"
+    },
+    {
+        "key": "d1a9591a4bad7c03de15e9aeb4a3304d931c1298",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
+        "library_name": "iOS Native Elements",
+        "name": "WebView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "State=ToolBar"
+    },
+    {
+        "key": "7206782dbfa0da7ad81b498b08a153165300ec3b",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
+        "library_name": "iOS Native Elements",
+        "name": "WebView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "State=SearchBar"
+    },
+    {
+        "key": "5cee08721ee0770d5294e212a8fbf86864a67130",
+        "file_key": "HsF1bAg6UMtRFyhBQeONpFo0",
+        "library_name": "iOS Native Elements",
+        "name": "WebView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "State=Header"
     },
     {
         "key": "c516b5dcd2e3c1fa5173311a9ec6a6071eb13e4f",
