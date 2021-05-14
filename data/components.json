@@ -1005,6 +1005,15 @@
         "variant": "Preset=Primary, State=Loading"
     },
     {
+        "key": "9720ba76da7e9d8941d1834671e2b133ade96bbe",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ActionButton",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Preset=Tertiary, State=Loading"
+    },
+    {
         "key": "a694b84427148d452e39be6c305a5544a9d140f6",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -1014,6 +1023,24 @@
         "variant": "Preset=Tertiary, State=Disabled"
     },
     {
+        "key": "63c5a0941360501bfc3a0680c650f396b86b1795",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ActionButton",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Preset=Tertiary, State=Enabled"
+    },
+    {
+        "key": "5281db28bebb5e211301a7d408d068dd3b423903",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ActionButton",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Preset=Secondary, State=Loading"
+    },
+    {
         "key": "2a60423f22288d507db7a9eaa5124a97eef31b31",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -1021,15 +1048,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Preset=Tertiary, State=Highlighted"
-    },
-    {
-        "key": "9720ba76da7e9d8941d1834671e2b133ade96bbe",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ActionButton",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Preset=Tertiary, State=Loading"
     },
     {
         "key": "dfb0ea4d305cd16471f74f4049d8dbf5c3c5da48",
@@ -1084,24 +1102,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Preset=Primary, State=Disabled"
-    },
-    {
-        "key": "63c5a0941360501bfc3a0680c650f396b86b1795",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ActionButton",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Preset=Tertiary, State=Enabled"
-    },
-    {
-        "key": "5281db28bebb5e211301a7d408d068dd3b423903",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ActionButton",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Preset=Secondary, State=Loading"
     },
     {
         "key": "a8ec76c37a7f810d34c1fab04590b9961cc24a41",
@@ -1406,15 +1406,6 @@
         "platform": "IOS"
     },
     {
-        "key": "38c534fdbfd15f3ae1505d07eb6517a96abae201",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Custom, Buttons=Vertical"
-    },
-    {
         "key": "da6dcbcd4ecccf17723954bbe9bbdcc2c9f1a2c6",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -1422,6 +1413,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Style=FullScreen, Buttons=Horizontal"
+    },
+    {
+        "key": "38c534fdbfd15f3ae1505d07eb6517a96abae201",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "AlertView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=Custom, Buttons=Vertical"
     },
     {
         "key": "d04a7b2dbc3def8cd1e0993a0aedba754b14d093",
@@ -1541,6 +1541,24 @@
         "variant": "Source=Incoming, Order=Middle, Use=Bottom"
     },
     {
+        "key": "37bc45f6c33d5adebf734a213645397e4e4951bb",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "AttachmentBubbleView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Source=Outgoing, Order=Middle, Use=Bottom"
+    },
+    {
+        "key": "ddea353654c2ff407549d48834ef3f3f8af72767",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "AttachmentBubbleView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Source=Incoming, Order=Last, Use=Bottom"
+    },
+    {
         "key": "d14a003658fe83c878900ba284f2aed970935ddf",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -1548,24 +1566,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Source=Incoming, Order=First, Use=Default"
-    },
-    {
-        "key": "bba975657844b302b0ce0a1dd6407ccd7312ef8d",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "AttachmentBubbleView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Source=Outgoing, Order=Single, Use=Default"
-    },
-    {
-        "key": "9947ac8dd09358a6127de74e216c3185428ee4e6",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "AttachmentBubbleView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Source=Incoming, Order=Middle, Use=Bottom"
     },
     {
         "key": "5df5a7b558ff57f0d0f7921a820f323405662bef",
@@ -1586,13 +1586,22 @@
         "variant": "Source=Incoming, Order=Last, Use=Default"
     },
     {
-        "key": "ddea353654c2ff407549d48834ef3f3f8af72767",
+        "key": "bba975657844b302b0ce0a1dd6407ccd7312ef8d",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "AttachmentBubbleView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Source=Incoming, Order=Last, Use=Bottom"
+        "variant": "Source=Outgoing, Order=Single, Use=Default"
+    },
+    {
+        "key": "9947ac8dd09358a6127de74e216c3185428ee4e6",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "AttachmentBubbleView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Source=Incoming, Order=Middle, Use=Bottom"
     },
     {
         "key": "b307ff8124d78453021d903e9b2831139925168f",
@@ -1638,15 +1647,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Source=Outgoing, Order=Middle, Use=Default"
-    },
-    {
-        "key": "37bc45f6c33d5adebf734a213645397e4e4951bb",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "AttachmentBubbleView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Source=Outgoing, Order=Middle, Use=Bottom"
     },
     {
         "key": "fe337617afc1aa5a304550083009bfcafd29b087",
@@ -1918,6 +1918,24 @@
         "variant": "Document=None, State=Action"
     },
     {
+        "key": "e8fb212bb6b921877da7c8aaf3fd0deeed33caff",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "AttachmentView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Document=Image, State=Error"
+    },
+    {
+        "key": "bd92eba1c97bc12b3d4d4bed352371c508ceeed0",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "AttachmentView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Document=File, State=Action"
+    },
+    {
         "key": "5d3ec09207c7d270d6ab87c091801abeba5e00af",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -1979,24 +1997,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Document=File, State=Uploading"
-    },
-    {
-        "key": "e8fb212bb6b921877da7c8aaf3fd0deeed33caff",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "AttachmentView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Document=Image, State=Error"
-    },
-    {
-        "key": "bd92eba1c97bc12b3d4d4bed352371c508ceeed0",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "AttachmentView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Document=File, State=Action"
     },
     {
         "key": "56f8909ae47dd30ba5d67c4afeb0d54bbdec51d3",
@@ -2125,15 +2125,6 @@
         "variant": "Preset=ErrorLoadingView, Style=Stroke"
     },
     {
-        "key": "c8e8275b3601d4e6fae1d452d69c4b8edf4d05b9",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "BannerWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Preset=DataView, Style=Stroke"
-    },
-    {
         "key": "c71dd4b4484fcd16ba404b9bb7519b4b30272579",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -2143,15 +2134,6 @@
         "variant": "Preset=ErrorLoadingView, Style=Fill"
     },
     {
-        "key": "674d49d3c981e84129dfa209771f53755a91b530",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "BannerWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Preset=DataView, Style=Shadow"
-    },
-    {
         "key": "486a0d572ff8585e59da845d0347832922a065fb",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -2159,6 +2141,24 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Preset=ErrorLoadingView, Style=Shadow"
+    },
+    {
+        "key": "c8e8275b3601d4e6fae1d452d69c4b8edf4d05b9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "BannerWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Preset=DataView, Style=Stroke"
+    },
+    {
+        "key": "674d49d3c981e84129dfa209771f53755a91b530",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "BannerWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Preset=DataView, Style=Shadow"
     },
     {
         "key": "afb8ef8a1e1425526a751259a92b0a9e50fa90a5",
@@ -2188,20 +2188,22 @@
         "variant": "Preset=RightIconWrapper, Style=Fill"
     },
     {
-        "key": "1c51e000760de6d63a59a88b6bba0af0c97d0041",
-        "file_key": "y4cihIhbipeclFDFkoNhgZ",
-        "library_name": "Android Native Elements",
-        "name": "Bars / 2 Tabs",
-        "description": "",
-        "platform": "ANDROID"
-    },
-    {
         "key": "29745462ddd6889ad6985c7cdae5436497fca577",
         "file_key": "y4cihIhbipeclFDFkoNhgZ",
         "library_name": "Android Native Elements",
-        "name": "Bars / 3 Tabs",
+        "name": "Bars",
         "description": "",
-        "platform": "ANDROID"
+        "platform": "ANDROID",
+        "variant": "State=3 Tabs"
+    },
+    {
+        "key": "1c51e000760de6d63a59a88b6bba0af0c97d0041",
+        "file_key": "y4cihIhbipeclFDFkoNhgZ",
+        "library_name": "Android Native Elements",
+        "name": "Bars",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "State=2 Tabs"
     },
     {
         "key": "73d76fe7916f296220ecdcb521972714f69d3bff",
@@ -5431,6 +5433,24 @@
         "variant": "View=DataView, State=Expanded, Horizontal Padding=None"
     },
     {
+        "key": "bece1554debe8b14931baa2d906335b22e085287",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ChevronWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "View=TextView, State=Contracted"
+    },
+    {
+        "key": "0e45f4887d838f57810dcb4abdcaef7555dfe530",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ChevronWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "View=ProgressView, State=Contracted"
+    },
+    {
         "key": "cc7d340abba45938f49d341465ef172ef68aef34",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -5447,24 +5467,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "View=DataView, State=Contracted"
-    },
-    {
-        "key": "0e45f4887d838f57810dcb4abdcaef7555dfe530",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ChevronWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "View=ProgressView, State=Contracted"
-    },
-    {
-        "key": "bece1554debe8b14931baa2d906335b22e085287",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ChevronWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "View=TextView, State=Contracted"
     },
     {
         "key": "c2889987a1f684e4386d2600bf486b1ba75013ec",
@@ -6532,6 +6534,564 @@
         "variant": "Size=Small, State=Complete (Clockotherwise), Stroke=On, Data=None"
     },
     {
+        "key": "a83ddbe3ab9188895d653e071ab26ff39c1d4d38",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Large, State=Complete (Clockotherwise), Stroke=On, Data=Icon"
+    },
+    {
+        "key": "737424f4fb740e0d73bb81f866bd7c26298055e9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XLarge, State=Complete (Clockotherwise), Stroke=Off, Data=Icon"
+    },
+    {
+        "key": "8c4f7c4115db73660fe460691f05aa7606fa522f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Medium, State=In Progress, Stroke=Off, Data=Icon"
+    },
+    {
+        "key": "f877047947c3470796d723aad1ed5a1d24ae583d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Small, State=Complete (Clockotherwise), Stroke=Off, Data=Icon"
+    },
+    {
+        "key": "025369b5e0e1163227c924b97dad8e9c2e98eb8a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Large, State=In Progress, Stroke=Off, Data=Icon"
+    },
+    {
+        "key": "01093335ade7387eeee7264b3342c75ec0247630",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XLarge, State=In Progress, Stroke=Off, Data=Icon"
+    },
+    {
+        "key": "4914dc1806fdb65855c9eb3bc9f42e74bb8f3b28",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XLarge, State=In Progress, Stroke=Off, Data=None"
+    },
+    {
+        "key": "b71b5d070c000353c59b90a0c85d27dd23059278",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Medium, State=In Progress, Stroke=Off, Data=Text"
+    },
+    {
+        "key": "cd89f751b93ad9d8972c135311d1ff4f31fd5dee",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Small, State=In Progress, Stroke=Off, Data=Text"
+    },
+    {
+        "key": "b790451d2c5d448ec0923b1a363186a11767d37b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XLarge, State=Complete (Clockwise), Stroke=Off, Data=Text"
+    },
+    {
+        "key": "42c08eebafcbd8f3ab4bf41a738335bd9d932e86",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Small, State=In Progress, Stroke=On, Data=None"
+    },
+    {
+        "key": "2618b936de98f2491a12dedf5ac4c1e2f35384e7",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Medium, State=In Progress, Stroke=On, Data=None"
+    },
+    {
+        "key": "a299f4d591ec3f039c53bef393f240480f557860",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Medium, State=In Progress, Stroke=On, Data=Icon"
+    },
+    {
+        "key": "50fe8d058a0f8ec59c3dd79eaedc69a44c54c50f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Small, State=Complete (Clockwise), Stroke=Off, Data=Text"
+    },
+    {
+        "key": "80d6afe734221ff81014e355ddde4caa3c24844f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Large, State=Complete (Clockwise), Stroke=Off, Data=Icon"
+    },
+    {
+        "key": "a28ffa05f029923f7ad645d25bd882711b9b045b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Small, State=Complete (Clockwise), Stroke=On, Data=Text"
+    },
+    {
+        "key": "7fc6f115529eb4cf20229c344896c797a2fa9cdc",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Small, State=Complete (Clockotherwise), Stroke=On, Data=Icon"
+    },
+    {
+        "key": "7b81bf64a45582938f79da20a6f61433a542d389",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Large, State=In Progress, Stroke=On, Data=Icon"
+    },
+    {
+        "key": "4fe7329d91a0c080fe5b992fb494e219ffaa3ec7",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XLarge, State=In Progress, Stroke=On, Data=Icon"
+    },
+    {
+        "key": "d398a616a3a9952d3a050da28fc4a8566359a0ec",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Small, State=In Progress, Stroke=Off, Data=Icon"
+    },
+    {
+        "key": "5e0eb3e52b369b8b2fbb45e9dab6424b74e265e8",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XSmall, State=In Progress, Stroke=On, Data=None"
+    },
+    {
+        "key": "d19c65ad691c20f8142e075eaf9f9967ba9d1e70",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Large, State=In Progress, Stroke=On, Data=None"
+    },
+    {
+        "key": "067b40581ffcd7319a80455de0d5b55610af4275",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XLarge, State=In Progress, Stroke=On, Data=None"
+    },
+    {
+        "key": "ec002528126036da8d696144b420b17da26e688c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XLarge, State=In Progress, Stroke=On, Data=Text"
+    },
+    {
+        "key": "30af2cc16acbe621492afaf995100980ae2a7080",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Medium, State=Complete (Clockwise), Stroke=Off, Data=Icon"
+    },
+    {
+        "key": "71b5468010f67311010d3250b1e15bc6f32de7c2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XLarge, State=Complete (Clockwise), Stroke=Off, Data=Icon"
+    },
+    {
+        "key": "acf118888c01a07a43c849cd912412c6294adb56",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Large, State=Complete (Clockwise), Stroke=Off, Data=Text"
+    },
+    {
+        "key": "d7f345789169cda706697d7629771191e17d1eb2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Large, State=In Progress, Stroke=Off, Data=Text"
+    },
+    {
+        "key": "077a22525f7ab62c39129c29ff924bcb1749e626",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XLarge, State=In Progress, Stroke=Off, Data=Text"
+    },
+    {
+        "key": "297116b30eaeae6140c7eccfedba9be47242c90c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Medium, State=Complete (Clockotherwise), Stroke=Off, Data=Icon"
+    },
+    {
+        "key": "e4ae965a12786917d40cb03dc6a7f4cd54ea9822",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Large, State=Complete (Clockotherwise), Stroke=Off, Data=Icon"
+    },
+    {
+        "key": "2febd852a9e740613b8afc085d74a45fc78c1b6c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Small, State=Complete (Clockotherwise), Stroke=Off, Data=Text"
+    },
+    {
+        "key": "9f0e7364109cc3cb3b14f16e151e31ad5a5dd6c4",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Medium, State=Complete (Clockotherwise), Stroke=Off, Data=Text"
+    },
+    {
+        "key": "8de5e14447107cc41390c374bc02f46bf2e36678",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XSmall, State=In Progress, Stroke=Off, Data=None"
+    },
+    {
+        "key": "161304f28c995f6b42506d04620877c6e85934cc",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XSmall, State=Complete (Clockotherwise), Stroke=On, Data=Icon"
+    },
+    {
+        "key": "2e027850c74585bb93360a4bcca51b86b6a6f177",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XSmall, State=Complete (Clockotherwise), Stroke=On, Data=None"
+    },
+    {
+        "key": "e322f8bc3a2a633146b56b84a89b636f69d59082",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Medium, State=Complete (Clockwise), Stroke=On, Data=Text"
+    },
+    {
+        "key": "22d61d4d20d6f28e36978707cdbb373a21fd417a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Small, State=In Progress, Stroke=Off, Data=None"
+    },
+    {
+        "key": "a9a61737f354c2d79adce2f974caa94a255f4fff",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Medium, State=In Progress, Stroke=Off, Data=None"
+    },
+    {
+        "key": "732b96aad136a21466d9ff894373b975ea9d86a8",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XLarge, State=Complete (Clockotherwise), Stroke=On, Data=Icon"
+    },
+    {
+        "key": "e458603eb3247ce1b9eb564d029a21d24347a0dc",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Large, State=In Progress, Stroke=Off, Data=None"
+    },
+    {
+        "key": "39e5b1eb03fdd3f7b6a5a1c633449d9e60e4947b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Large, State=Complete (Clockotherwise), Stroke=Off, Data=Text"
+    },
+    {
+        "key": "c0e4ae1dac84da339d5b87814d2ab9ded4985af1",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Medium, State=Complete (Clockwise), Stroke=Off, Data=Text"
+    },
+    {
+        "key": "46610d3c75b3c4fa6febab7ef8787e19333a4a75",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Large, State=Complete (Clockotherwise), Stroke=On, Data=None"
+    },
+    {
+        "key": "3cd069c1e3124affa404bd86b838633a916b2929",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Medium, State=Complete (Clockwise), Stroke=On, Data=Icon"
+    },
+    {
+        "key": "33cc91527c2b9e53f9f15aef3319a364ad0a4f2a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Small, State=Complete (Clockotherwise), Stroke=On, Data=Text"
+    },
+    {
+        "key": "6f2907e084c09514108d03154953e02e89c7139e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XLarge, State=Complete (Clockotherwise), Stroke=Off, Data=Text"
+    },
+    {
+        "key": "a8b0e388d2e63e9621ba4530e33c9803aae33136",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XSmall, State=Complete (Clockwise), Stroke=Off, Data=Icon"
+    },
+    {
+        "key": "12021dc94e63c0867a7e3cc2a54a54f12819701a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XSmall, State=Complete (Clockotherwise), Stroke=Off, Data=Icon"
+    },
+    {
+        "key": "a469f923cf73d56ee1bd9702dd87a3d59bb8c8df",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Medium, State=Complete (Clockotherwise), Stroke=On, Data=Icon"
+    },
+    {
+        "key": "773cf98402da897b4f525f68218828534646de89",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Medium, State=Complete (Clockotherwise), Stroke=On, Data=Text"
+    },
+    {
+        "key": "64db62c2dcd9b6c276112b4d3ec1e84763e21d36",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Small, State=Complete (Clockotherwise), Stroke=On, Data=None"
+    },
+    {
+        "key": "05ea1f0f2e7c0c198f3a76766164fb58c086aeef",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Medium, State=Complete (Clockotherwise), Stroke=On, Data=None"
+    },
+    {
+        "key": "76d98e9742dd0502d9a3dccdbdd4bcfccf3c100b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Large, State=Complete (Clockotherwise), Stroke=On, Data=Text"
+    },
+    {
+        "key": "9d902e02c33de459e862a7d8feaab91fdbebf1c7",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XLarge, State=Complete (Clockotherwise), Stroke=On, Data=Text"
+    },
+    {
+        "key": "db341dd461b5dcc5df934b0f9722fbf0fe1471cd",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=XLarge, State=Complete (Clockotherwise), Stroke=On, Data=None"
+    },
+    {
+        "key": "d260f4446ccd748f33524c8bf87524b1dd4c82f9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Large, State=In Progress, Stroke=On, Data=Text"
+    },
+    {
+        "key": "12c24686af1cc7de6da67b96eed4f8397f529014",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Medium, State=In Progress, Stroke=On, Data=Text"
+    },
+    {
+        "key": "7e902bbb643f6ba2f44f2288e9d067c7ad8dff97",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Small, State=Complete (Clockwise), Stroke=On, Data=Icon"
+    },
+    {
+        "key": "0858e259ed61f46b44d2ed8dd730686c2ae9d225",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Small, State=Complete (Clockwise), Stroke=Off, Data=Icon"
+    },
+    {
+        "key": "bb63c94d3b4ec8df3dfd81e970064c1b5b40b77a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Small, State=In Progress, Stroke=On, Data=Text"
+    },
+    {
+        "key": "c53ebdffe03b24986a3864d1a7b35fe994dff98c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressIconView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Size=Small, State=In Progress, Stroke=On, Data=Icon"
+    },
+    {
         "key": "ff358c86dbb5a43128c82391ee1b2b29e8b7e94c",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -6604,42 +7164,6 @@
         "variant": "State=In Progress, Horizontal Padding=Only left"
     },
     {
-        "key": "ad6f173d21c4d977ee1fed8c31daa5a81033234e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CircleProgressView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Horizontal Margin=Only Left, State=In progress, Style=Action"
-    },
-    {
-        "key": "085e2ca7adcb222c86a95db79dd5ce8529fabe72",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CircleProgressView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Horizontal Margin=Only Left, State=In progress, Style=Default"
-    },
-    {
-        "key": "24c20953cc0a398b03e0f8dfb81be19baef04d7c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CircleProgressView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Horizontal Margin=Only Left, State=Complete, Style=Action"
-    },
-    {
-        "key": "03753c0030090fdd3fe380839f0055ae73d6273b",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CircleProgressView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Horizontal Margin=None, State=In progress, Style=Default"
-    },
-    {
         "key": "b5cc70542bf45d4b8088219b064abc0a714c37f9",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -6649,13 +7173,13 @@
         "variant": "Horizontal Margin=Only Left, State=Complete, Style=Default"
     },
     {
-        "key": "4c1b4f1b3b7a157e32f5a7c956e0e0a2d52d6de9",
+        "key": "ad6f173d21c4d977ee1fed8c31daa5a81033234e",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "CircleProgressView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Horizontal Margin=Extended, State=Complete, Style=Action"
+        "variant": "Horizontal Margin=Only Left, State=In progress, Style=Action"
     },
     {
         "key": "9745357f810838dc7fad29fc66afa386b8bb9e20",
@@ -6667,15 +7191,6 @@
         "variant": "Horizontal Margin=None, State=Complete, Style=Default"
     },
     {
-        "key": "c37e1337d2746418281afbce52c510703b504b28",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CircleProgressView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Horizontal Margin=Extended, State=In progress, Style=Action"
-    },
-    {
         "key": "75a6ce81d5df55c3e7385bc8e609344e5bfdbec2",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -6685,13 +7200,13 @@
         "variant": "Horizontal Margin=Extended, State=Complete, Style=Default"
     },
     {
-        "key": "1cda0324462d57a855e8d77a2a41a7ac1d63622b",
+        "key": "03753c0030090fdd3fe380839f0055ae73d6273b",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "CircleProgressView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Horizontal Margin=Extended, State=In progress, Style=Default"
+        "variant": "Horizontal Margin=None, State=In progress, Style=Default"
     },
     {
         "key": "fc6e8c91f9e8501544d1c09cf29f8e272d335348",
@@ -6701,6 +7216,51 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Horizontal Margin=None, State=In progress, Style=Action"
+    },
+    {
+        "key": "c37e1337d2746418281afbce52c510703b504b28",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Horizontal Margin=Extended, State=In progress, Style=Action"
+    },
+    {
+        "key": "4c1b4f1b3b7a157e32f5a7c956e0e0a2d52d6de9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Horizontal Margin=Extended, State=Complete, Style=Action"
+    },
+    {
+        "key": "24c20953cc0a398b03e0f8dfb81be19baef04d7c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Horizontal Margin=Only Left, State=Complete, Style=Action"
+    },
+    {
+        "key": "085e2ca7adcb222c86a95db79dd5ce8529fabe72",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Horizontal Margin=Only Left, State=In progress, Style=Default"
+    },
+    {
+        "key": "1cda0324462d57a855e8d77a2a41a7ac1d63622b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CircleProgressView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Horizontal Margin=Extended, State=In progress, Style=Default"
     },
     {
         "key": "b93cf33e1e33ae83a6d6ff6588e40c611d11c8bb",
@@ -7252,15 +7812,6 @@
         "variant": "CreditsWidgetViewType=CREDIT_CLOSED_1, WidgetSize=S"
     },
     {
-        "key": "5c4fdeb322eb7764030a26d5eafa56e4c479aa0d",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CreditsWidgetView",
-        "description": "На счету достаточно денег. Спишем 26 сентября\n",
-        "platform": "ANDROID",
-        "variant": "CreditsWidgetViewType=CREDIT_REPAID_2, WidgetSize=S"
-    },
-    {
         "key": "80cc45d461fdc409144d217232d67c0565f75d78",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -7268,6 +7819,15 @@
         "description": "На счету достаточно денег. Спишем 26 сентября\n",
         "platform": "ANDROID",
         "variant": "CreditsWidgetViewType=CREDIT_REPAID_2, WidgetSize=M"
+    },
+    {
+        "key": "5c4fdeb322eb7764030a26d5eafa56e4c479aa0d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CreditsWidgetView",
+        "description": "На счету достаточно денег. Спишем 26 сентября\n",
+        "platform": "ANDROID",
+        "variant": "CreditsWidgetViewType=CREDIT_REPAID_2, WidgetSize=S"
     },
     {
         "key": "db7b116af02c011e9f76501febd4ad2df4130abf",
@@ -7324,15 +7884,6 @@
         "variant": "CreditsWidgetViewType=CREDIT_REPAID_1, WidgetSize=S"
     },
     {
-        "key": "eb38d182065e109dd67f473c4babfa9b644a04a2",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CreditsWidgetView",
-        "description": "Платёж просрочен. Сумму платежа отображаем с пенями",
-        "platform": "ANDROID",
-        "variant": "CreditsWidgetViewType=CREDIT_NEED_REPLENISH_2, WidgetSize=M"
-    },
-    {
         "key": "0627d19e39d2449ad92398e4a34a5e842ca16d56",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -7340,6 +7891,15 @@
         "description": "Платёж просрочен. Сумму платежа отображаем с пенями",
         "platform": "ANDROID",
         "variant": "CreditsWidgetViewType=CREDIT_NEED_REPLENISH_2, WidgetSize=S"
+    },
+    {
+        "key": "eb38d182065e109dd67f473c4babfa9b644a04a2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CreditsWidgetView",
+        "description": "Платёж просрочен. Сумму платежа отображаем с пенями",
+        "platform": "ANDROID",
+        "variant": "CreditsWidgetViewType=CREDIT_NEED_REPLENISH_2, WidgetSize=M"
     },
     {
         "key": "e9eb7740aba346885a6e587cd5bebcc8d98cb2c5",
@@ -7498,15 +8058,6 @@
         "variant": "Style=Revert, Truncation=Truncated, State=Loading, Data=String"
     },
     {
-        "key": "0ace0afdb411f91621a74f7bff70035837da53fb",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataContent",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Revert, Ellipsize=Multiline, State=Default, Data=String"
-    },
-    {
         "key": "b61cdce1ee45ff3e768fcee3d1f51e407f88dec8",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -7514,42 +8065,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Style=Default, Ellipsize=Ellipsize, State=Default, Data=String"
-    },
-    {
-        "key": "f8301f172af6e3f37ee1feefe171a0af74a82a47",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataContent",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Default, Ellipsize=Ellipsize, State=Loading, Data=String"
-    },
-    {
-        "key": "be708a7d9bb0678dc34011133ea66ff78d587cba",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataContent",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Default, Ellipsize=Multiline, State=Default, Data=Amount"
-    },
-    {
-        "key": "b3f19f38520b58445b232ce49a37b07ab3b3c786",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataContent",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Revert, Ellipsize=Ellipsize, State=Default, Data=Amount"
-    },
-    {
-        "key": "77f1d561fb9a2cc4b995942a79034cf318673523",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataContent",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Revert, Ellipsize=Ellipsize, State=Default, Data=String"
     },
     {
         "key": "5bcef852638c1532dcff05f33c1c5256d2bbc54b",
@@ -7561,22 +8076,22 @@
         "variant": "Style=Default, Ellipsize=Ellipsize, State=Default, Data=Amount"
     },
     {
-        "key": "2ece3e37a02bf87c17c8e72f03c74985550b502b",
+        "key": "f8301f172af6e3f37ee1feefe171a0af74a82a47",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "DataContent",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=Revert, Ellipsize=Ellipsize, State=Loading, Data=String"
+        "variant": "Style=Default, Ellipsize=Ellipsize, State=Loading, Data=String"
     },
     {
-        "key": "16d778a52baeae8fb141321f1c4fdbd6425bc264",
+        "key": "b3f19f38520b58445b232ce49a37b07ab3b3c786",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "DataContent",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=Amount, Ellipsize=Multiline, State=Default, Data=Amount"
+        "variant": "Style=Revert, Ellipsize=Ellipsize, State=Default, Data=Amount"
     },
     {
         "key": "a1a441b1eebb5d79f8e74668efe6080cd7781b1d",
@@ -7586,6 +8101,51 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Style=Default, Ellipsize=Multiline, State=Default, Data=String"
+    },
+    {
+        "key": "77f1d561fb9a2cc4b995942a79034cf318673523",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataContent",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=Revert, Ellipsize=Ellipsize, State=Default, Data=String"
+    },
+    {
+        "key": "2ece3e37a02bf87c17c8e72f03c74985550b502b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataContent",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=Revert, Ellipsize=Ellipsize, State=Loading, Data=String"
+    },
+    {
+        "key": "0ace0afdb411f91621a74f7bff70035837da53fb",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataContent",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=Revert, Ellipsize=Multiline, State=Default, Data=String"
+    },
+    {
+        "key": "be708a7d9bb0678dc34011133ea66ff78d587cba",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataContent",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=Default, Ellipsize=Multiline, State=Default, Data=Amount"
+    },
+    {
+        "key": "16d778a52baeae8fb141321f1c4fdbd6425bc264",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataContent",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=Revert, Ellipsize=Multiline, State=Default, Data=Amount"
     },
     {
         "key": "1ee3a9c3c98aa25dbf47e69c16082e045f034579",
@@ -8943,49 +9503,220 @@
         "variant": "Lines=1 line, Icon=None, Style=Default, Truncation=Truncated, Horizontal Padding=Both, Indicator=On"
     },
     {
-        "key": "07691d468c34f116825c8ab3953056ff0ca6c2a3",
+        "key": "e9a51eef77ac048cd93cbf3d948f69629eeccf0f",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=On"
+        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Both, Indicator=On"
     },
     {
-        "key": "be4173cb7e9b84057f985d84b5631ac03518b72c",
+        "key": "9ed40c866e4c210d1259d7c5815e5a51cdbece61",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=On"
+        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=Off"
     },
     {
-        "key": "83dd8aec94b9d3ec403febbbd0ed2fa056cf61dc",
+        "key": "5f4c701c1ff8921920263b51e2c6e3c29d8f73ab",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=On"
+        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=On"
     },
     {
-        "key": "478d2d21e90b90f8d0fb3a82a2087bdf90ec397d",
+        "key": "fa8059270a748858c4846221a329b0a4260643be",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Medium, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=On"
+        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=Off"
     },
     {
-        "key": "2d692ab41c03fc30f1a02781d0dec1ce7cacc379",
+        "key": "fa3acc74b4bd2caac9d5daa76a73bf7c757bf1b8",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=Off"
+        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Ellipsize=Multiline, Horizontal Padding=Only Right, Indicator=Off"
+    },
+    {
+        "key": "da320c571fd72ed8aa3db76754b4271cb02a94f1",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=None, Style=Revert, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
+    },
+    {
+        "key": "c9e332ae5f0374482e689bd49f525e2408f791e4",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=On"
+    },
+    {
+        "key": "c860f8ccda3588ce164dcdaaaac527dd5ea45c9a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=Medium, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=On"
+    },
+    {
+        "key": "b61180188e66ee9cc65c2b7664be1e07b532a178",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=On"
+    },
+    {
+        "key": "b49311ea09c9a8ed785d2e6c6d80701180bac075",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=On"
+    },
+    {
+        "key": "b42702d236ba40d8e456efe067a90e9bc51a33c6",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Padding=None, Indicator=On"
+    },
+    {
+        "key": "aeba12a89d97f19e41278e1d125ed7424fc093b6",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=On"
+    },
+    {
+        "key": "aab48648c35d143dfb875e28ebd22f294d34d7de",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
+    },
+    {
+        "key": "a14d9a51423cc30fc44a808e1d3e59c0af81dfa6",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=None, Style=Revert, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=Off"
+    },
+    {
+        "key": "9f3f38f305f7d27b85db5433d29dccc28562118e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Right, Indicator=On"
+    },
+    {
+        "key": "9d5934316cae489c0e3d66bed4ad297ddf09af12",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
+    },
+    {
+        "key": "9bf153cc1b43519783963a33df4805b5516ea2ea",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Padding=None, Indicator=On"
+    },
+    {
+        "key": "96d0ba4b88714e99c44a42608d5a87036713b57c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
+    },
+    {
+        "key": "9370bcc65e1b0c72dd7fdd0ddb992726b11b1960",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=3 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=On"
+    },
+    {
+        "key": "914b982d3b19a3a54324dd9b6a21b68617d6817e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
+    },
+    {
+        "key": "8f234c1c9c29eb35c94f338ef5c2b3cf91335f1d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=Off"
+    },
+    {
+        "key": "8b9a78859c3fb5a979b0daca367aefca37f44abd",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=On"
+    },
+    {
+        "key": "89673327b9dc8e880510feb11bffcc9f8aa37848",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=On"
+    },
+    {
+        "key": "838c20092141c6b1d5ba6b05fa6eb39cca8576f5",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=Off"
     },
     {
         "key": "ca6696ef297d08b29c4a4fe5ddb25a24fd006e1c",
@@ -8997,13 +9728,31 @@
         "variant": "Lines=2 lines, Icon=None, Style=Revert, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=Off"
     },
     {
-        "key": "a5ff3f135dac887332ff3a23336987946bd579fb",
+        "key": "be4173cb7e9b84057f985d84b5631ac03518b72c",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "DataView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Right, Indicator=On"
+        "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=On"
+    },
+    {
+        "key": "851f86d56bb350661c22d80130d676248ed5609e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Right, Indicator=Off"
+    },
+    {
+        "key": "83dd8aec94b9d3ec403febbbd0ed2fa056cf61dc",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=3 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=On"
     },
     {
         "key": "6208d71b5ffe188c8114e36da7af6d0595ffe068",
@@ -9013,6 +9762,24 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Lines=3 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Both, Indicator=Off"
+    },
+    {
+        "key": "478d2d21e90b90f8d0fb3a82a2087bdf90ec397d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=Medium, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=On"
+    },
+    {
+        "key": "3caf7be0b4dcc91898c369dd390affe8ce1dc3dc",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=On"
     },
     {
         "key": "2525fd36097b74c45a882ab7e3609fd91fb045c9",
@@ -9051,15 +9818,6 @@
         "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Both, Indicator=Off"
     },
     {
-        "key": "ee3f7e497dfaae7deedac438273669705a25d358",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=None, Indicator=Off"
-    },
-    {
         "key": "eacf05f7d81e4890743de909f240dafa1fda6f30",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -9067,15 +9825,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Both, Indicator=On"
-    },
-    {
-        "key": "e15d805dec08e84a1b2cb9921746c99ef82d1e8e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=On"
     },
     {
         "key": "d45a6ae18afb0ba61562a77365ead7c4d9def459",
@@ -9094,6 +9843,285 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=On"
+    },
+    {
+        "key": "789f883adf21410d7995e16e97d16cbfd88ccc54",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=Medium, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Both, Indicator=Off"
+    },
+    {
+        "key": "743bb49031d150b7ab6a5f25bc5e11d83c65d37f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=3 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
+    },
+    {
+        "key": "71cd545cfb0d210dfe95c302c088732ae0bfa701",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=On"
+    },
+    {
+        "key": "6e3333167e199c2b1b75e669f55223262a24751f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=On"
+    },
+    {
+        "key": "6af0a29e2b5c9155f78ad90a6eab4dadc74c256e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=Off"
+    },
+    {
+        "key": "6a2e23b3af832fc7a3c6616734e90eb6e60810de",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=On"
+    },
+    {
+        "key": "6697891367031b99b4f74fc414051c89a6ddac5c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Both, Indicator=Off"
+    },
+    {
+        "key": "643d568351bf5f1b5ffb34d59729b2b8943535a0",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Right, Indicator=On"
+    },
+    {
+        "key": "63df76e8fcad892061f1247117e5c76ad1fa37de",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
+    },
+    {
+        "key": "5f35892956408f07ba12fe5fb017e0b1643989e7",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=On"
+    },
+    {
+        "key": "561f4bf03d9e227e4465695c510c727dfedf14d2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=On"
+    },
+    {
+        "key": "50d4c28dcc8dd8e8578829e22bf0b82c1ad00bef",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=Off"
+    },
+    {
+        "key": "4df10a46d819b2423aac6fd8057a035cc0474ab3",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=None, Indicator=Off"
+    },
+    {
+        "key": "468b0277017056b4812d21adee6cc1257bc3b1ce",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=Off"
+    },
+    {
+        "key": "45b36725ecaaf3a07ecded54a844090d33a91cba",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=None, Style=Revert, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=On"
+    },
+    {
+        "key": "40b2c5827a8dad25e9b5608db9efbde4cf6ba5f4",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=Medium, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
+    },
+    {
+        "key": "3d6e65c9f71a5657effb39f9859f89183b6637f6",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=On"
+    },
+    {
+        "key": "3d427a284952032a072811dfc28cb215a735f58d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=On"
+    },
+    {
+        "key": "39792ae8bf49e4f5eb10ea4934ccaac359a3a382",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=Off"
+    },
+    {
+        "key": "381d8b940d1909abe93dac9a6d2a22bd76ee069c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=Off"
+    },
+    {
+        "key": "3806c3e16653f1b1bbdfd1142e55932992fe0e47",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=Off"
+    },
+    {
+        "key": "2f70e3df959bb031a77170e9e46ca11b295c0eee",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=Off"
+    },
+    {
+        "key": "2f01098667dfe1b68c2b31f3c0e3c620b464e9e4",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=Off"
+    },
+    {
+        "key": "2d692ab41c03fc30f1a02781d0dec1ce7cacc379",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=Off"
+    },
+    {
+        "key": "29c959273c226c63ff2c1cdcdbb2ee6223c101e7",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=Off"
+    },
+    {
+        "key": "25fe541a1b0edcb6f09c78cd6d028d63b61c5f62",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
+    },
+    {
+        "key": "24ddfbc90c7545cb8901ef8965982c8b79d86376",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=None, Indicator=On"
+    },
+    {
+        "key": "243ffadeb248c4ee89a2d8a4581a0c55af6a7a6e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=Off"
+    },
+    {
+        "key": "10cb00af81b2e8cd433a1d445870679cc1e2b753",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=Off"
+    },
+    {
+        "key": "07691d468c34f116825c8ab3953056ff0ca6c2a3",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=3 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=On"
+    },
+    {
+        "key": "015fedd8c032baebaf576a8faf91021cc2dbe2d2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
     },
     {
         "key": "c77dd5ee7a37ee1771b385ed74b58b6e0b60db3a",
@@ -9240,6 +10268,15 @@
         "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=On"
     },
     {
+        "key": "73f7736df4830ddb7a8b28616a5b17729d5d95ab",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=Off"
+    },
+    {
         "key": "730026ebafed2280508c0c041d62161dcbe9cbcd",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -9247,6 +10284,33 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=On"
+    },
+    {
+        "key": "70b23380201ce122021090ef48fafa94a8db7053",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=None, Indicator=Off"
+    },
+    {
+        "key": "6a4a2089be4485c48a9037e4ccb0cb48737b06be",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=On"
+    },
+    {
+        "key": "65e839523ea75c76e27b1e0a3bba1d4e56b120a8",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=3 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Both, Indicator=On"
     },
     {
         "key": "5e7f4181b34e98418f19a8933a502f3f9868ba85",
@@ -9294,6 +10358,24 @@
         "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=On"
     },
     {
+        "key": "498397cb527b2492a5ce3b21448ec2004e17b92c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=Medium, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=Off"
+    },
+    {
+        "key": "48c0422d07c3ff3fdd426a29ccc15b2e3673ef27",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=Off"
+    },
+    {
         "key": "4263c3f8d1695418bda3709e2156eb5960d46cd5",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -9328,15 +10410,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Lines=3 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=Off"
-    },
-    {
-        "key": "3cdc34fb891fc9dd91690ead760b99dbe5df4346",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Right, Indicator=Off"
     },
     {
         "key": "3a4aece737fec94ffff70d7bbedc523e144af633",
@@ -9375,6 +10448,15 @@
         "variant": "Lines=3 lines, Icon=None, Style=Revert, Ellipsize=Ellipsize, Horizontal Padding=Both, Indicator=Off"
     },
     {
+        "key": "1a2d47ac5f73086fd8ed112ff7e0fcc08c235a68",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Both, Indicator=Off"
+    },
+    {
         "key": "1984f98c28dd85db8b6888ec4d968dcd3ce75bd1",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -9391,6 +10473,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Padding=None, Indicator=Off"
+    },
+    {
+        "key": "1854b8bbe98c60aa0b764b875f0dfb58aa68a7f1",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=Off"
     },
     {
         "key": "110098728e16cfba15ef1d6055d1943a5b774902",
@@ -9420,6 +10511,42 @@
         "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=Off"
     },
     {
+        "key": "a5ff3f135dac887332ff3a23336987946bd579fb",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Right, Indicator=On"
+    },
+    {
+        "key": "ee3f7e497dfaae7deedac438273669705a25d358",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=None, Indicator=Off"
+    },
+    {
+        "key": "e15d805dec08e84a1b2cb9921746c99ef82d1e8e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=On"
+    },
+    {
+        "key": "3cdc34fb891fc9dd91690ead760b99dbe5df4346",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Right, Indicator=Off"
+    },
+    {
         "key": "01df005a316a59db9e6cc0a2de354ee9edf430b5",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -9427,357 +10554,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Both, Indicator=Off"
-    },
-    {
-        "key": "fa3acc74b4bd2caac9d5daa76a73bf7c757bf1b8",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Ellipsize=Multiline, Horizontal Padding=Only Right, Indicator=Off"
-    },
-    {
-        "key": "e9a51eef77ac048cd93cbf3d948f69629eeccf0f",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Both, Indicator=On"
-    },
-    {
-        "key": "9f3f38f305f7d27b85db5433d29dccc28562118e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Right, Indicator=On"
-    },
-    {
-        "key": "9ed40c866e4c210d1259d7c5815e5a51cdbece61",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=Off"
-    },
-    {
-        "key": "914b982d3b19a3a54324dd9b6a21b68617d6817e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
-    },
-    {
-        "key": "8b9a78859c3fb5a979b0daca367aefca37f44abd",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=On"
-    },
-    {
-        "key": "89673327b9dc8e880510feb11bffcc9f8aa37848",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=On"
-    },
-    {
-        "key": "6a2e23b3af832fc7a3c6616734e90eb6e60810de",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=On"
-    },
-    {
-        "key": "6697891367031b99b4f74fc414051c89a6ddac5c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Both, Indicator=Off"
-    },
-    {
-        "key": "643d568351bf5f1b5ffb34d59729b2b8943535a0",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Right, Indicator=On"
-    },
-    {
-        "key": "63df76e8fcad892061f1247117e5c76ad1fa37de",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
-    },
-    {
-        "key": "5f4c701c1ff8921920263b51e2c6e3c29d8f73ab",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=On"
-    },
-    {
-        "key": "39792ae8bf49e4f5eb10ea4934ccaac359a3a382",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=Off"
-    },
-    {
-        "key": "2f70e3df959bb031a77170e9e46ca11b295c0eee",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=Off"
-    },
-    {
-        "key": "da320c571fd72ed8aa3db76754b4271cb02a94f1",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=None, Style=Revert, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
-    },
-    {
-        "key": "b61180188e66ee9cc65c2b7664be1e07b532a178",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=On"
-    },
-    {
-        "key": "b42702d236ba40d8e456efe067a90e9bc51a33c6",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Padding=None, Indicator=On"
-    },
-    {
-        "key": "aeba12a89d97f19e41278e1d125ed7424fc093b6",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=On"
-    },
-    {
-        "key": "aab48648c35d143dfb875e28ebd22f294d34d7de",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
-    },
-    {
-        "key": "a14d9a51423cc30fc44a808e1d3e59c0af81dfa6",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=None, Style=Revert, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=Off"
-    },
-    {
-        "key": "9d5934316cae489c0e3d66bed4ad297ddf09af12",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
-    },
-    {
-        "key": "9370bcc65e1b0c72dd7fdd0ddb992726b11b1960",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=On"
-    },
-    {
-        "key": "789f883adf21410d7995e16e97d16cbfd88ccc54",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Medium, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Both, Indicator=Off"
-    },
-    {
-        "key": "743bb49031d150b7ab6a5f25bc5e11d83c65d37f",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
-    },
-    {
-        "key": "6af0a29e2b5c9155f78ad90a6eab4dadc74c256e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=Off"
-    },
-    {
-        "key": "5f35892956408f07ba12fe5fb017e0b1643989e7",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=On"
-    },
-    {
-        "key": "561f4bf03d9e227e4465695c510c727dfedf14d2",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=On"
-    },
-    {
-        "key": "50d4c28dcc8dd8e8578829e22bf0b82c1ad00bef",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=Off"
-    },
-    {
-        "key": "4df10a46d819b2423aac6fd8057a035cc0474ab3",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=None, Indicator=Off"
-    },
-    {
-        "key": "468b0277017056b4812d21adee6cc1257bc3b1ce",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=Off"
-    },
-    {
-        "key": "45b36725ecaaf3a07ecded54a844090d33a91cba",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=None, Style=Revert, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=On"
-    },
-    {
-        "key": "40b2c5827a8dad25e9b5608db9efbde4cf6ba5f4",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Medium, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
-    },
-    {
-        "key": "3d427a284952032a072811dfc28cb215a735f58d",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=On"
-    },
-    {
-        "key": "381d8b940d1909abe93dac9a6d2a22bd76ee069c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=Off"
-    },
-    {
-        "key": "3806c3e16653f1b1bbdfd1142e55932992fe0e47",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=Off"
-    },
-    {
-        "key": "2f01098667dfe1b68c2b31f3c0e3c620b464e9e4",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=Off"
-    },
-    {
-        "key": "24ddfbc90c7545cb8901ef8965982c8b79d86376",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=None, Indicator=On"
-    },
-    {
-        "key": "10cb00af81b2e8cd433a1d445870679cc1e2b753",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=Off"
-    },
-    {
-        "key": "9bf153cc1b43519783963a33df4805b5516ea2ea",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Padding=None, Indicator=On"
     },
     {
         "key": "e78546d2bf9660d469ec3931904d881e42848b3c",
@@ -9843,15 +10619,6 @@
         "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=Off"
     },
     {
-        "key": "6a4a2089be4485c48a9037e4ccb0cb48737b06be",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=On"
-    },
-    {
         "key": "65eb33ce0501245deb0bd027d561606a2da8f614",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -9859,15 +10626,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=On"
-    },
-    {
-        "key": "65e839523ea75c76e27b1e0a3bba1d4e56b120a8",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Both, Indicator=On"
     },
     {
         "key": "554e4dc4f5038e1f309400a998efdd4034a1b415",
@@ -9915,15 +10673,6 @@
         "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=None, Indicator=On"
     },
     {
-        "key": "498397cb527b2492a5ce3b21448ec2004e17b92c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Medium, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=Off"
-    },
-    {
         "key": "3264b0c920dea01cf154641d7db11b274b77ff5e",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -9931,24 +10680,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=On"
-    },
-    {
-        "key": "3caf7be0b4dcc91898c369dd390affe8ce1dc3dc",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=On"
-    },
-    {
-        "key": "851f86d56bb350661c22d80130d676248ed5609e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Right, Indicator=Off"
     },
     {
         "key": "9dbc82b7bfba11f4c792f12576d6fa8760faf9b7",
@@ -9978,24 +10709,6 @@
         "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Both, Indicator=Off"
     },
     {
-        "key": "1854b8bbe98c60aa0b764b875f0dfb58aa68a7f1",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=Off"
-    },
-    {
-        "key": "b49311ea09c9a8ed785d2e6c6d80701180bac075",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=On"
-    },
-    {
         "key": "b05704a9eb181aa5c8306818eadaa0ff20492e1c",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -10003,24 +10716,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Lines=2 lines, Icon=None, Style=Revert, Ellipsize=Ellipsize, Horizontal Padding=Both, Indicator=Off"
-    },
-    {
-        "key": "96d0ba4b88714e99c44a42608d5a87036713b57c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
-    },
-    {
-        "key": "6e3333167e199c2b1b75e669f55223262a24751f",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=On"
     },
     {
         "key": "32087bbd3fc99550c466e749561f6812e29b1bc1",
@@ -10039,15 +10734,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=On"
-    },
-    {
-        "key": "015fedd8c032baebaf576a8faf91021cc2dbe2d2",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
     },
     {
         "key": "1e99f0527a78ad98d22446f0730c05e364adf8d1",
@@ -10095,15 +10781,6 @@
         "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=Off"
     },
     {
-        "key": "c860f8ccda3588ce164dcdaaaac527dd5ea45c9a",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Medium, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=On"
-    },
-    {
         "key": "e7efd6d4ccb08ea3b71cdd07bd7b2aec6febe9cd",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -10140,24 +10817,6 @@
         "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=On"
     },
     {
-        "key": "25fe541a1b0edcb6f09c78cd6d028d63b61c5f62",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
-    },
-    {
-        "key": "48c0422d07c3ff3fdd426a29ccc15b2e3673ef27",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=Off"
-    },
-    {
         "key": "46c3310708b2e3c582ca0f76729651543f349709",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -10174,42 +10833,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Right, Indicator=On"
-    },
-    {
-        "key": "c9e332ae5f0374482e689bd49f525e2408f791e4",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=On"
-    },
-    {
-        "key": "71cd545cfb0d210dfe95c302c088732ae0bfa701",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Right, Indicator=On"
-    },
-    {
-        "key": "1a2d47ac5f73086fd8ed112ff7e0fcc08c235a68",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=3 lines, Icon=No Shape, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Both, Indicator=Off"
-    },
-    {
-        "key": "3d6e65c9f71a5657effb39f9859f89183b6637f6",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=On"
     },
     {
         "key": "7e700a7778bd78faed465934c8dcb3219a9f17f9",
@@ -10230,24 +10853,6 @@
         "variant": "Lines=1 line, Icon=Small, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=None, Indicator=Off"
     },
     {
-        "key": "73f7736df4830ddb7a8b28616a5b17729d5d95ab",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=Off"
-    },
-    {
-        "key": "fa8059270a748858c4846221a329b0a4260643be",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=Off"
-    },
-    {
         "key": "e4b68a094e090f69c5923c7c322e0537f213f291",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -10255,15 +10860,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Ellipsize, Horizontal Padding=Only Left, Indicator=Off"
-    },
-    {
-        "key": "838c20092141c6b1d5ba6b05fa6eb39cca8576f5",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=Off"
     },
     {
         "key": "6bd450d2995dde4fc0d2080dbe9723e317d82097",
@@ -10275,33 +10871,6 @@
         "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=None, Indicator=Off"
     },
     {
-        "key": "8f234c1c9c29eb35c94f338ef5c2b3cf91335f1d",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=1 line, Icon=No Shape, Style=Default, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=Off"
-    },
-    {
-        "key": "70b23380201ce122021090ef48fafa94a8db7053",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=None, Style=Default, Ellipsize=Multiline, Horizontal Padding=None, Indicator=Off"
-    },
-    {
-        "key": "29c959273c226c63ff2c1cdcdbb2ee6223c101e7",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Small, Style=Revert, Ellipsize=Multiline, Horizontal Padding=Only Left, Indicator=Off"
-    },
-    {
         "key": "7c7b020c4d9e7b243f0da282a265a86abcb1fcb8",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -10309,15 +10878,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Lines=2 lines, Icon=None, Style=Revert, Ellipsize=Multiline, Horizontal Padding=None, Indicator=Off"
-    },
-    {
-        "key": "243ffadeb248c4ee89a2d8a4581a0c55af6a7a6e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Lines=2 lines, Icon=Small, Style=Default, Ellipsize=Multiline, Horizontal Padding=Both, Indicator=Off"
     },
     {
         "key": "3e45c438651edfac72fe21f527d141b76d184a36",
@@ -10880,15 +11440,6 @@
         "platform": "IOS"
     },
     {
-        "key": "e611bd958056b0b5b7570283eb2fdfdb505fb53e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DraggableDataView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Action=Remove"
-    },
-    {
         "key": "a40a76dbea349a5efbbe779029fd8ceca288a072",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -10896,6 +11447,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Action=Add"
+    },
+    {
+        "key": "e611bd958056b0b5b7570283eb2fdfdb505fb53e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DraggableDataView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Action=Remove"
     },
     {
         "key": "70cc595fce907ce8d2c264a93ddc595181a618fa",
@@ -11495,6 +12055,51 @@
         "variant": "Type=CURRENCY_EXCHANGE"
     },
     {
+        "key": "f0c0fe285e3441d4ff7ed9a51a397e3f9c325c4d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "TYPE=CURRENCY_NOTES"
+    },
+    {
+        "key": "dd14fca83c807ee844a4a1e1790a467826ea4bd6",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=TRANSACTIONAL"
+    },
+    {
+        "key": "8c42121ccd63ace73fbbebce40d3fdee87e3f191",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "TYPE=DATE"
+    },
+    {
+        "key": "86172dee2ce7e6350be4403abd2ff4eb62be84f1",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "TYPE=DOCUMENT"
+    },
+    {
+        "key": "ee82fa8a2e54408268707ebe15ba708d8b772f2d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=POPUP_STRING"
+    },
+    {
         "key": "ec8b2a23ba71791696f7ee8be6ff473e053e07f3",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -11502,6 +12107,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Type=CARD"
+    },
+    {
+        "key": "6ec20214cb3a62e7917938ccf641bb64f1f42220",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "TYPE=CURRENCY_STRING"
     },
     {
         "key": "064de640fe01e543852f37dacd07eb05860e9ff9",
@@ -11513,13 +12127,22 @@
         "variant": "Type=PROGRESS"
     },
     {
-        "key": "1eb60e8daa6ee9f564f114e2ac7e13948f03a5b0",
+        "key": "97a841e47f0b685443938ca71a6a655e73a56596",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "DYNAMIC",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Type=ACCOUNT"
+        "variant": "TYPE=INTEREST_RATE"
+    },
+    {
+        "key": "8d9eb635c192916b5893183bdc46b813f1cce6a8",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "TYPE=DATE_INTERVAL"
     },
     {
         "key": "7475b53f7c4cef6c36d0f992e5c1ecdc8d50ba7c",
@@ -11531,13 +12154,22 @@
         "variant": "Type=SWIFT"
     },
     {
-        "key": "ee82fa8a2e54408268707ebe15ba708d8b772f2d",
+        "key": "4262594b4ef5192ec711f3370e7e59d1223cd9a2",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "DYNAMIC",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Type=POPUP_STRING"
+        "variant": "TYPE=COLORED_STATUS_AMOUNT"
+    },
+    {
+        "key": "1eb60e8daa6ee9f564f114e2ac7e13948f03a5b0",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=ACCOUNT"
     },
     {
         "key": "e5f0f39ac76996223a18619ceed573e9a495bc19",
@@ -11574,15 +12206,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "TYPE=INPUT, State=Activated"
-    },
-    {
-        "key": "86172dee2ce7e6350be4403abd2ff4eb62be84f1",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "TYPE=DOCUMENT"
     },
     {
         "key": "614c6b8df78e5a4d3c214a26409132c61536c397",
@@ -11729,42 +12352,6 @@
         "variant": "TYPE=ACCOUNT_SELECT, State=Inactive"
     },
     {
-        "key": "6ec20214cb3a62e7917938ccf641bb64f1f42220",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "TYPE=CURRENCY_STRING"
-    },
-    {
-        "key": "97a841e47f0b685443938ca71a6a655e73a56596",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "TYPE=INTEREST_RATE"
-    },
-    {
-        "key": "8d9eb635c192916b5893183bdc46b813f1cce6a8",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "TYPE=DATE_INTERVAL"
-    },
-    {
-        "key": "8c42121ccd63ace73fbbebce40d3fdee87e3f191",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "TYPE=DATE"
-    },
-    {
         "key": "47cc38641dcc0ca6fc24064ac21cba5ecba88a4e",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -11783,15 +12370,6 @@
         "variant": "TYPE=MONEY"
     },
     {
-        "key": "4262594b4ef5192ec711f3370e7e59d1223cd9a2",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "TYPE=COLORED_STATUS_AMOUNT"
-    },
-    {
         "key": "8bb6aeca4674991bad92e85a6f77977c6ab9f331",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -11799,15 +12377,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "TYPE=LAYERED_DEEPLINK_BUTTON"
-    },
-    {
-        "key": "f0c0fe285e3441d4ff7ed9a51a397e3f9c325c4d",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "TYPE=CURRENCY_NOTES"
     },
     {
         "key": "9f37c7c1708df1782d0f1edfbb4e29b73e26d354",
@@ -11871,15 +12440,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "TYPE=INPUT, State=Inactive"
-    },
-    {
-        "key": "dd14fca83c807ee844a4a1e1790a467826ea4bd6",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Type=TRANSACTIONAL"
     },
     {
         "key": "d5b6db0bf67b3a2529500bf9055ae0e1cdd25cda",
@@ -12079,22 +12639,13 @@
         "variant": "Style=Compact, Theme=Static, Graphic=Icon"
     },
     {
-        "key": "841e3de7a5845811db4cfd8e8e40365e99c43ca2",
+        "key": "02db297041e06324e2358272f1c6bbaefb8f304a",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "EmptyState",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=Compact, Theme=Invertible, Graphic=Img"
-    },
-    {
-        "key": "556cd8ffebea40331827cf2300c27e6632941520",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "EmptyState",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Fullscreen, Theme=Invertible, Graphic=Icon"
+        "variant": "Style=Fullscreen, Theme=Invertible, Graphic=Img"
     },
     {
         "key": "f516016cd11a54e4658e6adb2dd7d364ae7344ef",
@@ -12115,15 +12666,6 @@
         "variant": "Style=Fullscreen, Theme=Static, Graphic=Img"
     },
     {
-        "key": "02db297041e06324e2358272f1c6bbaefb8f304a",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "EmptyState",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Fullscreen, Theme=Invertible, Graphic=Img"
-    },
-    {
         "key": "daee46e5b766e560d8fed2f4a79f6b140254c63c",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -12131,6 +12673,24 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Style=Compact, Theme=Invertible, Graphic=Icon"
+    },
+    {
+        "key": "841e3de7a5845811db4cfd8e8e40365e99c43ca2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "EmptyState",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=Compact, Theme=Invertible, Graphic=Img"
+    },
+    {
+        "key": "556cd8ffebea40331827cf2300c27e6632941520",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "EmptyState",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=Fullscreen, Theme=Invertible, Graphic=Icon"
     },
     {
         "key": "7c40f64db8f82a13eb7cb4e9a65208adfd5f9a6b",
@@ -19183,6 +19743,15 @@
         "variant": "State=Typing"
     },
     {
+        "key": "90de8b2165fdca1a1e9c24efb6fc83c2a6da196c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "PaymentContainer",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "State=Activated"
+    },
+    {
         "key": "dbd61e77f0697632a97d654d52f7b0137dd8ca58",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -19208,15 +19777,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "State=Typing"
-    },
-    {
-        "key": "90de8b2165fdca1a1e9c24efb6fc83c2a6da196c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "PaymentContainer",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "State=Activated"
     },
     {
         "key": "f09e982055c4c065d19b60fef11f3280b16dee90",
@@ -21650,60 +22210,6 @@
         "variant": "Style=Stepper, Progress=10 Payment"
     },
     {
-        "key": "99fda07d58c63dea30cec472228bbe4c00fe3588",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProgressIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Stroke=None, Style=Icon, State=In progress"
-    },
-    {
-        "key": "168e34cb8787d3bb19dacad36623a0627588a0c7",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProgressIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Stroke=Default, Style=Icon, State=In progress"
-    },
-    {
-        "key": "61a4e10d7f8e015157f68ea7dfb11d14ebb4899f",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProgressIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Stroke=None, Style=Text, State=In progress"
-    },
-    {
-        "key": "d1b0546f45379cb243f7857e10c05b8ea9e09958",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProgressIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Stroke=Default, Style=Text, State=Complete"
-    },
-    {
-        "key": "7d7f4d32c598ab46400e81363c4c60b2f9d323a6",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProgressIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Stroke=Default, Style=Text, State=In progress"
-    },
-    {
-        "key": "4b1089bbd9bd917bd014df9221d98bc8820f52d9",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ProgressIconView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Stroke=Default, Style=Icon, State=Complete"
-    },
-    {
         "key": "7e4656ede73390c026b49e74f2784a6a97d78365",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -22092,6 +22598,15 @@
         "variant": "Style=Revert, Horizontal Padding=None"
     },
     {
+        "key": "c61c1ef135736ae7f27a2c4a7c9d47e89bdba515",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "RangeSliderView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Horizontal Padding=Both, Style=Revert"
+    },
+    {
         "key": "f583ffe86a61a167f2b1d6261fa7cdb9655d49ef",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -22108,15 +22623,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Horizontal Padding=None, Style=Revert"
-    },
-    {
-        "key": "c61c1ef135736ae7f27a2c4a7c9d47e89bdba515",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "RangeSliderView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Horizontal Padding=Both, Style=Revert"
     },
     {
         "key": "55dcb072b6884bcfcfd6d08174503340b22f137b",
@@ -22319,6 +22825,15 @@
         "variant": "Preset=MetroView, Gap=Default, Right Padding=None"
     },
     {
+        "key": "0dabc061e4a03a4526f8087d38d8151a17ab6525",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "RightIconWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "View=DataView, Gap=Default, Right Padding=Extended"
+    },
+    {
         "key": "527a1cdf18d6b2e87bcf2d2eddd4e8837173ea58",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -22326,15 +22841,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "View=ProductView, Gap=Default, Right Padding=Extended"
-    },
-    {
-        "key": "45bd4ec536c88d7e1b42654d8b5614f07b5cc85f",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "RightIconWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "View=DataView, Gap=Custom, Right Padding=None"
     },
     {
         "key": "1bb219d3a864327044d31e7f80fbaac5d8d80e3f",
@@ -22346,13 +22852,13 @@
         "variant": "View=DataView, Gap=Default, Right Padding=None"
     },
     {
-        "key": "0dabc061e4a03a4526f8087d38d8151a17ab6525",
+        "key": "45bd4ec536c88d7e1b42654d8b5614f07b5cc85f",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "RightIconWrapper",
         "description": "",
         "platform": "ANDROID",
-        "variant": "View=DataView, Gap=Default, Right Padding=Extended"
+        "variant": "View=DataView, Gap=Custom, Right Padding=None"
     },
     {
         "key": "f90491ff409e22ff8c29a146603379ad6b2ec143",
@@ -23168,15 +23674,6 @@
         "variant": "View=DataView, Control=Switch, Control Side=End"
     },
     {
-        "key": "c3dbd5a37ced932aff8fc923aa9f748bdc4c0724",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "SelectionWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "View=DataView, Control=Radio, Control Side=Start"
-    },
-    {
         "key": "5a1d36977d3f9cbd84a0802a31c5a11e514cb902",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -23202,6 +23699,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "View=CardView, Control=Checkbox, Control Side=End"
+    },
+    {
+        "key": "c3dbd5a37ced932aff8fc923aa9f748bdc4c0724",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "SelectionWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "View=DataView, Control=Radio, Control Side=Start"
     },
     {
         "key": "6f29789a49af2ab242ad0a7708fec15eae9e912d",
@@ -23387,15 +23893,6 @@
         "variant": "Progress=On"
     },
     {
-        "key": "386fd065b30de8ca1b616f416d9358b338a2ee4f",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "Snackbar",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Progress=Off"
-    },
-    {
         "key": "fda73ba0e1fdaf0e113dc15a4bffbbf261c79b75",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -23403,6 +23900,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Progress=On"
+    },
+    {
+        "key": "386fd065b30de8ca1b616f416d9358b338a2ee4f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "Snackbar",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Progress=Off"
     },
     {
         "key": "6cf37eaaf1efff7903da3b6df820a2b1ae8365fb",
@@ -24398,20 +24904,22 @@
         "variant": "State=On, Enabled=Enabled"
     },
     {
-        "key": "05ffe0d67399b125ded1712fc0c5e494829bea63",
-        "file_key": "y4cihIhbipeclFDFkoNhgZ",
-        "library_name": "Android Native Elements",
-        "name": "System Bar / Dark Indigo",
-        "description": "Ststus Bar",
-        "platform": "ANDROID"
-    },
-    {
         "key": "114535dcd34f4f021b42dc3ead7910d479d3f4d7",
         "file_key": "y4cihIhbipeclFDFkoNhgZ",
         "library_name": "Android Native Elements",
-        "name": "System Bar / White",
+        "name": "System Bar",
         "description": "Ststus Bar",
-        "platform": "ANDROID"
+        "platform": "ANDROID",
+        "variant": "State=White"
+    },
+    {
+        "key": "05ffe0d67399b125ded1712fc0c5e494829bea63",
+        "file_key": "y4cihIhbipeclFDFkoNhgZ",
+        "library_name": "Android Native Elements",
+        "name": "System Bar",
+        "description": "Ststus Bar",
+        "platform": "ANDROID",
+        "variant": "State=Dark"
     },
     {
         "key": "94644608e401dc95772072b506fcfa2c3b0d9ab4",
@@ -27334,31 +27842,13 @@
         "variant": "Style=DayBefore"
     },
     {
-        "key": "18520d91f3a2a7d7a7f4dedd7c96e9a33551316b",
+        "key": "8ed75bbaf9e0f3bf0a9f8b8fca73061de1522481",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "TicketWidget",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=YoutTurn"
-    },
-    {
-        "key": "fada5ed8dff80dbf2a6905d23e2bd71cc14459cc",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TicketWidget",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Skeleton"
-    },
-    {
-        "key": "f433d66427f7e73f75dec14556bb39825261cbc5",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TicketWidget",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Waiting"
+        "variant": "Style=Today"
     },
     {
         "key": "4187237e76639b96098820087434f40d6522d7fd",
@@ -27370,13 +27860,31 @@
         "variant": "Style=Error"
     },
     {
-        "key": "8ed75bbaf9e0f3bf0a9f8b8fca73061de1522481",
+        "key": "fada5ed8dff80dbf2a6905d23e2bd71cc14459cc",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "TicketWidget",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=Today"
+        "variant": "Style=Skeleton"
+    },
+    {
+        "key": "18520d91f3a2a7d7a7f4dedd7c96e9a33551316b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TicketWidget",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=YoutTurn"
+    },
+    {
+        "key": "f433d66427f7e73f75dec14556bb39825261cbc5",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TicketWidget",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=Waiting"
     },
     {
         "key": "78f7a4f490487beb6ddf3167d220107d9888c309",
@@ -27759,22 +28267,13 @@
         "variant": "Variant=Overflow, Direction=Downwards"
     },
     {
-        "key": "6abdaee8d385707cfd4d83fb692b7b4a26963c53",
+        "key": "baf52fa7b5f63be753bd69e552c7e0972f30b5f0",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "TopAppBar / KeySection",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Type=Default, Actions=2 Icons"
-    },
-    {
-        "key": "109bf7d2b8d6d1b0de53ecf5f67aae90bdd68d93",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TopAppBar / KeySection",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Type=Default, Actions=1 Icons"
+        "variant": "Type=OnScroll, Actions=2 Icons"
     },
     {
         "key": "8181ef3eea2799b9aec22171ccf8f7d0ed0df4e0",
@@ -27786,31 +28285,13 @@
         "variant": "Type=OnScroll, Actions=Empty"
     },
     {
-        "key": "baf52fa7b5f63be753bd69e552c7e0972f30b5f0",
+        "key": "6abdaee8d385707cfd4d83fb692b7b4a26963c53",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "TopAppBar / KeySection",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Type=OnScroll, Actions=2 Icons"
-    },
-    {
-        "key": "ee3ec62302023b96b35b5455817ca4852c5bd25d",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TopAppBar / KeySection",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Type=Main, Actions=Empty"
-    },
-    {
-        "key": "04266a2a2499358e5cdabc01f3da39267fb9ae10",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TopAppBar / KeySection",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Type=Default, Actions=Empty"
+        "variant": "Type=Default, Actions=2 Icons"
     },
     {
         "key": "14683bc21ddd4629f17e82de89c533809f16f0d1",
@@ -27822,13 +28303,67 @@
         "variant": "Type=OnScroll, Actions=1 Icons"
     },
     {
-        "key": "0289126ede09f19fa59fe441b616e9a360665339",
+        "key": "04266a2a2499358e5cdabc01f3da39267fb9ae10",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TopAppBar / KeySection",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=Default, Actions=Empty"
+    },
+    {
+        "key": "109bf7d2b8d6d1b0de53ecf5f67aae90bdd68d93",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TopAppBar / KeySection",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=Default, Actions=1 Icons"
+    },
+    {
+        "key": "ee3ec62302023b96b35b5455817ca4852c5bd25d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TopAppBar / KeySection",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=Main, Actions=Empty"
+    },
+    {
+        "key": "02b42561103a7ba86cf9bbf844842af71053c374",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "TopAppBar / Modal",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Type=Title, Actions=2 Icon, Theme=Light"
+        "variant": "Type=Title, Actions=2 Icon, Theme=Static"
+    },
+    {
+        "key": "f1f032191b5c10774a37bf7e1c9ced240abbeb2f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TopAppBar / Modal",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=Title, Actions=Empty, Theme=Light"
+    },
+    {
+        "key": "9de3a156c8685b751a835d8ee5acb98412e0853a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TopAppBar / Modal",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=Empty, Actions=1 Icon, Theme=Static"
+    },
+    {
+        "key": "788cf64c8e741bfd55546e2c6d7dac31a27dafe5",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TopAppBar / Modal",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=Search, Actions=2 Icon, Theme=Light"
     },
     {
         "key": "2f1509635396adf69e3abf26da86b214267ede52",
@@ -27849,6 +28384,15 @@
         "variant": "Type=Search, Actions=1 Icon, Theme=Light"
     },
     {
+        "key": "13b1a2eba8943ba3ffb3f1db6824f8a0e6ae0fba",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TopAppBar / Modal",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=Title + Subtitle, Actions=2 Icon, Theme=Light"
+    },
+    {
         "key": "0c7893b54c83a2ea974ddcf454152b50f4aed0de",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -27858,58 +28402,31 @@
         "variant": "Type=Empty, Actions=2 Icon, Theme=Static"
     },
     {
-        "key": "b27c2bdac3b3cbac1a27283b6a48f4620b1c4d7c",
+        "key": "4c6d282644add72031991332b1cb3f75ddc9bd73",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "TopAppBar / Modal",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Type=Empty, Actions=1 Icon, Theme=Light"
+        "variant": "Type=Title, Actions=1 Icon, Theme=Light"
     },
     {
-        "key": "02b42561103a7ba86cf9bbf844842af71053c374",
+        "key": "22563e779bb41805406d1ad0d4053bf97cb48255",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "TopAppBar / Modal",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Type=Title, Actions=2 Icon, Theme=Static"
+        "variant": "Type=Stories, Actions=Empty, Theme=Static"
     },
     {
-        "key": "d4d0d6ccf7a0fc5ded4af6bdb0acd8ee43014ac5",
+        "key": "fe65d8731c205ff1532581f4ddedaa82c55fa494",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "TopAppBar / Modal",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Type=Stories, Actions=1 Icon, Theme=Static"
-    },
-    {
-        "key": "674924044f7ae9faa76474582a909c7e8ba544d5",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TopAppBar / Modal",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Type=Title + Subtitle, Actions=Empty, Theme=Light"
-    },
-    {
-        "key": "6f51fb6c3ddbb5f916fbcb625d56984bf327d6b3",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TopAppBar / Modal",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Type=Empty, Actions=2 Icon, Theme=Light"
-    },
-    {
-        "key": "788cf64c8e741bfd55546e2c6d7dac31a27dafe5",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TopAppBar / Modal",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Type=Search, Actions=2 Icon, Theme=Light"
+        "variant": "Type=Contextual, Actions=Empty, Theme=Light"
     },
     {
         "key": "fab2f60c47307d651eea699874630d5e85efa154",
@@ -27939,22 +28456,49 @@
         "variant": "Type=Empty, Actions=Empty, Theme=Light"
     },
     {
-        "key": "4c6d282644add72031991332b1cb3f75ddc9bd73",
+        "key": "d4d0d6ccf7a0fc5ded4af6bdb0acd8ee43014ac5",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "TopAppBar / Modal",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Type=Title, Actions=1 Icon, Theme=Light"
+        "variant": "Type=Stories, Actions=1 Icon, Theme=Static"
     },
     {
-        "key": "9de3a156c8685b751a835d8ee5acb98412e0853a",
+        "key": "0289126ede09f19fa59fe441b616e9a360665339",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "TopAppBar / Modal",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Type=Empty, Actions=1 Icon, Theme=Static"
+        "variant": "Type=Title, Actions=2 Icon, Theme=Light"
+    },
+    {
+        "key": "b27c2bdac3b3cbac1a27283b6a48f4620b1c4d7c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TopAppBar / Modal",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=Empty, Actions=1 Icon, Theme=Light"
+    },
+    {
+        "key": "674924044f7ae9faa76474582a909c7e8ba544d5",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TopAppBar / Modal",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=Title + Subtitle, Actions=Empty, Theme=Light"
+    },
+    {
+        "key": "6f51fb6c3ddbb5f916fbcb625d56984bf327d6b3",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TopAppBar / Modal",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=Empty, Actions=2 Icon, Theme=Light"
     },
     {
         "key": "c5914689f7996a11c76cdf78582dbc073bce80f6",
@@ -27964,24 +28508,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Type=Title, Actions=1 Icon, Theme=Static"
-    },
-    {
-        "key": "fe65d8731c205ff1532581f4ddedaa82c55fa494",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TopAppBar / Modal",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Type=Contextual, Actions=Empty, Theme=Light"
-    },
-    {
-        "key": "22563e779bb41805406d1ad0d4053bf97cb48255",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TopAppBar / Modal",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Type=Stories, Actions=Empty, Theme=Static"
     },
     {
         "key": "de81974ea068c65cf60d271098890c9b61bb217d",
@@ -28011,19 +28537,28 @@
         "variant": "Type=Contextual, Actions=2 Icon, Theme=Light"
     },
     {
-        "key": "13b1a2eba8943ba3ffb3f1db6824f8a0e6ae0fba",
+        "key": "bc7986096a3ad64d6605607e3d3748c20c918a8a",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
-        "name": "TopAppBar / Modal",
+        "name": "TopAppBar / PageHeader",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Type=Title + Subtitle, Actions=2 Icon, Theme=Light"
+        "variant": "Type=Title, Actions=1 Icon, Theme=Static"
     },
     {
-        "key": "f1f032191b5c10774a37bf7e1c9ced240abbeb2f",
+        "key": "7e3e49c11157d9de4c7ee054bc1f0b407607fb30",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
-        "name": "TopAppBar / Modal",
+        "name": "TopAppBar / PageHeader",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=Search, Actions=Empty, Theme=Light"
+    },
+    {
+        "key": "46ca4291de245f1ce326a8f0b14c1d821ed877a7",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TopAppBar / PageHeader",
         "description": "",
         "platform": "ANDROID",
         "variant": "Type=Title, Actions=Empty, Theme=Light"
@@ -28038,6 +28573,33 @@
         "variant": "Type=Title + Dot Subtitle, Actions=2 Icons, Theme=Light"
     },
     {
+        "key": "176cb879285c0c2f6f856eb1f552bda1c2bcca20",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TopAppBar / PageHeader",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=Search, Actions=2 Icons, Theme=Light"
+    },
+    {
+        "key": "7b4f4979b7f463794b50fe99554ef9397ae550ee",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TopAppBar / PageHeader",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=Title + Subtitle, Actions=2 Icons, Theme=Light"
+    },
+    {
+        "key": "79b621716e63fe42d0a7e35395da72874f8cfb33",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TopAppBar / PageHeader",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=Empty, Actions=Empty, Theme=Static"
+    },
+    {
         "key": "77002383cd60cb22e0d1ae576f117bfa2c53767a",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -28047,6 +28609,24 @@
         "variant": "Type=Title, Actions=1 Icon, Theme=Light"
     },
     {
+        "key": "6ad50160387d58a54bd1a0b95bdbaf4276dbca64",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TopAppBar / PageHeader",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=Title + Subtitle, Actions=1 Icon, Theme=Light"
+    },
+    {
+        "key": "65248d8e6b672e41b784f49aabdd823ff7bbd988",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TopAppBar / PageHeader",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=Stories, Actions=1 Icon, Theme=Static"
+    },
+    {
         "key": "4d0bcbf8f27d5f2304ec0500aca0e4d082d1fa08",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -28054,15 +28634,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Type=Empty, Actions=1 Icon, Theme=Light"
-    },
-    {
-        "key": "46ca4291de245f1ce326a8f0b14c1d821ed877a7",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TopAppBar / PageHeader",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Type=Title, Actions=Empty, Theme=Light"
     },
     {
         "key": "0bdc1eee322200aba7941265c8a22581e64a349e",
@@ -28128,60 +28699,6 @@
         "variant": "Type=Title, Actions=2 Icons, Theme=Light"
     },
     {
-        "key": "7e3e49c11157d9de4c7ee054bc1f0b407607fb30",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TopAppBar / PageHeader",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Type=Search, Actions=Empty, Theme=Light"
-    },
-    {
-        "key": "bc7986096a3ad64d6605607e3d3748c20c918a8a",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TopAppBar / PageHeader",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Type=Title, Actions=1 Icon, Theme=Static"
-    },
-    {
-        "key": "7b4f4979b7f463794b50fe99554ef9397ae550ee",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TopAppBar / PageHeader",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Type=Title + Subtitle, Actions=2 Icons, Theme=Light"
-    },
-    {
-        "key": "79b621716e63fe42d0a7e35395da72874f8cfb33",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TopAppBar / PageHeader",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Type=Empty, Actions=Empty, Theme=Static"
-    },
-    {
-        "key": "6ad50160387d58a54bd1a0b95bdbaf4276dbca64",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TopAppBar / PageHeader",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Type=Title + Subtitle, Actions=1 Icon, Theme=Light"
-    },
-    {
-        "key": "65248d8e6b672e41b784f49aabdd823ff7bbd988",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TopAppBar / PageHeader",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Type=Stories, Actions=1 Icon, Theme=Static"
-    },
-    {
         "key": "cfdc8a2dd293e4bdcbcddeffc3a5befbf218c70c",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -28218,15 +28735,6 @@
         "variant": "Type=Empty, Actions=1 Icon, Theme=Static"
     },
     {
-        "key": "176cb879285c0c2f6f856eb1f552bda1c2bcca20",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TopAppBar / PageHeader",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Type=Search, Actions=2 Icons, Theme=Light"
-    },
-    {
         "key": "f9c6e9f37c4debe7032cb399dbd9eff30d47d99f",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -28245,15 +28753,6 @@
         "variant": "Property 1=PaymentSegmentControl"
     },
     {
-        "key": "da630ee6fafcdcb95e0e1ff38275b8f680b05a78",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TopAppBar / Template",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Property 1=TabBar Modal"
-    },
-    {
         "key": "db7c06da49dc72efabc40f1d632d8837ffcc2bcb",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -28261,6 +28760,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Property 1=TabBar"
+    },
+    {
+        "key": "da630ee6fafcdcb95e0e1ff38275b8f680b05a78",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TopAppBar / Template",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Property 1=TabBar Modal"
     },
     {
         "key": "5f0800a39466b6f3f54a61c2bc118d8e4a9330fb",
@@ -28543,15 +29051,6 @@
         "variant": "Type=Hold, Horizontal Padding=None"
     },
     {
-        "key": "e5cc353cd6ebc849fb6efd88e462457117660987",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionalView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Horizontal Padding=None, Type=Payment"
-    },
-    {
         "key": "f4a0bac24c93c8d80a52212b681d5a34628af4d3",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -28559,6 +29058,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Horizontal Padding=Both, Type=Pending"
+    },
+    {
+        "key": "e9daaf2f9641a4ab14af514a5457be8c52b84584",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionalView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Horizontal Padding=Both, Type=Payment"
     },
     {
         "key": "7c975688e4e1d75c7984bd8cfd3d393ed60763c3",
@@ -28588,15 +29096,6 @@
         "variant": "Horizontal Padding=None, Type=Purchase"
     },
     {
-        "key": "1599479eb5966d922bce0968a18b5546dc8c45a3",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionalView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Horizontal Padding=None, Type=Transfer"
-    },
-    {
         "key": "598089cb9bf714508abbc35b1b29e46577e5cb63",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -28604,6 +29103,24 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Horizontal Padding=Both, Type=Top Up"
+    },
+    {
+        "key": "e5cc353cd6ebc849fb6efd88e462457117660987",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionalView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Horizontal Padding=None, Type=Payment"
+    },
+    {
+        "key": "1599479eb5966d922bce0968a18b5546dc8c45a3",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionalView",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Horizontal Padding=None, Type=Transfer"
     },
     {
         "key": "8ae3df5a50e289ea85d8a32d100f33d22845e747",
@@ -28622,15 +29139,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Horizontal Padding=Both, Type=Transfer"
-    },
-    {
-        "key": "e9daaf2f9641a4ab14af514a5457be8c52b84584",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionalView",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Horizontal Padding=Both, Type=Payment"
     },
     {
         "key": "fce820f41b57588f4d3fc1507f36d42ca23aa3a4",
@@ -28750,15 +29258,6 @@
         "variant": "Payment Type=Card, Destination=Empty"
     },
     {
-        "key": "dd0613d51d02555fd69da5840b9dd7bcd867393c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransferContent",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Payment Type=Card, Destination=Alfa"
-    },
-    {
         "key": "8d8e8b635dbc8986d382d94f9b76b95bdb0141b7",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -28766,15 +29265,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Payment Type=Card, Destination=Empty"
-    },
-    {
-        "key": "daddb9c00da40171abda8766c37e00c3e85f64b2",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransferContent",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Payment Type=Card, Destination=Sber"
     },
     {
         "key": "b8200596b8b31367d098ca256c6ef320ba03af26",
@@ -28802,15 +29292,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Payment Type=Mobile, Destination=Empty"
-    },
-    {
-        "key": "528f97c82a5a90f30badede2d8daefe7f19f1805",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransferContent",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Payment Type=Empty, Destination=Empty"
     },
     {
         "key": "35dc424bee00be9576042f35d23155d32e0d407e",
@@ -28847,6 +29328,33 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Payment Type=To Myself, Destination=Empty"
+    },
+    {
+        "key": "dd0613d51d02555fd69da5840b9dd7bcd867393c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransferContent",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Payment Type=Card, Destination=Alfa"
+    },
+    {
+        "key": "daddb9c00da40171abda8766c37e00c3e85f64b2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransferContent",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Payment Type=Card, Destination=Sber"
+    },
+    {
+        "key": "528f97c82a5a90f30badede2d8daefe7f19f1805",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransferContent",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Payment Type=Empty, Destination=Empty"
     },
     {
         "key": "0158d1e621320409199bbd90d9e9458301f07ccb",
@@ -29149,6 +29657,15 @@
         "variant": "Before=Message, After=Button, State=Pressed"
     },
     {
+        "key": "8209a6df0e1ce8873fe6014d07e24c5c6b76c4e9",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "VADeeplinkWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Before=None, After=Message, State=Pressed"
+    },
+    {
         "key": "d2d154441f6503ab1ee317e02ed64e2b788cda7e",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -29185,33 +29702,6 @@
         "variant": "Before=Button, After=Button, State=Pressed"
     },
     {
-        "key": "8209a6df0e1ce8873fe6014d07e24c5c6b76c4e9",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "VADeeplinkWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Before=None, After=Message, State=Pressed"
-    },
-    {
-        "key": "ee87e266b64c60d7161e2f17e9e47d1dce86c9e6",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "VADeeplinkWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Before=None, After=None, State=Pressed"
-    },
-    {
-        "key": "e5c93aacc7d96916bc9d3b5b2facac53781f9839",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "VADeeplinkWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Before=Message, After=Message, State=Pressed"
-    },
-    {
         "key": "b3a2d6cf96b0b8c51c83730b080fe9e5bbbcb010",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -29228,6 +29718,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Before=Message, After=None, State=Enabled"
+    },
+    {
+        "key": "905ceec5c6c46dcc2e1846f28029521dfed775c1",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "VADeeplinkWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Before=Button, After=Button, State=Enabled"
     },
     {
         "key": "631c05e9cc3af232fd4fd0df0d57d61464b7676c",
@@ -29266,13 +29765,22 @@
         "variant": "Before=None, After=Button, State=Enabled"
     },
     {
-        "key": "905ceec5c6c46dcc2e1846f28029521dfed775c1",
+        "key": "ee87e266b64c60d7161e2f17e9e47d1dce86c9e6",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
         "name": "VADeeplinkWrapper",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Before=Button, After=Button, State=Enabled"
+        "variant": "Before=None, After=None, State=Pressed"
+    },
+    {
+        "key": "e5c93aacc7d96916bc9d3b5b2facac53781f9839",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "VADeeplinkWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Before=Message, After=Message, State=Pressed"
     },
     {
         "key": "78e6d8fb4c3679e21c4385844ac881c7d5f66818",
