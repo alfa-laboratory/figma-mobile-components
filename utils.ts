@@ -93,6 +93,14 @@ export function nameAdapter(name: string) {
         name = 'IconView';
     }
 
+    if (name === 'ButtonView') {
+        name = 'MainButton';
+    }
+
+    if (name === '🤟ButtonViewTemplate') {
+        name = '🤟MainButtonTemplate';
+    }
+
     return name.toLowerCase();
 }
 
