@@ -72,6 +72,78 @@
         "variant": "Bubble Amount=6"
     },
     {
+        "key": "f422f37397ecbda3520e678423d8143eea9fa531",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "🤘AvatarWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Bubble Amount=7"
+    },
+    {
+        "key": "e23c33e43760eb4e4006b4dda3df003a571ef7ab",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "🤘AvatarWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Bubble Amount=6"
+    },
+    {
+        "key": "e045358df36632ce3f93b5ac0be517501cf8894a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "🤘AvatarWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Bubble Amount=1"
+    },
+    {
+        "key": "9c9b2078fe912a99ef100a48b538d6494828c309",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "🤘AvatarWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Bubble Amount=5"
+    },
+    {
+        "key": "775733ffce20d133817b74b94a634dc40a37964f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "🤘AvatarWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Bubble Amount=2"
+    },
+    {
+        "key": "736aef032b286e1e53cbeb450595fce390c2601c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "🤘AvatarWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Bubble Amount=4"
+    },
+    {
+        "key": "30536a2e27618e1a3599b9c21a02337142b70b97",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "🤘AvatarWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Bubble Amount=8"
+    },
+    {
+        "key": "2c0544f57f7d43b1e145469d6932d36bfb8c37b1",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "🤘AvatarWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Bubble Amount=3"
+    },
+    {
         "key": "db6c150086b603337e3c1d8577addddb8816d4c9",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -1756,60 +1828,6 @@
         "variant": "Graphic=Off, Subtitle=Off, Subtitle 2=On, Actions=Off"
     },
     {
-        "key": "6d9a826acf33e0d4b13cccdebacf2cf8ad6f92ee",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Icon, Subtitle=On, Subtitle 2=Off, Actions=Off"
-    },
-    {
-        "key": "5fbf28ea0eae31bbede53f17c72b997ca75736c4",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Image 128h, Subtitle=Off, Subtitle 2=On, Actions=Button"
-    },
-    {
-        "key": "3735c298a40e1a3dbc97ebfe44c042ee89777e57",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Image 128h, Subtitle=On, Subtitle 2=Off, Actions=Off"
-    },
-    {
-        "key": "489a996e9eeb0e4cd236c2f6edc8a03a57595e62",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Icon, Subtitle=Off, Subtitle 2=On, Actions=Off"
-    },
-    {
-        "key": "5914fbf47e59ae1f4d3c8cef0d3708c600d37fac",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Icon, Subtitle=Off, Subtitle 2=On, Actions=Button"
-    },
-    {
-        "key": "217d6e93fdf6ad3469ae53dd3cb42b3391b12d5a",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Icon, Subtitle=Off, Subtitle 2=On, Actions=Rate"
-    },
-    {
         "key": "80b37a5909d76161feaca297477352b6fcc54e9e",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -1817,33 +1835,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Graphic=Icon, Subtitle=On, Subtitle 2=Off, Actions=Button"
-    },
-    {
-        "key": "be204e0282120db76f7bd7661e32b4282c94eab1",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Off, Subtitle=On, Subtitle 2=Off, Actions=Off"
-    },
-    {
-        "key": "6da3e67f1e7fe336cfb2eceb21a5a6e02c3074a8",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Icon, Subtitle=On, Subtitle 2=Off, Actions=Rate"
-    },
-    {
-        "key": "bfc675d8a3f207b832b79e7c4fa6dbe529cb858b",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Image 128h, Subtitle=Off, Subtitle 2=On, Actions=Off"
     },
     {
         "key": "73f0c42692fcba2f7961d9589f9e15117e6b7f10",
@@ -1855,49 +1846,22 @@
         "variant": "Graphic=Image 160h, Subtitle=Off, Subtitle 2=On, Actions=Button"
     },
     {
-        "key": "e0088efe2dfc89e8f9faf7025ae2c68f0e7ac5bd",
+        "key": "6da3e67f1e7fe336cfb2eceb21a5a6e02c3074a8",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "AlertView",
         "description": "",
         "platform": "IOS",
-        "variant": "Graphic=CoverImage (4:3), Subtitle=Off, Subtitle 2=On, Actions=Off"
+        "variant": "Graphic=Icon, Subtitle=On, Subtitle 2=Off, Actions=Rate"
     },
     {
-        "key": "2bc6a4e86c6286c60c4ad498ac52ccae6b398412",
+        "key": "6d9a826acf33e0d4b13cccdebacf2cf8ad6f92ee",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "AlertView",
         "description": "",
         "platform": "IOS",
-        "variant": "Graphic=Image 128h, Subtitle=On, Subtitle 2=Off, Actions=Button"
-    },
-    {
-        "key": "3f30d692373fa8a7b035484b650d416662f0c51f",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Image 128h, Subtitle=On, Subtitle 2=On, Actions=Button"
-    },
-    {
-        "key": "40ffc3880c1fe18b4b724a290bea133ebc927a9d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Image 128h, Subtitle=On, Subtitle 2=On, Actions=Off"
-    },
-    {
-        "key": "c2c54b4a9360b8b02b03c97e3423206d91d52e93",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Image 160h, Subtitle=On, Subtitle 2=On, Actions=Button"
+        "variant": "Graphic=Icon, Subtitle=On, Subtitle 2=Off, Actions=Off"
     },
     {
         "key": "67de82a5b2d3be51f62d4cf322e070fadc7073c4",
@@ -1909,31 +1873,49 @@
         "variant": "Graphic=CoverImage (4:3), Subtitle=On, Subtitle 2=On, Actions=Off"
     },
     {
-        "key": "b7edaaf42011173cb164467efb44c549e933724f",
+        "key": "5fbf28ea0eae31bbede53f17c72b997ca75736c4",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "AlertView",
         "description": "",
         "platform": "IOS",
-        "variant": "Graphic=Image 160h, Subtitle=On, Subtitle 2=On, Actions=Off"
+        "variant": "Graphic=Image 128h, Subtitle=Off, Subtitle 2=On, Actions=Button"
     },
     {
-        "key": "e36b6e34a55718b6a7b260b195499d7b8d522ac4",
+        "key": "5914fbf47e59ae1f4d3c8cef0d3708c600d37fac",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "AlertView",
         "description": "",
         "platform": "IOS",
-        "variant": "Graphic=Image 160h, Subtitle=On, Subtitle 2=Off, Actions=Off"
+        "variant": "Graphic=Icon, Subtitle=Off, Subtitle 2=On, Actions=Button"
     },
     {
-        "key": "22c9f4903538df60203a06aa8d723e29fce70a14",
+        "key": "489a996e9eeb0e4cd236c2f6edc8a03a57595e62",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "AlertView",
         "description": "",
         "platform": "IOS",
-        "variant": "Graphic=CoverImage (4:3), Subtitle=On, Subtitle 2=Off, Actions=Off"
+        "variant": "Graphic=Icon, Subtitle=Off, Subtitle 2=On, Actions=Off"
+    },
+    {
+        "key": "40ffc3880c1fe18b4b724a290bea133ebc927a9d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "AlertView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 128h, Subtitle=On, Subtitle 2=On, Actions=Off"
+    },
+    {
+        "key": "3f30d692373fa8a7b035484b650d416662f0c51f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "AlertView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 128h, Subtitle=On, Subtitle 2=On, Actions=Button"
     },
     {
         "key": "3adf6fe153634f2f4560733b606a44897e7c52f1",
@@ -1945,6 +1927,42 @@
         "variant": "Graphic=Image 160h, Subtitle=Off, Subtitle 2=On, Actions=Off"
     },
     {
+        "key": "3735c298a40e1a3dbc97ebfe44c042ee89777e57",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "AlertView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 128h, Subtitle=On, Subtitle 2=Off, Actions=Off"
+    },
+    {
+        "key": "2bc6a4e86c6286c60c4ad498ac52ccae6b398412",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "AlertView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 128h, Subtitle=On, Subtitle 2=Off, Actions=Button"
+    },
+    {
+        "key": "22c9f4903538df60203a06aa8d723e29fce70a14",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "AlertView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=CoverImage (4:3), Subtitle=On, Subtitle 2=Off, Actions=Off"
+    },
+    {
+        "key": "217d6e93fdf6ad3469ae53dd3cb42b3391b12d5a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "AlertView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Icon, Subtitle=Off, Subtitle 2=On, Actions=Rate"
+    },
+    {
         "key": "ebc90e1afbdfdd31c41788be12b412f3f48fedd1",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -1952,6 +1970,60 @@
         "description": "",
         "platform": "IOS",
         "variant": "Graphic=Image 160h, Subtitle=On, Subtitle 2=Off, Actions=Button"
+    },
+    {
+        "key": "e36b6e34a55718b6a7b260b195499d7b8d522ac4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "AlertView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 160h, Subtitle=On, Subtitle 2=Off, Actions=Off"
+    },
+    {
+        "key": "e0088efe2dfc89e8f9faf7025ae2c68f0e7ac5bd",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "AlertView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=CoverImage (4:3), Subtitle=Off, Subtitle 2=On, Actions=Off"
+    },
+    {
+        "key": "c2c54b4a9360b8b02b03c97e3423206d91d52e93",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "AlertView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 160h, Subtitle=On, Subtitle 2=On, Actions=Button"
+    },
+    {
+        "key": "bfc675d8a3f207b832b79e7c4fa6dbe529cb858b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "AlertView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 128h, Subtitle=Off, Subtitle 2=On, Actions=Off"
+    },
+    {
+        "key": "be204e0282120db76f7bd7661e32b4282c94eab1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "AlertView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Off, Subtitle=On, Subtitle 2=Off, Actions=Off"
+    },
+    {
+        "key": "b7edaaf42011173cb164467efb44c549e933724f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "AlertView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 160h, Subtitle=On, Subtitle 2=On, Actions=Off"
     },
     {
         "key": "da6dcbcd4ecccf17723954bbe9bbdcc2c9f1a2c6",
@@ -3058,6 +3130,42 @@
         "variant": "Type=Skeleton"
     },
     {
+        "key": "7385e41e71d1f4dd180a062574913771db309ff5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "BannerWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=RiskView, Style=Fill, State=Default"
+    },
+    {
+        "key": "1f85d4cd097ae191017812518b475f7bfe4c25e5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "BannerWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=ProductView, Style=Fill, State=Default"
+    },
+    {
+        "key": "090ef96554564945d29ed92c67f40d1e76bed0f4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "BannerWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=HorizontalProgressView, Style=Fill, State=Default"
+    },
+    {
+        "key": "07463e360c2496d4af8c17c63f66ef089e9d63f4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "BannerWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Preset=DataView, Style=Stroke, State=Default"
+    },
+    {
         "key": "f8b0a3c92fdb35ae8ab4e55ea9dce84f7500df13",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -3094,15 +3202,6 @@
         "variant": "Preset=DataView, Style=Shadow, State=Default"
     },
     {
-        "key": "7385e41e71d1f4dd180a062574913771db309ff5",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "BannerWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=RiskView, Style=Fill, State=Default"
-    },
-    {
         "key": "56f8909ae47dd30ba5d67c4afeb0d54bbdec51d3",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -3137,33 +3236,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Preset=ErrorLoadingView, Style=Fill, State=Default"
-    },
-    {
-        "key": "1f85d4cd097ae191017812518b475f7bfe4c25e5",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "BannerWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=ProductView, Style=Fill, State=Default"
-    },
-    {
-        "key": "090ef96554564945d29ed92c67f40d1e76bed0f4",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "BannerWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=HorizontalProgressView, Style=Fill, State=Default"
-    },
-    {
-        "key": "07463e360c2496d4af8c17c63f66ef089e9d63f4",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "BannerWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Preset=DataView, Style=Stroke, State=Default"
     },
     {
         "key": "f5c04eab39fc09d5d5cbbb842b0387ca0e65d205",
@@ -3381,15 +3453,6 @@
         "variant": "Status=LOADING"
     },
     {
-        "key": "607c460c8232043150cbd506a5fcca28f71d6f3d",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "BenefitsWidget",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Status=ERROR"
-    },
-    {
         "key": "5440e44d6ab9290c45c3db06acccf82a7b678ac8",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -3415,6 +3478,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Status=COMPLETE"
+    },
+    {
+        "key": "607c460c8232043150cbd506a5fcca28f71d6f3d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "BenefitsWidget",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Status=ERROR"
     },
     {
         "key": "fb3f5e95eb721395fb485056cc6fc4319caf978d",
@@ -6575,51 +6647,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "df5c69b68f678cb6388849fc7cd61122493c54a4",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ChevronWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "View=DataView No Icon, State=Contracted, Horizontal Padding=None"
-    },
-    {
-        "key": "71030b990e82497af0501bbdee893405014b1429",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ChevronWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "View=DataView, State=Contracted, Horizontal Padding=None"
-    },
-    {
-        "key": "ff80afe53880372b53e7c50a76f343761dfe4ea2",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ChevronWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "View=ProgressView, State=Contracted, Horizontal Padding=Both"
-    },
-    {
-        "key": "fcbc249d5077155488324d4c5c00616b01c22875",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ChevronWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "View=DataView No Icon, State=Expanded, Horizontal Padding=None"
-    },
-    {
-        "key": "f6289bae8c707bf134f3b924fc1d7029b8398660",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ChevronWrapper",
-        "description": "",
-        "platform": "IOS",
-        "variant": "View=DataView No Icon, State=Expanded, Horizontal Padding=Both"
-    },
-    {
         "key": "f0fc782bf8f20a3a9f5c7009d68a658642480b2e",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -6647,6 +6674,15 @@
         "variant": "View=DataView No Icon, State=Contracted, Horizontal Padding=Both"
     },
     {
+        "key": "df5c69b68f678cb6388849fc7cd61122493c54a4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ChevronWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "View=DataView No Icon, State=Contracted, Horizontal Padding=None"
+    },
+    {
         "key": "7e2777278a00355854f33d96ecc483eb91d7a69d",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -6663,6 +6699,33 @@
         "description": "",
         "platform": "IOS",
         "variant": "View=TextView, State=Expanded, Horizontal Padding=Both"
+    },
+    {
+        "key": "71030b990e82497af0501bbdee893405014b1429",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ChevronWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "View=DataView, State=Contracted, Horizontal Padding=None"
+    },
+    {
+        "key": "38c4bd34c6e3f731a60ecb95b9dec7d9dc77d540",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ChevronWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "View=TextView, State=Contracted, Horizontal Padding=Both"
+    },
+    {
+        "key": "3767dcf1f7be387b008b32cb81ee087ae297a8ef",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ChevronWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "View=CardView, State=Contracted, Horizontal Padding=None"
     },
     {
         "key": "184ecc5c8498bba4cdb00900c3b882a4748a46e9",
@@ -6683,22 +6746,31 @@
         "variant": "View=DataView, State=Contracted, Horizontal Padding=Both"
     },
     {
-        "key": "38c4bd34c6e3f731a60ecb95b9dec7d9dc77d540",
+        "key": "ff80afe53880372b53e7c50a76f343761dfe4ea2",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "ChevronWrapper",
         "description": "",
         "platform": "IOS",
-        "variant": "View=TextView, State=Contracted, Horizontal Padding=Both"
+        "variant": "View=ProgressView, State=Contracted, Horizontal Padding=Both"
     },
     {
-        "key": "3767dcf1f7be387b008b32cb81ee087ae297a8ef",
+        "key": "fcbc249d5077155488324d4c5c00616b01c22875",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "ChevronWrapper",
         "description": "",
         "platform": "IOS",
-        "variant": "View=CardView, State=Contracted, Horizontal Padding=None"
+        "variant": "View=DataView No Icon, State=Expanded, Horizontal Padding=None"
+    },
+    {
+        "key": "f6289bae8c707bf134f3b924fc1d7029b8398660",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ChevronWrapper",
+        "description": "",
+        "platform": "IOS",
+        "variant": "View=DataView No Icon, State=Expanded, Horizontal Padding=Both"
     },
     {
         "key": "cc7d340abba45938f49d341465ef172ef68aef34",
@@ -15977,6 +16049,24 @@
         "variant": "Type=TRANSACTIONAL"
     },
     {
+        "key": "7e6302f81f7f2dfc6e8886f72f5353d156c78d71",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "TYPE=SWIFT, State=Empty"
+    },
+    {
+        "key": "355624e696d2ab3842ba4b6c981a3c8618e7ee84",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "DYNAMIC",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "TYPE=SWIFT, State=Error"
+    },
+    {
         "key": "b59c26cb8bb44d612ad776c18db917ced57a02af",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -16002,24 +16092,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "TYPE=BIC, State=Error"
-    },
-    {
-        "key": "355624e696d2ab3842ba4b6c981a3c8618e7ee84",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "TYPE=SWIFT, State=Error"
-    },
-    {
-        "key": "7e6302f81f7f2dfc6e8886f72f5353d156c78d71",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "DYNAMIC",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "TYPE=SWIFT, State=Empty"
     },
     {
         "key": "519009efc85e0d97333912e374ef733ae8e019fa",
@@ -16123,6 +16195,15 @@
         "variant": "Style=FullScreen, Theme=Invertible, Graphic=Icon"
     },
     {
+        "key": "dd091b0169caaf6c6c011b3865653fee9e0bf053",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "EmptyState",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Compact, Theme=Invertible, Graphic=Graphic"
+    },
+    {
         "key": "a5b652406f1395fc39ef828d96501f84b2f7dd55",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -16175,15 +16256,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Style=Compact, Theme=Static, Graphic=Icon"
-    },
-    {
-        "key": "dd091b0169caaf6c6c011b3865653fee9e0bf053",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "EmptyState",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Compact, Theme=Invertible, Graphic=Graphic"
     },
     {
         "key": "f516016cd11a54e4658e6adb2dd7d364ae7344ef",
@@ -23627,15 +23699,6 @@
         "platform": "IOS"
     },
     {
-        "key": "ffe123ff0c9839c2b60605450a90b56be3ea0335",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ManagerInfoWidget",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Service=А-Клуб, ManagerAttached=Waiting"
-    },
-    {
         "key": "e9b98a7b57dd2dedb3efbe770668ebd74742c50b",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -23715,6 +23778,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Service=Премиум, ManagerAttached=Waiting"
+    },
+    {
+        "key": "ffe123ff0c9839c2b60605450a90b56be3ea0335",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ManagerInfoWidget",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Service=А-Клуб, ManagerAttached=Waiting"
     },
     {
         "key": "dd7f923508b5ef0022df1e9e2efe2d5295169c93",
@@ -24626,6 +24698,15 @@
         "variant": "Type=Defail Info, State=Expanded"
     },
     {
+        "key": "f504da5bb1a5fdc25c0275fa27d8c07ff256aa52",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "MapModule",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Type=Defail Info, State=Collapse"
+    },
+    {
         "key": "846255459ecf2cd29043b9ec9a39b2673b8e23a5",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -24660,15 +24741,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Type=Map, State=Expanded"
-    },
-    {
-        "key": "f504da5bb1a5fdc25c0275fa27d8c07ff256aa52",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "MapModule",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Type=Defail Info, State=Collapse"
     },
     {
         "key": "fdd16ea3476ceecebe250ab31c6336764d78dee1",
@@ -29321,15 +29393,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "9800b09f18776362dec38d2c19efcb089053e3e7",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "PFAWidgetContent",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "State=Loading"
-    },
-    {
         "key": "58e5f920e7a6f79de17a614d6bf0c7dfcf164326",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -29339,15 +29402,6 @@
         "variant": "State=Error"
     },
     {
-        "key": "4614631178703d8128711bdb20ed7540f8e89d8f",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "PFAWidgetContent",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "State=Default"
-    },
-    {
         "key": "2c96442328c2cd28b9f38fcac26507d76e8cbfe8",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -29355,6 +29409,24 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "State=Variant2"
+    },
+    {
+        "key": "9800b09f18776362dec38d2c19efcb089053e3e7",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "PFAWidgetContent",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "State=Loading"
+    },
+    {
+        "key": "4614631178703d8128711bdb20ed7540f8e89d8f",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "PFAWidgetContent",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "State=Default"
     },
     {
         "key": "f065d582186614460c55a154b6bd3feb69889855",
@@ -31621,6 +31693,51 @@
         "variant": "State=Off, Enabled=Disabled"
     },
     {
+        "key": "8afd8154a10264e9acb7911f61fbd0f8b566d643",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "RangeSlider",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Discrete, Progress=100%, Divisions=3, Skeleton=No, Labels=Yes"
+    },
+    {
+        "key": "6f72bc066681ffb75f917d1b39155f50462c3fff",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "RangeSlider",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Continuous, Progress=0%, Divisions=None, Skeleton=Yes, Labels=No"
+    },
+    {
+        "key": "58625a8480ffeb7f2cd66003e2ca6217fd035339",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "RangeSlider",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Continuous, Progress=0%, Divisions=None, Skeleton=No, Labels=Yes"
+    },
+    {
+        "key": "4604dd67ed4bbb6eb25168bfcf7d2436f4dc57df",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "RangeSlider",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Continuous, Progress=0%, Divisions=None, Skeleton=Yes, Labels=Yes"
+    },
+    {
+        "key": "45783922fc37209db8f81436ec213da680719579",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "RangeSlider",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Discrete, Progress=0%, Divisions=3, Skeleton=No, Labels=Yes"
+    },
+    {
         "key": "2164f32e3b9e360a197afa87132818418e248474",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -31682,51 +31799,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Type=Discrete, Progress=66%, Divisions=3, Skeleton=No, Labels=Yes"
-    },
-    {
-        "key": "8afd8154a10264e9acb7911f61fbd0f8b566d643",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "RangeSlider",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Discrete, Progress=100%, Divisions=3, Skeleton=No, Labels=Yes"
-    },
-    {
-        "key": "6f72bc066681ffb75f917d1b39155f50462c3fff",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "RangeSlider",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Continuous, Progress=0%, Divisions=None, Skeleton=Yes, Labels=No"
-    },
-    {
-        "key": "58625a8480ffeb7f2cd66003e2ca6217fd035339",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "RangeSlider",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Continuous, Progress=0%, Divisions=None, Skeleton=No, Labels=Yes"
-    },
-    {
-        "key": "4604dd67ed4bbb6eb25168bfcf7d2436f4dc57df",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "RangeSlider",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Continuous, Progress=0%, Divisions=None, Skeleton=Yes, Labels=Yes"
-    },
-    {
-        "key": "45783922fc37209db8f81436ec213da680719579",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "RangeSlider",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Discrete, Progress=0%, Divisions=3, Skeleton=No, Labels=Yes"
     },
     {
         "key": "d16c54639d22509ca3c2d8bdd7c36c8ea3babdaa",
@@ -31808,15 +31880,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Type=Continuous, Progress=33%, Divisions=None, Skeleton=No, Labels=No"
-    },
-    {
-        "key": "01bd78c9c25c0a4df4b62a9d6365c10592c295b8",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "RangeSliderView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Default, Horizontal Padding=None, Skeleton=Yes"
     },
     {
         "key": "f323d4d83f98f3df6b88463d0599b26ebbc99a84",
@@ -31916,6 +31979,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Style=Revert, Horizontal Padding=Only left, Skeleton=No"
+    },
+    {
+        "key": "01bd78c9c25c0a4df4b62a9d6365c10592c295b8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "RangeSliderView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Default, Horizontal Padding=None, Skeleton=Yes"
     },
     {
         "key": "f583ffe86a61a167f2b1d6261fa7cdb9655d49ef",
@@ -32064,15 +32136,6 @@
         "platform": "IOS"
     },
     {
-        "key": "fec908bcdce473ccc7d414324c10f7bb1ea7d8c6",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ResultScreen",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Presets=Transfer"
-    },
-    {
         "key": "dc6d1363d4a1bfd4f9b527493c8af80ecb6e5130",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -32134,6 +32197,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Presets=SuccessScreen"
+    },
+    {
+        "key": "fec908bcdce473ccc7d414324c10f7bb1ea7d8c6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ResultScreen",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Presets=Transfer"
     },
     {
         "key": "f3e4684c7532732661fdaaedc20cb1e704f4cd6f",
@@ -34568,6 +34640,15 @@
         "platform": "IOS"
     },
     {
+        "key": "e58065fb4998d8ffb4f6ac204461d5355e01358e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "SquareCollectionWidget",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Presets=Premium, State=Error"
+    },
+    {
         "key": "cece1dc03c576ca2b7fd165ffbc5d8ad45b10c62",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -34575,6 +34656,42 @@
         "description": "",
         "platform": "IOS",
         "variant": "Presets=Premium, State=Default"
+    },
+    {
+        "key": "c8f0bb17bdfd1a463c8a6c5ff7475cf3898133d0",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "SquareCollectionWidget",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Presets=Branch, State=Default"
+    },
+    {
+        "key": "460ae50d3e222116ab5ca1cf2f3d22f0976de67f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "SquareCollectionWidget",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Presets=Ghost Bonus, State=Default"
+    },
+    {
+        "key": "16af2bb0014ae47cab66e463278ce9653af00d27",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "SquareCollectionWidget",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Presets=Premium, State=Skeleton"
+    },
+    {
+        "key": "110f94785813926227b64eac059c8bd56ab6da7e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "SquareCollectionWidget",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Presets=Bonus, State=Default"
     },
     {
         "key": "e02aa9e2fd0b67a7142d9400fab2647983cd9329",
@@ -37706,148 +37823,13 @@
         "platform": "IOS"
     },
     {
-        "key": "eb43080e689dcc4ccd6beae28c67c94eacfcbbfb",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=List, Addons=Value, Horizontal Margin=None, Skeleton=No, Multiline=Yes"
-    },
-    {
-        "key": "e72a4d0d1787bf56050b0b09b489997451fcf685",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Only left, Skeleton=Yes, Multiline=Yes"
-    },
-    {
-        "key": "e0bfdf2afd42e907413ae217714e18d86295492c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=Only left, Skeleton=Yes, Multiline=Yes"
-    },
-    {
-        "key": "d03b4141fa8c4c50d811516063ecbe511ae2db1c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=List, Addons=None, Horizontal Margin=Only left, Skeleton=No, Multiline=Yes"
-    },
-    {
-        "key": "cd0824684753035eac7288ff999ee0fb59033e59",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=List, Addons=Value, Horizontal Margin=Only right, Skeleton=No, Multiline=Yes"
-    },
-    {
-        "key": "c6e3ae25aacf7a5652fc4135a21eeee26534ebfb",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=MD / H2, Addons=None, Horizontal Margin=Both, Skeleton=No, Multiline=No"
-    },
-    {
-        "key": "c22fbed4bb92e969d1f6c6843a71c007470f395c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=Only right, Skeleton=Yes, Multiline=No"
-    },
-    {
-        "key": "b8f6e714c0bf9b7ab5f2705a9cfb42f3699002fa",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=List, Addons=None, Horizontal Margin=Both, Skeleton=No, Multiline=Yes"
-    },
-    {
-        "key": "b7078b6d1bc2fd27e56b22fec787f65344e9f849",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Both, Skeleton=Yes, Multiline=Yes"
-    },
-    {
-        "key": "b5aa56c0c746da5fe4dc8c81ba81d36af609a438",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=Only right, Skeleton=Yes, Multiline=Yes"
-    },
-    {
-        "key": "b364f13a513130b80a8ecb9ed626b912a150c60d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=MD / H2, Addons=None, Horizontal Margin=Only left, Skeleton=No, Multiline=No"
-    },
-    {
-        "key": "ac9620fe7320be142cc3685c730433ae7dfb7725",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=None, Skeleton=Yes, Multiline=No"
-    },
-    {
-        "key": "ab671fb136804e655380a096aaab38b60422a946",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Only left, Skeleton=Yes, Multiline=No"
-    },
-    {
-        "key": "a5de332ec769ec712402ae790c5087d9b2c2c4ec",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=List, Addons=Value, Horizontal Margin=Both, Skeleton=No, Multiline=Yes"
-    },
-    {
-        "key": "99a3eee7da6366b0eead5b1fa7e1ba4d00e7fa39",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=MD / H3, Addons=None, Horizontal Margin=Both, Skeleton=No, Multiline=No"
-    },
-    {
         "key": "96e1a08e8b6f1f9c09c834c6061bfe79f72a291e",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TextView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=MD / H4, Addons=None, Horizontal Margin=None, Skeleton=No, Multiline=No"
+        "variant": "Style=MD / H4, Addons=None, Horizontal Margin=None, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "9633640fbc31c8813bd944bd901f4794ddb9bd9a",
@@ -37856,7 +37838,7 @@
         "name": "TextView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=None, Skeleton=Yes, Multiline=Yes"
+        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=None, Skeleton=On, Multiline=On"
     },
     {
         "key": "93811fb447763934ac132d3cd8e821002f6e71c4",
@@ -37865,7 +37847,7 @@
         "name": "TextView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=MD / H4, Addons=None, Horizontal Margin=Only right, Skeleton=No, Multiline=No"
+        "variant": "Style=MD / H4, Addons=None, Horizontal Margin=Only right, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "8883ed96241948c5fbde65535ab943702f29a84e",
@@ -37874,7 +37856,7 @@
         "name": "TextView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=Both, Skeleton=Yes, Multiline=No"
+        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=Both, Skeleton=On, Multiline=Off"
     },
     {
         "key": "71b0e4cb6448730e7f02fe6228447a634ef0074a",
@@ -37883,7 +37865,7 @@
         "name": "TextView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=MD / H2, Addons=None, Horizontal Margin=Only right, Skeleton=No, Multiline=No"
+        "variant": "Style=MD / H2, Addons=None, Horizontal Margin=Only right, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "70a7bed11fab565b7aeddd89dc9c1bcbc3b6db67",
@@ -37892,7 +37874,7 @@
         "name": "TextView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Only right, Skeleton=Yes, Multiline=No"
+        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Only right, Skeleton=On, Multiline=Off"
     },
     {
         "key": "6fb9f3e51afc29d471f89402102d99f36e8f3291",
@@ -37901,7 +37883,7 @@
         "name": "TextView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=MD / H3, Addons=None, Horizontal Margin=Only right, Skeleton=No, Multiline=No"
+        "variant": "Style=MD / H3, Addons=None, Horizontal Margin=Only right, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "69aed411d597a8ccda46dd3ff142d2890277e9c3",
@@ -37910,7 +37892,7 @@
         "name": "TextView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=None, Skeleton=Yes, Multiline=No"
+        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=None, Skeleton=On, Multiline=Off"
     },
     {
         "key": "5afd8d4d0b6df27501db8a305aa97abd567372ba",
@@ -37919,7 +37901,7 @@
         "name": "TextView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=Both, Skeleton=Yes, Multiline=Yes"
+        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=Both, Skeleton=On, Multiline=On"
     },
     {
         "key": "5aecc60b1375c31622da0f3a2a4c06203e848a15",
@@ -37928,7 +37910,7 @@
         "name": "TextView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=Only left, Skeleton=Yes, Multiline=No"
+        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=Only left, Skeleton=On, Multiline=Off"
     },
     {
         "key": "58cc7766e0dbf62fc49942962c68e9f9cb97d034",
@@ -37937,7 +37919,7 @@
         "name": "TextView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=MD / H1, Addons=None, Horizontal Margin=None, Skeleton=No, Multiline=No"
+        "variant": "Style=MD / H1, Addons=None, Horizontal Margin=None, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "5211d6045600f02c49ed96f9fe0c68a93a54d07f",
@@ -37946,61 +37928,7 @@
         "name": "TextView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=MD / H1, Addons=None, Horizontal Margin=Both, Skeleton=No, Multiline=No"
-    },
-    {
-        "key": "27a1463c3323ff874c66de2a677250f7fa3b3f57",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Only right, Skeleton=Yes, Multiline=Yes"
-    },
-    {
-        "key": "1ff827a4df01ebb513480cfaf8c094f7b357b941",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=MD / H1, Addons=None, Horizontal Margin=Only right, Skeleton=No, Multiline=No"
-    },
-    {
-        "key": "13ee25d3782f694cd70972729096780c2e5675b9",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=MD / H1, Addons=None, Horizontal Margin=Only left, Skeleton=No, Multiline=No"
-    },
-    {
-        "key": "0f88470b55a390ef3014f8d8f0ea6dfce396e293",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=MD / H3, Addons=None, Horizontal Margin=Only left, Skeleton=No, Multiline=No"
-    },
-    {
-        "key": "035b317cfdf9f83ad01fca18effc1e23e066266e",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=MD / H4, Addons=None, Horizontal Margin=Only left, Skeleton=No, Multiline=No"
-    },
-    {
-        "key": "007c713f6053da4ea2d4f5956df305b1246c5ebb",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=MD / H4, Addons=None, Horizontal Margin=Both, Skeleton=No, Multiline=No"
+        "variant": "Style=MD / H1, Addons=None, Horizontal Margin=Both, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "3fbb28fc10baa8648a8b9bb57105114067ec65ce",
@@ -38009,7 +37937,7 @@
         "name": "TextView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=List, Addons=Value, Horizontal Margin=Only left, Skeleton=No, Multiline=Yes"
+        "variant": "Style=List, Addons=Value, Horizontal Margin=Only left, Skeleton=Off, Multiline=On"
     },
     {
         "key": "3f524b9cd9fdfa8e0bba245f801456afb49440b3",
@@ -38018,7 +37946,7 @@
         "name": "TextView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=MD / H2, Addons=None, Horizontal Margin=None, Skeleton=No, Multiline=No"
+        "variant": "Style=MD / H2, Addons=None, Horizontal Margin=None, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "379008adf130658d8be0361679b017755c1b4e4c",
@@ -38027,7 +37955,7 @@
         "name": "TextView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=MD / H3, Addons=None, Horizontal Margin=None, Skeleton=No, Multiline=No"
+        "variant": "Style=MD / H3, Addons=None, Horizontal Margin=None, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "3692a33b4fed004f8adbd796243ed9678051fd1d",
@@ -38036,7 +37964,7 @@
         "name": "TextView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=None, Skeleton=Yes, Multiline=Yes"
+        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=None, Skeleton=On, Multiline=On"
     },
     {
         "key": "34650d74d2eed1d50b23cfc2d4a322adc78e2f2f",
@@ -38045,7 +37973,7 @@
         "name": "TextView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=List, Addons=None, Horizontal Margin=Only right, Skeleton=No, Multiline=Yes"
+        "variant": "Style=List, Addons=None, Horizontal Margin=Only right, Skeleton=Off, Multiline=On"
     },
     {
         "key": "2e0659307ec1b292b2f5a440fd757d1b1503cf86",
@@ -38054,7 +37982,7 @@
         "name": "TextView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Both, Skeleton=Yes, Multiline=No"
+        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Both, Skeleton=On, Multiline=Off"
     },
     {
         "key": "2d4a4c0a4cf65d76f9994adbed24f15afeb6778f",
@@ -38063,7 +37991,196 @@
         "name": "TextView",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=List, Addons=None, Horizontal Margin=None, Skeleton=No, Multiline=Yes"
+        "variant": "Style=List, Addons=None, Horizontal Margin=None, Skeleton=Off, Multiline=On"
+    },
+    {
+        "key": "27a1463c3323ff874c66de2a677250f7fa3b3f57",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Only right, Skeleton=On, Multiline=On"
+    },
+    {
+        "key": "1ff827a4df01ebb513480cfaf8c094f7b357b941",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=MD / H1, Addons=None, Horizontal Margin=Only right, Skeleton=Off, Multiline=Off"
+    },
+    {
+        "key": "13ee25d3782f694cd70972729096780c2e5675b9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=MD / H1, Addons=None, Horizontal Margin=Only left, Skeleton=Off, Multiline=Off"
+    },
+    {
+        "key": "0f88470b55a390ef3014f8d8f0ea6dfce396e293",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=MD / H3, Addons=None, Horizontal Margin=Only left, Skeleton=Off, Multiline=Off"
+    },
+    {
+        "key": "035b317cfdf9f83ad01fca18effc1e23e066266e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=MD / H4, Addons=None, Horizontal Margin=Only left, Skeleton=Off, Multiline=Off"
+    },
+    {
+        "key": "007c713f6053da4ea2d4f5956df305b1246c5ebb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=MD / H4, Addons=None, Horizontal Margin=Both, Skeleton=Off, Multiline=Off"
+    },
+    {
+        "key": "eb43080e689dcc4ccd6beae28c67c94eacfcbbfb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=List, Addons=Value, Horizontal Margin=None, Skeleton=Off, Multiline=On"
+    },
+    {
+        "key": "e72a4d0d1787bf56050b0b09b489997451fcf685",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Only left, Skeleton=On, Multiline=On"
+    },
+    {
+        "key": "e0bfdf2afd42e907413ae217714e18d86295492c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=Only left, Skeleton=On, Multiline=On"
+    },
+    {
+        "key": "d03b4141fa8c4c50d811516063ecbe511ae2db1c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=List, Addons=None, Horizontal Margin=Only left, Skeleton=Off, Multiline=On"
+    },
+    {
+        "key": "cd0824684753035eac7288ff999ee0fb59033e59",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=List, Addons=Value, Horizontal Margin=Only right, Skeleton=Off, Multiline=On"
+    },
+    {
+        "key": "c6e3ae25aacf7a5652fc4135a21eeee26534ebfb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=MD / H2, Addons=None, Horizontal Margin=Both, Skeleton=Off, Multiline=Off"
+    },
+    {
+        "key": "c22fbed4bb92e969d1f6c6843a71c007470f395c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=Only right, Skeleton=On, Multiline=Off"
+    },
+    {
+        "key": "b8f6e714c0bf9b7ab5f2705a9cfb42f3699002fa",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=List, Addons=None, Horizontal Margin=Both, Skeleton=Off, Multiline=On"
+    },
+    {
+        "key": "b7078b6d1bc2fd27e56b22fec787f65344e9f849",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Both, Skeleton=On, Multiline=On"
+    },
+    {
+        "key": "b5aa56c0c746da5fe4dc8c81ba81d36af609a438",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=Only right, Skeleton=On, Multiline=On"
+    },
+    {
+        "key": "b364f13a513130b80a8ecb9ed626b912a150c60d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=MD / H2, Addons=None, Horizontal Margin=Only left, Skeleton=Off, Multiline=Off"
+    },
+    {
+        "key": "ac9620fe7320be142cc3685c730433ae7dfb7725",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=None, Skeleton=On, Multiline=Off"
+    },
+    {
+        "key": "ab671fb136804e655380a096aaab38b60422a946",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Only left, Skeleton=On, Multiline=Off"
+    },
+    {
+        "key": "a5de332ec769ec712402ae790c5087d9b2c2c4ec",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=List, Addons=Value, Horizontal Margin=Both, Skeleton=Off, Multiline=On"
+    },
+    {
+        "key": "99a3eee7da6366b0eead5b1fa7e1ba4d00e7fa39",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=MD / H3, Addons=None, Horizontal Margin=Both, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "ebca76ec6a166debfe22704fc8d2dd31a7f174d3",
@@ -38309,22 +38426,13 @@
         "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Extended, Skeleton=Off, Multiline=On"
     },
     {
-        "key": "981f4dc21a870633a6d699c97b783f894ec8a50d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "0dp / ParagraphPrimaryMedium / 12dp",
-        "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=None, Skeleton=No, Multiline=No"
-    },
-    {
         "key": "6bcd45aabda7e51e403c09d3fa521a649136c5c1",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TextView",
         "description": "0dp / ParagraphPrimaryMedium / 12dp",
         "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Both, Skeleton=No, Multiline=No"
+        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Both, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "5ad28ffacf49a74d9f528f71ef86765889f00931",
@@ -38333,7 +38441,7 @@
         "name": "TextView",
         "description": "0dp / ParagraphPrimaryMedium / 12dp",
         "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Only right, Skeleton=No, Multiline=No"
+        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Only right, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "29c7a6da7a4f9b6a5e97a3c8b8359c0c9e8efe44",
@@ -38342,16 +38450,16 @@
         "name": "TextView",
         "description": "0dp / ParagraphPrimaryMedium / 12dp",
         "platform": "IOS",
-        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Only left, Skeleton=No, Multiline=No"
+        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Only left, Skeleton=Off, Multiline=Off"
     },
     {
-        "key": "caca1c315ca9bf3f2fa2881537f913b2a217072b",
+        "key": "981f4dc21a870633a6d699c97b783f894ec8a50d",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TextView",
-        "description": "0dp / ParagraphPrimaryMedium + ParagraphPrimaryMediuml / 12dp",
+        "description": "0dp / ParagraphPrimaryMedium / 12dp",
         "platform": "IOS",
-        "variant": "Style=Table, Addons=Value, Horizontal Margin=Both, Skeleton=No, Multiline=No"
+        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=None, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "84cfb4ea2a12d0b8a9efb33a920c97a0a97c781b",
@@ -38360,7 +38468,7 @@
         "name": "TextView",
         "description": "0dp / ParagraphPrimaryMedium + ParagraphPrimaryMediuml / 12dp",
         "platform": "IOS",
-        "variant": "Style=Table, Addons=Value, Horizontal Margin=Only left, Skeleton=No, Multiline=No"
+        "variant": "Style=Table, Addons=Value, Horizontal Margin=Only left, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "56728a0776b19beba6c39b6ff6add66f151b4180",
@@ -38369,7 +38477,7 @@
         "name": "TextView",
         "description": "0dp / ParagraphPrimaryMedium + ParagraphPrimaryMediuml / 12dp",
         "platform": "IOS",
-        "variant": "Style=Table, Addons=Value, Horizontal Margin=None, Skeleton=No, Multiline=No"
+        "variant": "Style=Table, Addons=Value, Horizontal Margin=None, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "0ee18bbde8382dcb424436e9573fbb54b47a9bf1",
@@ -38378,16 +38486,16 @@
         "name": "TextView",
         "description": "0dp / ParagraphPrimaryMedium + ParagraphPrimaryMediuml / 12dp",
         "platform": "IOS",
-        "variant": "Style=Table, Addons=Value, Horizontal Margin=Only right, Skeleton=No, Multiline=No"
+        "variant": "Style=Table, Addons=Value, Horizontal Margin=Only right, Skeleton=Off, Multiline=Off"
     },
     {
-        "key": "b770f39bec31e9b20029cd140d3c5adc047bf832",
+        "key": "caca1c315ca9bf3f2fa2881537f913b2a217072b",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TextView",
-        "description": "0dp / ParagraphPrimarySmall / 12dp",
+        "description": "0dp / ParagraphPrimaryMedium + ParagraphPrimaryMediuml / 12dp",
         "platform": "IOS",
-        "variant": "Style=MD / Quote, Addons=None, Horizontal Margin=Only left, Skeleton=No, Multiline=No"
+        "variant": "Style=Table, Addons=Value, Horizontal Margin=Both, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "50841dc25e110f1bf4e5238826a854742b043220",
@@ -38396,7 +38504,7 @@
         "name": "TextView",
         "description": "0dp / ParagraphPrimarySmall / 12dp",
         "platform": "IOS",
-        "variant": "Style=MD / Quote, Addons=None, Horizontal Margin=None, Skeleton=No, Multiline=No"
+        "variant": "Style=MD / Quote, Addons=None, Horizontal Margin=None, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "217e0850c5f93147040ac7c78609b46818c661c8",
@@ -38405,7 +38513,7 @@
         "name": "TextView",
         "description": "0dp / ParagraphPrimarySmall / 12dp",
         "platform": "IOS",
-        "variant": "Style=MD / Quote, Addons=None, Horizontal Margin=Both, Skeleton=No, Multiline=No"
+        "variant": "Style=MD / Quote, Addons=None, Horizontal Margin=Both, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "0801637009208ef240d64902dc7b6e2ca5f3ea7e",
@@ -38414,7 +38522,16 @@
         "name": "TextView",
         "description": "0dp / ParagraphPrimarySmall / 12dp",
         "platform": "IOS",
-        "variant": "Style=MD / Quote, Addons=None, Horizontal Margin=Only right, Skeleton=No, Multiline=No"
+        "variant": "Style=MD / Quote, Addons=None, Horizontal Margin=Only right, Skeleton=Off, Multiline=Off"
+    },
+    {
+        "key": "b770f39bec31e9b20029cd140d3c5adc047bf832",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "0dp / ParagraphPrimarySmall / 12dp",
+        "platform": "IOS",
+        "variant": "Style=MD / Quote, Addons=None, Horizontal Margin=Only left, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "b61e11bc65bdc53d60cea385554c984a4d49f7f3",
@@ -38525,49 +38642,13 @@
         "variant": "Style=MD / H4, Addons=None, Horizontal Margin=None, Skeleton=Off, Multiline=On"
     },
     {
-        "key": "f6a64f4c4edfb940730f86eac9b54cddbd0db8bc",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "32dp / Headline xSmall / 12dp",
-        "platform": "IOS",
-        "variant": "Style=Section, Addons=None, Horizontal Margin=Only left, Skeleton=No, Multiline=No"
-    },
-    {
-        "key": "ebe8bd77405bd99f275822a04a3492017dcff70c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "32dp / Headline xSmall / 12dp",
-        "platform": "IOS",
-        "variant": "Style=Section, Addons=None, Horizontal Margin=Both, Skeleton=No, Multiline=No"
-    },
-    {
-        "key": "d94fc4309dab96b40e4e10ac5fc7f51c2f0b30b6",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "32dp / Headline xSmall / 12dp",
-        "platform": "IOS",
-        "variant": "Style=Section, Addons=Value, Horizontal Margin=Both, Skeleton=No, Multiline=No"
-    },
-    {
-        "key": "9ac4b85f74b9c1c7cd30690a790d263881a67c87",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "32dp / Headline xSmall / 12dp",
-        "platform": "IOS",
-        "variant": "Style=Section, Addons=Value, Horizontal Margin=Only left, Skeleton=No, Multiline=No"
-    },
-    {
         "key": "53794bd017310d553c40b5c7fbddcb31939720ee",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TextView",
         "description": "32dp / Headline xSmall / 12dp",
         "platform": "IOS",
-        "variant": "Style=Section, Addons=Value, Horizontal Margin=Only right, Skeleton=No, Multiline=No"
+        "variant": "Style=Section, Addons=Value, Horizontal Margin=Only right, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "408938ac9117883667d5626ef99dd40de0349b41",
@@ -38576,7 +38657,7 @@
         "name": "TextView",
         "description": "32dp / Headline xSmall / 12dp",
         "platform": "IOS",
-        "variant": "Style=Section, Addons=Value, Horizontal Margin=None, Skeleton=No, Multiline=No"
+        "variant": "Style=Section, Addons=Value, Horizontal Margin=None, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "3b1f9efe70c5776f8bb65949bf56f7696544bb48",
@@ -38585,7 +38666,7 @@
         "name": "TextView",
         "description": "32dp / Headline xSmall / 12dp",
         "platform": "IOS",
-        "variant": "Style=Section, Addons=None, Horizontal Margin=None, Skeleton=No, Multiline=No"
+        "variant": "Style=Section, Addons=None, Horizontal Margin=None, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "39ede5728038d282366843633d804236afa95f23",
@@ -38594,7 +38675,43 @@
         "name": "TextView",
         "description": "32dp / Headline xSmall / 12dp",
         "platform": "IOS",
-        "variant": "Style=Section, Addons=None, Horizontal Margin=Only right, Skeleton=No, Multiline=No"
+        "variant": "Style=Section, Addons=None, Horizontal Margin=Only right, Skeleton=Off, Multiline=Off"
+    },
+    {
+        "key": "d94fc4309dab96b40e4e10ac5fc7f51c2f0b30b6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "32dp / Headline xSmall / 12dp",
+        "platform": "IOS",
+        "variant": "Style=Section, Addons=Value, Horizontal Margin=Both, Skeleton=Off, Multiline=Off"
+    },
+    {
+        "key": "9ac4b85f74b9c1c7cd30690a790d263881a67c87",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "32dp / Headline xSmall / 12dp",
+        "platform": "IOS",
+        "variant": "Style=Section, Addons=Value, Horizontal Margin=Only left, Skeleton=Off, Multiline=Off"
+    },
+    {
+        "key": "f6a64f4c4edfb940730f86eac9b54cddbd0db8bc",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "32dp / Headline xSmall / 12dp",
+        "platform": "IOS",
+        "variant": "Style=Section, Addons=None, Horizontal Margin=Only left, Skeleton=Off, Multiline=Off"
+    },
+    {
+        "key": "ebe8bd77405bd99f275822a04a3492017dcff70c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "32dp / Headline xSmall / 12dp",
+        "platform": "IOS",
+        "variant": "Style=Section, Addons=None, Horizontal Margin=Both, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "e903f78d1542c40a2b8b196fc5798441a0b96fc6",
@@ -38657,7 +38774,7 @@
         "name": "TextView",
         "description": "Custom",
         "platform": "IOS",
-        "variant": "Style=Custom, Addons=None, Horizontal Margin=Both, Skeleton=No, Multiline=No"
+        "variant": "Style=Custom, Addons=None, Horizontal Margin=Both, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "8102520b3d2a2bdc5f1267fd4adeb019c8da25df",
@@ -38666,7 +38783,7 @@
         "name": "TextView",
         "description": "Custom",
         "platform": "IOS",
-        "variant": "Style=Custom, Addons=None, Horizontal Margin=None, Skeleton=No, Multiline=No"
+        "variant": "Style=Custom, Addons=None, Horizontal Margin=None, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "6aa8acdab6712bae5e48254bb5408ba46fe69e8c",
@@ -38675,7 +38792,7 @@
         "name": "TextView",
         "description": "Custom",
         "platform": "IOS",
-        "variant": "Style=Custom, Addons=None, Horizontal Margin=Only left, Skeleton=No, Multiline=No"
+        "variant": "Style=Custom, Addons=None, Horizontal Margin=Only left, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "2821f81a8afd327e6518eca1290714136b189e65",
@@ -38684,7 +38801,7 @@
         "name": "TextView",
         "description": "Custom",
         "platform": "IOS",
-        "variant": "Style=Custom, Addons=None, Horizontal Margin=Only right, Skeleton=No, Multiline=No"
+        "variant": "Style=Custom, Addons=None, Horizontal Margin=Only right, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "e946e6c553e835ad78b31736893d235080db0b01",
@@ -38714,22 +38831,13 @@
         "variant": "Style=Custom, Addons=None, Horizontal Margin=Only Left, Skeleton=Off, Multiline=On"
     },
     {
-        "key": "ecf40eb88d6f721da4cf140a1548dc79cf0cf4a0",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "TextView",
-        "description": "Custom + Custom",
-        "platform": "IOS",
-        "variant": "Style=Custom, Addons=Value, Horizontal Margin=Both, Skeleton=No, Multiline=No"
-    },
-    {
         "key": "48dadcd4e3f276338ab8b7f2cab798ed636305d9",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "TextView",
         "description": "Custom + Custom",
         "platform": "IOS",
-        "variant": "Style=Custom, Addons=Value, Horizontal Margin=Only right, Skeleton=No, Multiline=No"
+        "variant": "Style=Custom, Addons=Value, Horizontal Margin=Only right, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "296ea9db94f12453cd9aed23d0b20b188fd8fdb8",
@@ -38738,7 +38846,7 @@
         "name": "TextView",
         "description": "Custom + Custom",
         "platform": "IOS",
-        "variant": "Style=Custom, Addons=Value, Horizontal Margin=None, Skeleton=No, Multiline=No"
+        "variant": "Style=Custom, Addons=Value, Horizontal Margin=None, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "17b1e91c389e459c3c304739c5f1dbd0bafe0779",
@@ -38747,7 +38855,16 @@
         "name": "TextView",
         "description": "Custom + Custom",
         "platform": "IOS",
-        "variant": "Style=Custom, Addons=Value, Horizontal Margin=Only left, Skeleton=No, Multiline=No"
+        "variant": "Style=Custom, Addons=Value, Horizontal Margin=Only left, Skeleton=Off, Multiline=Off"
+    },
+    {
+        "key": "ecf40eb88d6f721da4cf140a1548dc79cf0cf4a0",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "TextView",
+        "description": "Custom + Custom",
+        "platform": "IOS",
+        "variant": "Style=Custom, Addons=Value, Horizontal Margin=Both, Skeleton=Off, Multiline=Off"
     },
     {
         "key": "fbd133c07a56b92a5b13d1fcaca4bbb6de1f105b",
@@ -40669,6 +40786,150 @@
         "variant": "Commision=Off, ActionButtons=On, SBP=Off, Sum=Off, Status=Success, Coach=Off"
     },
     {
+        "key": "fa9f0e3e7113ffab545b2607674f545143adc65b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=Off, Status=Error, Coach=On"
+    },
+    {
+        "key": "f06e7995ee025dbaf8d64c50d31cb97f6cbf9ed1",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=Off, Status=Error, Coach=Off"
+    },
+    {
+        "key": "e5af1f58973e6c98f3f4e3fd6a52398e05cb435e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=On, ActionButtons=On, SBP=On, Sum=On, Status=Success, Coach=Off"
+    },
+    {
+        "key": "e0fa3996d03edc75601b9f270dd3c68b74b76de2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=On, SBP=Off, Sum=On, Status=Success, Coach=On"
+    },
+    {
+        "key": "991937d0d4ed1b19870a2bee02be108eb1d078f2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=On, SBP=Off, Sum=Off, Status=Success, Coach=Off"
+    },
+    {
+        "key": "912de03a32fd67b58f63f5ffb3536cb8b75a1936",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=Off, Status=Success, Coach=On"
+    },
+    {
+        "key": "8ec97be7c15cd26d6ddfcc9a0ac5f78c35d99ed6",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=On, Status=Success, Coach=Off"
+    },
+    {
+        "key": "82c8782aa840bb227ce57ae353bab42ae9cfef51",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=On, SBP=Off, Sum=Off, Status=Success, Coach=On"
+    },
+    {
+        "key": "7d3cd27f7457f22d54cfd722348881b21827ffbe",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=On, ActionButtons=On, SBP=On, Sum=On, Status=Success, Coach=On"
+    },
+    {
+        "key": "561f3b58a1827350ed208017e4c5fb9d6740361a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=On, Status=Success, Coach=On"
+    },
+    {
+        "key": "4574602401f3864179affc06e5e7a0a577576f63",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=On, ActionButtons=On, SBP=Off, Sum=On, Status=Success, Coach=On"
+    },
+    {
+        "key": "3905685edc553bcef872fb18e6dc4b1fa3275ba3",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=On, SBP=On, Sum=On, Status=Success, Coach=On"
+    },
+    {
+        "key": "2a38096d927bc3a938d16baf6e3a38698c2e8a00",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=On, ActionButtons=On, SBP=Off, Sum=On, Status=Success, Coach=Off"
+    },
+    {
+        "key": "15ff33a4f1e7a3b6d5cbbcdb328759672241bd91",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=On, SBP=On, Sum=On, Status=Success, Coach=Off"
+    },
+    {
+        "key": "0782261880a533910112be331e6031ea8b4a1219",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=Off, Status=Success, Coach=Off"
+    },
+    {
+        "key": "0364ea059687af770d723bc04aa6f3736faf8da2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=On, SBP=Off, Sum=On, Status=Success, Coach=Off"
+    },
+    {
         "key": "f578c8bad074053aa9a8827456328101b9191e66",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -40811,150 +41072,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=Off, Status=Error, Coach=Off"
-    },
-    {
-        "key": "912de03a32fd67b58f63f5ffb3536cb8b75a1936",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=Off, Status=Success, Coach=On"
-    },
-    {
-        "key": "e0fa3996d03edc75601b9f270dd3c68b74b76de2",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=On, SBP=Off, Sum=On, Status=Success, Coach=On"
-    },
-    {
-        "key": "4574602401f3864179affc06e5e7a0a577576f63",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=On, ActionButtons=On, SBP=Off, Sum=On, Status=Success, Coach=On"
-    },
-    {
-        "key": "7d3cd27f7457f22d54cfd722348881b21827ffbe",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=On, ActionButtons=On, SBP=On, Sum=On, Status=Success, Coach=On"
-    },
-    {
-        "key": "3905685edc553bcef872fb18e6dc4b1fa3275ba3",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=On, SBP=On, Sum=On, Status=Success, Coach=On"
-    },
-    {
-        "key": "f06e7995ee025dbaf8d64c50d31cb97f6cbf9ed1",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=Off, Status=Error, Coach=Off"
-    },
-    {
-        "key": "0782261880a533910112be331e6031ea8b4a1219",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=Off, Status=Success, Coach=Off"
-    },
-    {
-        "key": "0364ea059687af770d723bc04aa6f3736faf8da2",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=On, SBP=Off, Sum=On, Status=Success, Coach=Off"
-    },
-    {
-        "key": "2a38096d927bc3a938d16baf6e3a38698c2e8a00",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=On, ActionButtons=On, SBP=Off, Sum=On, Status=Success, Coach=Off"
-    },
-    {
-        "key": "991937d0d4ed1b19870a2bee02be108eb1d078f2",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=On, SBP=Off, Sum=Off, Status=Success, Coach=Off"
-    },
-    {
-        "key": "561f3b58a1827350ed208017e4c5fb9d6740361a",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=On, Status=Success, Coach=On"
-    },
-    {
-        "key": "fa9f0e3e7113ffab545b2607674f545143adc65b",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=Off, Status=Error, Coach=On"
-    },
-    {
-        "key": "e5af1f58973e6c98f3f4e3fd6a52398e05cb435e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=On, ActionButtons=On, SBP=On, Sum=On, Status=Success, Coach=Off"
-    },
-    {
-        "key": "8ec97be7c15cd26d6ddfcc9a0ac5f78c35d99ed6",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=On, Status=Success, Coach=Off"
-    },
-    {
-        "key": "82c8782aa840bb227ce57ae353bab42ae9cfef51",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=On, SBP=Off, Sum=Off, Status=Success, Coach=On"
-    },
-    {
-        "key": "15ff33a4f1e7a3b6d5cbbcdb328759672241bd91",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=On, SBP=On, Sum=On, Status=Success, Coach=Off"
     },
     {
         "key": "159d4ebc87eab07ab25fff01272b26a6c293856f",
@@ -41297,6 +41414,15 @@
         "variant": "State=Default, Accounts and Deposits=On, Credits=On, Investments=On"
     },
     {
+        "key": "86c3138a3b976f127e19ba1668537827b956fda5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "UserProductsWidget",
+        "description": "",
+        "platform": "IOS",
+        "variant": "State=Default, Accounts and Deposits=Off, Credits=Off, Investments=On"
+    },
+    {
         "key": "5bb04830f13fa65da45deca8862f6de575ba0fb3",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -41331,15 +41457,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "State=Loading, Accounts and Deposits=Off, Credits=Off, Investments=Off"
-    },
-    {
-        "key": "86c3138a3b976f127e19ba1668537827b956fda5",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "UserProductsWidget",
-        "description": "",
-        "platform": "IOS",
-        "variant": "State=Default, Accounts and Deposits=Off, Credits=Off, Investments=On"
     },
     {
         "key": "53616f8745d01bfe6fe7c4c82dfd6533d6fb4d9c",
