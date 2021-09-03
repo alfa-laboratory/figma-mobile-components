@@ -189,15 +189,6 @@
         "variant": "State=Loading"
     },
     {
-        "key": "19c2695e96214d8b5a5811df7b6852c5adf6c069",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "🤟BICSuggest",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "State=Error"
-    },
-    {
         "key": "85de3ff8e727affd4055d8015e11369d29a750d2",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -205,6 +196,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "State=Default"
+    },
+    {
+        "key": "19c2695e96214d8b5a5811df7b6852c5adf6c069",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "🤟BICSuggest",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "State=Error"
     },
     {
         "key": "e08b09268cc285fde91e0c154a586ee050e86f7f",
@@ -405,15 +405,6 @@
         "variant": "Buttons=Two Buttons, Tab Bar=Off, Background=Off, Layout=Vertical"
     },
     {
-        "key": "3f35888608baed4528a6c7368acf3c91ce03a457",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "🤟SWIFTSuggest",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "State=Error"
-    },
-    {
         "key": "acaae6035f5257e481c56321decc2dc037834e58",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -430,6 +421,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "State=Default"
+    },
+    {
+        "key": "3f35888608baed4528a6c7368acf3c91ce03a457",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "🤟SWIFTSuggest",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "State=Error"
     },
     {
         "key": "ce1d5485c2c6af3be98c3fc983647b54c4870dfe",
@@ -1747,6 +1747,15 @@
         "platform": "ANDROID"
     },
     {
+        "key": "0f9dc893ba87f69b546ab72ec7e8d1e13b701f5d",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "AdvicesWidget",
+        "description": "Баннер Рабблз Android",
+        "platform": "ANDROID",
+        "variant": "State=Default"
+    },
+    {
         "key": "d6bd4400e5ace07d7decaa7df610a8c200a80c74",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -1763,15 +1772,6 @@
         "description": "Баннер Рабблз Android",
         "platform": "ANDROID",
         "variant": "State=Error"
-    },
-    {
-        "key": "0f9dc893ba87f69b546ab72ec7e8d1e13b701f5d",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "AdvicesWidget",
-        "description": "Баннер Рабблз Android",
-        "platform": "ANDROID",
-        "variant": "State=Default"
     },
     {
         "key": "fe7672410f43f466de687cad34e87b5a43fb3e24",
@@ -3076,15 +3076,6 @@
         "variant": "Type=Default"
     },
     {
-        "key": "abf7e217612e8f8432b5d7a6923df3a6d024345b",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "BannerWithImageAndButton",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "TypeState=Error"
-    },
-    {
         "key": "78636ed36a77914df2a8903802bc86aa88864679",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -3092,6 +3083,15 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "TypeState=Default"
+    },
+    {
+        "key": "abf7e217612e8f8432b5d7a6923df3a6d024345b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "BannerWithImageAndButton",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "TypeState=Error"
     },
     {
         "key": "491219c845711a3b2523693e3303c8d98d64c2d4",
@@ -6773,6 +6773,24 @@
         "variant": "View=DataView No Icon, State=Expanded, Horizontal Padding=Both"
     },
     {
+        "key": "bece1554debe8b14931baa2d906335b22e085287",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ChevronWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "View=TextView, State=Contracted"
+    },
+    {
+        "key": "0e45f4887d838f57810dcb4abdcaef7555dfe530",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ChevronWrapper",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "View=ProgressView, State=Contracted"
+    },
+    {
         "key": "cc7d340abba45938f49d341465ef172ef68aef34",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -6791,15 +6809,6 @@
         "variant": "View=DataView, State=Expanded"
     },
     {
-        "key": "bece1554debe8b14931baa2d906335b22e085287",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ChevronWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "View=TextView, State=Contracted"
-    },
-    {
         "key": "b90e3c619a999280fde9ccca7a793c97b07d13ff",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -6807,15 +6816,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "View=DataView, State=Contracted"
-    },
-    {
-        "key": "0e45f4887d838f57810dcb4abdcaef7555dfe530",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ChevronWrapper",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "View=ProgressView, State=Contracted"
     },
     {
         "key": "d676f14b996a74a50fa353813b1fd994b2f6c798",
@@ -10664,15 +10664,6 @@
         "variant": "CreditsWidgetViewType=CREDIT_REPAID_2, WidgetSize=S"
     },
     {
-        "key": "db7b116af02c011e9f76501febd4ad2df4130abf",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CreditsWidgetView",
-        "description": "Оплата прошла. Через 3 дня показываем дату следующего платежа. Если платёж был просрочен, то показываем дату следующего платежа через 1 день",
-        "platform": "ANDROID",
-        "variant": "CreditsWidgetViewType=CREDIT_IS_CHARGE, WidgetSize=M"
-    },
-    {
         "key": "c2cbb115e262b802e0a53e9074f64d62990984c0",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -10680,6 +10671,15 @@
         "description": "Оплата прошла. Через 3 дня показываем дату следующего платежа. Если платёж был просрочен, то показываем дату следующего платежа через 1 день",
         "platform": "ANDROID",
         "variant": "CreditsWidgetViewType=CREDIT_IS_CHARGE, WidgetSize=S"
+    },
+    {
+        "key": "db7b116af02c011e9f76501febd4ad2df4130abf",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CreditsWidgetView",
+        "description": "Оплата прошла. Через 3 дня показываем дату следующего платежа. Если платёж был просрочен, то показываем дату следующего платежа через 1 день",
+        "platform": "ANDROID",
+        "variant": "CreditsWidgetViewType=CREDIT_IS_CHARGE, WidgetSize=M"
     },
     {
         "key": "9fe996561f91b37e3085987af0bd211afc36dcdc",
@@ -10736,15 +10736,6 @@
         "variant": "CreditsWidgetViewType=CREDIT_NEED_REPLENISH_2, WidgetSize=S"
     },
     {
-        "key": "e9eb7740aba346885a6e587cd5bebcc8d98cb2c5",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "CreditsWidgetView",
-        "description": "После конфетти",
-        "platform": "ANDROID",
-        "variant": "CreditsWidgetViewType=CREDIT_CLOSED_2, WidgetSize=S"
-    },
-    {
         "key": "5475cd01ecd815ff131c7e73ae947524b4a904de",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -10752,6 +10743,15 @@
         "description": "После конфетти",
         "platform": "ANDROID",
         "variant": "CreditsWidgetViewType=CREDIT_CLOSED_2, WidgetSize=M"
+    },
+    {
+        "key": "e9eb7740aba346885a6e587cd5bebcc8d98cb2c5",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "CreditsWidgetView",
+        "description": "После конфетти",
+        "platform": "ANDROID",
+        "variant": "CreditsWidgetViewType=CREDIT_CLOSED_2, WidgetSize=S"
     },
     {
         "key": "f74c6b9cffe0c89047565b61ebc642ecd72f877c",
@@ -23852,6 +23852,15 @@
         "variant": "Service=А-Клуб, ManagerAttached=Off (basic)"
     },
     {
+        "key": "0d737810c4fb105351d24270390ee7b6c132950c",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "ManagerInfoWidget",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Service=Премиум, ManagerAttached=On"
+    },
+    {
         "key": "189b685184f3c516ffdad3477e847f2de2469931",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -23868,15 +23877,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Service=Премиум, ManagerAttached=Waiting"
-    },
-    {
-        "key": "0d737810c4fb105351d24270390ee7b6c132950c",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "ManagerInfoWidget",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Service=Премиум, ManagerAttached=On"
     },
     {
         "key": "fee85f1b3d4e7ed5923e951f1fec2084c1f1cea1",
@@ -38189,7 +38189,7 @@
         "name": "TextView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=List, Addons=Value, Horizontal Margin=Extended, Skeleton=Off, Multiline=On"
+        "variant": "Style=List, Addons=Value, Horizontal Margin=Both, Skeleton=Off, Multiline=On"
     },
     {
         "key": "ebbb91a91eb462adb6b90461f0e6572aafe7623d",
@@ -38207,7 +38207,7 @@
         "name": "TextView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Only Left, Skeleton=On, Multiline=On"
+        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Only left, Skeleton=On, Multiline=On"
     },
     {
         "key": "c040cc6242653c1b6b47cdfd6ad164d76c939f83",
@@ -38216,7 +38216,7 @@
         "name": "TextView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=Table, Addons=None, Horizontal Margin=Only Left, Skeleton=Off, Multiline=On"
+        "variant": "Style=Table, Addons=None, Horizontal Margin=Only left, Skeleton=Off, Multiline=On"
     },
     {
         "key": "b64b824f9a7f0dc212c8274840a932100573aa6e",
@@ -38243,7 +38243,7 @@
         "name": "TextView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=Only Left, Skeleton=On, Multiline=On"
+        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=Only left, Skeleton=On, Multiline=On"
     },
     {
         "key": "959d56175d2116e12d03acffa103052f7347aa21",
@@ -38252,7 +38252,7 @@
         "name": "TextView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Only Left, Skeleton=On, Multiline=Off"
+        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Only left, Skeleton=On, Multiline=Off"
     },
     {
         "key": "94fe86753931b93080afdcd826b8672cc028625c",
@@ -38261,7 +38261,7 @@
         "name": "TextView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=List, Addons=None, Horizontal Margin=Only Left, Skeleton=Off, Multiline=On"
+        "variant": "Style=List, Addons=None, Horizontal Margin=Only left, Skeleton=Off, Multiline=On"
     },
     {
         "key": "91c3a0a7afc23ac30b2cf4ec7585f008d1ab51df",
@@ -38279,7 +38279,7 @@
         "name": "TextView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=List, Addons=Value, Horizontal Margin=Only Left, Skeleton=Off, Multiline=On"
+        "variant": "Style=List, Addons=Value, Horizontal Margin=Only left, Skeleton=Off, Multiline=On"
     },
     {
         "key": "87c18f0e6c4bb825e0cb2d92e4eeb31bc39695f6",
@@ -38315,7 +38315,7 @@
         "name": "TextView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=Only Left, Skeleton=On, Multiline=Off"
+        "variant": "Style=MD / Paragraph, Addons=Value, Horizontal Margin=Only left, Skeleton=On, Multiline=Off"
     },
     {
         "key": "7130f6bcc10ad90dde0a3216d011cae8d07bffd7",
@@ -38324,7 +38324,7 @@
         "name": "TextView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=MD / Quote, Addons=None, Horizontal Margin=Only Left, Skeleton=Off, Multiline=On"
+        "variant": "Style=MD / Quote, Addons=None, Horizontal Margin=Only left, Skeleton=Off, Multiline=On"
     },
     {
         "key": "6f5808226998338009cd7b4235cff7a31d513f73",
@@ -38342,7 +38342,7 @@
         "name": "TextView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=Table, Addons=None, Horizontal Margin=Extended, Skeleton=Off, Multiline=On"
+        "variant": "Style=Table, Addons=None, Horizontal Margin=Both, Skeleton=Off, Multiline=On"
     },
     {
         "key": "4bd2d1e411c22fec59bb7c21cbb136c243e093de",
@@ -38360,7 +38360,7 @@
         "name": "TextView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=List, Addons=None, Horizontal Margin=Extended, Skeleton=Off, Multiline=On"
+        "variant": "Style=List, Addons=None, Horizontal Margin=Both, Skeleton=Off, Multiline=On"
     },
     {
         "key": "3e3e1fa9ccbf06eb7b50c7b787e3c41eb7a63a5e",
@@ -38369,7 +38369,7 @@
         "name": "TextView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=MD / Quote, Addons=None, Horizontal Margin=Extended, Skeleton=Off, Multiline=On"
+        "variant": "Style=MD / Quote, Addons=None, Horizontal Margin=Both, Skeleton=Off, Multiline=On"
     },
     {
         "key": "35effb15c0821fbea9c5fc4eae5af75f50ea822f",
@@ -38378,7 +38378,7 @@
         "name": "TextView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Only Left, Skeleton=Off, Multiline=On"
+        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Only left, Skeleton=Off, Multiline=On"
     },
     {
         "key": "31100c25847a985c17cebc065cada6cacff0cc34",
@@ -38423,7 +38423,7 @@
         "name": "TextView",
         "description": "",
         "platform": "ANDROID",
-        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Extended, Skeleton=Off, Multiline=On"
+        "variant": "Style=MD / Paragraph, Addons=None, Horizontal Margin=Both, Skeleton=Off, Multiline=On"
     },
     {
         "key": "6bcd45aabda7e51e403c09d3fa521a649136c5c1",
@@ -38540,7 +38540,7 @@
         "name": "TextView",
         "description": "24dp / Headline Medium / 12dp",
         "platform": "ANDROID",
-        "variant": "Style=MD / H1, Addons=None, Horizontal Margin=Extended, Skeleton=Off, Multiline=On"
+        "variant": "Style=MD / H1, Addons=None, Horizontal Margin=Both, Skeleton=Off, Multiline=On"
     },
     {
         "key": "97df2870aac5ebbbaaee9ebb0632138ff6c7d86c",
@@ -38549,7 +38549,7 @@
         "name": "TextView",
         "description": "24dp / Headline Medium / 12dp",
         "platform": "ANDROID",
-        "variant": "Style=MD / H1, Addons=None, Horizontal Margin=Only Left, Skeleton=Off, Multiline=On"
+        "variant": "Style=MD / H1, Addons=None, Horizontal Margin=Only left, Skeleton=Off, Multiline=On"
     },
     {
         "key": "973529495d02b70ebe666d4649e6e1ef3250a6d0",
@@ -38567,7 +38567,7 @@
         "name": "TextView",
         "description": "24dp / Headline Small / 12dp",
         "platform": "ANDROID",
-        "variant": "Style=MD / H2, Addons=None, Horizontal Margin=Only Left, Skeleton=Off, Multiline=On"
+        "variant": "Style=MD / H2, Addons=None, Horizontal Margin=Only left, Skeleton=Off, Multiline=On"
     },
     {
         "key": "7dbe539de46ed86c3b63a7d67892c55e15d5d0f0",
@@ -38576,7 +38576,7 @@
         "name": "TextView",
         "description": "24dp / Headline Small / 12dp",
         "platform": "ANDROID",
-        "variant": "Style=MD / H2, Addons=None, Horizontal Margin=Extended, Skeleton=Off, Multiline=On"
+        "variant": "Style=MD / H2, Addons=None, Horizontal Margin=Both, Skeleton=Off, Multiline=On"
     },
     {
         "key": "406fe726544d9fc43f2519809d27f1ac20ca8a26",
@@ -38594,7 +38594,7 @@
         "name": "TextView",
         "description": "24dp / Headline xSmall / 12dp",
         "platform": "ANDROID",
-        "variant": "Style=MD / H3, Addons=None, Horizontal Margin=Only Left, Skeleton=Off, Multiline=On"
+        "variant": "Style=MD / H3, Addons=None, Horizontal Margin=Only left, Skeleton=Off, Multiline=On"
     },
     {
         "key": "a1bd11ee99ec051a21a7ccf3a76011f1bb82e9c3",
@@ -38612,7 +38612,7 @@
         "name": "TextView",
         "description": "24dp / Headline xSmall / 12dp",
         "platform": "ANDROID",
-        "variant": "Style=MD / H3, Addons=None, Horizontal Margin=Extended, Skeleton=Off, Multiline=On"
+        "variant": "Style=MD / H3, Addons=None, Horizontal Margin=Both, Skeleton=Off, Multiline=On"
     },
     {
         "key": "ef1c834cb024593571e8aaf813b85ef08c4f8ec4",
@@ -38621,7 +38621,7 @@
         "name": "TextView",
         "description": "24dp / Headline xSmall / 4dp",
         "platform": "ANDROID",
-        "variant": "Style=MD / H4, Addons=None, Horizontal Margin=Only Left, Skeleton=Off, Multiline=On"
+        "variant": "Style=MD / H4, Addons=None, Horizontal Margin=Only left, Skeleton=Off, Multiline=On"
     },
     {
         "key": "82a5659424f94d78293d402dc66279d39e608bf9",
@@ -38630,7 +38630,7 @@
         "name": "TextView",
         "description": "24dp / Headline xSmall / 4dp",
         "platform": "ANDROID",
-        "variant": "Style=MD / H4, Addons=None, Horizontal Margin=Extended, Skeleton=Off, Multiline=On"
+        "variant": "Style=MD / H4, Addons=None, Horizontal Margin=Both, Skeleton=Off, Multiline=On"
     },
     {
         "key": "0e0864c765ad156de60a874ffec4c16f1674bc84",
@@ -38720,7 +38720,7 @@
         "name": "TextView",
         "description": "32dp / Headline xSmall / 12dp",
         "platform": "ANDROID",
-        "variant": "Style=Section, Addons=Value, Horizontal Margin=Only Left, Skeleton=Off, Multiline=On"
+        "variant": "Style=Section, Addons=Value, Horizontal Margin=Only left, Skeleton=Off, Multiline=On"
     },
     {
         "key": "dcf287409f67d60fef0d6b37ac455e31ba5401f4",
@@ -38729,7 +38729,7 @@
         "name": "TextView",
         "description": "32dp / Headline xSmall / 12dp",
         "platform": "ANDROID",
-        "variant": "Style=Section, Addons=Value, Horizontal Margin=Extended, Skeleton=Off, Multiline=On"
+        "variant": "Style=Section, Addons=Value, Horizontal Margin=Both, Skeleton=Off, Multiline=On"
     },
     {
         "key": "b8a7a377b806623dfd8a2b00dbd82839f4e7a449",
@@ -38756,7 +38756,7 @@
         "name": "TextView",
         "description": "32dp / Headline xSmall / 12dp",
         "platform": "ANDROID",
-        "variant": "Style=Section, Addons=None, Horizontal Margin=Extended, Skeleton=Off, Multiline=On"
+        "variant": "Style=Section, Addons=None, Horizontal Margin=Both, Skeleton=Off, Multiline=On"
     },
     {
         "key": "1e5c2f7e0abcb93ca90039670261142d1bb19fbe",
@@ -38765,7 +38765,7 @@
         "name": "TextView",
         "description": "32dp / Headline xSmall / 12dp",
         "platform": "ANDROID",
-        "variant": "Style=Section, Addons=None, Horizontal Margin=Only Left, Skeleton=Off, Multiline=On"
+        "variant": "Style=Section, Addons=None, Horizontal Margin=Only left, Skeleton=Off, Multiline=On"
     },
     {
         "key": "884d7acb08470abe76d08eab191f8e78174b9daf",
@@ -38810,7 +38810,7 @@
         "name": "TextView",
         "description": "Custom",
         "platform": "ANDROID",
-        "variant": "Style=Custom, Addons=None, Horizontal Margin=Extended, Skeleton=Off, Multiline=On"
+        "variant": "Style=Custom, Addons=None, Horizontal Margin=Both, Skeleton=Off, Multiline=On"
     },
     {
         "key": "e81a4d8d261a1d82d05b0cbe8da0ea38f5feb262",
@@ -38828,7 +38828,7 @@
         "name": "TextView",
         "description": "Custom",
         "platform": "ANDROID",
-        "variant": "Style=Custom, Addons=None, Horizontal Margin=Only Left, Skeleton=Off, Multiline=On"
+        "variant": "Style=Custom, Addons=None, Horizontal Margin=Only left, Skeleton=Off, Multiline=On"
     },
     {
         "key": "48dadcd4e3f276338ab8b7f2cab798ed636305d9",
@@ -38873,7 +38873,7 @@
         "name": "TextView",
         "description": "Custom + Custom",
         "platform": "ANDROID",
-        "variant": "Style=Custom, Addons=Value, Horizontal Margin=Only Left, Skeleton=Off, Multiline=On"
+        "variant": "Style=Custom, Addons=Value, Horizontal Margin=Only left, Skeleton=Off, Multiline=On"
     },
     {
         "key": "de2f86cb3997faa4963c9d804d7a6f33e170dc77",
@@ -38891,7 +38891,7 @@
         "name": "TextView",
         "description": "Custom + Custom",
         "platform": "ANDROID",
-        "variant": "Style=Custom, Addons=Value, Horizontal Margin=Extended, Skeleton=Off, Multiline=On"
+        "variant": "Style=Custom, Addons=Value, Horizontal Margin=Both, Skeleton=Off, Multiline=On"
     },
     {
         "key": "fffcde827400060bd4f5defda889188f10bf48f4",
@@ -39026,15 +39026,6 @@
         "platform": "IOS"
     },
     {
-        "key": "fada5ed8dff80dbf2a6905d23e2bd71cc14459cc",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TicketBanner",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Loading"
-    },
-    {
         "key": "f433d66427f7e73f75dec14556bb39825261cbc5",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -39042,6 +39033,24 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Style=Waiting"
+    },
+    {
+        "key": "4187237e76639b96098820087434f40d6522d7fd",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TicketBanner",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=Error"
+    },
+    {
+        "key": "fada5ed8dff80dbf2a6905d23e2bd71cc14459cc",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TicketBanner",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Style=Loading"
     },
     {
         "key": "bffddd6dab7a55c02349622ad33c15247607511f",
@@ -39069,15 +39078,6 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Style=Date"
-    },
-    {
-        "key": "4187237e76639b96098820087434f40d6522d7fd",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TicketBanner",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Style=Error"
     },
     {
         "key": "18520d91f3a2a7d7a7f4dedd7c96e9a33551316b",
@@ -40786,150 +40786,6 @@
         "variant": "Commision=Off, ActionButtons=On, SBP=Off, Sum=Off, Status=Success, Coach=Off"
     },
     {
-        "key": "fa9f0e3e7113ffab545b2607674f545143adc65b",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=Off, Status=Error, Coach=On"
-    },
-    {
-        "key": "f06e7995ee025dbaf8d64c50d31cb97f6cbf9ed1",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=Off, Status=Error, Coach=Off"
-    },
-    {
-        "key": "e5af1f58973e6c98f3f4e3fd6a52398e05cb435e",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=On, ActionButtons=On, SBP=On, Sum=On, Status=Success, Coach=Off"
-    },
-    {
-        "key": "e0fa3996d03edc75601b9f270dd3c68b74b76de2",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=On, SBP=Off, Sum=On, Status=Success, Coach=On"
-    },
-    {
-        "key": "991937d0d4ed1b19870a2bee02be108eb1d078f2",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=On, SBP=Off, Sum=Off, Status=Success, Coach=Off"
-    },
-    {
-        "key": "912de03a32fd67b58f63f5ffb3536cb8b75a1936",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=Off, Status=Success, Coach=On"
-    },
-    {
-        "key": "8ec97be7c15cd26d6ddfcc9a0ac5f78c35d99ed6",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=On, Status=Success, Coach=Off"
-    },
-    {
-        "key": "82c8782aa840bb227ce57ae353bab42ae9cfef51",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=On, SBP=Off, Sum=Off, Status=Success, Coach=On"
-    },
-    {
-        "key": "7d3cd27f7457f22d54cfd722348881b21827ffbe",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=On, ActionButtons=On, SBP=On, Sum=On, Status=Success, Coach=On"
-    },
-    {
-        "key": "561f3b58a1827350ed208017e4c5fb9d6740361a",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=On, Status=Success, Coach=On"
-    },
-    {
-        "key": "4574602401f3864179affc06e5e7a0a577576f63",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=On, ActionButtons=On, SBP=Off, Sum=On, Status=Success, Coach=On"
-    },
-    {
-        "key": "3905685edc553bcef872fb18e6dc4b1fa3275ba3",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=On, SBP=On, Sum=On, Status=Success, Coach=On"
-    },
-    {
-        "key": "2a38096d927bc3a938d16baf6e3a38698c2e8a00",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=On, ActionButtons=On, SBP=Off, Sum=On, Status=Success, Coach=Off"
-    },
-    {
-        "key": "15ff33a4f1e7a3b6d5cbbcdb328759672241bd91",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=On, SBP=On, Sum=On, Status=Success, Coach=Off"
-    },
-    {
-        "key": "0782261880a533910112be331e6031ea8b4a1219",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=Off, Status=Success, Coach=Off"
-    },
-    {
-        "key": "0364ea059687af770d723bc04aa6f3736faf8da2",
-        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
-        "library_name": "Android Library 2.0",
-        "name": "TransactionResult",
-        "description": "",
-        "platform": "ANDROID",
-        "variant": "Commision=Off, ActionButtons=On, SBP=Off, Sum=On, Status=Success, Coach=Off"
-    },
-    {
         "key": "f578c8bad074053aa9a8827456328101b9191e66",
         "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
         "library_name": "Android Library 2.0",
@@ -41072,6 +40928,150 @@
         "description": "",
         "platform": "ANDROID",
         "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=Off, Status=Error, Coach=Off"
+    },
+    {
+        "key": "fa9f0e3e7113ffab545b2607674f545143adc65b",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=Off, Status=Error, Coach=On"
+    },
+    {
+        "key": "f06e7995ee025dbaf8d64c50d31cb97f6cbf9ed1",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=Off, Status=Error, Coach=Off"
+    },
+    {
+        "key": "e5af1f58973e6c98f3f4e3fd6a52398e05cb435e",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=On, ActionButtons=On, SBP=On, Sum=On, Status=Success, Coach=Off"
+    },
+    {
+        "key": "e0fa3996d03edc75601b9f270dd3c68b74b76de2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=On, SBP=Off, Sum=On, Status=Success, Coach=On"
+    },
+    {
+        "key": "991937d0d4ed1b19870a2bee02be108eb1d078f2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=On, SBP=Off, Sum=Off, Status=Success, Coach=Off"
+    },
+    {
+        "key": "912de03a32fd67b58f63f5ffb3536cb8b75a1936",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=Off, Status=Success, Coach=On"
+    },
+    {
+        "key": "8ec97be7c15cd26d6ddfcc9a0ac5f78c35d99ed6",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=On, Status=Success, Coach=Off"
+    },
+    {
+        "key": "82c8782aa840bb227ce57ae353bab42ae9cfef51",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=On, SBP=Off, Sum=Off, Status=Success, Coach=On"
+    },
+    {
+        "key": "7d3cd27f7457f22d54cfd722348881b21827ffbe",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=On, ActionButtons=On, SBP=On, Sum=On, Status=Success, Coach=On"
+    },
+    {
+        "key": "561f3b58a1827350ed208017e4c5fb9d6740361a",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=On, Status=Success, Coach=On"
+    },
+    {
+        "key": "4574602401f3864179affc06e5e7a0a577576f63",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=On, ActionButtons=On, SBP=Off, Sum=On, Status=Success, Coach=On"
+    },
+    {
+        "key": "3905685edc553bcef872fb18e6dc4b1fa3275ba3",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=On, SBP=On, Sum=On, Status=Success, Coach=On"
+    },
+    {
+        "key": "2a38096d927bc3a938d16baf6e3a38698c2e8a00",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=On, ActionButtons=On, SBP=Off, Sum=On, Status=Success, Coach=Off"
+    },
+    {
+        "key": "15ff33a4f1e7a3b6d5cbbcdb328759672241bd91",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=On, SBP=On, Sum=On, Status=Success, Coach=Off"
+    },
+    {
+        "key": "0782261880a533910112be331e6031ea8b4a1219",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=Off, SBP=Off, Sum=Off, Status=Success, Coach=Off"
+    },
+    {
+        "key": "0364ea059687af770d723bc04aa6f3736faf8da2",
+        "file_key": "jcbrP2ULUVYkNiXQ4HahzT",
+        "library_name": "Android Library 2.0",
+        "name": "TransactionResult",
+        "description": "",
+        "platform": "ANDROID",
+        "variant": "Commision=Off, ActionButtons=On, SBP=Off, Sum=On, Status=Success, Coach=Off"
     },
     {
         "key": "159d4ebc87eab07ab25fff01272b26a6c293856f",
