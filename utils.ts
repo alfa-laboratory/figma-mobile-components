@@ -63,7 +63,11 @@ export async function requestStyles(fileId: string) {
     return styles;
 }
 
-export async function downloadImage(url: string, filename: string, destFolder: string): Promise<boolean> {
+export async function downloadImage(
+    url: string,
+    filename: string,
+    destFolder: string
+): Promise<boolean> {
     const destPath = path.resolve(destFolder, filename);
 
     if (fs.existsSync(destPath)) return Promise.resolve(false);
@@ -82,4 +86,38 @@ export async function downloadImage(url: string, filename: string, destFolder: s
         writer.on('finish', () => resolve(true));
         writer.on('error', (err) => reject(err));
     });
+}
+
+export function nameAdapter(name: string) {
+    if (name === 'IconElementView') {
+        name = 'IconView';
+    }
+
+    return name.toLowerCase();
+}
+
+export function variantsAdapter(variantString: string) {
+    if (!variantString) return '';
+
+    const adaptVariant = ([key, value]) => {
+        if (key === 'Ellipsize') {
+            key = 'Truncation';
+
+            if (value === 'Ellipsize') {
+                value = 'Truncated';
+            }
+        }
+
+        return [key, value];
+    };
+
+    const variantDict = variantString.split(', ').reduce((acc, variant) => {
+        const [key, value] = adaptVariant(variant.split('=') as [string, string]);
+
+        acc[key] = value;
+
+        return acc;
+    }, {});
+
+    return JSON.stringify(variantDict).toLowerCase();
 }

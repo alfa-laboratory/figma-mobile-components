@@ -2,7 +2,13 @@ import path from 'path';
 import fs from 'fs';
 import { promisify } from 'util';
 import libraries from './data/libraries.json';
-import { requestComponents, requestStyles, downloadImage } from './utils';
+import {
+    requestComponents,
+    requestStyles,
+    downloadImage,
+    variantsAdapter,
+    nameAdapter,
+} from './utils';
 import axios from 'axios';
 
 const writeFile = promisify(fs.writeFile);
@@ -42,14 +48,17 @@ const findPairs = async (components: ShortFigmaItem[]) => {
     };
 
     const match = (c1: ShortFigmaItem, c2: ShortFigmaItem) => {
-        if (c1.variant && c2.variant) {
-            const variant1 = JSON.stringify(c1.variant.split(', ').sort());
-            const variant2 = JSON.stringify(c2.variant.split(', ').sort());
-            return c1.name === c2.name && variant1 === variant2;
+        const c1Name = nameAdapter(c1.name);
+        const c2Name = nameAdapter(c2.name);
+        const c1Variant = variantsAdapter(c1.variant);
+        const c2Variant = variantsAdapter(c2.variant);
+
+        if (c1Variant && c2Variant) {
+            return c1Name === c2Name && c1Variant === c2Variant;
         }
 
-        if (!c1.variant && !c2.variant) {
-            return c1.name === c2.name;
+        if (!c1Variant && !c2Variant) {
+            return c1Name === c2Name;
         }
     };
 
@@ -70,7 +79,10 @@ const findPairs = async (components: ShortFigmaItem[]) => {
     }
 
     for await (const [c1, c2] of newPairs) {
-        await axios.post('https://digital.alfabank.ru/figma-pairs/link', { key1: c1.key, key2: c2.key });
+        await axios.post('https://digital.alfabank.ru/figma-pairs/link', {
+            key1: c1.key,
+            key2: c2.key,
+        });
         console.log(`[+] autolink: ${c1.name}:${c1.key} <-> ${c2.name}:${c2.key}`);
     }
 };
@@ -87,7 +99,9 @@ const findPairs = async (components: ShortFigmaItem[]) => {
 
             allComponents.push(
                 ...response
-                    .map<ShortFigmaItem>((component) => buildItem(component, library.name, platform))
+                    .map<ShortFigmaItem>((component) =>
+                        buildItem(component, library.name, platform)
+                    )
                     .filter(filterItems)
             );
 
@@ -109,7 +123,9 @@ const findPairs = async (components: ShortFigmaItem[]) => {
         }
     }
 
-    allComponents.sort((a, b) => `${a.name}: ${a.description}`.localeCompare(`${b.name}: ${b.description}`));
+    allComponents.sort((a, b) =>
+        `${a.name}: ${a.description}`.localeCompare(`${b.name}: ${b.description}`)
+    );
 
     const componentsFileName = path.resolve(__dirname, './data/components.json');
     await writeFile(componentsFileName, JSON.stringify(allComponents, null, 4), 'UTF-8');
