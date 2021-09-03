@@ -1801,6 +1801,213 @@
         "variant": "State=Error"
     },
     {
+        "key": "c2c54b4a9360b8b02b03c97e3423206d91d52e93",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 160h, Subtitle=On, Subtitle 2=On, Actions=Button"
+    },
+    {
+        "key": "bfc675d8a3f207b832b79e7c4fa6dbe529cb858b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 128h, Subtitle=Off, Subtitle 2=On, Actions=Off"
+    },
+    {
+        "key": "be204e0282120db76f7bd7661e32b4282c94eab1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Off, Subtitle=On, Subtitle 2=Off, Actions=Off"
+    },
+    {
+        "key": "b7edaaf42011173cb164467efb44c549e933724f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 160h, Subtitle=On, Subtitle 2=On, Actions=Off"
+    },
+    {
+        "key": "94514e5f4a3641fe5c58b70e7a3173af6f2cd601",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Off, Subtitle=Off, Subtitle 2=On, Actions=Off"
+    },
+    {
+        "key": "80b37a5909d76161feaca297477352b6fcc54e9e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Icon, Subtitle=On, Subtitle 2=Off, Actions=Button"
+    },
+    {
+        "key": "73f0c42692fcba2f7961d9589f9e15117e6b7f10",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 160h, Subtitle=Off, Subtitle 2=On, Actions=Button"
+    },
+    {
+        "key": "6da3e67f1e7fe336cfb2eceb21a5a6e02c3074a8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Icon, Subtitle=On, Subtitle 2=Off, Actions=Rate"
+    },
+    {
+        "key": "6d9a826acf33e0d4b13cccdebacf2cf8ad6f92ee",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Icon, Subtitle=On, Subtitle 2=Off, Actions=Off"
+    },
+    {
+        "key": "67de82a5b2d3be51f62d4cf322e070fadc7073c4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=CoverImage (4:3), Subtitle=On, Subtitle 2=On, Actions=Off"
+    },
+    {
+        "key": "5fbf28ea0eae31bbede53f17c72b997ca75736c4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 128h, Subtitle=Off, Subtitle 2=On, Actions=Button"
+    },
+    {
+        "key": "5914fbf47e59ae1f4d3c8cef0d3708c600d37fac",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Icon, Subtitle=Off, Subtitle 2=On, Actions=Button"
+    },
+    {
+        "key": "489a996e9eeb0e4cd236c2f6edc8a03a57595e62",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Icon, Subtitle=Off, Subtitle 2=On, Actions=Off"
+    },
+    {
+        "key": "40ffc3880c1fe18b4b724a290bea133ebc927a9d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 128h, Subtitle=On, Subtitle 2=On, Actions=Off"
+    },
+    {
+        "key": "3f30d692373fa8a7b035484b650d416662f0c51f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 128h, Subtitle=On, Subtitle 2=On, Actions=Button"
+    },
+    {
+        "key": "3adf6fe153634f2f4560733b606a44897e7c52f1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 160h, Subtitle=Off, Subtitle 2=On, Actions=Off"
+    },
+    {
+        "key": "3735c298a40e1a3dbc97ebfe44c042ee89777e57",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 128h, Subtitle=On, Subtitle 2=Off, Actions=Off"
+    },
+    {
+        "key": "2bc6a4e86c6286c60c4ad498ac52ccae6b398412",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 128h, Subtitle=On, Subtitle 2=Off, Actions=Button"
+    },
+    {
+        "key": "22c9f4903538df60203a06aa8d723e29fce70a14",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=CoverImage (4:3), Subtitle=On, Subtitle 2=Off, Actions=Off"
+    },
+    {
+        "key": "217d6e93fdf6ad3469ae53dd3cb42b3391b12d5a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Icon, Subtitle=Off, Subtitle 2=On, Actions=Rate"
+    },
+    {
+        "key": "ebc90e1afbdfdd31c41788be12b412f3f48fedd1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 160h, Subtitle=On, Subtitle 2=Off, Actions=Button"
+    },
+    {
+        "key": "e36b6e34a55718b6a7b260b195499d7b8d522ac4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=Image 160h, Subtitle=On, Subtitle 2=Off, Actions=Off"
+    },
+    {
+        "key": "e0088efe2dfc89e8f9faf7025ae2c68f0e7ac5bd",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "Alert",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Graphic=CoverImage (4:3), Subtitle=Off, Subtitle 2=On, Actions=Off"
+    },
+    {
         "key": "dfe6187952df6139850f1f2345f0857cfc0b8be3",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -1819,211 +2026,22 @@
         "variant": "Property 1=FullScreen"
     },
     {
-        "key": "94514e5f4a3641fe5c58b70e7a3173af6f2cd601",
+        "key": "6252d9239b922f6e8b1bba2c877dc36be8b0ca6c",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "AlertView",
         "description": "",
         "platform": "IOS",
-        "variant": "Graphic=Off, Subtitle=Off, Subtitle 2=On, Actions=Off"
+        "variant": "Precet=Variant2"
     },
     {
-        "key": "80b37a5909d76161feaca297477352b6fcc54e9e",
+        "key": "a1ed301ec0ae6194b8a80abb7d57af51e417765f",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "AlertView",
         "description": "",
         "platform": "IOS",
-        "variant": "Graphic=Icon, Subtitle=On, Subtitle 2=Off, Actions=Button"
-    },
-    {
-        "key": "73f0c42692fcba2f7961d9589f9e15117e6b7f10",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Image 160h, Subtitle=Off, Subtitle 2=On, Actions=Button"
-    },
-    {
-        "key": "6da3e67f1e7fe336cfb2eceb21a5a6e02c3074a8",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Icon, Subtitle=On, Subtitle 2=Off, Actions=Rate"
-    },
-    {
-        "key": "6d9a826acf33e0d4b13cccdebacf2cf8ad6f92ee",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Icon, Subtitle=On, Subtitle 2=Off, Actions=Off"
-    },
-    {
-        "key": "67de82a5b2d3be51f62d4cf322e070fadc7073c4",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=CoverImage (4:3), Subtitle=On, Subtitle 2=On, Actions=Off"
-    },
-    {
-        "key": "5fbf28ea0eae31bbede53f17c72b997ca75736c4",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Image 128h, Subtitle=Off, Subtitle 2=On, Actions=Button"
-    },
-    {
-        "key": "5914fbf47e59ae1f4d3c8cef0d3708c600d37fac",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Icon, Subtitle=Off, Subtitle 2=On, Actions=Button"
-    },
-    {
-        "key": "489a996e9eeb0e4cd236c2f6edc8a03a57595e62",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Icon, Subtitle=Off, Subtitle 2=On, Actions=Off"
-    },
-    {
-        "key": "40ffc3880c1fe18b4b724a290bea133ebc927a9d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Image 128h, Subtitle=On, Subtitle 2=On, Actions=Off"
-    },
-    {
-        "key": "3f30d692373fa8a7b035484b650d416662f0c51f",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Image 128h, Subtitle=On, Subtitle 2=On, Actions=Button"
-    },
-    {
-        "key": "3adf6fe153634f2f4560733b606a44897e7c52f1",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Image 160h, Subtitle=Off, Subtitle 2=On, Actions=Off"
-    },
-    {
-        "key": "3735c298a40e1a3dbc97ebfe44c042ee89777e57",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Image 128h, Subtitle=On, Subtitle 2=Off, Actions=Off"
-    },
-    {
-        "key": "2bc6a4e86c6286c60c4ad498ac52ccae6b398412",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Image 128h, Subtitle=On, Subtitle 2=Off, Actions=Button"
-    },
-    {
-        "key": "22c9f4903538df60203a06aa8d723e29fce70a14",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=CoverImage (4:3), Subtitle=On, Subtitle 2=Off, Actions=Off"
-    },
-    {
-        "key": "217d6e93fdf6ad3469ae53dd3cb42b3391b12d5a",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Icon, Subtitle=Off, Subtitle 2=On, Actions=Rate"
-    },
-    {
-        "key": "ebc90e1afbdfdd31c41788be12b412f3f48fedd1",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Image 160h, Subtitle=On, Subtitle 2=Off, Actions=Button"
-    },
-    {
-        "key": "e36b6e34a55718b6a7b260b195499d7b8d522ac4",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Image 160h, Subtitle=On, Subtitle 2=Off, Actions=Off"
-    },
-    {
-        "key": "e0088efe2dfc89e8f9faf7025ae2c68f0e7ac5bd",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=CoverImage (4:3), Subtitle=Off, Subtitle 2=On, Actions=Off"
-    },
-    {
-        "key": "c2c54b4a9360b8b02b03c97e3423206d91d52e93",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Image 160h, Subtitle=On, Subtitle 2=On, Actions=Button"
-    },
-    {
-        "key": "bfc675d8a3f207b832b79e7c4fa6dbe529cb858b",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Image 128h, Subtitle=Off, Subtitle 2=On, Actions=Off"
-    },
-    {
-        "key": "be204e0282120db76f7bd7661e32b4282c94eab1",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Off, Subtitle=On, Subtitle 2=Off, Actions=Off"
-    },
-    {
-        "key": "b7edaaf42011173cb164467efb44c549e933724f",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "AlertView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Graphic=Image 160h, Subtitle=On, Subtitle 2=On, Actions=Off"
+        "variant": "Precet=Default"
     },
     {
         "key": "da6dcbcd4ecccf17723954bbe9bbdcc2c9f1a2c6",
@@ -3112,15 +3130,6 @@
         "variant": "Type=Error"
     },
     {
-        "key": "ae3cc5dee778fd2ec7069dfc4076391d82de88e4",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "BannerWithImageAndButtonWidget",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Type=Static"
-    },
-    {
         "key": "24f100f487c27ab3757c268ae77185425b437a3a",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -3128,6 +3137,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Type=Skeleton"
+    },
+    {
+        "key": "ae3cc5dee778fd2ec7069dfc4076391d82de88e4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "BannerWithImageAndButtonWidget",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Type=Static"
     },
     {
         "key": "7385e41e71d1f4dd180a062574913771db309ff5",
@@ -10790,15 +10808,6 @@
         "variant": "CreditsWidgetViewType=CREDIT_NEED_REPLENISH_1, WidgetSize=M"
     },
     {
-        "key": "0f713dcd75bcb54f00bf1a5dd542ed239f1966d2",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "CreditWidget",
-        "description": "Кредит успешно погашен. Показываем падение конфетти в ячейке",
-        "platform": "IOS",
-        "variant": "CreditsWidgetViewType=CREDIT_CLOSED_1, WidgetSize=S"
-    },
-    {
         "key": "0f5d50dd30e2f5d1b9837b02479894e32ad3c5e9",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -10806,6 +10815,15 @@
         "description": "Кредит успешно погашен. Показываем падение конфетти в ячейке",
         "platform": "IOS",
         "variant": "CreditsWidgetViewType=CREDIT_CLOSED_1, WidgetSize=M"
+    },
+    {
+        "key": "0f713dcd75bcb54f00bf1a5dd542ed239f1966d2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "CreditWidget",
+        "description": "Кредит успешно погашен. Показываем падение конфетти в ячейке",
+        "platform": "IOS",
+        "variant": "CreditsWidgetViewType=CREDIT_CLOSED_1, WidgetSize=S"
     },
     {
         "key": "ea6f7061e4083f1ce6787cd4a85849b803ab3796",
@@ -21333,249 +21351,6 @@
         "platform": "ANDROID"
     },
     {
-        "key": "f4d0bc48faf8e11315d21091ada91ac6255fec5f",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Loading, Morphology=Label, Size=Small"
-    },
-    {
-        "key": "f0c81877944c0ecc750c757efe8caaf9030f9da4",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Enabled, Morphology=Icon only, Size=Large"
-    },
-    {
-        "key": "f03d40500bb5e322c80d1703b6f137f2857c40d0",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Primary, State=Loading, Morphology=Icon only, Size=Large"
-    },
-    {
-        "key": "e8e0ebf36e299a312b8ef12940b46eadffe9a4be",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Pressed, Morphology=Left Icon + Label, Size=Medium"
-    },
-    {
-        "key": "e74edd2e1c6d27b728c3db28cc658e202e66dc4c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Disabled, Morphology=Left Icon + Label, Size=Large"
-    },
-    {
-        "key": "e3f8f17d569019a7e859d1b8a728bcf35c855c6d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Enabled, Morphology=Label, Size=Small"
-    },
-    {
-        "key": "e335abafee5b6ae36c1fd1d4ab0b9ba564d4b5e7",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Pressed, Morphology=Label, Size=Medium"
-    },
-    {
-        "key": "8a1a6de05bb3f9351130ee7f138f4b334d7399de",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Pressed, Morphology=Label, Size=Small"
-    },
-    {
-        "key": "89cd0024f04fe4a9265e4c2e73ea42cc16ed7087",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Primary, State=Enabled, Morphology=Left Icon + Label, Size=Large"
-    },
-    {
-        "key": "846f9329854f928c647abeef1d62cd6dfa7042c2",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Loading, Morphology=Icon only, Size=Medium"
-    },
-    {
-        "key": "815e5658aaa1b3c6b04f7166ed190ca2c791f15c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Loading, Morphology=Left Icon + Label, Size=Medium"
-    },
-    {
-        "key": "8139ed61dcb77f4982c3a592d9ff63ab1b112dcc",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Loading, Morphology=Label, Size=Small"
-    },
-    {
-        "key": "7febf96c2570b07191d665c0a12f302d1ffacaf3",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Enabled, Morphology=Left Icon + Label, Size=Medium"
-    },
-    {
-        "key": "73aa0e98a98793ed451b70807b03f7ca9e31fe24",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Disabled, Morphology=Icon only, Size=Medium"
-    },
-    {
-        "key": "739d4c21a8d1bfc5c7b87344962be3b85f8a1b87",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Enabled, Morphology=Left Icon + Label, Size=Large"
-    },
-    {
-        "key": "71e36e7bae3a84b942be81c8b611919d2ec2c73e",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Disabled, Morphology=Left Icon + Label, Size=Medium"
-    },
-    {
-        "key": "718ec6a1bf3305278cb7ddef66a31f79a62f4351",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Enabled, Morphology=Icon only, Size=Medium"
-    },
-    {
-        "key": "6d1f0a89f66a085ecf8b34fdacf6ae208ca0567b",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Enabled, Morphology=Label, Size=Small"
-    },
-    {
-        "key": "6bab876245675a8327dff250fa767d87fd70bcf9",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Pressed, Morphology=Icon only, Size=Large"
-    },
-    {
-        "key": "6945bacd44c3847f1f2cc772086baef1fe3623ce",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Pressed, Morphology=Label, Size=Large"
-    },
-    {
-        "key": "5e1b64434d2b725c126d6c11a8929c0ec9c74eae",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Disabled, Morphology=Label, Size=Medium"
-    },
-    {
-        "key": "5e01b476abb42a95ff4ad1c51f4dcd97be0c9097",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Primary, State=Loading, Morphology=Left Icon + Label, Size=Medium"
-    },
-    {
-        "key": "5c886dc3ab6918efdb8a94d2a597a6e38d4ea480",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Pressed, Morphology=Label, Size=Large"
-    },
-    {
-        "key": "5459044d0ded73527d1a607919312f8a32e2c7d7",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Disabled, Morphology=Left Icon + Label, Size=Large"
-    },
-    {
-        "key": "51674a63c0f78f1f0e3f337f8eb0795b467deeb3",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Disabled, Morphology=Left Icon + Label, Size=Large"
-    },
-    {
-        "key": "43b5eee17eb0ccfbb546c1cb1a69eceaf6898764",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Disabled, Morphology=Label, Size=Large"
-    },
-    {
-        "key": "3e7767907b4ddcef0e4bcd7fe5e167e30af3f64e",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Enabled, Morphology=Icon only, Size=Large"
-    },
-    {
         "key": "3c277c9b37be2d44981c5ff4802894970481905b",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -21583,6 +21358,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Style=Tertiary, State=Pressed, Morphology=Label, Size=Medium"
+    },
+    {
+        "key": "37b678829ce4e8deef0ad1764076dc2f0fec34a5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Disabled, Morphology=Label, Size=Medium"
     },
     {
         "key": "3225203b1e0fa68e404919d62843487eb8981aec",
@@ -21594,6 +21378,33 @@
         "variant": "Style=Primary, State=Disabled, Morphology=Left Icon + Label, Size=Medium"
     },
     {
+        "key": "303cfb4810109129dd8cc0c1a33d5836455bbd16",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Loading, Morphology=Icon only, Size=Medium"
+    },
+    {
+        "key": "2d4a604fe893d5f7178ca4056655c7bd15c0c25d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Loading, Morphology=Label, Size=Medium"
+    },
+    {
+        "key": "2b5c78c7e8c1e29f244d3c6bbc53460bbfeb9662",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Primary, State=Pressed, Morphology=Icon only, Size=Large"
+    },
+    {
         "key": "2a151d56fecd64ae3195b009cdfdfd9a30e2295d",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -21601,6 +21412,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Style=Primary, State=Disabled, Morphology=Icon only, Size=Large"
+    },
+    {
+        "key": "29465688f46927dc72f9755adc131ac380694327",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Loading, Morphology=Icon only, Size=Large"
     },
     {
         "key": "2746005cf5124855645137e0b1608a461e4d44bd",
@@ -21621,13 +21441,49 @@
         "variant": "Style=Primary, State=Pressed, Morphology=Label, Size=Small"
     },
     {
-        "key": "1c85370dd8411aec08a7a8b075e8af0d36acfd77",
+        "key": "23b6a9c521f4e840adf660654b339c70b10ed8c0",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Disabled, Morphology=Left Icon + Label, Size=Large"
+        "variant": "Style=Primary, State=Pressed, Morphology=Icon only, Size=Medium"
+    },
+    {
+        "key": "1fcc9cd5cf620b0afc3cb8ec07ce52a20d92567e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Loading, Morphology=Label, Size=Large"
+    },
+    {
+        "key": "1f896e33634b3d3da20b7f87840eb33d1f0cf96c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Pressed, Morphology=Icon only, Size=Large"
+    },
+    {
+        "key": "1e9950a194aebcca7d1a12a2c63f19d490d1879f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Enabled, Morphology=Left Icon + Label, Size=Medium"
+    },
+    {
+        "key": "1a36285660339da6234253f31b58334f7e1d72f2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Disabled, Morphology=Icon only, Size=Medium"
     },
     {
         "key": "18a38cc2d38947a23e3abd6193e8f8811074a17a",
@@ -21639,6 +21495,15 @@
         "variant": "Style=Primary, State=Enabled, Morphology=Left Icon + Label, Size=Medium"
     },
     {
+        "key": "1306acf4f7f51889da4d30ae01ca7a7a39ab3120",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Disabled, Morphology=Label, Size=Large"
+    },
+    {
         "key": "0c5cf7d6f6d0a5ed8978dbd56db67f73c22774ab",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -21646,6 +21511,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Style=Custom, State=Loading, Morphology=Label, Size=Large"
+    },
+    {
+        "key": "0b20c3cb1da5f5d2e4c43c6373ee9baba73ae092",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Primary, State=Disabled, Morphology=Icon only, Size=Medium"
     },
     {
         "key": "0943431ca87d898ddf8c239075d2ea38a3bbe2b8",
@@ -21666,31 +21540,40 @@
         "variant": "Style=Tertiary, State=Disabled, Morphology=Icon only, Size=Medium"
     },
     {
-        "key": "032676499d627054ae63c70998c71b0a9a5632cd",
+        "key": "08132adeab3ddf5039afc30b43435a0bec20b6f4",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Pressed, Morphology=Label, Size=Small"
+        "variant": "Style=Custom, State=Loading, Morphology=Icon only, Size=Medium"
     },
     {
-        "key": "ff55b5d4a8ca49b1b365b338a19b4eb1df87093e",
+        "key": "0300e0ed074c2397ef5361fb596fc199c26f1293",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Primary, State=Enabled, Morphology=Icon only, Size=Medium"
+        "variant": "Style=Secondary, State=Pressed, Morphology=Icon only, Size=Medium"
     },
     {
-        "key": "f9aaf2098501fb036e1dfb281cc32e90d5990cc1",
+        "key": "0225414b8dc600e25dc824e67f37e24e80ffbad2",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Tertiary, State=Disabled, Morphology=Label, Size=Large"
+        "variant": "Style=Custom, State=Pressed, Morphology=Label, Size=Medium"
+    },
+    {
+        "key": "01191a7d1f6ac30c5f5e5b331405340ed2cfdcd5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Pressed, Morphology=Label, Size=Large"
     },
     {
         "key": "f71d0da10503fe35741e8103013c9445168f6a97",
@@ -21702,58 +21585,220 @@
         "variant": "Style=Custom, State=Disabled, Morphology=Label, Size=Small"
     },
     {
-        "key": "f0046a52e3201b804a4d127e0cc01e9367576910",
+        "key": "f4d0bc48faf8e11315d21091ada91ac6255fec5f",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Primary, State=Loading, Morphology=Label, Size=Medium"
+        "variant": "Style=Blurred, State=Loading, Morphology=Label, Size=Small"
     },
     {
-        "key": "ea123c8103a98d7df088a7dc6b52f48e7c3961cf",
+        "key": "e3f8f17d569019a7e859d1b8a728bcf35c855c6d",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Primary, State=Disabled, Morphology=Left Icon + Label, Size=Large"
+        "variant": "Style=Custom, State=Enabled, Morphology=Label, Size=Small"
     },
     {
-        "key": "e886e6710a38be7fe7c785a6b137f82f194a4885",
+        "key": "e335abafee5b6ae36c1fd1d4ab0b9ba564d4b5e7",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Tertiary, State=Loading, Morphology=Icon only, Size=Large"
+        "variant": "Style=Blurred, State=Pressed, Morphology=Label, Size=Medium"
     },
     {
-        "key": "e014272b3b8398cde35a88b63aee071ba4ce489e",
+        "key": "e1d4b4ee11bf46d05a11f8a35a081095eeefc9f6",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Secondary, State=Enabled, Morphology=Icon only, Size=Medium"
+        "variant": "Style=Blurred, State=Pressed, Morphology=Icon only, Size=Medium"
     },
     {
-        "key": "de9f7b9ef3bf1f27a2360d416630e37e817c74ef",
+        "key": "d072a52938ee127cd7719c698ed5037f215f42af",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Custom, State=Pressed, Morphology=Left Icon + Label, Size=Large"
+        "variant": "Style=Blurred, State=Loading, Morphology=Label, Size=Medium"
     },
     {
-        "key": "de46e504d7b26c69bb47b002d2711e0716e8679d",
+        "key": "c32ef59fe86357497883b4d949b7a9d5186e8e68",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Tertiary, State=Loading, Morphology=Label, Size=Large"
+        "variant": "Style=Tertiary, State=Disabled, Morphology=Label, Size=Small"
+    },
+    {
+        "key": "9d58301bb87011cf836309f936b8bcf8ec03fae5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Enabled, Morphology=Label, Size=Small"
+    },
+    {
+        "key": "975220a73c23d4ec1d250078bc41ff293bbdfa96",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Loading, Morphology=Icon only, Size=Medium"
+    },
+    {
+        "key": "95dd526cf41db2b6b138a65d2d722b908b81b38d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Loading, Morphology=Left Icon + Label, Size=Large"
+    },
+    {
+        "key": "8fe21d1b1c7a0cf2e88db411d57773dfbac05226",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Disabled, Morphology=Label, Size=Small"
+    },
+    {
+        "key": "8a1a6de05bb3f9351130ee7f138f4b334d7399de",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Pressed, Morphology=Label, Size=Small"
+    },
+    {
+        "key": "8262cb6e3e078eba584d034ee689dd282da7e466",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Disabled, Morphology=Icon only, Size=Large"
+    },
+    {
+        "key": "8139ed61dcb77f4982c3a592d9ff63ab1b112dcc",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Loading, Morphology=Label, Size=Small"
+    },
+    {
+        "key": "73aa0e98a98793ed451b70807b03f7ca9e31fe24",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Disabled, Morphology=Icon only, Size=Medium"
+    },
+    {
+        "key": "71e36e7bae3a84b942be81c8b611919d2ec2c73e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Disabled, Morphology=Left Icon + Label, Size=Medium"
+    },
+    {
+        "key": "4f9ae77fc21e6948042ba26c37cb0c4a168020a5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Disabled, Morphology=Label, Size=Medium"
+    },
+    {
+        "key": "41e48cfa419b001c002445c15fff93ae285274cb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Pressed, Morphology=Left Icon + Label, Size=Medium"
+    },
+    {
+        "key": "278d312529677ef718de711e49d637329ebd908a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Pressed, Morphology=Label, Size=Small"
+    },
+    {
+        "key": "1e646e2515b7985f30d039e29c281af7702e01d2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Loading, Morphology=Label, Size=Small"
+    },
+    {
+        "key": "1c85370dd8411aec08a7a8b075e8af0d36acfd77",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Disabled, Morphology=Left Icon + Label, Size=Large"
+    },
+    {
+        "key": "10a3768dfe759201c43ef21418fdae4aa6e986e5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Pressed, Morphology=Label, Size=Small"
+    },
+    {
+        "key": "0db7fc4f644dd42d23b49da586068b60d8001c32",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Loading, Morphology=Left Icon + Label, Size=Medium"
+    },
+    {
+        "key": "032676499d627054ae63c70998c71b0a9a5632cd",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Pressed, Morphology=Label, Size=Small"
+    },
+    {
+        "key": "d545f4655389924f8b081c60ca892a6cbcbeefb0",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Primary, State=Disabled, Morphology=Label, Size=Small"
     },
     {
         "key": "d3d6e9e92d7de6701a8b62bbc859c3c84bea481a",
@@ -21781,438 +21826,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Style=Primary, State=Pressed, Morphology=Label, Size=Large"
-    },
-    {
-        "key": "c2c959ff4b3d29f549c66832ec8474651a50913f",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Primary, State=Loading, Morphology=Left Icon + Label, Size=Large"
-    },
-    {
-        "key": "bf35db9f2857814ac5be1488d9cfa5fd678597cd",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Pressed, Morphology=Label, Size=Large"
-    },
-    {
-        "key": "be8e22075093d0c400272cc7bf6177cec229b66d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Primary, State=Disabled, Morphology=Label, Size=Large"
-    },
-    {
-        "key": "bc8bc392194b54aa6b333618987ccd35a538b597",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Primary, State=Pressed, Morphology=Left Icon + Label, Size=Large"
-    },
-    {
-        "key": "ba6b2a5e4bbf41730e02c3e15a4cd6c73615bbd5",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Loading, Morphology=Label, Size=Large"
-    },
-    {
-        "key": "b6ed4c4c39f4c30a815d06747b77876414beedd3",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Loading, Morphology=Label, Size=Medium"
-    },
-    {
-        "key": "a87e12ca2de8b8a76258a54899cbe6512673a660",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Enabled, Morphology=Label, Size=Large"
-    },
-    {
-        "key": "a2e0d531b5baeb36a8148293e2e2c986df6e231d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Enabled, Morphology=Label, Size=Large"
-    },
-    {
-        "key": "9d58301bb87011cf836309f936b8bcf8ec03fae5",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Enabled, Morphology=Label, Size=Small"
-    },
-    {
-        "key": "95da54dea1761507030c2a3fca8c597b1bce1dd1",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Enabled, Morphology=Left Icon + Label, Size=Large"
-    },
-    {
-        "key": "904b15cb5ae850ed062fd8ac8eb7d17827178d42",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Pressed, Morphology=Label, Size=Medium"
-    },
-    {
-        "key": "8fe21d1b1c7a0cf2e88db411d57773dfbac05226",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Disabled, Morphology=Label, Size=Small"
-    },
-    {
-        "key": "8e2f3d79b72cffd718a7e8ffbe344ef9842f34e8",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Disabled, Morphology=Icon only, Size=Large"
-    },
-    {
-        "key": "8c7a5a510886e7c775be5f4f486d695540215eb4",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Primary, State=Disabled, Morphology=Label, Size=Medium"
-    },
-    {
-        "key": "8b29f3c031893a0fb1baf54472954806ef536fec",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Pressed, Morphology=Icon only, Size=Large"
-    },
-    {
-        "key": "82efcf16da3c59a0943759ca914250821b9d9f44",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Disabled, Morphology=Icon only, Size=Medium"
-    },
-    {
-        "key": "8262cb6e3e078eba584d034ee689dd282da7e466",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Disabled, Morphology=Icon only, Size=Large"
-    },
-    {
-        "key": "7f3181352f44725c9d106119546c701bb42aa29a",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Primary, State=Enabled, Morphology=Label, Size=Medium"
-    },
-    {
-        "key": "77f2855e52942a994d65837e6d876559fd54fa19",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Enabled, Morphology=Label, Size=Large"
-    },
-    {
-        "key": "7424daf3611b92476bab524d04fc4703e7f4fd2c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Disabled, Morphology=Icon only, Size=Large"
-    },
-    {
-        "key": "73e3b9ede17637b569c199fa216bc9d4a4a25554",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Primary, State=Enabled, Morphology=Icon only, Size=Large"
-    },
-    {
-        "key": "71f2178be7a75ac33d6fc6532e28b72a2bd21232",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Enabled, Morphology=Icon only, Size=Medium"
-    },
-    {
-        "key": "714a3dc70efe2b0d3986712637ccc6a25c5a33f9",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Primary, State=Pressed, Morphology=Label, Size=Medium"
-    },
-    {
-        "key": "6f669c840a924d6cfac190ca7f632a3e87ba6fbe",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Enabled, Morphology=Label, Size=Medium"
-    },
-    {
-        "key": "6f48348f34d37ae48fb003c288a26773fe1b6908",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Pressed, Morphology=Left Icon + Label, Size=Large"
-    },
-    {
-        "key": "6d123dbe3949918b1852bcd430411b46f6c08c95",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Pressed, Morphology=Left Icon + Label, Size=Medium"
-    },
-    {
-        "key": "6cf41ac092c97e9ff5e10777fc783cccb82e48c6",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Enabled, Morphology=Label, Size=Large"
-    },
-    {
-        "key": "67d3ba0dc0f908514c9cf893e77fb4ba4edbf5de",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Enabled, Morphology=Icon only, Size=Large"
-    },
-    {
-        "key": "60fc93e5b1bab14012a3237e3599da92aad68953",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Enabled, Morphology=Label, Size=Medium"
-    },
-    {
-        "key": "5eceb19850789eea246ea650dba450f4a077b862",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Pressed, Morphology=Left Icon + Label, Size=Large"
-    },
-    {
-        "key": "5ce1a858160a1f7574ce57470f032e555c4bf6c9",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Disabled, Morphology=Label, Size=Medium"
-    },
-    {
-        "key": "58801b88aba4724a1c28075bd62ac963475e26bb",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Disabled, Morphology=Label, Size=Small"
-    },
-    {
-        "key": "5671f1964212d793006ef6b2671af03c9632e56b",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Primary, State=Loading, Morphology=Icon only, Size=Medium"
-    },
-    {
-        "key": "53f6a48b2a58d736de154f3ac5363785e8846c8f",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Disabled, Morphology=Left Icon + Label, Size=Medium"
-    },
-    {
-        "key": "53898df3c961a31081167b38edeff415eb4aba3c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Loading, Morphology=Left Icon + Label, Size=Medium"
-    },
-    {
-        "key": "50a75adf8df0438cf996338eb6b92db43601af61",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Pressed, Morphology=Icon only, Size=Large"
-    },
-    {
-        "key": "4f9ae77fc21e6948042ba26c37cb0c4a168020a5",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Disabled, Morphology=Label, Size=Medium"
-    },
-    {
-        "key": "47bbf7c065ad9a42e0b32e81e71eba4366fb6796",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Pressed, Morphology=Icon only, Size=Medium"
-    },
-    {
-        "key": "473b09e7c02a786935ee6a996504a08e55b78720",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Primary, State=Enabled, Morphology=Label, Size=Large"
-    },
-    {
-        "key": "e1d4b4ee11bf46d05a11f8a35a081095eeefc9f6",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Pressed, Morphology=Icon only, Size=Medium"
-    },
-    {
-        "key": "e0f2928c77e401f7ec8235af707d148706e90f05",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Enabled, Morphology=Icon only, Size=Large"
-    },
-    {
-        "key": "dfb97241e5d2c71c295960da95c754eca0469814",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Enabled, Morphology=Left Icon + Label, Size=Medium"
-    },
-    {
-        "key": "dc848dc5470460bb7f5f437cdb7aac5aeb9a9dc5",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Disabled, Morphology=Left Icon + Label, Size=Medium"
-    },
-    {
-        "key": "dbe000c7705336dca092dc50d0958e416cd42902",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Loading, Morphology=Icon only, Size=Large"
-    },
-    {
-        "key": "db24d2679be4f43728f40dd5b65ea5812485e5b4",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Enabled, Morphology=Left Icon + Label, Size=Large"
-    },
-    {
-        "key": "d58586220177f1ba12ee64876095fd6b77c6f6cc",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Enabled, Morphology=Label, Size=Small"
-    },
-    {
-        "key": "d545f4655389924f8b081c60ca892a6cbcbeefb0",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Primary, State=Disabled, Morphology=Label, Size=Small"
-    },
-    {
-        "key": "d072a52938ee127cd7719c698ed5037f215f42af",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Loading, Morphology=Label, Size=Medium"
     },
     {
         "key": "c92bcac9248967922ba15c54ee753579df297133",
@@ -22251,13 +21864,40 @@
         "variant": "Style=Secondary, State=Pressed, Morphology=Left Icon + Label, Size=Large"
     },
     {
-        "key": "c32ef59fe86357497883b4d949b7a9d5186e8e68",
+        "key": "c2c959ff4b3d29f549c66832ec8474651a50913f",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Tertiary, State=Disabled, Morphology=Label, Size=Small"
+        "variant": "Style=Primary, State=Loading, Morphology=Left Icon + Label, Size=Large"
+    },
+    {
+        "key": "bf35db9f2857814ac5be1488d9cfa5fd678597cd",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Pressed, Morphology=Label, Size=Large"
+    },
+    {
+        "key": "be8e22075093d0c400272cc7bf6177cec229b66d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Primary, State=Disabled, Morphology=Label, Size=Large"
+    },
+    {
+        "key": "bc8bc392194b54aa6b333618987ccd35a538b597",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Primary, State=Pressed, Morphology=Left Icon + Label, Size=Large"
     },
     {
         "key": "bbeb791effc552b86f7422f97f98ce00ef638071",
@@ -22269,6 +21909,15 @@
         "variant": "Style=Secondary, State=Disabled, Morphology=Left Icon + Label, Size=Medium"
     },
     {
+        "key": "ba6b2a5e4bbf41730e02c3e15a4cd6c73615bbd5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Loading, Morphology=Label, Size=Large"
+    },
+    {
         "key": "b835c4ee7848806017ebbdb80586f5f79f82eb51",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -22276,6 +21925,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Style=Primary, State=Pressed, Morphology=Left Icon + Label, Size=Medium"
+    },
+    {
+        "key": "b6ed4c4c39f4c30a815d06747b77876414beedd3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Loading, Morphology=Label, Size=Medium"
     },
     {
         "key": "b4ce6a40ad36408cbfd1b10d4a6155fc41678cdc",
@@ -22314,6 +21972,15 @@
         "variant": "Style=Primary, State=Enabled, Morphology=Label, Size=Small"
     },
     {
+        "key": "a87e12ca2de8b8a76258a54899cbe6512673a660",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Enabled, Morphology=Label, Size=Large"
+    },
+    {
         "key": "a4374af45fb8c9eba368d9502c2c5fdb012ed9b8",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -22321,6 +21988,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Style=Secondary, State=Loading, Morphology=Icon only, Size=Large"
+    },
+    {
+        "key": "a2e0d531b5baeb36a8148293e2e2c986df6e231d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Enabled, Morphology=Label, Size=Large"
     },
     {
         "key": "9c2cc254ffa144aad9d9d7550eb9b338257ce5c8",
@@ -22341,22 +22017,13 @@
         "variant": "Style=Secondary, State=Disabled, Morphology=Icon only, Size=Large"
     },
     {
-        "key": "975220a73c23d4ec1d250078bc41ff293bbdfa96",
+        "key": "95da54dea1761507030c2a3fca8c597b1bce1dd1",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Loading, Morphology=Icon only, Size=Medium"
-    },
-    {
-        "key": "95dd526cf41db2b6b138a65d2d722b908b81b38d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Loading, Morphology=Left Icon + Label, Size=Large"
+        "variant": "Style=Custom, State=Enabled, Morphology=Left Icon + Label, Size=Large"
     },
     {
         "key": "9450a308b7157b9d902bca63b1eb031849e339fe",
@@ -22365,7 +22032,7 @@
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Enabled, Morphology=Label, Size=Medium"
+        "variant": "Style=Blurred, State=Enabled, Morphology=Label, Size=Medium"
     },
     {
         "key": "91bcd6be80b6552edca42b61aa371ed67d775d57",
@@ -22377,94 +22044,373 @@
         "variant": "Style=Secondary, State=Pressed, Morphology=Left Icon + Label, Size=Medium"
     },
     {
-        "key": "1a36285660339da6234253f31b58334f7e1d72f2",
+        "key": "904b15cb5ae850ed062fd8ac8eb7d17827178d42",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Custom, State=Disabled, Morphology=Icon only, Size=Medium"
+        "variant": "Style=Secondary, State=Pressed, Morphology=Label, Size=Medium"
     },
     {
-        "key": "1306acf4f7f51889da4d30ae01ca7a7a39ab3120",
+        "key": "8e2f3d79b72cffd718a7e8ffbe344ef9842f34e8",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Disabled, Morphology=Label, Size=Large"
+        "variant": "Style=Tertiary, State=Disabled, Morphology=Icon only, Size=Large"
     },
     {
-        "key": "10a3768dfe759201c43ef21418fdae4aa6e986e5",
+        "key": "8c7a5a510886e7c775be5f4f486d695540215eb4",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Tertiary, State=Pressed, Morphology=Label, Size=Small"
+        "variant": "Style=Primary, State=Disabled, Morphology=Label, Size=Medium"
     },
     {
-        "key": "0db7fc4f644dd42d23b49da586068b60d8001c32",
+        "key": "8b29f3c031893a0fb1baf54472954806ef536fec",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Loading, Morphology=Left Icon + Label, Size=Medium"
+        "variant": "Style=Custom, State=Pressed, Morphology=Icon only, Size=Large"
     },
     {
-        "key": "0b20c3cb1da5f5d2e4c43c6373ee9baba73ae092",
+        "key": "89cd0024f04fe4a9265e4c2e73ea42cc16ed7087",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Primary, State=Disabled, Morphology=Icon only, Size=Medium"
+        "variant": "Style=Primary, State=Enabled, Morphology=Left Icon + Label, Size=Large"
     },
     {
-        "key": "08132adeab3ddf5039afc30b43435a0bec20b6f4",
+        "key": "846f9329854f928c647abeef1d62cd6dfa7042c2",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Custom, State=Loading, Morphology=Icon only, Size=Medium"
+        "variant": "Style=Tertiary, State=Loading, Morphology=Icon only, Size=Medium"
     },
     {
-        "key": "0300e0ed074c2397ef5361fb596fc199c26f1293",
+        "key": "82efcf16da3c59a0943759ca914250821b9d9f44",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Secondary, State=Pressed, Morphology=Icon only, Size=Medium"
+        "variant": "Style=Secondary, State=Disabled, Morphology=Icon only, Size=Medium"
     },
     {
-        "key": "0225414b8dc600e25dc824e67f37e24e80ffbad2",
+        "key": "815e5658aaa1b3c6b04f7166ed190ca2c791f15c",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Custom, State=Pressed, Morphology=Label, Size=Medium"
+        "variant": "Style=Tertiary, State=Loading, Morphology=Left Icon + Label, Size=Medium"
     },
     {
-        "key": "01191a7d1f6ac30c5f5e5b331405340ed2cfdcd5",
+        "key": "7febf96c2570b07191d665c0a12f302d1ffacaf3",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Pressed, Morphology=Label, Size=Large"
+        "variant": "Style=Blurred, State=Enabled, Morphology=Left Icon + Label, Size=Medium"
     },
     {
-        "key": "41e48cfa419b001c002445c15fff93ae285274cb",
+        "key": "7f3181352f44725c9d106119546c701bb42aa29a",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Pressed, Morphology=Left Icon + Label, Size=Medium"
+        "variant": "Style=Primary, State=Enabled, Morphology=Label, Size=Medium"
+    },
+    {
+        "key": "77f2855e52942a994d65837e6d876559fd54fa19",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Enabled, Morphology=Label, Size=Large"
+    },
+    {
+        "key": "7424daf3611b92476bab524d04fc4703e7f4fd2c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Disabled, Morphology=Icon only, Size=Large"
+    },
+    {
+        "key": "73e3b9ede17637b569c199fa216bc9d4a4a25554",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Primary, State=Enabled, Morphology=Icon only, Size=Large"
+    },
+    {
+        "key": "739d4c21a8d1bfc5c7b87344962be3b85f8a1b87",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Enabled, Morphology=Left Icon + Label, Size=Large"
+    },
+    {
+        "key": "71f2178be7a75ac33d6fc6532e28b72a2bd21232",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Enabled, Morphology=Icon only, Size=Medium"
+    },
+    {
+        "key": "718ec6a1bf3305278cb7ddef66a31f79a62f4351",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Enabled, Morphology=Icon only, Size=Medium"
+    },
+    {
+        "key": "714a3dc70efe2b0d3986712637ccc6a25c5a33f9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Primary, State=Pressed, Morphology=Label, Size=Medium"
+    },
+    {
+        "key": "6f669c840a924d6cfac190ca7f632a3e87ba6fbe",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Enabled, Morphology=Label, Size=Medium"
+    },
+    {
+        "key": "6f48348f34d37ae48fb003c288a26773fe1b6908",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Pressed, Morphology=Left Icon + Label, Size=Large"
+    },
+    {
+        "key": "6d1f0a89f66a085ecf8b34fdacf6ae208ca0567b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Enabled, Morphology=Label, Size=Small"
+    },
+    {
+        "key": "6d123dbe3949918b1852bcd430411b46f6c08c95",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Pressed, Morphology=Left Icon + Label, Size=Medium"
+    },
+    {
+        "key": "6cf41ac092c97e9ff5e10777fc783cccb82e48c6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Enabled, Morphology=Label, Size=Large"
+    },
+    {
+        "key": "6bab876245675a8327dff250fa767d87fd70bcf9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Pressed, Morphology=Icon only, Size=Large"
+    },
+    {
+        "key": "6945bacd44c3847f1f2cc772086baef1fe3623ce",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Pressed, Morphology=Label, Size=Large"
+    },
+    {
+        "key": "67d3ba0dc0f908514c9cf893e77fb4ba4edbf5de",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Enabled, Morphology=Icon only, Size=Large"
+    },
+    {
+        "key": "60fc93e5b1bab14012a3237e3599da92aad68953",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Enabled, Morphology=Label, Size=Medium"
+    },
+    {
+        "key": "5eceb19850789eea246ea650dba450f4a077b862",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Pressed, Morphology=Left Icon + Label, Size=Large"
+    },
+    {
+        "key": "5e1b64434d2b725c126d6c11a8929c0ec9c74eae",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Disabled, Morphology=Label, Size=Medium"
+    },
+    {
+        "key": "5e01b476abb42a95ff4ad1c51f4dcd97be0c9097",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Primary, State=Loading, Morphology=Left Icon + Label, Size=Medium"
+    },
+    {
+        "key": "5ce1a858160a1f7574ce57470f032e555c4bf6c9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Disabled, Morphology=Label, Size=Medium"
+    },
+    {
+        "key": "5c886dc3ab6918efdb8a94d2a597a6e38d4ea480",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Pressed, Morphology=Label, Size=Large"
+    },
+    {
+        "key": "58801b88aba4724a1c28075bd62ac963475e26bb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Disabled, Morphology=Label, Size=Small"
+    },
+    {
+        "key": "5671f1964212d793006ef6b2671af03c9632e56b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Primary, State=Loading, Morphology=Icon only, Size=Medium"
+    },
+    {
+        "key": "5459044d0ded73527d1a607919312f8a32e2c7d7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Disabled, Morphology=Left Icon + Label, Size=Large"
+    },
+    {
+        "key": "53f6a48b2a58d736de154f3ac5363785e8846c8f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Disabled, Morphology=Left Icon + Label, Size=Medium"
+    },
+    {
+        "key": "53898df3c961a31081167b38edeff415eb4aba3c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Loading, Morphology=Left Icon + Label, Size=Medium"
+    },
+    {
+        "key": "51674a63c0f78f1f0e3f337f8eb0795b467deeb3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Disabled, Morphology=Left Icon + Label, Size=Large"
+    },
+    {
+        "key": "50a75adf8df0438cf996338eb6b92db43601af61",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Pressed, Morphology=Icon only, Size=Large"
+    },
+    {
+        "key": "47bbf7c065ad9a42e0b32e81e71eba4366fb6796",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Pressed, Morphology=Icon only, Size=Medium"
+    },
+    {
+        "key": "473b09e7c02a786935ee6a996504a08e55b78720",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Primary, State=Enabled, Morphology=Label, Size=Large"
+    },
+    {
+        "key": "43b5eee17eb0ccfbb546c1cb1a69eceaf6898764",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Disabled, Morphology=Label, Size=Large"
     },
     {
         "key": "4155fea81190f74d303c7df8b74deb11baab1194",
@@ -22482,7 +22428,7 @@
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Enabled, Morphology=Icon only, Size=Medium"
+        "variant": "Style=Blurred, State=Enabled, Morphology=Icon only, Size=Medium"
     },
     {
         "key": "3f8ee85f879042658a12a3d77888ce02f5789ed9",
@@ -22494,103 +22440,175 @@
         "variant": "Style=Secondary, State=Disabled, Morphology=Label, Size=Large"
     },
     {
-        "key": "37b678829ce4e8deef0ad1764076dc2f0fec34a5",
+        "key": "3e7767907b4ddcef0e4bcd7fe5e167e30af3f64e",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Secondary, State=Disabled, Morphology=Label, Size=Medium"
+        "variant": "Style=Blurred, State=Enabled, Morphology=Icon only, Size=Large"
     },
     {
-        "key": "303cfb4810109129dd8cc0c1a33d5836455bbd16",
+        "key": "ff55b5d4a8ca49b1b365b338a19b4eb1df87093e",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Secondary, State=Loading, Morphology=Icon only, Size=Medium"
+        "variant": "Style=Primary, State=Enabled, Morphology=Icon only, Size=Medium"
     },
     {
-        "key": "2d4a604fe893d5f7178ca4056655c7bd15c0c25d",
+        "key": "f9aaf2098501fb036e1dfb281cc32e90d5990cc1",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Tertiary, State=Loading, Morphology=Label, Size=Medium"
+        "variant": "Style=Tertiary, State=Disabled, Morphology=Label, Size=Large"
     },
     {
-        "key": "2b5c78c7e8c1e29f244d3c6bbc53460bbfeb9662",
+        "key": "f0c81877944c0ecc750c757efe8caaf9030f9da4",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Primary, State=Pressed, Morphology=Icon only, Size=Large"
+        "variant": "Style=Tertiary, State=Enabled, Morphology=Icon only, Size=Large"
     },
     {
-        "key": "29465688f46927dc72f9755adc131ac380694327",
+        "key": "f03d40500bb5e322c80d1703b6f137f2857c40d0",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Custom, State=Loading, Morphology=Icon only, Size=Large"
+        "variant": "Style=Primary, State=Loading, Morphology=Icon only, Size=Large"
     },
     {
-        "key": "278d312529677ef718de711e49d637329ebd908a",
+        "key": "f0046a52e3201b804a4d127e0cc01e9367576910",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Secondary, State=Pressed, Morphology=Label, Size=Small"
+        "variant": "Style=Primary, State=Loading, Morphology=Label, Size=Medium"
     },
     {
-        "key": "23b6a9c521f4e840adf660654b339c70b10ed8c0",
+        "key": "ea123c8103a98d7df088a7dc6b52f48e7c3961cf",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Primary, State=Pressed, Morphology=Icon only, Size=Medium"
+        "variant": "Style=Primary, State=Disabled, Morphology=Left Icon + Label, Size=Large"
     },
     {
-        "key": "1fcc9cd5cf620b0afc3cb8ec07ce52a20d92567e",
+        "key": "e8e0ebf36e299a312b8ef12940b46eadffe9a4be",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Loading, Morphology=Label, Size=Large"
+        "variant": "Style=Custom, State=Pressed, Morphology=Left Icon + Label, Size=Medium"
     },
     {
-        "key": "1f896e33634b3d3da20b7f87840eb33d1f0cf96c",
+        "key": "e886e6710a38be7fe7c785a6b137f82f194a4885",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Pressed, Morphology=Icon only, Size=Large"
+        "variant": "Style=Tertiary, State=Loading, Morphology=Icon only, Size=Large"
     },
     {
-        "key": "1e9950a194aebcca7d1a12a2c63f19d490d1879f",
+        "key": "e74edd2e1c6d27b728c3db28cc658e202e66dc4c",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Custom, State=Enabled, Morphology=Left Icon + Label, Size=Medium"
+        "variant": "Style=Tertiary, State=Disabled, Morphology=Left Icon + Label, Size=Large"
     },
     {
-        "key": "1e646e2515b7985f30d039e29c281af7702e01d2",
+        "key": "e0f2928c77e401f7ec8235af707d148706e90f05",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Secondary, State=Loading, Morphology=Label, Size=Small"
+        "variant": "Style=Secondary, State=Enabled, Morphology=Icon only, Size=Large"
+    },
+    {
+        "key": "e014272b3b8398cde35a88b63aee071ba4ce489e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Enabled, Morphology=Icon only, Size=Medium"
+    },
+    {
+        "key": "dfb97241e5d2c71c295960da95c754eca0469814",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Enabled, Morphology=Left Icon + Label, Size=Medium"
+    },
+    {
+        "key": "de9f7b9ef3bf1f27a2360d416630e37e817c74ef",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Pressed, Morphology=Left Icon + Label, Size=Large"
+    },
+    {
+        "key": "de46e504d7b26c69bb47b002d2711e0716e8679d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Loading, Morphology=Label, Size=Large"
+    },
+    {
+        "key": "dc848dc5470460bb7f5f437cdb7aac5aeb9a9dc5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Disabled, Morphology=Left Icon + Label, Size=Medium"
+    },
+    {
+        "key": "dbe000c7705336dca092dc50d0958e416cd42902",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Loading, Morphology=Icon only, Size=Large"
+    },
+    {
+        "key": "db24d2679be4f43728f40dd5b65ea5812485e5b4",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Enabled, Morphology=Left Icon + Label, Size=Large"
+    },
+    {
+        "key": "d58586220177f1ba12ee64876095fd6b77c6f6cc",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Enabled, Morphology=Label, Size=Small"
     },
     {
         "key": "fb3c4b0ae9a8fc32250d599f358af7eed3ee2655",
@@ -22599,7 +22617,16 @@
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Disabled, Morphology=Right Icon + Label, Size=Medium"
+        "variant": "Style=Blurred, State=Disabled, Morphology=Right Icon + Label, Size=Medium"
+    },
+    {
+        "key": "f2243a7c73acb2d73a4f0ae34c35347500ac968e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Enabled, Morphology=Right Icon + Label, Size=Small"
     },
     {
         "key": "f15c4fa45a53884ef5d23fb0ff4dec10addff821",
@@ -22611,13 +22638,13 @@
         "variant": "Style=Tertiary, State=Loading, Morphology=Left Icon + Label, Size=Small"
     },
     {
-        "key": "f12a436e15c53c77fcb6d7c3321299a5064eaa8e",
+        "key": "f1199882820cbef021d0e3102323806e2e8a9103",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Tertiary, State=Disabled, Morphology=Right Icon + Label, Size=Medium"
+        "variant": "Style=Tertiary, State=Pressed, Morphology=Icon only, Size=Small"
     },
     {
         "key": "e87fd59bcc7ed5d4158e319404e11f4540f0b3f2",
@@ -22627,6 +22654,177 @@
         "description": "",
         "platform": "IOS",
         "variant": "Style=Secondary, State=Enabled, Morphology=Left Icon + Label, Size=Small"
+    },
+    {
+        "key": "d7f4a07336d3a98a408578b5317f8c3794cb6fbf",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Pressed, Morphology=Left Icon + Label, Size=Small"
+    },
+    {
+        "key": "cbe24c1b46a68b03435c1d76fdb56cc32a445e35",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Pressed, Morphology=Right Icon + Label, Size=Small"
+    },
+    {
+        "key": "c87174f0b7c0e868be02b37818790cd5e6c1f717",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Enabled, Morphology=Icon only, Size=Small"
+    },
+    {
+        "key": "01d427a53ee15e1656eef408ef243f326be99237",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Pressed, Morphology=Right Icon + Label, Size=Small"
+    },
+    {
+        "key": "3fbbe630d09a313dac36d56807f7cf79baf7022c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Disabled, Morphology=Right Icon + Label, Size=Large"
+    },
+    {
+        "key": "2dcbb36afc703c48c102c32cea01cae424ea5a61",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Enabled, Morphology=Left Icon + Label, Size=Small"
+    },
+    {
+        "key": "23eebd1d28c2082cc6417f2b13a2a385bc0d8508",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Loading, Morphology=Icon only, Size=Small"
+    },
+    {
+        "key": "1e3acda6ceaa9f4f92df5daff5df4e5db8322727",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Loading, Morphology=Icon only, Size=Small"
+    },
+    {
+        "key": "1d5d364018c72387ee809f5a1262d9504562eb94",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Enabled, Morphology=Right Icon + Label, Size=Small"
+    },
+    {
+        "key": "1a10cb7f8261cd1ba8f01130586a06ff447a60ce",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Pressed, Morphology=Left Icon + Label, Size=Small"
+    },
+    {
+        "key": "1982bc880ee819f28d9efdae7de83d9f9e8a7a27",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Pressed, Morphology=Icon only, Size=Small"
+    },
+    {
+        "key": "11ac4022c9de711ff0d4da7abd298157f575c9bb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Loading, Morphology=Left Icon + Label, Size=Small"
+    },
+    {
+        "key": "119a432de95a97f6566aed5bd872635b2f8e83b5",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Pressed, Morphology=Icon only, Size=Small"
+    },
+    {
+        "key": "f59770e2c27496c1535acff48e6cdd06ca0629f2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Loading, Morphology=Right Icon + Label, Size=Large"
+    },
+    {
+        "key": "f3f86f9cb15587f5a93974f73b58793f8e67ddf6",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Primary, State=Disabled, Morphology=Right Icon + Label, Size=Large"
+    },
+    {
+        "key": "f268a9fb47e686b3c46047d8463cbe3387fd9b4f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Loading, Morphology=Left Icon + Label, Size=Small"
+    },
+    {
+        "key": "f12a436e15c53c77fcb6d7c3321299a5064eaa8e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Disabled, Morphology=Right Icon + Label, Size=Medium"
+    },
+    {
+        "key": "ef4e9b6f4abf84960a73ff9a05ac83dc80cc356d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Enabled, Morphology=Right Icon + Label, Size=Large"
+    },
+    {
+        "key": "e9de3a60709809a583f4a2fe1a944eefb730818c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Disabled, Morphology=Right Icon + Label, Size=Large"
     },
     {
         "key": "e3ba8a01ef0b65ba721d8cedff6ca40acefaf4ea",
@@ -22647,6 +22845,33 @@
         "variant": "Style=Primary, State=Loading, Morphology=Right Icon + Label, Size=Large"
     },
     {
+        "key": "e1f3f4d9540ed28f2b7f30a2628e111ce9385096",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Disabled, Morphology=Right Icon + Label, Size=Small"
+    },
+    {
+        "key": "de22d6cde49868d4cbeced51623f605c37b1de00",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Pressed, Morphology=Right Icon + Label, Size=Medium"
+    },
+    {
+        "key": "de155ae5c4e4579ef66acedb407794827dc56f18",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Primary, State=Pressed, Morphology=Right Icon + Label, Size=Large"
+    },
+    {
         "key": "dd1a99d0a2f179425af3e13a761632da84a26ac4",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -22656,13 +22881,13 @@
         "variant": "Style=Primary, State=Enabled, Morphology=Right Icon + Label, Size=Large"
     },
     {
-        "key": "d7f4a07336d3a98a408578b5317f8c3794cb6fbf",
+        "key": "d6afa19962d512e0d948797a8741555646464086",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Tertiary, State=Pressed, Morphology=Left Icon + Label, Size=Small"
+        "variant": "Style=Custom, State=Disabled, Morphology=Right Icon + Label, Size=Medium"
     },
     {
         "key": "d4a09bccb59b5a25280402474d9589d4595d8c91",
@@ -22674,22 +22899,40 @@
         "variant": "Style=Tertiary, State=Pressed, Morphology=Right Icon + Label, Size=Medium"
     },
     {
+        "key": "cf95038f05675623eaf3cea0511cce00fa3cb742",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Primary, State=Pressed, Morphology=Right Icon + Label, Size=Medium"
+    },
+    {
         "key": "cbc69297bd98794d9472a7fe221e4187f3bf1b73",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Disabled, Morphology=Left Icon + Label, Size=Small"
+        "variant": "Style=Blurred, State=Disabled, Morphology=Left Icon + Label, Size=Small"
     },
     {
-        "key": "c87174f0b7c0e868be02b37818790cd5e6c1f717",
+        "key": "c9ddfbb8f2dc4f2ddbd89518cfdeb305261a9c45",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Enabled, Morphology=Icon only, Size=Small"
+        "variant": "Style=Primary, State=Pressed, Morphology=Icon only, Size=Small"
+    },
+    {
+        "key": "c57ab76e61c4f936db3bdba341f11ccf12e4c3b3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Enabled, Morphology=Right Icon + Label, Size=Medium"
     },
     {
         "key": "c19694d5af998b5d42405d213b52d84abbcc2681",
@@ -22698,16 +22941,43 @@
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Enabled, Morphology=Left Icon + Label, Size=Small"
+        "variant": "Style=Blurred, State=Enabled, Morphology=Left Icon + Label, Size=Small"
     },
     {
-        "key": "b463e958923f775a290c43942d2b5d86559149ba",
+        "key": "b7a88174add0f945e60b429fce6f7d9b60d72d0f",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Custom, State=Loading, Morphology=Left Icon + Label, Size=Small"
+        "variant": "Style=Secondary, State=Disabled, Morphology=Right Icon + Label, Size=Medium"
+    },
+    {
+        "key": "b65e601a8a76ff25aa5bf1222f56d2bf748bae90",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Enabled, Morphology=Right Icon + Label, Size=Small"
+    },
+    {
+        "key": "b3ed8fb30b9ee6fedb0b1354c8b1e7d091c4bb3c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Pressed, Morphology=Right Icon + Label, Size=Large"
+    },
+    {
+        "key": "b1fb2c31defe2e6a211d42a40f736a3573574bca",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Loading, Morphology=Right Icon + Label, Size=Medium"
     },
     {
         "key": "9dd149c30039e1a2142ca05b4ca09ed9921f5819",
@@ -22717,6 +22987,24 @@
         "description": "",
         "platform": "IOS",
         "variant": "Style=Secondary, State=Enabled, Morphology=Right Icon + Label, Size=Large"
+    },
+    {
+        "key": "9c7aeff03ac763a0e8205dc09f5feeaf3962593d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Enabled, Morphology=Right Icon + Label, Size=Medium"
+    },
+    {
+        "key": "968967194b6901205fa2fb1607bc52bcde2509f9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Pressed, Morphology=Right Icon + Label, Size=Small"
     },
     {
         "key": "9590fb88c39760ed421bf5e6520e402a26f37939",
@@ -22737,6 +23025,24 @@
         "variant": "Style=Secondary, State=Disabled, Morphology=Left Icon + Label, Size=Small"
     },
     {
+        "key": "93e5a76891c38c8b665c5f958d3f90872655af1f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Loading, Morphology=Right Icon + Label, Size=Small"
+    },
+    {
+        "key": "8c482b4004dd63456c3bb5fc5ffe1b37a780701a",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Loading, Morphology=Right Icon + Label, Size=Small"
+    },
+    {
         "key": "8bbead057ec39adde9d8b5eeda84a71fea0cbfde",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -22755,132 +23061,6 @@
         "variant": "Style=Secondary, State=Disabled, Morphology=Right Icon + Label, Size=Large"
     },
     {
-        "key": "6838f1d3c987abc5dce2a7e2d5632430d1bd7dc7",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Pressed, Morphology=Icon only, Size=Small"
-    },
-    {
-        "key": "6745dd728acb157daf17381de38a037837a4812e",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Disabled, Morphology=Icon only, Size=Small"
-    },
-    {
-        "key": "5c95a19559a428338c00d2c16a3a7e233e347402",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Loading, Morphology=Right Icon + Label, Size=Medium"
-    },
-    {
-        "key": "56907d93b71cdc531e38f2055c98289ab709d2c2",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Disabled, Morphology=Icon only, Size=Small"
-    },
-    {
-        "key": "b1fb2c31defe2e6a211d42a40f736a3573574bca",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Loading, Morphology=Right Icon + Label, Size=Medium"
-    },
-    {
-        "key": "af414b53bfe49138b61ca0d1a31e55f20045cd12",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Enabled, Morphology=Right Icon + Label, Size=Small"
-    },
-    {
-        "key": "a798d244fb7a1d8b7f07ad26b02e1b799a85a0df",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Pressed, Morphology=Left Icon + Label, Size=Small"
-    },
-    {
-        "key": "9c7aeff03ac763a0e8205dc09f5feeaf3962593d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Enabled, Morphology=Right Icon + Label, Size=Medium"
-    },
-    {
-        "key": "96c681a1fc398fbdb3b3083c11c42d87d0691231",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Disabled, Morphology=Icon only, Size=Small"
-    },
-    {
-        "key": "968967194b6901205fa2fb1607bc52bcde2509f9",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Pressed, Morphology=Right Icon + Label, Size=Small"
-    },
-    {
-        "key": "93e5a76891c38c8b665c5f958d3f90872655af1f",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Loading, Morphology=Right Icon + Label, Size=Small"
-    },
-    {
-        "key": "8ef0e85ea222c145d5cad0501bc783be63e7aea1",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Loading, Morphology=Icon only, Size=Small"
-    },
-    {
-        "key": "8dae65bbf8721cbc62e9055537d2c0f8e18e09f8",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Enabled, Morphology=Right Icon + Label, Size=Large"
-    },
-    {
-        "key": "8c482b4004dd63456c3bb5fc5ffe1b37a780701a",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Loading, Morphology=Right Icon + Label, Size=Small"
-    },
-    {
         "key": "890a02bca5915ce21df833eccf57306616041f52",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -22888,15 +23068,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Style=Tertiary, State=Disabled, Morphology=Right Icon + Label, Size=Small"
-    },
-    {
-        "key": "87286c251544d705543de26b58870e9a9ff33f54",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Loading, Morphology=Icon only, Size=Small"
     },
     {
         "key": "810feba537d62a6d320f086f572004db7289d03a",
@@ -22935,22 +23106,13 @@
         "variant": "Style=Primary, State=Enabled, Morphology=Right Icon + Label, Size=Medium"
     },
     {
-        "key": "7d5fc739da51681a00fd42e6faa84b1533cef3f2",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Disabled, Morphology=Right Icon + Label, Size=Small"
-    },
-    {
         "key": "7954ea5511229f80fe207504614cace3c1594543",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Loading, Morphology=Right Icon + Label, Size=Large"
+        "variant": "Style=Blurred, State=Loading, Morphology=Right Icon + Label, Size=Large"
     },
     {
         "key": "7935175d1be47254fcbc80d3604c6dd6c8be2f4a",
@@ -22971,15 +23133,6 @@
         "variant": "Style=Primary, State=Loading, Morphology=Left Icon + Label, Size=Small"
     },
     {
-        "key": "6c84555bfcb49804924ad47bb58618a403b4e185",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Disabled, Morphology=Icon only, Size=Small"
-    },
-    {
         "key": "674133b0f758c862a90d9cad9db49913ffac4243",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -22989,15 +23142,6 @@
         "variant": "Style=Primary, State=Enabled, Morphology=Left Icon + Label, Size=Small"
     },
     {
-        "key": "5cdde24455484952b73a625d37b65e46e6363c12",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Loading, Morphology=Right Icon + Label, Size=Small"
-    },
-    {
         "key": "5affbea90c996a1c1088f33116113f299e415d66",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -23005,15 +23149,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Style=Primary, State=Pressed, Morphology=Right Icon + Label, Size=Small"
-    },
-    {
-        "key": "5ae021cfcd1b622f8bc2cace4122991586087d29",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Disabled, Morphology=Left Icon + Label, Size=Small"
     },
     {
         "key": "58bfde71489f2404b6290e16c07301b9eeba3281",
@@ -23043,22 +23178,22 @@
         "variant": "Style=Custom, State=Enabled, Morphology=Icon only, Size=Small"
     },
     {
-        "key": "4b5146914c14cf7eff74bfa5d887559a94256a68",
+        "key": "4a0d66deb956979410205964aa84efb72e37aa55",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Enabled, Morphology=Right Icon + Label, Size=Medium"
+        "variant": "Style=Secondary, State=Pressed, Morphology=Right Icon + Label, Size=Large"
     },
     {
-        "key": "47cfaa94681a065132e7fbb8f70dc8875815bdca",
+        "key": "45a4f460a89523e1b8aa8205551a2175aa0402c4",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Pressed, Morphology=Right Icon + Label, Size=Medium"
+        "variant": "Style=Custom, State=Enabled, Morphology=Right Icon + Label, Size=Medium"
     },
     {
         "key": "42ca0f7927ccfea2df767fa4930925b1f17a9673",
@@ -23097,13 +23232,13 @@
         "variant": "Style=Secondary, State=Pressed, Morphology=Right Icon + Label, Size=Small"
     },
     {
-        "key": "2dcbb36afc703c48c102c32cea01cae424ea5a61",
+        "key": "31f526e3317dcd2628aa14596fc7f01230722022",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Custom, State=Enabled, Morphology=Left Icon + Label, Size=Small"
+        "variant": "Style=Custom, State=Disabled, Morphology=Left Icon + Label, Size=Small"
     },
     {
         "key": "2a617b2efb8c1c66e41f5651be245916c44acc43",
@@ -23133,40 +23268,13 @@
         "variant": "Style=Primary, State=Loading, Morphology=Right Icon + Label, Size=Small"
     },
     {
-        "key": "1e3acda6ceaa9f4f92df5daff5df4e5db8322727",
+        "key": "1ac2291d7b16cfe86198c45af4b6d70f914da0f2",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Custom, State=Loading, Morphology=Icon only, Size=Small"
-    },
-    {
-        "key": "1d5d364018c72387ee809f5a1262d9504562eb94",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Enabled, Morphology=Right Icon + Label, Size=Small"
-    },
-    {
-        "key": "1a10cb7f8261cd1ba8f01130586a06ff447a60ce",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Pressed, Morphology=Left Icon + Label, Size=Small"
-    },
-    {
-        "key": "1982bc880ee819f28d9efdae7de83d9f9e8a7a27",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Pressed, Morphology=Icon only, Size=Small"
+        "variant": "Style=Tertiary, State=Disabled, Morphology=Right Icon + Label, Size=Large"
     },
     {
         "key": "14b1cbc0b97fb62400cdd7192aa0606a38ddb130",
@@ -23178,22 +23286,13 @@
         "variant": "Style=Custom, State=Loading, Morphology=Right Icon + Label, Size=Large"
     },
     {
-        "key": "11ac4022c9de711ff0d4da7abd298157f575c9bb",
+        "key": "0e5f8e4a5ad8de26c6102ffde67e42a27fd8e56b",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Loading, Morphology=Left Icon + Label, Size=Small"
-    },
-    {
-        "key": "119a432de95a97f6566aed5bd872635b2f8e83b5",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Pressed, Morphology=Icon only, Size=Small"
+        "variant": "Style=Tertiary, State=Enabled, Morphology=Left Icon + Label, Size=Small"
     },
     {
         "key": "0d3108bcb1b591d389d52c88e5c4fec2b641c87f",
@@ -23205,13 +23304,211 @@
         "variant": "Style=Primary, State=Disabled, Morphology=Icon only, Size=Small"
     },
     {
-        "key": "01d427a53ee15e1656eef408ef243f326be99237",
+        "key": "07707ccf407a927eb3fa5854c7d4862c56bc87c3",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
         "name": "MainButton",
         "description": "",
         "platform": "IOS",
-        "variant": "Style=Bluerred, State=Pressed, Morphology=Right Icon + Label, Size=Small"
+        "variant": "Style=Tertiary, State=Loading, Morphology=Right Icon + Label, Size=Medium"
+    },
+    {
+        "key": "0628c11b0eef27071aa3d1a460c5dfbf5d57436c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Pressed, Morphology=Right Icon + Label, Size=Large"
+    },
+    {
+        "key": "00aea20bc9ba678cc70d5c4f870bae9e72df0ea3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Primary, State=Pressed, Morphology=Left Icon + Label, Size=Small"
+    },
+    {
+        "key": "be26781d4c5c21dac6501b4f7027cc438e64112f",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Enabled, Morphology=Icon only, Size=Small"
+    },
+    {
+        "key": "b8e26229400d4d591534817c678ce496858d06fd",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Enabled, Morphology=Icon only, Size=Small"
+    },
+    {
+        "key": "b463e958923f775a290c43942d2b5d86559149ba",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Loading, Morphology=Left Icon + Label, Size=Small"
+    },
+    {
+        "key": "b38c94fc02fadb83f099c46a5da4323fc4b36190",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Pressed, Morphology=Left Icon + Label, Size=Small"
+    },
+    {
+        "key": "af414b53bfe49138b61ca0d1a31e55f20045cd12",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Enabled, Morphology=Right Icon + Label, Size=Small"
+    },
+    {
+        "key": "a798d244fb7a1d8b7f07ad26b02e1b799a85a0df",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Pressed, Morphology=Left Icon + Label, Size=Small"
+    },
+    {
+        "key": "96c681a1fc398fbdb3b3083c11c42d87d0691231",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Disabled, Morphology=Icon only, Size=Small"
+    },
+    {
+        "key": "8ef0e85ea222c145d5cad0501bc783be63e7aea1",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Loading, Morphology=Icon only, Size=Small"
+    },
+    {
+        "key": "8dae65bbf8721cbc62e9055537d2c0f8e18e09f8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Enabled, Morphology=Right Icon + Label, Size=Large"
+    },
+    {
+        "key": "87286c251544d705543de26b58870e9a9ff33f54",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Loading, Morphology=Icon only, Size=Small"
+    },
+    {
+        "key": "7d5fc739da51681a00fd42e6faa84b1533cef3f2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Disabled, Morphology=Right Icon + Label, Size=Small"
+    },
+    {
+        "key": "6c84555bfcb49804924ad47bb58618a403b4e185",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Custom, State=Disabled, Morphology=Icon only, Size=Small"
+    },
+    {
+        "key": "6838f1d3c987abc5dce2a7e2d5632430d1bd7dc7",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Pressed, Morphology=Icon only, Size=Small"
+    },
+    {
+        "key": "6745dd728acb157daf17381de38a037837a4812e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Secondary, State=Disabled, Morphology=Icon only, Size=Small"
+    },
+    {
+        "key": "5cdde24455484952b73a625d37b65e46e6363c12",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Loading, Morphology=Right Icon + Label, Size=Small"
+    },
+    {
+        "key": "5c95a19559a428338c00d2c16a3a7e233e347402",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Loading, Morphology=Right Icon + Label, Size=Medium"
+    },
+    {
+        "key": "5ae021cfcd1b622f8bc2cace4122991586087d29",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Tertiary, State=Disabled, Morphology=Left Icon + Label, Size=Small"
+    },
+    {
+        "key": "56907d93b71cdc531e38f2055c98289ab709d2c2",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Disabled, Morphology=Icon only, Size=Small"
+    },
+    {
+        "key": "4b5146914c14cf7eff74bfa5d887559a94256a68",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Enabled, Morphology=Right Icon + Label, Size=Medium"
+    },
+    {
+        "key": "47cfaa94681a065132e7fbb8f70dc8875815bdca",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "MainButton",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Style=Blurred, State=Pressed, Morphology=Right Icon + Label, Size=Medium"
     },
     {
         "key": "fa6a44f443c029021a7aa07199d1f8c70f7ef1f7",
@@ -23385,285 +23682,6 @@
         "variant": "Preset=Custom, State=Loading"
     },
     {
-        "key": "4a0d66deb956979410205964aa84efb72e37aa55",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Pressed, Morphology=Right Icon + Label, Size=Large"
-    },
-    {
-        "key": "45a4f460a89523e1b8aa8205551a2175aa0402c4",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Enabled, Morphology=Right Icon + Label, Size=Medium"
-    },
-    {
-        "key": "3fbbe630d09a313dac36d56807f7cf79baf7022c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Disabled, Morphology=Right Icon + Label, Size=Large"
-    },
-    {
-        "key": "31f526e3317dcd2628aa14596fc7f01230722022",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Disabled, Morphology=Left Icon + Label, Size=Small"
-    },
-    {
-        "key": "23eebd1d28c2082cc6417f2b13a2a385bc0d8508",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Loading, Morphology=Icon only, Size=Small"
-    },
-    {
-        "key": "1ac2291d7b16cfe86198c45af4b6d70f914da0f2",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Disabled, Morphology=Right Icon + Label, Size=Large"
-    },
-    {
-        "key": "0e5f8e4a5ad8de26c6102ffde67e42a27fd8e56b",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Enabled, Morphology=Left Icon + Label, Size=Small"
-    },
-    {
-        "key": "07707ccf407a927eb3fa5854c7d4862c56bc87c3",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Loading, Morphology=Right Icon + Label, Size=Medium"
-    },
-    {
-        "key": "0628c11b0eef27071aa3d1a460c5dfbf5d57436c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Pressed, Morphology=Right Icon + Label, Size=Large"
-    },
-    {
-        "key": "00aea20bc9ba678cc70d5c4f870bae9e72df0ea3",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Primary, State=Pressed, Morphology=Left Icon + Label, Size=Small"
-    },
-    {
-        "key": "f59770e2c27496c1535acff48e6cdd06ca0629f2",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Loading, Morphology=Right Icon + Label, Size=Large"
-    },
-    {
-        "key": "f3f86f9cb15587f5a93974f73b58793f8e67ddf6",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Primary, State=Disabled, Morphology=Right Icon + Label, Size=Large"
-    },
-    {
-        "key": "f268a9fb47e686b3c46047d8463cbe3387fd9b4f",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Loading, Morphology=Left Icon + Label, Size=Small"
-    },
-    {
-        "key": "f2243a7c73acb2d73a4f0ae34c35347500ac968e",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Enabled, Morphology=Right Icon + Label, Size=Small"
-    },
-    {
-        "key": "f1199882820cbef021d0e3102323806e2e8a9103",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Pressed, Morphology=Icon only, Size=Small"
-    },
-    {
-        "key": "ef4e9b6f4abf84960a73ff9a05ac83dc80cc356d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Enabled, Morphology=Right Icon + Label, Size=Large"
-    },
-    {
-        "key": "e9de3a60709809a583f4a2fe1a944eefb730818c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Disabled, Morphology=Right Icon + Label, Size=Large"
-    },
-    {
-        "key": "e1f3f4d9540ed28f2b7f30a2628e111ce9385096",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Disabled, Morphology=Right Icon + Label, Size=Small"
-    },
-    {
-        "key": "de22d6cde49868d4cbeced51623f605c37b1de00",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Pressed, Morphology=Right Icon + Label, Size=Medium"
-    },
-    {
-        "key": "de155ae5c4e4579ef66acedb407794827dc56f18",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Primary, State=Pressed, Morphology=Right Icon + Label, Size=Large"
-    },
-    {
-        "key": "d6afa19962d512e0d948797a8741555646464086",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Disabled, Morphology=Right Icon + Label, Size=Medium"
-    },
-    {
-        "key": "cf95038f05675623eaf3cea0511cce00fa3cb742",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Primary, State=Pressed, Morphology=Right Icon + Label, Size=Medium"
-    },
-    {
-        "key": "cbe24c1b46a68b03435c1d76fdb56cc32a445e35",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Pressed, Morphology=Right Icon + Label, Size=Small"
-    },
-    {
-        "key": "c9ddfbb8f2dc4f2ddbd89518cfdeb305261a9c45",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Primary, State=Pressed, Morphology=Icon only, Size=Small"
-    },
-    {
-        "key": "c57ab76e61c4f936db3bdba341f11ccf12e4c3b3",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Enabled, Morphology=Right Icon + Label, Size=Medium"
-    },
-    {
-        "key": "be26781d4c5c21dac6501b4f7027cc438e64112f",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Enabled, Morphology=Icon only, Size=Small"
-    },
-    {
-        "key": "b8e26229400d4d591534817c678ce496858d06fd",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Enabled, Morphology=Icon only, Size=Small"
-    },
-    {
-        "key": "b7a88174add0f945e60b429fce6f7d9b60d72d0f",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Secondary, State=Disabled, Morphology=Right Icon + Label, Size=Medium"
-    },
-    {
-        "key": "b65e601a8a76ff25aa5bf1222f56d2bf748bae90",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Tertiary, State=Enabled, Morphology=Right Icon + Label, Size=Small"
-    },
-    {
-        "key": "b3ed8fb30b9ee6fedb0b1354c8b1e7d091c4bb3c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Custom, State=Pressed, Morphology=Right Icon + Label, Size=Large"
-    },
-    {
-        "key": "b38c94fc02fadb83f099c46a5da4323fc4b36190",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "MainButton",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Style=Bluerred, State=Pressed, Morphology=Left Icon + Label, Size=Small"
-    },
-    {
         "key": "247335d24cd38ab7a77af5a8f59949f995350424",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -23697,24 +23715,6 @@
         "name": "MainButtonBottom / Many Buttons",
         "description": "",
         "platform": "IOS"
-    },
-    {
-        "key": "e9b98a7b57dd2dedb3efbe770668ebd74742c50b",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ManagerInfoWidget",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Service=А-Клуб, ManagerAttached=On"
-    },
-    {
-        "key": "cfa9d76fb77cd102e2b32269454eb11b02b237eb",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ManagerInfoWidget",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Service=Премиум, ManagerAttached=Off"
     },
     {
         "key": "ba18207f7cc0416aca6e431a41e978eed0ffb2c2",
@@ -23787,6 +23787,24 @@
         "description": "",
         "platform": "IOS",
         "variant": "Service=А-Клуб, ManagerAttached=Waiting"
+    },
+    {
+        "key": "e9b98a7b57dd2dedb3efbe770668ebd74742c50b",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ManagerInfoWidget",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Service=А-Клуб, ManagerAttached=On"
+    },
+    {
+        "key": "cfa9d76fb77cd102e2b32269454eb11b02b237eb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ManagerInfoWidget",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Service=Премиум, ManagerAttached=Off"
     },
     {
         "key": "dd7f923508b5ef0022df1e9e2efe2d5295169c93",
@@ -32136,15 +32154,6 @@
         "platform": "IOS"
     },
     {
-        "key": "dc6d1363d4a1bfd4f9b527493c8af80ecb6e5130",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "ResultScreen",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Presets=Autopayment"
-    },
-    {
         "key": "828a8e78d5429b51f7e34018a3a7107bb074230d",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -32206,6 +32215,15 @@
         "description": "",
         "platform": "IOS",
         "variant": "Presets=Transfer"
+    },
+    {
+        "key": "dc6d1363d4a1bfd4f9b527493c8af80ecb6e5130",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "ResultScreen",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Presets=Autopayment"
     },
     {
         "key": "f3e4684c7532732661fdaaedc20cb1e704f4cd6f",
@@ -34646,7 +34664,7 @@
         "name": "SquareCollectionWidget",
         "description": "",
         "platform": "IOS",
-        "variant": "Presets=Premium, State=Error"
+        "variant": "Presets=General, State=Error"
     },
     {
         "key": "cece1dc03c576ca2b7fd165ffbc5d8ad45b10c62",
@@ -34682,7 +34700,7 @@
         "name": "SquareCollectionWidget",
         "description": "",
         "platform": "IOS",
-        "variant": "Presets=Premium, State=Skeleton"
+        "variant": "Presets=General, State=Loading"
     },
     {
         "key": "110f94785813926227b64eac059c8bd56ab6da7e",
@@ -42464,42 +42482,6 @@
         "variant": "Before=None, After=Button"
     },
     {
-        "key": "4d315f54688f7c526cb5f9e27b7e43a23198bea8",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "VerticalStepsView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Position=last, List=unordered, DataView=1 line, Button=on"
-    },
-    {
-        "key": "2b20929006106418fcc87336c4141b650d51d4fb",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "VerticalStepsView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Position=last, List=checked, DataView=1 line, Button=on"
-    },
-    {
-        "key": "0a46295bf463e14fd6542e1caf64b35fffc90503",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "VerticalStepsView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Position=last, List=checked, DataView=1 line, Button=off"
-    },
-    {
-        "key": "019d97cca43e64e7ab73bb7491d631dfc2d320ea",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "VerticalStepsView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Position=last, List=unchecked, DataView=1 line, Button=off"
-    },
-    {
         "key": "fccfbe58b2083abcdd81726236b15f6daaad045c",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -42543,6 +42525,141 @@
         "description": "",
         "platform": "IOS",
         "variant": "Position=last, List=checked, DataView=2 3 lines, Button=off"
+    },
+    {
+        "key": "019d97cca43e64e7ab73bb7491d631dfc2d320ea",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "VerticalStepsView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Position=last, List=unchecked, DataView=1 line, Button=off"
+    },
+    {
+        "key": "45060941c0ad77bec4bc42908adfb0f4c54ca13c",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "VerticalStepsView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Position=in between, List=unchecked, DataView=1 line, Button=off"
+    },
+    {
+        "key": "42e46edf665606dd6f7be8c6ae5dd2b64f486985",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "VerticalStepsView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Position=first, List=unordered, DataView=2 3 lines, Button=on"
+    },
+    {
+        "key": "41b8b7511165ee2c77663acac57b1b4027506b95",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "VerticalStepsView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Position=in between, List=checked, DataView=2 3 lines, Button=off"
+    },
+    {
+        "key": "412de7a057accde80d29a842294d3f247016441d",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "VerticalStepsView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Position=last, List=ordered, DataView=1 line, Button=on"
+    },
+    {
+        "key": "3fff906a825361d6652f08168c150341cea520af",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "VerticalStepsView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Position=first, List=checked, DataView=2 3 lines, Button=on"
+    },
+    {
+        "key": "2d0172d762ce8c72837ee266f5c521725cbeb233",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "VerticalStepsView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Position=first, List=checked, DataView=2 3 lines, Button=off"
+    },
+    {
+        "key": "2cc4deb9b60729e4da3c296b19b47753461696b3",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "VerticalStepsView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Position=in between, List=ordered, DataView=1 line, Button=off"
+    },
+    {
+        "key": "2b20929006106418fcc87336c4141b650d51d4fb",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "VerticalStepsView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Position=last, List=checked, DataView=1 line, Button=on"
+    },
+    {
+        "key": "20bab9497c63a9228ec33751834effc9fbc8be55",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "VerticalStepsView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Position=first, List=unordered, DataView=1 line, Button=on"
+    },
+    {
+        "key": "16f339f231e0eca3943e296cbf1ab766b12acfb9",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "VerticalStepsView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Position=first, List=ordered, DataView=1 line, Button=on"
+    },
+    {
+        "key": "14d642ae055a391da76d9073177dc28f3b5c073e",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "VerticalStepsView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Position=in between, List=unordered, DataView=1 line, Button=off"
+    },
+    {
+        "key": "0b012df9739615e258603a928889c39de410b213",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "VerticalStepsView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Position=last, List=unordered, DataView=1 line, Button=off"
+    },
+    {
+        "key": "0a46295bf463e14fd6542e1caf64b35fffc90503",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "VerticalStepsView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Position=last, List=checked, DataView=1 line, Button=off"
+    },
+    {
+        "key": "029aac83f3129b2a3e556661a35879af753ba756",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "VerticalStepsView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Position=first, List=ordered, DataView=2 3 lines, Button=on"
     },
     {
         "key": "c580a21a217db9eb997f7fbf20eaeaa9645e3861",
@@ -42770,6 +42887,15 @@
         "variant": "Position=last, List=unchecked, DataView=2 3 lines, Button=on"
     },
     {
+        "key": "4d315f54688f7c526cb5f9e27b7e43a23198bea8",
+        "file_key": "YhujCki0HSk2c8SkHec6jh",
+        "library_name": "iOS Library 2.0",
+        "name": "VerticalStepsView",
+        "description": "",
+        "platform": "IOS",
+        "variant": "Position=last, List=unordered, DataView=1 line, Button=on"
+    },
+    {
         "key": "4c6201d51190ad2486e85e06d1ea24ed926e2eb9",
         "file_key": "YhujCki0HSk2c8SkHec6jh",
         "library_name": "iOS Library 2.0",
@@ -42786,114 +42912,6 @@
         "description": "",
         "platform": "IOS",
         "variant": "Position=in between, List=unordered, DataView=2 3 lines, Button=on"
-    },
-    {
-        "key": "45060941c0ad77bec4bc42908adfb0f4c54ca13c",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "VerticalStepsView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Position=in between, List=unchecked, DataView=1 line, Button=off"
-    },
-    {
-        "key": "42e46edf665606dd6f7be8c6ae5dd2b64f486985",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "VerticalStepsView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Position=first, List=unordered, DataView=2 3 lines, Button=on"
-    },
-    {
-        "key": "41b8b7511165ee2c77663acac57b1b4027506b95",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "VerticalStepsView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Position=in between, List=checked, DataView=2 3 lines, Button=off"
-    },
-    {
-        "key": "412de7a057accde80d29a842294d3f247016441d",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "VerticalStepsView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Position=last, List=ordered, DataView=1 line, Button=on"
-    },
-    {
-        "key": "3fff906a825361d6652f08168c150341cea520af",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "VerticalStepsView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Position=first, List=checked, DataView=2 3 lines, Button=on"
-    },
-    {
-        "key": "2d0172d762ce8c72837ee266f5c521725cbeb233",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "VerticalStepsView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Position=first, List=checked, DataView=2 3 lines, Button=off"
-    },
-    {
-        "key": "2cc4deb9b60729e4da3c296b19b47753461696b3",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "VerticalStepsView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Position=in between, List=ordered, DataView=1 line, Button=off"
-    },
-    {
-        "key": "20bab9497c63a9228ec33751834effc9fbc8be55",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "VerticalStepsView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Position=first, List=unordered, DataView=1 line, Button=on"
-    },
-    {
-        "key": "16f339f231e0eca3943e296cbf1ab766b12acfb9",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "VerticalStepsView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Position=first, List=ordered, DataView=1 line, Button=on"
-    },
-    {
-        "key": "14d642ae055a391da76d9073177dc28f3b5c073e",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "VerticalStepsView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Position=in between, List=unordered, DataView=1 line, Button=off"
-    },
-    {
-        "key": "0b012df9739615e258603a928889c39de410b213",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "VerticalStepsView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Position=last, List=unordered, DataView=1 line, Button=off"
-    },
-    {
-        "key": "029aac83f3129b2a3e556661a35879af753ba756",
-        "file_key": "YhujCki0HSk2c8SkHec6jh",
-        "library_name": "iOS Library 2.0",
-        "name": "VerticalStepsView",
-        "description": "",
-        "platform": "IOS",
-        "variant": "Position=first, List=ordered, DataView=2 3 lines, Button=on"
     },
     {
         "key": "53ae6a199b68eb7bc3cd2224105382e84820a0ce",
